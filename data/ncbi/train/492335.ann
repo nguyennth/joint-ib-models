@@ -1,0 +1,6 @@
+T1	Disease 8 44	defect in secretion of complement C5
+T2	Disease 65 124	deficiency of the fifth ( C5 ) component of complement1 - 3
+T3	Disease 1241 1254	C5 deficiency
+N1	Reference T1 OMIM:609536	defect in secretion of complement C5
+N2	Reference T2 OMIM:609536	deficiency of the fifth (C5) component of complement1-3
+N3	Reference T3 OMIM:609536	C5 deficiency

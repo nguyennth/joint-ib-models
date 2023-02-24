@@ -1,0 +1,26 @@
+T1	Disease 26 39	Wilms ' tumor
+T2	Disease 111 133	Denys - Drash syndrome
+T3	Disease 136 158	Denys - Drash syndrome
+T4	Disease 201 223	urogenital aberrations
+T5	Disease 234 247	renal failure
+T6	Disease 250 271	pseudohermaphroditism
+T7	Disease 278 289	Wilms tumor
+T8	Disease 292 306	nephroblastoma
+T9	Disease 387 398	Wilms tumor
+T10	Disease 476 498	Denys - Drash syndrome
+T11	Disease 835 847	Wilms tumors
+T12	Disease 903 908	tumor
+T13	Disease 1033 1055	Denys - Drash syndrome
+N1	Reference T1 unknown:D009396	Wilms' tumor
+N2	Reference T2 unknown:D030321	Denys-Drash syndrome
+N3	Reference T3 unknown:D030321	Denys-Drash syndrome
+N4	Reference T4 unknown:D014564	urogenital aberrations
+N5	Reference T5 unknown:D051437	renal failure
+N6	Reference T6 unknown:D012734	pseudohermaphroditism
+N7	Reference T7 unknown:D009396	Wilms tumor
+N8	Reference T8 unknown:D009396	nephroblastoma
+N9	Reference T9 unknown:D009396	Wilms tumor
+N10	Reference T10 unknown:D030321	Denys-Drash syndrome
+N11	Reference T11 unknown:D009396	Wilms tumors
+N12	Reference T12 unknown:D009369	tumor
+N13	Reference T13 unknown:D030321	Denys-Drash syndrome

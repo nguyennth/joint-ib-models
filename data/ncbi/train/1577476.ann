@@ -1,0 +1,22 @@
+T1	Disease 42 77	golden retriever muscular dystrophy
+T2	Disease 103 130	Duchenne muscular dystrophy
+T3	Disease 133 168	Golden retriever muscular dystrophy
+T4	Disease 171 175	GRMD
+T5	Disease 273 300	Duchenne muscular dystrophy
+T6	Disease 303 306	DMD
+T7	Disease 327 330	DMD
+T8	Disease 445 448	DMD
+T9	Disease 529 533	GRMD
+T10	Disease 650 654	GRMD
+T11	Disease 907 928	dystrophin deficiency
+N1	Reference T1 unknown:D009136	golden retriever muscular dystrophy
+N2	Reference T2 unknown:D020388	Duchenne muscular dystrophy
+N3	Reference T3 unknown:D009136	Golden retriever muscular dystrophy
+N4	Reference T4 unknown:D009136	GRMD
+N5	Reference T5 unknown:D020388	Duchenne muscular dystrophy
+N6	Reference T6 unknown:D020388	DMD
+N7	Reference T7 unknown:D020388	DMD
+N8	Reference T8 unknown:D020388	DMD
+N9	Reference T9 unknown:D009136	GRMD
+N10	Reference T10 unknown:D009136	GRMD
+N11	Reference T11 OMIM:310200	dystrophin deficiency

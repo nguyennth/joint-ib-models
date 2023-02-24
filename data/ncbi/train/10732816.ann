@@ -1,0 +1,20 @@
+T1	Disease 0 19	Emerin , deficiency
+T2	Disease 36 71	Emery - Dreifuss muscular dystrophy
+T3	Disease 119 175	X - linked recessive Emery - Dreifuss muscular dystrophy
+T4	Disease 178 182	EDMD
+T5	Disease 191 216	inherited muscle disorder
+T6	Disease 268 304	wasting of humero - peroneal muscles
+T7	Disease 313 383	contractures of the elbows , Achilles tendons and postcervical muscles
+T8	Disease 390 414	cardiac conduction block
+T9	Disease 435 447	sudden death
+T10	Disease 463 467	EDMD
+N1	Reference T1 unknown:D020389	Emerin, deficiency
+N2	Reference T2 unknown:D020389	Emery-Dreifuss muscular dystrophy
+N3	Reference T3 unknown:D020389	X-linked recessive Emery-Dreifuss muscular dystrophy
+N4	Reference T4 unknown:D020389	EDMD
+N5	Reference T5 unknown:D009135+D030342	inherited muscle disorder
+N6	Reference T6 unknown:D019282	wasting of humero-peroneal muscles
+N7	Reference T7 unknown:D003286	contractures of the elbows, Achilles tendons and postcervical muscles
+N8	Reference T8 unknown:D006327	cardiac conduction block
+N9	Reference T9 unknown:D003645	sudden death
+N10	Reference T10 unknown:D020389	EDMD

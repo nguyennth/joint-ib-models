@@ -1,0 +1,6 @@
+T1	Disease 182 203	hyperphenylalaninemia
+T2	Disease 708 711	PKU
+T3	Disease 971 996	classical phenylketonuria
+N1	Reference T1 unknown:D010661	hyperphenylalaninemia
+N2	Reference T2 unknown:D010661	PKU
+N3	Reference T3 unknown:D010661	classical phenylketonuria

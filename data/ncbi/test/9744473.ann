@@ -1,0 +1,14 @@
+T1	Disease 53 81	metachromatic leukodystrophy
+T2	Disease 84 113	Deficiency of arylsulfatase A
+T3	Disease 146 174	metachromatic leukodystrophy
+T4	Disease 177 180	MLD
+T5	Disease 233 236	MLD
+T6	Disease 328 331	MLD
+T7	Disease 769 772	MLD
+N1	Reference T1 unknown:D007966	metachromatic leukodystrophy
+N2	Reference T2 unknown:D007966	Deficiency of arylsulfatase A
+N3	Reference T3 unknown:D007966	metachromatic leukodystrophy
+N4	Reference T4 unknown:D007966	MLD
+N5	Reference T5 unknown:D007966	MLD
+N6	Reference T6 unknown:D007966	MLD
+N7	Reference T7 unknown:D007966	MLD

@@ -1,0 +1,16 @@
+T1	Disease 19 34	phenylketonuria
+T2	Disease 54 69	Phenylketonuria
+T3	Disease 72 75	PKU
+T4	Disease 83 100	metabolic disease
+T5	Disease 224 227	PKU
+T6	Disease 448 451	PKU
+T7	Disease 619 622	PKU
+T8	Disease 1058 1072	genetic defect
+N1	Reference T1 unknown:D010661	phenylketonuria
+N2	Reference T2 unknown:D010661	Phenylketonuria
+N3	Reference T3 unknown:D010661	PKU
+N4	Reference T4 unknown:D008659	metabolic disease
+N5	Reference T5 unknown:D010661	PKU
+N6	Reference T6 unknown:D010661	PKU
+N7	Reference T7 unknown:D010661	PKU
+N8	Reference T8 unknown:D030342	genetic defect

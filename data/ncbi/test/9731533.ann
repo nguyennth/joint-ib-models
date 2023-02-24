@@ -1,0 +1,24 @@
+T1	Disease 25 31	cancer
+T2	Disease 135 165	familial adenomatous polyposis
+T3	Disease 168 171	FAP
+T4	Disease 195 222	autosomal dominant disorder
+T5	Disease 260 266	polyps
+T6	Disease 324 341	colorectal cancer
+T7	Disease 344 347	CRC
+T8	Disease 352 355	APC
+T9	Disease 415 422	tumours
+T10	Disease 767 770	CRC
+T11	Disease 819 825	cancer
+T12	Disease 913 950	colorectal , breast and other cancers
+N1	Reference T1 unknown:D009369	cancer
+N2	Reference T2 unknown:D011125	familial adenomatous polyposis
+N3	Reference T3 unknown:D011125	FAP
+N4	Reference T4 unknown:D030342	autosomal dominant disorder
+N5	Reference T5 unknown:D011127	polyps
+N6	Reference T6 unknown:D015179	colorectal cancer
+N7	Reference T7 unknown:D015179	CRC
+N8	Reference T8 unknown:D011125	APC
+N9	Reference T9 unknown:D009369	tumours
+N10	Reference T10 unknown:D015179	CRC
+N11	Reference T11 unknown:D009369	cancer
+N12	Reference T12 unknown:D001943|D015179|D009369	colorectal, breast and other cancers

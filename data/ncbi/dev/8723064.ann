@@ -1,0 +1,12 @@
+T1	Disease 71 94	Prader - Willi syndrome
+T2	Disease 337 360	Prader - Willi syndrome
+T3	Disease 363 366	PWS
+T4	Disease 405 408	PWS
+T5	Disease 692 695	PWS
+T6	Disease 762 765	PWS
+N1	Reference T1 unknown:D011218	Prader-Willi syndrome
+N2	Reference T2 unknown:D011218	Prader-Willi syndrome
+N3	Reference T3 unknown:D011218	PWS
+N4	Reference T4 unknown:D011218	PWS
+N5	Reference T5 unknown:D011218	PWS
+N6	Reference T6 unknown:D011218	PWS

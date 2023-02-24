@@ -1,0 +1,28 @@
+T1	Disease 144 182	cholesterol acyltransferase deficiency
+T2	Disease 187 205	fish - eye disease
+T3	Disease 208 285	Classic ( complete ) lecithin cholesterol acyltransferase ( LCAT ) deficiency
+T4	Disease 290 308	Fish - eye disease
+T5	Disease 311 334	partial LCAT deficiency
+T6	Disease 490 528	atherosclerotic cardiovascular disease
+T7	Disease 653 668	LCAT deficiency
+T8	Disease 680 703	classic LCAT deficiency
+T9	Disease 718 736	Fish - eye disease
+T10	Disease 1696 1731	complete or partial LCAT deficiency
+T11	Disease 1935 1950	atherosclerosis
+T12	Disease 2065 2088	classic LCAT deficiency
+T13	Disease 2093 2111	Fish - eye disease
+T14	Disease 2152 2167	atherosclerosis
+N1	Reference T1 unknown:D007863	cholesterol acyltransferase deficiency
+N2	Reference T2 unknown:D007863	fish-eye disease
+N3	Reference T3 unknown:D007863	Classic (complete) lecithin  cholesterol acyltransferase (LCAT) deficiency
+N4	Reference T4 unknown:D007863	Fish-eye disease
+N5	Reference T5 unknown:D007863	partial LCAT deficiency
+N6	Reference T6 unknown:D050197	atherosclerotic cardiovascular disease
+N7	Reference T7 unknown:D007863	LCAT deficiency
+N8	Reference T8 unknown:D007863	classic LCAT deficiency
+N9	Reference T9 unknown:D007863	Fish-eye disease
+N10	Reference T10 unknown:D007863	complete or partial LCAT deficiency
+N11	Reference T11 unknown:D050197	atherosclerosis
+N12	Reference T12 unknown:D007863	classic LCAT deficiency
+N13	Reference T13 unknown:D007863	Fish-eye disease
+N14	Reference T14 unknown:D050197	atherosclerosis

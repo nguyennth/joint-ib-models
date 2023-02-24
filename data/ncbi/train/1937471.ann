@@ -1,0 +1,14 @@
+T1	Disease 0 59	Hypoxanthine - guanine phosphoribosyltransferase deficiency
+T2	Disease 152 174	Lesch - Nyhan syndrome
+T3	Disease 187 222	X chromosome - linked human disease
+T4	Disease 243 320	absence of hypoxanthine - guanine phosphoribosyltransferase ( HPRT ) activity
+T5	Disease 389 404	gouty arthritis
+T6	Disease 572 594	Lesch - Nyhan syndrome
+T7	Disease 624 661	partial deficiencies of HPRT activity
+N1	Reference T1 OMIM:300323	Hypoxanthine-guanine phosphoribosyltransferase deficiency
+N2	Reference T2 unknown:D007926	Lesch-Nyhan syndrome
+N3	Reference T3 unknown:D040181	X chromosome-linked human disease
+N4	Reference T4 unknown:D007926	absence of hypoxanthine-guanine phosphoribosyltransferase (HPRT) activity
+N5	Reference T5 unknown:D015210	gouty arthritis
+N6	Reference T6 unknown:D007926	Lesch-Nyhan syndrome
+N7	Reference T7 OMIM:300323	partial deficiencies of HPRT activity

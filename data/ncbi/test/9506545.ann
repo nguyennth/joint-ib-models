@@ -1,0 +1,42 @@
+T1	Disease 0 26	Eye movement abnormalities
+T2	Disease 73 97	cerebellar ataxia type I
+T3	Disease 285 310	cerebellar ataxias type I
+T4	Disease 311 342	spinocerebellar ataxias 1 and 2
+T5	Disease 345 349	SCA1
+T6	Disease 361 365	SCA2
+T7	Disease 381 385	SCA3
+T8	Disease 388 412	Machado - Joseph disease
+T9	Disease 415 418	MJD
+T10	Disease 437 441	SCA1
+T11	Disease 505 516	hypermetria
+T12	Disease 562 566	SCA2
+T13	Disease 846 850	SCA3
+T14	Disease 853 876	gaze - evoked nystagmus
+T15	Disease 1048 1071	gaze - evoked nystagmus
+T16	Disease 1122 1126	SCA1
+T17	Disease 1141 1145	SCA2
+T18	Disease 1178 1182	SCA3
+T19	Disease 1275 1279	SCA1
+T20	Disease 1282 1286	SCA2
+T21	Disease 1293 1297	SCA3
+N1	Reference T1 unknown:D005124	Eye movement abnormalities
+N2	Reference T2 unknown:D020754	cerebellar ataxia type I
+N3	Reference T3 unknown:D020754	cerebellar ataxias type I
+N4	Reference T4 OMIM:164400|OMIM:183090	spinocerebellar ataxias 1 and 2
+N5	Reference T5 OMIM:164400	SCA1
+N6	Reference T6 OMIM:183090	SCA2
+N7	Reference T7 unknown:D017827	SCA3
+N8	Reference T8 unknown:D017827	Machado-Joseph disease
+N9	Reference T9 unknown:D017827	MJD
+N10	Reference T10 OMIM:164400	SCA1
+N11	Reference T11 unknown:D002524	hypermetria
+N12	Reference T12 OMIM:183090	SCA2
+N13	Reference T13 unknown:D017827	SCA3
+N14	Reference T14 unknown:D009759	gaze-evoked nystagmus
+N15	Reference T15 unknown:D009759	gaze-evoked nystagmus
+N16	Reference T16 OMIM:164400	SCA1
+N17	Reference T17 OMIM:183090	SCA2
+N18	Reference T18 unknown:D017827	SCA3
+N19	Reference T19 OMIM:164400	SCA1
+N20	Reference T20 OMIM:183090	SCA2
+N21	Reference T21 unknown:D017827	SCA3

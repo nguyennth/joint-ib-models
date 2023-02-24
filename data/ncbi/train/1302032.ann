@@ -1,0 +1,12 @@
+T1	Disease 0 18	Fragile X syndrome
+T2	Disease 128 146	fragile X syndrome
+T3	Disease 191 200	fragile X
+T4	Disease 454 463	fragile X
+T5	Disease 559 568	fragile X
+T6	Disease 580 598	fragile X syndrome
+N1	Reference T1 unknown:D005600	Fragile X syndrome
+N2	Reference T2 unknown:D005600	fragile X syndrome
+N3	Reference T3 unknown:D005600	fragile X
+N4	Reference T4 unknown:D005600	fragile X
+N5	Reference T5 unknown:D005600	fragile X
+N6	Reference T6 unknown:D005600	fragile X syndrome

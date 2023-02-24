@@ -1,0 +1,8 @@
+T1	Disease 34 57	ataxia - telangiectasia
+T2	Disease 138 161	ataxia - telangiectasia
+T3	Disease 164 166	AT
+T4	Disease 608 610	AT
+N1	Reference T1 unknown:D001260	ataxia-telangiectasia
+N2	Reference T2 unknown:D001260	ataxia-telangiectasia
+N3	Reference T3 unknown:D001260	AT
+N4	Reference T4 unknown:D001260	AT

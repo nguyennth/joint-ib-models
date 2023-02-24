@@ -1,0 +1,6 @@
+T1	Disease 174 211	insulin - dependent diabetes mellitus
+T2	Disease 214 218	IDDM
+T3	Disease 349 357	diabetes
+N1	Reference T1 unknown:D003922	insulin-dependent diabetes mellitus
+N2	Reference T2 unknown:D003922	IDDM
+N3	Reference T3 unknown:D003920	diabetes

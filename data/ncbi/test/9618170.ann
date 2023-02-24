@@ -1,0 +1,24 @@
+T1	Disease 59 62	DMD
+T2	Disease 79 112	X - linked dilated cardiomyopathy
+T3	Disease 115 148	X - linked dilated cardiomyopathy
+T4	Disease 151 156	XLDCM
+T5	Disease 186 202	dystrophinopathy
+T6	Disease 242 264	myocardial involvement
+T7	Disease 301 318	skeletal myopathy
+T8	Disease 356 383	Duchenne muscular dystrophy
+T9	Disease 435 440	XLDCM
+T10	Disease 522 527	XLDCM
+T11	Disease 674 679	XLDCM
+T12	Disease 1174 1179	XLDCM
+N1	Reference T1 unknown:D020388	DMD
+N2	Reference T2 unknown:D002311	X-linked dilated cardiomyopathy
+N3	Reference T3 unknown:D002311	X-linked dilated cardiomyopathy
+N4	Reference T4 unknown:D002311	XLDCM
+N5	Reference T5 unknown:D009136	dystrophinopathy
+N6	Reference T6 unknown:D009202	myocardial involvement
+N7	Reference T7 unknown:D009135	skeletal myopathy
+N8	Reference T8 unknown:D020388	Duchenne muscular dystrophy
+N9	Reference T9 unknown:D002311	XLDCM
+N10	Reference T10 unknown:D002311	XLDCM
+N11	Reference T11 unknown:D002311	XLDCM
+N12	Reference T12 unknown:D002311	XLDCM

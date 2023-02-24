@@ -1,0 +1,57 @@
+T1	Disease 40 63	ataxia - telangiectasia
+T2	Disease 74 101	sporadic T - cell leukaemia
+T3	Disease 104 127	Ataxia - telangiectasia
+T4	Disease 130 135	A - T
+T5	Disease 143 176	recessive multi - system disorder
+T6	Disease 254 260	cancer
+T7	Disease 274 293	lymphoid neoplasias
+T8	Disease 325 330	A - T
+T9	Disease 413 419	tumour
+T10	Disease 443 485	sporadic T - cell prolymphocytic leukaemia
+T11	Disease 488 495	T - PLL
+T12	Disease 507 524	clonal malignancy
+T13	Disease 548 573	mature T - cell leukaemia
+T14	Disease 582 587	A - T
+T15	Disease 642 649	T - PLL
+T16	Disease 702 707	A - T
+T17	Disease 755 764	leukaemia
+T18	Disease 1081 1088	T - PLL
+T19	Disease 1123 1128	A - T
+T20	Disease 1218 1224	tumour
+T21	Disease 1270 1279	leukaemia
+T22	Disease 1338 1344	tumour
+T23	Disease 1368 1401	B - cell non - Hodgkins lymphomas
+T24	Disease 1404 1411	B - NHL
+T25	Disease 1420 1427	B - NHL
+T26	Disease 1591 1598	tumours
+T27	Disease 1668 1684	sporadic T - PLL
+T28	Disease 1717 1723	tumour
+T29	Disease 1819 1826	T - PLL
+N1	Reference T1 unknown:D001260	ataxia-telangiectasia
+N2	Reference T2 unknown:D015458	sporadic T-cell leukaemia
+N3	Reference T3 unknown:D001260	Ataxia-telangiectasia
+N4	Reference T4 unknown:D001260	A-T
+N5	Reference T5 unknown:D030342	recessive multi-system disorder
+N6	Reference T6 unknown:D009369	cancer
+N7	Reference T7 unknown:D008223	lymphoid neoplasias
+N8	Reference T8 unknown:D001260	A-T
+N9	Reference T9 unknown:D009369	tumour
+N10	Reference T10 unknown:D015461	sporadic T-cell prolymphocytic leukaemia
+N11	Reference T11 unknown:D015461	T-PLL
+N12	Reference T13 unknown:D015458	mature T-cell leukaemia
+N13	Reference T14 unknown:D001260	A-T
+N14	Reference T15 unknown:D015461	T-PLL
+N15	Reference T16 unknown:D001260	A-T
+N16	Reference T17 unknown:D007938	leukaemia
+N17	Reference T18 unknown:D015461	T-PLL
+N18	Reference T19 unknown:D001260	A-T
+N19	Reference T20 unknown:D009369	tumour
+N20	Reference T21 unknown:D007938	leukaemia
+N21	Reference T22 unknown:D009369	tumour
+N22	Reference T23 unknown:D016393	B-cell non-Hodgkins lymphomas
+N23	Reference T24 unknown:D016393	B-NHL
+N24	Reference T25 unknown:D016393	B-NHL
+N25	Reference T26 unknown:D009369	tumours
+N26	Reference T27 unknown:D015461	sporadic T-PLL
+N27	Reference T28 unknown:D009369	tumour
+N28	Reference T29 unknown:D015461	T-PLL

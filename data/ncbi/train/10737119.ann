@@ -1,0 +1,40 @@
+T1	Disease 35 52	primary dystonias
+T2	Disease 55 72	Primary dystonias
+T3	Disease 77 95	movement disorders
+T4	Disease 101 109	dystonia
+T5	Disease 548 575	idiopathic torsion dystonia
+T6	Disease 587 601	focal dystonia
+T7	Disease 626 653	idiopathic torsion dystonia
+T8	Disease 685 711	dopa - responsive dystonia
+T9	Disease 742 777	paroxysmal dystonic choreoathetosis
+T10	Disease 894 935	X - linked dystonia parkinsonism syndrome
+T11	Disease 951 984	X - linked sensorineural deafness
+T12	Disease 987 995	dystonia
+T13	Disease 1002 1020	mental retardation
+T14	Disease 1206 1233	idiopathic torsion dystonia
+T15	Disease 1293 1319	dopa - responsive dystonia
+T16	Disease 1334 1356	sensorineural deafness
+T17	Disease 1359 1367	dystonia
+T18	Disease 1374 1392	mental retardation
+T19	Disease 1539 1556	primary dystonias
+T20	Disease 1703 1719	dystonias 1 - 12
+N1	Reference T1 unknown:D020821	primary dystonias
+N2	Reference T2 unknown:D020821	Primary dystonias
+N3	Reference T3 unknown:D009069	movement disorders
+N4	Reference T4 unknown:D004421	dystonia
+N5	Reference T5 unknown:D004422	idiopathic torsion dystonia
+N6	Reference T6 unknown:D020821	focal dystonia
+N7	Reference T7 unknown:D004422	idiopathic torsion dystonia
+N8	Reference T8 unknown:C538007	dopa-responsive dystonia
+N9	Reference T9 unknown:C537181	paroxysmal dystonic choreoathetosis
+N10	Reference T10 OMIM:314250	X-linked dystonia parkinsonism syndrome
+N11	Reference T11 OMIM:304500	X-linked sensorineural deafness
+N12	Reference T12 unknown:D004421	dystonia
+N13	Reference T13 unknown:D008607	mental retardation
+N14	Reference T14 unknown:D004422	idiopathic torsion dystonia
+N15	Reference T15 unknown:C538007	dopa-responsive dystonia
+N16	Reference T16 unknown:D006319	sensorineural deafness
+N17	Reference T17 unknown:D004421	dystonia
+N18	Reference T18 unknown:D008607	mental retardation
+N19	Reference T19 unknown:D020821	primary dystonias
+N20	Reference T20 unknown:D020821	dystonias 1-12

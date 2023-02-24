@@ -1,0 +1,28 @@
+T1	Disease 28 48	adrenoleukodystrophy
+T2	Disease 56 76	Adrenoleukodystrophy
+T3	Disease 79 82	ALD
+T4	Disease 105 125	peroxisomal disorder
+T5	Disease 140 165	neurodegenerative disease
+T6	Disease 185 243	impairment of very long chain fatty acids beta - oxidation
+T7	Disease 321 324	ALD
+T8	Disease 591 594	ALD
+T9	Disease 705 708	ALD
+T10	Disease 986 989	ALD
+T11	Disease 1203 1224	adrenomyeloneuropathy
+T12	Disease 1251 1254	ALD
+T13	Disease 1283 1307	contiguous gene syndrome
+T14	Disease 1341 1344	ALD
+N1	Reference T1 unknown:D000326	adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	Adrenoleukodystrophy
+N3	Reference T3 unknown:D000326	ALD
+N4	Reference T4 unknown:D018901	peroxisomal disorder
+N5	Reference T5 unknown:D019636	neurodegenerative disease
+N6	Reference T6 OMIM:300100	impairment of very long chain fatty acids beta-oxidation
+N7	Reference T7 unknown:D000326	ALD
+N8	Reference T8 unknown:D000326	ALD
+N9	Reference T9 unknown:D000326	ALD
+N10	Reference T10 unknown:D000326	ALD
+N11	Reference T11 unknown:D000326	adrenomyeloneuropathy
+N12	Reference T12 unknown:D000326	ALD
+N13	Reference T13 unknown:D025063	contiguous gene syndrome
+N14	Reference T14 unknown:D000326	ALD

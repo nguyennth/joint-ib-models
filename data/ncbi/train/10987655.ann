@@ -1,0 +1,26 @@
+T1	Disease 109 115	EA - 2
+T2	Disease 120 123	FHM
+T3	Disease 283 305	episodic ataxia type 2
+T4	Disease 308 314	EA - 2
+T5	Disease 319 347	familial hemiplegic migraine
+T6	Disease 350 353	FHM
+T7	Disease 360 384	spinocerebellar ataxia 6
+T8	Disease 387 391	SCA6
+T9	Disease 417 423	EA - 2
+T10	Disease 590 593	FHM
+T11	Disease 986 992	EA - 2
+T12	Disease 1309 1317	migraine
+T13	Disease 1446 1449	FHM
+N1	Reference T1 unknown:C535506	EA-2
+N2	Reference T2 unknown:D020325	FHM
+N3	Reference T3 unknown:C535506	episodic ataxia type 2
+N4	Reference T4 unknown:C535506	EA-2
+N5	Reference T5 unknown:D020325	familial hemiplegic migraine
+N6	Reference T6 unknown:D020325	FHM
+N7	Reference T7 OMIM:183086	spinocerebellar ataxia 6
+N8	Reference T8 OMIM:183086	SCA6
+N9	Reference T9 unknown:C535506	EA-2
+N10	Reference T10 unknown:D020325	FHM
+N11	Reference T11 unknown:C535506	EA-2
+N12	Reference T12 unknown:D008881	migraine
+N13	Reference T13 unknown:D020325	FHM

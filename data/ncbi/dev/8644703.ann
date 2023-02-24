@@ -1,0 +1,8 @@
+T1	Disease 121 135	Ovarian Cancer
+T2	Disease 284 314	breast and / or ovarian cancer
+T3	Disease 753 776	breast / ovarian cancer
+T4	Disease 867 897	breast and / or ovarian cancer
+N1	Reference T1 unknown:D010051	Ovarian Cancer
+N2	Reference T2 OMIM:604370	breast and/or ovarian cancer
+N3	Reference T3 OMIM:604370	breast/ovarian cancer
+N4	Reference T4 OMIM:604370	breast and/or ovarian cancer

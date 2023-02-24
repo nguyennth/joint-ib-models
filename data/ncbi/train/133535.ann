@@ -1,0 +1,12 @@
+T1	Disease 20 33	C2 deficiency
+T2	Disease 154 167	C2 deficiency
+T3	Disease 268 282	C2 - deficient
+T4	Disease 326 342	Hodgkins disease
+T5	Disease 498 511	C2 deficiency
+T6	Disease 649 662	C2 deficiency
+N1	Reference T1 OMIM:217000	C2 deficiency
+N2	Reference T2 OMIM:217000	C2 deficiency
+N3	Reference T3 OMIM:217000	C2-deficient
+N4	Reference T4 unknown:D006689	Hodgkins disease
+N5	Reference T5 OMIM:217000	C2 deficiency
+N6	Reference T6 OMIM:217000	C2 deficiency

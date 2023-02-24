@@ -1,0 +1,18 @@
+T1	Disease 0 16	Gardner syndrome
+T2	Disease 127 143	Gardner syndrome
+T3	Disease 146 148	GS
+T4	Disease 153 171	mental retardation
+T5	Disease 178 204	craniofacial abnormalities
+T6	Disease 434 460	adenomatous polyposis coli
+T7	Disease 499 501	GS
+T8	Disease 507 530	familial polyposis coli
+T9	Disease 533 536	FPC
+N1	Reference T1 unknown:D005736	Gardner syndrome
+N2	Reference T2 unknown:D005736	Gardner syndrome
+N3	Reference T3 unknown:D005736	GS
+N4	Reference T4 unknown:D008607	mental retardation
+N5	Reference T5 unknown:D019465	craniofacial abnormalities
+N6	Reference T6 unknown:D011125	adenomatous polyposis coli
+N7	Reference T7 unknown:D005736	GS
+N8	Reference T8 unknown:D011125	familial polyposis coli
+N9	Reference T9 unknown:D011125	FPC

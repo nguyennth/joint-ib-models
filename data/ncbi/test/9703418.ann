@@ -1,0 +1,15 @@
+T1	Disease 87 111	complement C9 deficiency
+T2	Disease 114 167	Deficiency of the ninth component of human complement
+T3	Disease 194 215	complement deficiency
+T4	Disease 292 305	C9 deficiency
+T5	Disease 323 337	C9 - deficient
+T6	Disease 369 393	meningococcal meningitis
+T7	Disease 528 542	C9 - deficient
+T8	Disease 899 912	C9 deficiency
+N1	Reference T1 OMIM:613825	complement C9 deficiency
+N2	Reference T2 OMIM:613825	Deficiency of the ninth component of human complement
+N3	Reference T4 OMIM:613825	C9 deficiency
+N4	Reference T5 OMIM:613825	C9-deficient
+N5	Reference T6 unknown:D008585	meningococcal meningitis
+N6	Reference T7 OMIM:613825	C9-deficient
+N7	Reference T8 OMIM:613825	C9 deficiency

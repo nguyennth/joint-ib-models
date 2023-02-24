@@ -1,0 +1,30 @@
+T1	Disease 27 49	Van der Woude syndrome
+T2	Disease 170 192	Van der Woude syndrome
+T3	Disease 195 198	VWS
+T4	Disease 207 247	autosomal dominant craniofacial disorder
+T5	Disease 354 363	cleft lip
+T6	Disease 373 385	cleft palate
+T7	Disease 388 396	lip pits
+T8	Disease 401 411	hypodontia
+T9	Disease 418 421	VWS
+T10	Disease 609 612	VWS
+T11	Disease 692 695	VWS
+T12	Disease 826 829	VWS
+T13	Disease 1341 1344	VWS
+T14	Disease 1490 1493	VWS
+T15	Disease 1664 1667	VWS
+N1	Reference T1 unknown:C536528	Van der Woude syndrome
+N2	Reference T2 unknown:C536528	Van der Woude syndrome
+N3	Reference T3 unknown:C536528	VWS
+N4	Reference T4 unknown:D019465	autosomal dominant craniofacial disorder
+N5	Reference T5 unknown:D002971	cleft lip
+N6	Reference T6 unknown:D002972	cleft palate
+N7	Reference T7 unknown:C536528	lip pits
+N8	Reference T8 unknown:D000848	hypodontia
+N9	Reference T9 unknown:C536528	VWS
+N10	Reference T10 unknown:C536528	VWS
+N11	Reference T11 unknown:C536528	VWS
+N12	Reference T12 unknown:C536528	VWS
+N13	Reference T13 unknown:C536528	VWS
+N14	Reference T14 unknown:C536528	VWS
+N15	Reference T15 unknown:C536528	VWS

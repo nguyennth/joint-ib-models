@@ -1,0 +1,10 @@
+T1	Disease 19 28	APC tumor
+T2	Disease 138 155	colorectal cancer
+T3	Disease 256 259	APC
+T4	Disease 317 320	APC
+T5	Disease 630 635	tumor
+N1	Reference T1 unknown:D011125	APC tumor
+N2	Reference T2 unknown:D015179	colorectal cancer
+N3	Reference T3 unknown:D011125	APC
+N4	Reference T4 unknown:D011125	APC
+N5	Reference T5 unknown:D009369	tumor

@@ -1,0 +1,10 @@
+T1	Disease 0 23	Ataxia - telangiectasia
+T2	Disease 222 235	breast cancer
+T3	Disease 317 340	ataxia - telangiectasia
+T4	Disease 343 348	A - T
+T5	Disease 1282 1287	A - T
+N1	Reference T1 unknown:D001260	Ataxia-telangiectasia
+N2	Reference T2 unknown:D001943	breast cancer
+N3	Reference T3 unknown:D001260	ataxia-telangiectasia
+N4	Reference T4 unknown:D001260	A-T
+N5	Reference T5 unknown:D001260	A-T

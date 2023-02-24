@@ -1,0 +1,16 @@
+T1	Disease 23 38	hemochromatosis
+T2	Disease 64 87	Genetic hemochromatosis
+T3	Disease 90 92	GH
+T4	Disease 201 203	GH
+T5	Disease 363 365	GH
+T6	Disease 1506 1525	infectious diseases
+T7	Disease 1564 1581	genetic disorders
+T8	Disease 1590 1596	anemia
+N1	Reference T1 unknown:D006432	hemochromatosis
+N2	Reference T2 unknown:D006432	Genetic hemochromatosis
+N3	Reference T3 unknown:D006432	GH
+N4	Reference T4 unknown:D006432	GH
+N5	Reference T5 unknown:D006432	GH
+N6	Reference T6 unknown:D003141	infectious diseases
+N7	Reference T7 unknown:D030342	genetic disorders
+N8	Reference T8 unknown:D000740	anemia

@@ -1,0 +1,18 @@
+T1	Disease 4 35	dermatofibrosarcoma protuberans
+T2	Disease 214 245	Dermatofibrosarcoma protuberans
+T3	Disease 248 252	DFSP
+T4	Disease 1423 1429	tumors
+T5	Disease 1477 1482	tumor
+T6	Disease 1591 1595	DFSP
+T7	Disease 1611 1616	tumor
+T8	Disease 1811 1815	DFSP
+T9	Disease 1820 1844	giant cell fibroblastoma
+N1	Reference T1 unknown:C538219	dermatofibrosarcoma protuberans
+N2	Reference T2 unknown:C538219	Dermatofibrosarcoma protuberans
+N3	Reference T3 unknown:C538219	DFSP
+N4	Reference T4 unknown:D009369	tumors
+N5	Reference T5 unknown:D009369	tumor
+N6	Reference T6 unknown:C538219	DFSP
+N7	Reference T7 unknown:D009369	tumor
+N8	Reference T8 unknown:C538219	DFSP
+N9	Reference T9 unknown:C538219	giant cell fibroblastoma

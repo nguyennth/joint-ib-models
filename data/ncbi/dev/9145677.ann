@@ -1,0 +1,28 @@
+T1	Disease 69 82	breast cancer
+T2	Disease 196 209	breast cancer
+T3	Disease 506 519	breast cancer
+T4	Disease 714 727	breast cancer
+T5	Disease 786 799	breast cancer
+T6	Disease 808 822	ovarian cancer
+T7	Disease 916 941	breast and ovarian cancer
+T8	Disease 1024 1037	breast cancer
+T9	Disease 1056 1070	ovarian cancer
+T10	Disease 1089 1114	breast and ovarian cancer
+T11	Disease 1299 1312	breast cancer
+T12	Disease 1330 1344	breast cancers
+T13	Disease 1475 1489	ovarian cancer
+T14	Disease 1533 1546	breast cancer
+N1	Reference T1 unknown:D001943	breast cancer
+N2	Reference T2 unknown:D001943	breast cancer
+N3	Reference T3 unknown:D001943	breast cancer
+N4	Reference T4 unknown:D001943	breast cancer
+N5	Reference T5 unknown:D001943	breast cancer
+N6	Reference T6 unknown:D010051	ovarian cancer
+N7	Reference T7 unknown:D001943|D010051	breast and ovarian cancer
+N8	Reference T8 unknown:D001943	breast cancer
+N9	Reference T9 unknown:D010051	ovarian cancer
+N10	Reference T10 unknown:D001943|D010051	breast and ovarian cancer
+N11	Reference T11 unknown:D001943	breast cancer
+N12	Reference T12 unknown:D001943	breast cancers
+N13	Reference T13 unknown:D010051	ovarian cancer
+N14	Reference T14 unknown:D001943	breast cancer

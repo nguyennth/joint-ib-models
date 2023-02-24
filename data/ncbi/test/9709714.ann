@@ -1,0 +1,22 @@
+T1	Disease 19 46	hypertrophic cardiomyopathy
+T2	Disease 89 151	very - long - chain acyl - coenzyme A dehydrogenase deficiency
+T3	Disease 154 226	Very - long - chain acyl - coenzyme A dehydrogenase ( VLCAD ) deficiency
+T4	Disease 384 400	VLCAD deficiency
+T5	Disease 451 478	hypertrophic cardiomyopathy
+T6	Disease 481 493	hepatomegaly
+T7	Disease 496 510	encephalopathy
+T8	Disease 517 526	hypotonia
+T9	Disease 559 575	VLCAD deficiency
+T10	Disease 1098 1114	VLCAD deficiency
+T11	Disease 1186 1200	cardiomyopathy
+N1	Reference T1 unknown:D002312	hypertrophic cardiomyopathy
+N2	Reference T2 unknown:C536353	very-long-chain acyl-coenzyme A dehydrogenase deficiency
+N3	Reference T3 unknown:C536353	Very-long-chain acyl-coenzyme A dehydrogenase (VLCAD) deficiency
+N4	Reference T4 unknown:C536353	VLCAD deficiency
+N5	Reference T5 unknown:D002312	hypertrophic cardiomyopathy
+N6	Reference T6 unknown:D006529	hepatomegaly
+N7	Reference T7 unknown:D001927	encephalopathy
+N8	Reference T8 unknown:D009123	hypotonia
+N9	Reference T9 unknown:C536353	VLCAD deficiency
+N10	Reference T10 unknown:C536353	VLCAD deficiency
+N11	Reference T11 unknown:D009202	cardiomyopathy

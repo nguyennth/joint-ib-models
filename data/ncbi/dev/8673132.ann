@@ -1,0 +1,24 @@
+T1	Disease 17 35	myotonic dystrophy
+T2	Disease 84 92	myopathy
+T3	Disease 95 113	Myotonic dystrophy
+T4	Disease 116 118	DM
+T5	Disease 127 154	autosomal dominant disorder
+T6	Disease 302 304	DM
+T7	Disease 336 350	Dmpk deficient
+T8	Disease 414 443	progressive skeletal myopathy
+T9	Disease 488 490	DM
+T10	Disease 559 577	fibre degeneration
+T11	Disease 582 590	fibrosis
+T12	Disease 890 892	DM
+N1	Reference T1 unknown:D009223	myotonic dystrophy
+N2	Reference T2 unknown:D009135	myopathy
+N3	Reference T3 unknown:D009223	Myotonic dystrophy
+N4	Reference T4 unknown:D009223	DM
+N5	Reference T5 unknown:D030342	autosomal dominant disorder
+N6	Reference T6 unknown:D009223	DM
+N7	Reference T7 OMIM:160900	Dmpk deficient
+N8	Reference T8 unknown:D009135	progressive skeletal myopathy
+N9	Reference T9 unknown:D009223	DM
+N10	Reference T10 unknown:D020966	fibre degeneration
+N11	Reference T11 unknown:D005355	fibrosis
+N12	Reference T12 unknown:D009223	DM

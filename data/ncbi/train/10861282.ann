@@ -1,0 +1,24 @@
+T1	Disease 60 82	ankylosing spondylitis
+T2	Disease 85 107	Ankylosing spondylitis
+T3	Disease 110 112	AS
+T4	Disease 147 165	rheumatic disorder
+T5	Disease 611 613	AS
+T6	Disease 805 807	AS
+T7	Disease 1001 1003	AS
+T8	Disease 1401 1403	AS
+T9	Disease 1534 1536	AS
+T10	Disease 1605 1607	AS
+T11	Disease 1681 1683	AS
+T12	Disease 1803 1805	AS
+N1	Reference T1 unknown:D013167	ankylosing spondylitis
+N2	Reference T2 unknown:D013167	Ankylosing spondylitis
+N3	Reference T3 unknown:D013167	AS
+N4	Reference T4 unknown:D012216	rheumatic disorder
+N5	Reference T5 unknown:D013167	AS
+N6	Reference T6 unknown:D013167	AS
+N7	Reference T7 unknown:D013167	AS
+N8	Reference T8 unknown:D013167	AS
+N9	Reference T9 unknown:D013167	AS
+N10	Reference T10 unknown:D013167	AS
+N11	Reference T11 unknown:D013167	AS
+N12	Reference T12 unknown:D013167	AS

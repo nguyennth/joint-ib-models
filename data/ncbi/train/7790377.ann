@@ -1,0 +1,16 @@
+T1	Disease 118 139	peroxisomal disorders
+T2	Disease 300 332	peroxisomal deficiency disorders
+T3	Disease 1446 1474	PTS1 protein - import defect
+T4	Disease 1576 1605	neonatal adrenoleukodystrophy
+T5	Disease 1609 1627	Zellweger syndrome
+T6	Disease 1705 1725	peroxisomal disorder
+T7	Disease 1824 1851	protein - import deficiency
+T8	Disease 1861 1882	peroxisomal disorders
+N1	Reference T1 unknown:D018901	peroxisomal disorders
+N2	Reference T2 unknown:D018901	peroxisomal deficiency disorders
+N3	Reference T3 OMIM:202370|OMIM:214100	PTS1 protein-import defect
+N4	Reference T4 OMIM:202370	neonatal adrenoleukodystrophy
+N5	Reference T5 unknown:D015211	Zellweger syndrome
+N6	Reference T6 unknown:D018901	peroxisomal disorder
+N7	Reference T7 unknown:D008661	protein-import deficiency
+N8	Reference T8 unknown:D018901	peroxisomal disorders

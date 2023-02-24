@@ -1,0 +1,42 @@
+T1	Disease 36 52	breast carcinoma
+T2	Disease 63 70	cancers
+T3	Disease 110 116	tumour
+T4	Disease 180 186	cancer
+T5	Disease 250 256	cancer
+T6	Disease 265 271	tumour
+T7	Disease 326 342	sporadic cancers
+T8	Disease 461 495	familial breast and ovarian cancer
+T9	Disease 542 577	sporadic breast and ovarian cancers
+T10	Disease 672 688	breast carcinoma
+T11	Disease 722 744	familial breast cancer
+T12	Disease 804 817	breast cancer
+T13	Disease 896 902	tumour
+T14	Disease 989 1002	breast cancer
+T15	Disease 1013 1020	tumours
+T16	Disease 1220 1243	sporadic breast cancers
+T17	Disease 1299 1305	tumour
+T18	Disease 1366 1373	cancers
+T19	Disease 1384 1400	breast carcinoma
+T20	Disease 1447 1464	pancreatic tumour
+T21	Disease 1522 1539	pancreatic cancer
+N1	Reference T1 unknown:D001943	breast carcinoma
+N2	Reference T2 unknown:D009369	cancers
+N3	Reference T3 unknown:D009369	tumour
+N4	Reference T4 unknown:D009369	cancer
+N5	Reference T5 unknown:D009369	cancer
+N6	Reference T6 unknown:D009369	tumour
+N7	Reference T7 unknown:D009369	sporadic cancers
+N8	Reference T8 unknown:D061325	familial breast and ovarian cancer
+N9	Reference T9 unknown:D001943|D010051	sporadic breast and ovarian cancers
+N10	Reference T10 unknown:D001943	breast carcinoma
+N11	Reference T11 unknown:D001943	familial breast cancer
+N12	Reference T12 unknown:D001943	breast cancer
+N13	Reference T13 unknown:D009369	tumour
+N14	Reference T14 unknown:D001943	breast cancer
+N15	Reference T15 unknown:D009369	tumours
+N16	Reference T16 unknown:D001943	sporadic breast cancers
+N17	Reference T17 unknown:D009369	tumour
+N18	Reference T18 unknown:D009369	cancers
+N19	Reference T19 unknown:D001943	breast carcinoma
+N20	Reference T20 unknown:D010190	pancreatic tumour
+N21	Reference T21 unknown:D010190	pancreatic cancer

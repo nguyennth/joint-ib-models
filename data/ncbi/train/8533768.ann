@@ -1,0 +1,10 @@
+T1	Disease 24 40	bipolar disorder
+T2	Disease 192 218	bipolar affective disorder
+T3	Disease 221 225	BPAD
+T4	Disease 318 322	BPAD
+T5	Disease 1397 1401	BPAD
+N1	Reference T1 unknown:D001714	bipolar disorder
+N2	Reference T2 unknown:D001714	bipolar affective disorder
+N3	Reference T3 unknown:D001714	BPAD
+N4	Reference T4 unknown:D001714	BPAD
+N5	Reference T5 unknown:D001714	BPAD

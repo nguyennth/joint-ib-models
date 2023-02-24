@@ -1,0 +1,6 @@
+T1	Disease 65 92	protein S deficiency type I
+T2	Disease 146 173	type I protein S deficiency
+T3	Disease 1326 1353	protein S deficiency type I
+N1	Reference T1 unknown:D018455	protein S deficiency type I
+N2	Reference T2 unknown:D018455	type I protein S deficiency
+N3	Reference T3 unknown:D018455	protein S deficiency type I

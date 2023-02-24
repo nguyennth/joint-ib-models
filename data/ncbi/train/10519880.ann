@@ -1,0 +1,8 @@
+T1	Disease 135 165	cerebrotendinous xanthomatosis
+T2	Disease 202 232	cerebrotendinous xanthomatosis
+T3	Disease 235 238	CTX
+T4	Disease 1469 1489	abnormality of CYP27
+N1	Reference T1 unknown:D019294	cerebrotendinous xanthomatosis
+N2	Reference T2 unknown:D019294	cerebrotendinous xanthomatosis
+N3	Reference T3 unknown:D019294	CTX
+N4	Reference T4 OMIM:213700	abnormality of CYP27

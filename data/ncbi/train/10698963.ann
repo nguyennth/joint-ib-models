@@ -1,0 +1,10 @@
+T1	Disease 350 365	G6PD deficiency
+T2	Disease 392 417	episodic hemolytic anemia
+T3	Disease 465 493	life - long hemolytic anemia
+T4	Disease 815 830	G6PD deficiency
+T5	Disease 1116 1131	G6PD deficiency
+N1	Reference T1 unknown:D005955	G6PD deficiency
+N2	Reference T2 unknown:D000743	episodic hemolytic anemia
+N3	Reference T3 unknown:D000745	life-long hemolytic anemia
+N4	Reference T4 unknown:D005955	G6PD deficiency
+N5	Reference T5 unknown:D005955	G6PD deficiency

@@ -1,0 +1,18 @@
+T1	Disease 97 134	insulin - dependent diabetes mellitus
+T2	Disease 254 291	insulin - dependent diabetes mellitus
+T3	Disease 437 441	IDDM
+T4	Disease 481 485	IDDM
+T5	Disease 627 631	IDDM
+T6	Disease 669 673	IDDM
+T7	Disease 740 744	IDDM
+T8	Disease 971 975	IDDM
+T9	Disease 1138 1142	IDDM
+N1	Reference T1 OMIM:125852	insulin-dependent diabetes mellitus
+N2	Reference T2 OMIM:125852	insulin-dependent diabetes mellitus
+N3	Reference T3 unknown:D003922	IDDM
+N4	Reference T4 unknown:D003922	IDDM
+N5	Reference T5 unknown:D003922	IDDM
+N6	Reference T6 unknown:D003922	IDDM
+N7	Reference T7 unknown:D003922	IDDM
+N8	Reference T8 unknown:D003922	IDDM
+N9	Reference T9 unknown:D003922	IDDM

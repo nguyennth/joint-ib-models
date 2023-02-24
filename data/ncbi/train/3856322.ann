@@ -1,0 +1,8 @@
+T1	Disease 66 81	Phenylketonuria
+T2	Disease 84 87	PKU
+T3	Disease 113 163	deficiency of the enzyme phenylalanine hydroxylase
+T4	Disease 893 896	PKU
+N1	Reference T1 unknown:D010661	Phenylketonuria
+N2	Reference T2 unknown:D010661	PKU
+N3	Reference T3 OMIM:261600	deficiency of the enzyme phenylalanine hydroxylase
+N4	Reference T4 unknown:D010661	PKU

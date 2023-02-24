@@ -1,0 +1,14 @@
+T1	Disease 58 71	Lowe syndrome
+T2	Disease 142 176	oculocerebrorenal syndrome of Lowe
+T3	Disease 179 183	OCRL
+T4	Disease 192 211	X - linked disorder
+T5	Disease 235 287	abnormalities of eyes , nervous system , and kidneys
+T6	Disease 522 526	OCRL
+T7	Disease 1303 1316	Lowe syndrome
+N1	Reference T1 unknown:D009800	Lowe syndrome
+N2	Reference T2 unknown:D009800	oculocerebrorenal syndrome of Lowe
+N3	Reference T3 unknown:D009800	OCRL
+N4	Reference T4 unknown:D040181	X-linked disorder
+N5	Reference T5 unknown:D000015	abnormalities of eyes, nervous system, and kidneys
+N6	Reference T6 unknown:D009800	OCRL
+N7	Reference T7 unknown:D009800	Lowe syndrome

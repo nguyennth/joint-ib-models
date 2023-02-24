@@ -1,0 +1,8 @@
+T1	Disease 85 109	severe neonatal jaundice
+T2	Disease 130 145	G6PD deficiency
+T3	Disease 260 279	hyperbilirubinaemia
+T4	Disease 761 785	severe neonatal jaundice
+N1	Reference T1 unknown:D007567	severe neonatal jaundice
+N2	Reference T2 unknown:D005955	G6PD deficiency
+N3	Reference T3 unknown:D006932	hyperbilirubinaemia
+N4	Reference T4 unknown:D007567	severe neonatal jaundice

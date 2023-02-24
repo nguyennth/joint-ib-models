@@ -1,0 +1,20 @@
+T1	Disease 9 27	myotonic dystrophy
+T2	Disease 68 76	myopathy
+T3	Disease 87 105	Myotonic dystrophy
+T4	Disease 108 110	DM
+T5	Disease 635 662	hypertrophic cardiomyopathy
+T6	Disease 739 741	DM
+T7	Disease 788 795	atrophy
+T8	Disease 798 806	myotonia
+T9	Disease 809 817	cataract
+T10	Disease 822 840	male - infertility
+N1	Reference T1 unknown:D009223	myotonic dystrophy
+N2	Reference T2 unknown:D009135	myopathy
+N3	Reference T3 unknown:D009223	Myotonic dystrophy
+N4	Reference T4 unknown:D009223	DM
+N5	Reference T5 unknown:D002312	hypertrophic cardiomyopathy
+N6	Reference T6 unknown:D009223	DM
+N7	Reference T7 unknown:D001284	atrophy
+N8	Reference T8 unknown:D009222	myotonia
+N9	Reference T9 unknown:D002386	cataract
+N10	Reference T10 unknown:D007248	male-infertility

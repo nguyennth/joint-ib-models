@@ -1,0 +1,24 @@
+T1	Disease 56 76	cognitive impairment
+T2	Disease 80 107	Duchenne muscular dystrophy
+T3	Disease 206 233	Duchenne muscular dystrophy
+T4	Disease 236 239	DMD
+T5	Disease 291 311	cognitive impairment
+T6	Disease 329 332	DMD
+T7	Disease 485 488	DMD
+T8	Disease 921 941	cognitive impairment
+T9	Disease 1049 1069	cerebral dysfunction
+T10	Disease 1181 1184	DMD
+T11	Disease 1239 1259	cognitive impairment
+T12	Disease 1276 1279	DMD
+N1	Reference T1 unknown:D003072	cognitive impairment
+N2	Reference T2 unknown:D020388	Duchenne muscular dystrophy
+N3	Reference T3 unknown:D020388	Duchenne muscular dystrophy
+N4	Reference T4 unknown:D020388	DMD
+N5	Reference T5 unknown:D003072	cognitive impairment
+N6	Reference T6 unknown:D020388	DMD
+N7	Reference T7 unknown:D020388	DMD
+N8	Reference T8 unknown:D003072	cognitive impairment
+N9	Reference T9 unknown:D001927	cerebral dysfunction
+N10	Reference T10 unknown:D020388	DMD
+N11	Reference T11 unknown:D003072	cognitive impairment
+N12	Reference T12 unknown:D020388	DMD

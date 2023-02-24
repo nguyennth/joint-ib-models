@@ -1,0 +1,20 @@
+T1	Disease 42 77	idiopathic ventricular fibrillation
+T2	Disease 80 104	Ventricular fibrillation
+T3	Disease 338 373	idiopathic ventricular fibrillation
+T4	Disease 376 379	IVF
+T5	Disease 404 407	IVF
+T6	Disease 566 578	sudden death
+T7	Disease 620 623	IVF
+T8	Disease 657 660	IVF
+T9	Disease 977 980	IVF
+T10	Disease 1287 1290	IVF
+N1	Reference T1 unknown:C537182	idiopathic ventricular fibrillation
+N2	Reference T2 unknown:D014693	Ventricular fibrillation
+N3	Reference T3 unknown:C537182	idiopathic ventricular fibrillation
+N4	Reference T4 unknown:C537182	IVF
+N5	Reference T5 unknown:C537182	IVF
+N6	Reference T6 unknown:D003645	sudden death
+N7	Reference T7 unknown:C537182	IVF
+N8	Reference T8 unknown:C537182	IVF
+N9	Reference T9 unknown:C537182	IVF
+N10	Reference T10 unknown:C537182	IVF

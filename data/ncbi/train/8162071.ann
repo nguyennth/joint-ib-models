@@ -1,0 +1,20 @@
+T1	Disease 55 85	anterior segment malformations
+T2	Disease 96 112	Peters ' anomaly
+T3	Disease 177 185	aniridia
+T4	Disease 258 288	anterior segment malformations
+T5	Disease 299 313	Peters anomaly
+T6	Disease 337 351	Peters anomaly
+T7	Disease 450 480	anterior segment malformations
+T8	Disease 493 507	Peters anomaly
+T9	Disease 712 726	Peters anomaly
+T10	Disease 768 794	anterior segment anomalies
+N1	Reference T1 unknown:C537775	anterior segment malformations
+N2	Reference T2 unknown:C537884	Peters' anomaly
+N3	Reference T3 unknown:D015783	aniridia
+N4	Reference T4 unknown:C537775	anterior segment malformations
+N5	Reference T5 unknown:C537884	Peters anomaly
+N6	Reference T6 unknown:C537884	Peters anomaly
+N7	Reference T7 unknown:C537775	anterior segment malformations
+N8	Reference T8 unknown:C537884	Peters anomaly
+N9	Reference T9 unknown:C537884	Peters anomaly
+N10	Reference T10 unknown:C537775	anterior segment anomalies

@@ -1,0 +1,28 @@
+T1	Disease 0 58	Hereditary deficiency of the third component of complement
+T2	Disease 75 80	fever
+T3	Disease 83 92	skin rash
+T4	Disease 99 110	arthralgias
+T5	Disease 210 215	fever
+T6	Disease 218 227	skin rash
+T7	Disease 234 245	arthralgias
+T8	Disease 1333 1342	skin rash
+T9	Disease 1347 1358	arthralgias
+T10	Disease 1682 1707	decreased synthesis of C3
+T11	Disease 1756 1779	inherited C3 deficiency
+T12	Disease 1847 1852	fever
+T13	Disease 1855 1864	skin rash
+T14	Disease 1871 1881	arthralgia
+N1	Reference T1 OMIM:613779	Hereditary deficiency of the third component of complement
+N2	Reference T2 unknown:D005334	fever
+N3	Reference T3 unknown:D005076	skin rash
+N4	Reference T4 unknown:D018771	arthralgias
+N5	Reference T5 unknown:D005334	fever
+N6	Reference T6 unknown:D005076	skin rash
+N7	Reference T7 unknown:D018771	arthralgias
+N8	Reference T8 unknown:D005076	skin rash
+N9	Reference T9 unknown:D018771	arthralgias
+N10	Reference T10 OMIM:613779	decreased synthesis of C3
+N11	Reference T11 OMIM:613779	inherited C3 deficiency
+N12	Reference T12 unknown:D005334	fever
+N13	Reference T13 unknown:D005076	skin rash
+N14	Reference T14 unknown:D018771	arthralgia

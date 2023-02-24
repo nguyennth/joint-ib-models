@@ -1,0 +1,40 @@
+T1	Disease 18 52	von Hippel - Lindau disease tumour
+T2	Disease 102 137	von Hippel - Lindau ( VHL ) disease
+T3	Disease 263 266	VHL
+T4	Disease 315 365	retinal , cerebellar and spinal haemangioblastomas
+T5	Disease 368 388	renal cell carcinoma
+T6	Disease 393 410	phaeochromocytoma
+T7	Disease 455 458	VHL
+T8	Disease 479 508	sporadic renal cell carcinoma
+T9	Disease 513 530	haemangioblastoma
+T10	Disease 631 634	VHL
+T11	Disease 784 787	VHL
+T12	Disease 902 905	VHL
+T13	Disease 1060 1063	VHL
+T14	Disease 1139 1142	VHL
+T15	Disease 1231 1234	VHL
+T16	Disease 1442 1445	VHL
+T17	Disease 1559 1562	VHL
+T18	Disease 1659 1662	VHL
+T19	Disease 1738 1741	VHL
+T20	Disease 1839 1842	VHL
+N1	Reference T1 unknown:D006623	von Hippel-Lindau disease tumour
+N2	Reference T2 unknown:D006623	von Hippel-Lindau (VHL) disease
+N3	Reference T3 unknown:D006623	VHL
+N4	Reference T4 unknown:D012175|D018325	retinal, cerebellar and spinal haemangioblastomas
+N5	Reference T5 unknown:D002292	renal cell carcinoma
+N6	Reference T6 unknown:D010673	phaeochromocytoma
+N7	Reference T7 unknown:D006623	VHL
+N8	Reference T8 unknown:D002292	sporadic renal cell carcinoma
+N9	Reference T9 unknown:D018325	haemangioblastoma
+N10	Reference T10 unknown:D006623	VHL
+N11	Reference T11 unknown:D006623	VHL
+N12	Reference T12 unknown:D006623	VHL
+N13	Reference T13 unknown:D006623	VHL
+N14	Reference T14 unknown:D006623	VHL
+N15	Reference T15 unknown:D006623	VHL
+N16	Reference T16 unknown:D006623	VHL
+N17	Reference T17 unknown:D006623	VHL
+N18	Reference T18 unknown:D006623	VHL
+N19	Reference T19 unknown:D006623	VHL
+N20	Reference T20 unknown:D006623	VHL

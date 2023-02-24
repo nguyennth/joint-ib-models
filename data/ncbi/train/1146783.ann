@@ -1,0 +1,4 @@
+T1	Disease 0 12	Histidinemia
+T2	Disease 97 109	histidinemia
+N1	Reference T1 unknown:C538320	Histidinemia
+N2	Reference T2 unknown:C538320	histidinemia

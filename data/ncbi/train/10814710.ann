@@ -1,0 +1,14 @@
+T1	Disease 117 142	mucopolysaccharidosis IVA
+T2	Disease 156 181	Mucopolysaccharidosis IVA
+T3	Disease 184 191	MPS IVA
+T4	Disease 214 240	lysosomal storage disorder
+T5	Disease 253 314	deficiency of N - acetylgalactosamine - 6 - sulfate sulfatase
+T6	Disease 434 441	MPS IVA
+T7	Disease 1951 1958	MPS IVA
+N1	Reference T1 OMIM:253000	mucopolysaccharidosis IVA
+N2	Reference T2 OMIM:253000	Mucopolysaccharidosis IVA
+N3	Reference T3 OMIM:253000	MPS IVA
+N4	Reference T4 unknown:D016464	lysosomal storage disorder
+N5	Reference T5 OMIM:253000	deficiency of N -acetylgalactosamine-6-sulfate sulfatase
+N6	Reference T6 OMIM:253000	MPS IVA
+N7	Reference T7 OMIM:253000	MPS IVA

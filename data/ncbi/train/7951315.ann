@@ -1,0 +1,22 @@
+T1	Disease 41 61	congenital cataracts
+T2	Disease 64 72	aniridia
+T3	Disease 75 87	anophthalmia
+T4	Disease 92 122	central nervous system defects
+T5	Disease 152 160	aniridia
+T6	Disease 174 200	haploinsufficiency of PAX6
+T7	Disease 330 338	aniridia
+T8	Disease 375 395	congenital cataracts
+T9	Disease 411 428	corneal dystrophy
+T10	Disease 713 760	craniofacial and central nervous system defects
+T11	Disease 765 772	no eyes
+N1	Reference T1 unknown:D002386	congenital cataracts
+N2	Reference T2 unknown:D015783	aniridia
+N3	Reference T3 unknown:D000853	anophthalmia
+N4	Reference T4 unknown:D009421	central nervous system defects
+N5	Reference T5 unknown:D015783	aniridia
+N6	Reference T6 OMIM:106210	haploinsufficiency of PAX6
+N7	Reference T7 unknown:D015783	aniridia
+N8	Reference T8 unknown:D002386	congenital cataracts
+N9	Reference T9 unknown:D003317	corneal dystrophy
+N10	Reference T10 unknown:D019465|D009421	craniofacial and central nervous system defects
+N11	Reference T11 unknown:D000853	no eyes

@@ -1,0 +1,14 @@
+T1	Disease 28 53	Langer - Giedion syndrome
+T2	Disease 285 310	Langer - Giedion syndrome
+T3	Disease 313 316	LGS
+T4	Disease 441 444	LGS
+T5	Disease 501 504	LGS
+T6	Disease 598 601	LGS
+T7	Disease 726 729	LGS
+N1	Reference T1 unknown:D015826	Langer-Giedion syndrome
+N2	Reference T2 unknown:D015826	Langer-Giedion syndrome
+N3	Reference T3 unknown:D015826	LGS
+N4	Reference T4 unknown:D015826	LGS
+N5	Reference T5 unknown:D015826	LGS
+N6	Reference T6 unknown:D015826	LGS
+N7	Reference T7 unknown:D015826	LGS

@@ -1,0 +1,22 @@
+T1	Disease 0 10	Piebaldism
+T2	Disease 16 24	deafness
+T3	Disease 124 134	piebaldism
+T4	Disease 159 181	sensorineural deafness
+T5	Disease 336 354	auditory anomalies
+T6	Disease 440 448	deafness
+T7	Disease 473 483	piebaldism
+T8	Disease 511 533	sensorineural deafness
+T9	Disease 595 605	piebaldism
+T10	Disease 686 696	piebaldism
+T11	Disease 722 742	Waardenburg syndrome
+N1	Reference T1 unknown:D016116	Piebaldism
+N2	Reference T2 unknown:D003638	deafness
+N3	Reference T3 unknown:D016116	piebaldism
+N4	Reference T4 unknown:D006319	sensorineural deafness
+N5	Reference T5 unknown:D001304	auditory anomalies
+N6	Reference T6 unknown:D003638	deafness
+N7	Reference T7 unknown:D016116	piebaldism
+N8	Reference T8 unknown:D006319	sensorineural deafness
+N9	Reference T9 unknown:D016116	piebaldism
+N10	Reference T10 unknown:D016116	piebaldism
+N11	Reference T11 unknown:D014849	Waardenburg syndrome

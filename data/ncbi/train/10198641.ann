@@ -1,0 +1,8 @@
+T1	Disease 174 179	tumor
+T2	Disease 216 242	breast and ovarian cancers
+T3	Disease 598 623	chromosomal abnormalities
+T4	Disease 768 778	aneuploidy
+N1	Reference T1 unknown:D009369	tumor
+N2	Reference T2 unknown:D061325	breast and ovarian cancers
+N3	Reference T3 unknown:D002869	chromosomal abnormalities
+N4	Reference T4 unknown:D000782	aneuploidy

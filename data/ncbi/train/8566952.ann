@@ -1,0 +1,30 @@
+T1	Disease 66 86	adrenoleukodystrophy
+T2	Disease 89 110	adrenomyeloneuropathy
+T3	Disease 113 133	Adrenoleukodystrophy
+T4	Disease 136 139	ALD
+T5	Disease 147 186	X - linked inherited metabolic disorder
+T6	Disease 210 236	inborn peroxisomal disease
+T7	Disease 251 309	demyelination in the central and peripheral nervous system
+T8	Disease 575 578	ALD
+T9	Disease 682 702	adrenoleukodystrophy
+T10	Disease 705 726	adrenomyeloneuropathy
+T11	Disease 729 732	ALD
+T12	Disease 735 738	AMN
+T13	Disease 779 782	ALD
+T14	Disease 951 954	ALD
+T15	Disease 1225 1228	ALD
+N1	Reference T1 unknown:D000326	adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	adrenomyeloneuropathy
+N3	Reference T3 unknown:D000326	Adrenoleukodystrophy
+N4	Reference T4 unknown:D000326	ALD
+N5	Reference T5 unknown:D008661	X-linked inherited metabolic disorder
+N6	Reference T6 unknown:D018901	inborn peroxisomal disease
+N7	Reference T7 unknown:D003711	demyelination in the central and peripheral nervous system
+N8	Reference T8 unknown:D000326	ALD
+N9	Reference T9 unknown:D000326	adrenoleukodystrophy
+N10	Reference T10 unknown:D000326	adrenomyeloneuropathy
+N11	Reference T11 unknown:D000326	ALD
+N12	Reference T12 unknown:D000326	AMN
+N13	Reference T13 unknown:D000326	ALD
+N14	Reference T14 unknown:D000326	ALD
+N15	Reference T15 unknown:D000326	ALD

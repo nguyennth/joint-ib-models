@@ -1,0 +1,59 @@
+task_name: ncbi
+
+train_data: data/ncbi/train/
+dev_data: data/ncbi/dev/
+test_data: data/ncbi/test/
+
+bert_model:  allenai/scibert_scivocab_cased
+
+result_dir: experiments/ncbi/
+ner_model_dir: experiments/ncbi/model/
+joint_model_dir: experiments/ncbi/joint/
+params_dir: experiments/ncbi/ncbi.params
+
+save_params: True
+save_st_ep: -1
+
+epoch: 10
+batchsize: 8
+ner_learning_rate: 2.8970963403537958e-05
+vae_learning_rate: 0.0003265236622521818
+beta: 2.810101424798228e-06
+gama: 1.8249257442349753e-06
+seed: 12
+latent_size: 1024
+warmup_vae: 5
+dropout: 0.3
+gpu: 0
+gradient_accumulation_steps: 1
+warmup_proportion: 0.1
+max_seq: 512
+bert_dim: 768
+
+ner_reduce: False
+ner_reduced_size: 500
+do_reduce: False
+ner_label_limit: 1
+ner_threshold: 0.5
+max_entity_width: 14
+block_size: 1000
+
+weight_decay: 0.0
+max_grad_norm: 1.0
+word_embed_dim: 200
+pretrained_wordvec: data/wordvec/wiki_biowordvec.200d.txt
+freeze_words: False #freeze words in the LSTM decoder
+dec_dim: 256
+dec_layers: 1
+dec_bidirectional: False
+teacher_force: 0.3
+task_weight: 0.99999
+
+ner_eval_corpus: ncbi
+eval_script_path: src/eval/scripts/n2c2.py
+include_nested: True
+lowercase: False
+
+min_w_freq: 1
+unk_w_prob: 0.01
+stats: True

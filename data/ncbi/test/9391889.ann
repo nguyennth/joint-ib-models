@@ -1,0 +1,28 @@
+T1	Disease 25 54	congenital myotonic dystrophy
+T2	Disease 105 134	congenital myotonic dystrophy
+T3	Disease 137 139	DM
+T4	Disease 175 192	mentally retarded
+T5	Disease 217 234	muscular weakness
+T6	Disease 344 346	DM
+T7	Disease 389 391	DM
+T8	Disease 472 485	congenital DM
+T9	Disease 569 582	congenital DM
+T10	Disease 631 633	DM
+T11	Disease 758 771	congenital DM
+T12	Disease 961 974	congenital DM
+T13	Disease 1019 1032	congenital DM
+T14	Disease 1081 1083	DM
+N1	Reference T1 unknown:D009223	congenital myotonic dystrophy
+N2	Reference T2 unknown:D009223	congenital myotonic dystrophy
+N3	Reference T3 unknown:D009223	DM
+N4	Reference T4 unknown:D008607	mentally retarded
+N5	Reference T5 unknown:D018908	muscular weakness
+N6	Reference T6 unknown:D009223	DM
+N7	Reference T7 unknown:D009223	DM
+N8	Reference T8 unknown:D009223	congenital DM
+N9	Reference T9 unknown:D009223	congenital DM
+N10	Reference T10 unknown:D009223	DM
+N11	Reference T11 unknown:D009223	congenital DM
+N12	Reference T12 unknown:D009223	congenital DM
+N13	Reference T13 unknown:D009223	congenital DM
+N14	Reference T14 unknown:D009223	DM

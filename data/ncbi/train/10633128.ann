@@ -1,0 +1,14 @@
+T1	Disease 0 17	Friedreich ataxia
+T2	Disease 34 51	Friedreich ataxia
+T3	Disease 57 102	autosomal recessive neurodegenerative disease
+T4	Disease 131 148	inherited ataxias
+T5	Disease 297 314	Friedreich ataxia
+T6	Disease 520 537	Friedreich ataxia
+T7	Disease 797 801	FRDA
+N1	Reference T1 unknown:D005621	Friedreich ataxia
+N2	Reference T2 unknown:D005621	Friedreich ataxia
+N3	Reference T3 unknown:D020271	autosomal recessive neurodegenerative disease
+N4	Reference T4 unknown:D013132	inherited ataxias
+N5	Reference T5 unknown:D005621	Friedreich ataxia
+N6	Reference T6 unknown:D005621	Friedreich ataxia
+N7	Reference T7 unknown:D005621	FRDA

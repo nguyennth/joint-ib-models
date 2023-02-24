@@ -1,0 +1,16 @@
+T1	Disease 84 92	melanoma
+T2	Disease 162 167	tumor
+T3	Disease 282 290	melanoma
+T4	Disease 352 360	melanoma
+T5	Disease 677 685	melanoma
+T6	Disease 695 704	melanomas
+T7	Disease 773 778	tumor
+T8	Disease 857 862	tumor
+N1	Reference T1 unknown:D008545	melanoma
+N2	Reference T2 unknown:D009369	tumor
+N3	Reference T3 unknown:D008545	melanoma
+N4	Reference T4 unknown:D008545	melanoma
+N5	Reference T5 unknown:D008545	melanoma
+N6	Reference T6 unknown:D008545	melanomas
+N7	Reference T7 unknown:D009369	tumor
+N8	Reference T8 unknown:D009369	tumor

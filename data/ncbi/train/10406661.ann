@@ -1,0 +1,24 @@
+T1	Disease 61 77	kniest dysplasia
+T2	Disease 80 96	Kniest dysplasia
+T3	Disease 120 142	type II collagenopathy
+T4	Disease 186 200	kyphoscoliosis
+T5	Disease 203 221	midface hypoplasia
+T6	Disease 231 237	myopia
+T7	Disease 244 256	hearing loss
+T8	Disease 416 432	Kniest dysplasia
+T9	Disease 790 806	Kniest dysplasia
+T10	Disease 918 934	Kniest dysplasia
+T11	Disease 1360 1376	Kniest dysplasia
+T12	Disease 1549 1565	Kniest dysplasia
+N1	Reference T1 unknown:C537207	kniest dysplasia
+N2	Reference T2 unknown:C537207	Kniest dysplasia
+N3	Reference T3 unknown:C535964	type II collagenopathy
+N4	Reference T4 OMIM:610170	kyphoscoliosis
+N5	Reference T5 OMIM:300194	midface hypoplasia
+N6	Reference T6 unknown:D009216	myopia
+N7	Reference T7 unknown:D034381	hearing loss
+N8	Reference T8 unknown:C537207	Kniest dysplasia
+N9	Reference T9 unknown:C537207	Kniest dysplasia
+N10	Reference T10 unknown:C537207	Kniest dysplasia
+N11	Reference T11 unknown:C537207	Kniest dysplasia
+N12	Reference T12 unknown:C537207	Kniest dysplasia

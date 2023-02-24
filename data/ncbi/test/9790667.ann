@@ -1,0 +1,6 @@
+T1	Disease 281 311	cerebrotendinous xanthomatosis
+T2	Disease 314 317	CTX
+T3	Disease 1404 1454	deficiency in the sterol 27 - hydroxylase activity
+N1	Reference T1 unknown:D019294	cerebrotendinous xanthomatosis
+N2	Reference T2 unknown:D019294	CTX
+N3	Reference T3 unknown:D019294	deficiency in the sterol 27-hydroxylase activity

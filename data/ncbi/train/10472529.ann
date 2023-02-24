@@ -1,0 +1,4 @@
+T1	Disease 161 180	recessive disorders
+T2	Disease 431 446	phenylketonuria
+N1	Reference T1 unknown:D030342	recessive disorders
+N2	Reference T2 unknown:D010661	phenylketonuria

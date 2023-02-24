@@ -1,0 +1,20 @@
+T1	Disease 45 72	Duchenne muscular dystrophy
+T2	Disease 167 218	Duchenne and the milder Becker muscular dystrophies
+T3	Disease 536 555	dystrophic syndrome
+T4	Disease 617 653	Duchenne / Becker muscular dystrophy
+T5	Disease 720 747	Duchenne muscular dystrophy
+T6	Disease 750 753	DMD
+T7	Disease 849 852	DMD
+T8	Disease 1205 1215	myopathies
+T9	Disease 1216 1249	Emery Dreifuss muscular dystrophy
+T10	Disease 1313 1316	DMD
+N1	Reference T1 unknown:D020388	Duchenne muscular dystrophy
+N2	Reference T2 unknown:D020388|C537666	Duchenne and the milder Becker muscular dystrophies
+N3	Reference T3 unknown:D009136	dystrophic syndrome
+N4	Reference T4 unknown:D020388|C537666	Duchenne/Becker muscular dystrophy
+N5	Reference T5 unknown:D020388	Duchenne muscular dystrophy
+N6	Reference T6 unknown:D020388	DMD
+N7	Reference T7 unknown:D020388	DMD
+N8	Reference T8 unknown:D009135	myopathies
+N9	Reference T9 unknown:D020389	Emery Dreifuss muscular dystrophy
+N10	Reference T10 unknown:D020388	DMD

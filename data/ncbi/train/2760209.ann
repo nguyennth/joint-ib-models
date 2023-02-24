@@ -1,0 +1,6 @@
+T1	Disease 31 44	Lesch - Nyhan
+T2	Disease 134 156	Lesch - Nyhan syndrome
+T3	Disease 159 217	hypoxanthine phosphoribosyltransferase [ HPRT ] deficiency
+N1	Reference T1 unknown:D007926	Lesch-Nyhan
+N2	Reference T2 unknown:D007926	Lesch-Nyhan syndrome
+N3	Reference T3 unknown:D007926	hypoxanthine phosphoribosyltransferase [HPRT] deficiency

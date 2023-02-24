@@ -1,0 +1,14 @@
+T1	Disease 19 40	essential fructosuria
+T2	Disease 128 149	Essential fructosuria
+T3	Disease 177 204	inborn errors of metabolism
+T4	Disease 265 299	deficiency of hepatic fructokinase
+T5	Disease 588 609	essential fructosuria
+T6	Disease 1050 1071	essential fructosuria
+T7	Disease 1165 1176	fructosuria
+N1	Reference T1 unknown:C538068	essential fructosuria
+N2	Reference T2 unknown:C538068	Essential fructosuria
+N3	Reference T3 unknown:D008661	inborn errors of metabolism
+N4	Reference T4 unknown:C538068	deficiency of hepatic fructokinase
+N5	Reference T5 unknown:C538068	essential fructosuria
+N6	Reference T6 unknown:C538068	essential fructosuria
+N7	Reference T7 unknown:C538068	fructosuria

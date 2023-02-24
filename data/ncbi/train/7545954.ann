@@ -1,0 +1,8 @@
+T1	Disease 27 52	breast and ovarian cancer
+T2	Disease 169 194	breast and ovarian cancer
+T3	Disease 869 894	breast and ovarian cancer
+T4	Disease 967 980	breast cancer
+N1	Reference T1 unknown:D061325	breast and ovarian cancer
+N2	Reference T2 unknown:D061325	breast and ovarian cancer
+N3	Reference T3 unknown:D061325	breast and ovarian cancer
+N4	Reference T4 unknown:D001943	breast cancer

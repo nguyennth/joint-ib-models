@@ -1,0 +1,36 @@
+T1	Disease 71 93	Li - Fraumeni syndrome
+T2	Disease 103 125	Li - Fraumeni syndrome
+T3	Disease 132 160	autosomal dominant disorde r
+T4	Disease 203 209	cancer
+T5	Disease 307 314	cancers
+T6	Disease 352 374	Li - Fraumeni syndrome
+T7	Disease 535 541	cancer
+T8	Disease 586 608	Li - Fraumeni syndrome
+T9	Disease 819 824	tumor
+T10	Disease 856 864	seminoma
+T11	Disease 882 897	medulloblastoma
+T12	Disease 1091 1099	seminoma
+T13	Disease 1170 1175	tumor
+T14	Disease 1423 1445	Li - Fraumeni syndrome
+T15	Disease 1658 1666	seminoma
+T16	Disease 1669 1684	medulloblastoma
+T17	Disease 1738 1751	tumorogenesis
+T18	Disease 1817 1822	tumor
+N1	Reference T1 unknown:D016864	Li-Fraumeni syndrome
+N2	Reference T2 unknown:D016864	Li-Fraumeni syndrome
+N3	Reference T3 unknown:D030342	autosomal dominant disorder
+N4	Reference T4 unknown:D009369	cancer
+N5	Reference T5 unknown:D009369	cancers
+N6	Reference T6 unknown:D016864	Li-Fraumeni syndrome
+N7	Reference T7 unknown:D009369	cancer
+N8	Reference T8 unknown:D016864	Li-Fraumeni syndrome
+N9	Reference T9 unknown:D009369	tumor
+N10	Reference T10 unknown:D018239	seminoma
+N11	Reference T11 unknown:D008527	medulloblastoma
+N12	Reference T12 unknown:D018239	seminoma
+N13	Reference T13 unknown:D009369	tumor
+N14	Reference T14 unknown:D016864	Li-Fraumeni syndrome
+N15	Reference T15 unknown:D018239	seminoma
+N16	Reference T16 unknown:D008527	medulloblastoma
+N17	Reference T17 unknown:D002471	tumorogenesis
+N18	Reference T18 unknown:D009369	tumor

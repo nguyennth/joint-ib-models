@@ -1,0 +1,8 @@
+T1	Disease 0 13	Wilms ' tumor
+T2	Disease 158 169	Wilms tumor
+T3	Disease 566 592	male pseudohermaphroditism
+T4	Disease 596 618	Denys - Drash syndrome
+N1	Reference T1 unknown:D009396	Wilms' tumor
+N2	Reference T2 unknown:D009396	Wilms tumor
+N3	Reference T3 unknown:D058490	male pseudohermaphroditism
+N4	Reference T4 unknown:D030321	Denys-Drash syndrome

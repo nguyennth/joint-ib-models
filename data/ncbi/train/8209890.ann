@@ -1,0 +1,20 @@
+T1	Disease 67 90	Prader - Willi syndrome
+T2	Disease 187 210	Prader - Willi syndrome
+T3	Disease 213 216	PWS
+T4	Disease 256 259	PWS
+T5	Disease 279 311	neurodevelopmentally handicapped
+T6	Disease 423 426	PWS
+T7	Disease 637 640	PWS
+T8	Disease 726 729	PWS
+T9	Disease 753 785	neurodevelopmentally handicapped
+T10	Disease 871 897	hypothalamic abnormalities
+N1	Reference T1 unknown:D011218	Prader-Willi syndrome
+N2	Reference T2 unknown:D011218	Prader-Willi syndrome
+N3	Reference T3 unknown:D011218	PWS
+N4	Reference T4 unknown:D011218	PWS
+N5	Reference T5 unknown:D009422	neurodevelopmentally handicapped
+N6	Reference T6 unknown:D011218	PWS
+N7	Reference T7 unknown:D011218	PWS
+N8	Reference T8 unknown:D011218	PWS
+N9	Reference T9 unknown:D009422	neurodevelopmentally handicapped
+N10	Reference T10 unknown:D007027	hypothalamic abnormalities

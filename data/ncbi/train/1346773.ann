@@ -1,0 +1,16 @@
+T1	Disease 4 30	Wiskott - Aldrich syndrome
+T2	Disease 142 168	Wiskott - Aldrich syndrome
+T3	Disease 171 174	WAS
+T4	Disease 373 376	WAS
+T5	Disease 480 483	WAS
+T6	Disease 577 580	WAS
+T7	Disease 621 624	WAS
+T8	Disease 707 710	WAS
+N1	Reference T1 unknown:D014923	Wiskott-Aldrich syndrome
+N2	Reference T2 unknown:D014923	Wiskott-Aldrich syndrome
+N3	Reference T3 unknown:D014923	WAS
+N4	Reference T4 unknown:D014923	WAS
+N5	Reference T5 unknown:D014923	WAS
+N6	Reference T6 unknown:D014923	WAS
+N7	Reference T7 unknown:D014923	WAS
+N8	Reference T8 unknown:D014923	WAS

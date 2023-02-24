@@ -1,0 +1,38 @@
+T1	Disease 29 32	APC
+T2	Disease 44 68	adrenocortical carcinoma
+T3	Disease 89 119	familial adenomatous polyposis
+T4	Disease 122 141	Endocrine neoplasms
+T5	Disease 191 221	familial adenomatous polyposis
+T6	Disease 224 227	FAP
+T7	Disease 235 260	adrenocorotical carcinoma
+T8	Disease 311 314	FAP
+T9	Disease 375 401	adenomatous polyposis coli
+T10	Disease 404 407	APC
+T11	Disease 436 445	carcinoma
+T12	Disease 524 527	APC
+T13	Disease 581 584	APC
+T14	Disease 594 615	adrenocortical tumors
+T15	Disease 682 695	desmoid tumor
+T16	Disease 764 767	APC
+T17	Disease 790 803	benign tumors
+T18	Disease 868 874	tumors
+T19	Disease 944 947	FAP
+N1	Reference T1 unknown:D011125	APC
+N2	Reference T2 unknown:D018268	adrenocortical carcinoma
+N3	Reference T3 unknown:D011125	familial adenomatous polyposis
+N4	Reference T4 unknown:D004701	Endocrine neoplasms
+N5	Reference T5 unknown:D011125	familial adenomatous polyposis
+N6	Reference T6 unknown:D011125	FAP
+N7	Reference T7 unknown:D018268	adrenocorotical carcinoma
+N8	Reference T8 unknown:D011125	FAP
+N9	Reference T9 unknown:D011125	adenomatous polyposis coli
+N10	Reference T10 unknown:D011125	APC
+N11	Reference T11 unknown:D002277	carcinoma
+N12	Reference T12 unknown:D011125	APC
+N13	Reference T13 unknown:D011125	APC
+N14	Reference T14 unknown:D018268	adrenocortical tumors
+N15	Reference T15 unknown:C535944	desmoid tumor
+N16	Reference T16 unknown:D011125	APC
+N17	Reference T17 unknown:D009369	benign tumors
+N18	Reference T18 unknown:D009369	tumors
+N19	Reference T19 unknown:D011125	FAP

@@ -1,0 +1,6 @@
+T1	Disease 44 74	Pelizaeus - Merzbacher disease
+T2	Disease 126 156	Pelizaeus - Merzbacher disease
+T3	Disease 660 688	Pelizaeus Merzbacher disease
+N1	Reference T1 OMIM:312080	Pelizaeus-Merzbacher disease
+N2	Reference T2 OMIM:312080	Pelizaeus-Merzbacher disease
+N3	Reference T3 OMIM:312080	Pelizaeus Merzbacher disease

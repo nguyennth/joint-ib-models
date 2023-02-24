@@ -1,0 +1,4 @@
+T1	Disease 80 105	breast and ovarian cancer
+T2	Disease 471 489	deficient in BRCA1
+N1	Reference T1 unknown:D061325	breast and ovarian cancer
+N2	Reference T2 OMIM:604370	deficient in BRCA1

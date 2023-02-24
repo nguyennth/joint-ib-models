@@ -1,0 +1,16 @@
+T1	Disease 27 60	classical and Duarte galactosemia
+T2	Disease 126 148	Classical galactosemia
+T3	Disease 564 597	classical and Duarte galactosemia
+T4	Disease 651 673	classical galactosemia
+T5	Disease 852 864	galactosemia
+T6	Disease 968 980	galactosemia
+T7	Disease 1187 1199	galactosemia
+T8	Disease 1259 1271	galactosemia
+N1	Reference T1 unknown:D005693	classical and Duarte galactosemia
+N2	Reference T2 unknown:D005693	Classical galactosemia
+N3	Reference T3 unknown:D005693	classical and Duarte galactosemia
+N4	Reference T4 unknown:D005693	classical galactosemia
+N5	Reference T5 unknown:D005693	galactosemia
+N6	Reference T6 unknown:D005693	galactosemia
+N7	Reference T7 unknown:D005693	galactosemia
+N8	Reference T8 unknown:D005693	galactosemia

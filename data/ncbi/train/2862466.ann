@@ -1,0 +1,10 @@
+T1	Disease 57 92	autoimmune chronic active hepatitis
+T2	Disease 115 150	autoimmune chronic active hepatitis
+T3	Disease 153 156	CAH
+T4	Disease 729 732	CAH
+T5	Disease 1024 1037	C4 deficiency
+N1	Reference T1 unknown:D006521	autoimmune chronic active hepatitis
+N2	Reference T2 unknown:D006521	autoimmune chronic active hepatitis
+N3	Reference T3 unknown:D006521	CAH
+N4	Reference T4 unknown:D006521	CAH
+N5	Reference T5 OMIM:614380+OMIM:614379	C4 deficiency

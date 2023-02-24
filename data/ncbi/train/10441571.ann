@@ -1,0 +1,22 @@
+T1	Disease 71 84	eye anomalies
+T2	Disease 197 213	ocular anomalies
+T3	Disease 226 234	aniridia
+T4	Disease 237 251	Peters anomaly
+T5	Disease 254 271	corneal dystrophy
+T6	Disease 274 293	congenital cataract
+T7	Disease 300 317	foveal hypoplasia
+T8	Disease 1086 1100	Peters anomaly
+T9	Disease 1103 1122	congenital cataract
+T10	Disease 1125 1142	Axenfeldt anomaly
+T11	Disease 1154 1171	foveal hypoplasia
+N1	Reference T1 unknown:D005124	eye anomalies
+N2	Reference T2 unknown:D005124	ocular anomalies
+N3	Reference T3 unknown:D015783	aniridia
+N4	Reference T4 unknown:C537884	Peters anomaly
+N5	Reference T5 unknown:D003317	corneal dystrophy
+N6	Reference T6 unknown:D002386	congenital cataract
+N7	Reference T7 OMIM:136520	foveal hypoplasia
+N8	Reference T8 unknown:C537884	Peters anomaly
+N9	Reference T9 unknown:D002386	congenital cataract
+N10	Reference T10 unknown:C535679	Axenfeldt anomaly
+N11	Reference T11 OMIM:136520	foveal hypoplasia

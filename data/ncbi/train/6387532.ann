@@ -1,0 +1,12 @@
+T1	Disease 26 46	adrenoleukodystrophy
+T2	Disease 200 220	adrenoleukodystrophy
+T3	Disease 223 226	ALD
+T4	Disease 307 331	neurologic deterioration
+T5	Disease 367 387	adenovirus infection
+T6	Disease 409 412	ALD
+N1	Reference T1 unknown:D000326	adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	adrenoleukodystrophy
+N3	Reference T3 unknown:D000326	ALD
+N4	Reference T4 unknown:D019636	neurologic deterioration
+N5	Reference T5 unknown:D000257	adenovirus infection
+N6	Reference T6 unknown:D000326	ALD

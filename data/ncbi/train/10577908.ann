@@ -1,0 +1,28 @@
+T1	Disease 23 49	Sjogren - Larsson syndrome
+T2	Disease 113 139	Sjogren - Larsson syndrome
+T3	Disease 142 145	SLS
+T4	Disease 154 182	autosomal recessive disorder
+T5	Disease 200 210	ichthyosis
+T6	Disease 213 231	mental retardation
+T7	Disease 234 244	spasticity
+T8	Disease 251 301	deficient activity of fatty aldehyde dehydrogenase
+T9	Disease 354 357	SLS
+T10	Disease 443 446	SLS
+T11	Disease 680 683	SLS
+T12	Disease 1509 1512	SLS
+T13	Disease 1594 1597	SLS
+T14	Disease 1738 1741	SLS
+N1	Reference T1 unknown:D016111	Sjogren-Larsson syndrome
+N2	Reference T2 unknown:D016111	Sjogren-Larsson syndrome
+N3	Reference T3 unknown:D016111	SLS
+N4	Reference T4 unknown:D030342	autosomal recessive disorder
+N5	Reference T5 unknown:D007057	ichthyosis
+N6	Reference T6 unknown:D008607	mental retardation
+N7	Reference T7 unknown:D009128	spasticity
+N8	Reference T8 unknown:D016111	deficient activity of fatty aldehyde dehydrogenase
+N9	Reference T9 unknown:D016111	SLS
+N10	Reference T10 unknown:D016111	SLS
+N11	Reference T11 unknown:D016111	SLS
+N12	Reference T12 unknown:D016111	SLS
+N13	Reference T13 unknown:D016111	SLS
+N14	Reference T14 unknown:D016111	SLS

@@ -1,0 +1,34 @@
+T1	Disease 8 27	von Hippel - Lindau
+T2	Disease 51 90	papillary cystadenoma of the epididymis
+T3	Disease 93 132	Papillary cystadenoma of the epididymis
+T4	Disease 215 250	von Hippel - Lindau ( VHL ) disease
+T5	Disease 327 330	VHL
+T6	Disease 429 468	papillary cystadenoma of the epididymis
+T7	Disease 514 545	metastatic renal cell carcinoma
+T8	Disease 808 829	papillary cystadenoma
+T9	Disease 844 864	renal cell carcinoma
+T10	Disease 926 953	von Hippel - Lindau disease
+T11	Disease 1033 1036	VHL
+T12	Disease 1054 1057	VHL
+T13	Disease 1103 1109	tumors
+T14	Disease 1392 1395	VHL
+T15	Disease 1430 1435	tumor
+T16	Disease 1454 1457	VHL
+T17	Disease 1536 1566	cystadenomas of the epididymis
+N1	Reference T1 unknown:D006623	von Hippel-Lindau
+N2	Reference T2 unknown:D018292	papillary cystadenoma of the epididymis
+N3	Reference T3 unknown:D018292	Papillary cystadenoma of the epididymis
+N4	Reference T4 unknown:D006623	von Hippel-Lindau (VHL) disease
+N5	Reference T5 unknown:D006623	VHL
+N6	Reference T6 unknown:D018292	papillary cystadenoma of the epididymis
+N7	Reference T7 unknown:C538445	metastatic renal cell carcinoma
+N8	Reference T8 unknown:D018292	papillary cystadenoma
+N9	Reference T9 unknown:D002292	renal cell carcinoma
+N10	Reference T10 unknown:D006623	von Hippel-Lindau disease
+N11	Reference T11 unknown:D006623	VHL
+N12	Reference T12 unknown:D006623	VHL
+N13	Reference T13 unknown:D009369	tumors
+N14	Reference T14 unknown:D006623	VHL
+N15	Reference T15 unknown:D009369	tumor
+N16	Reference T16 unknown:D006623	VHL
+N17	Reference T17 unknown:D003537	cystadenomas of the epididymis

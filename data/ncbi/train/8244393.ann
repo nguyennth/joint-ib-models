@@ -1,0 +1,4 @@
+T1	Disease 509 570	autosomal recessive disease glucose / galactose malabsorption
+T2	Disease 1037 1053	genetic diseases
+N1	Reference T1 OMIM:606824	autosomal recessive disease glucose/galactose malabsorption
+N2	Reference T2 unknown:D030342	genetic diseases

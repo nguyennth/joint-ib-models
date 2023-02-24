@@ -1,0 +1,8 @@
+T1	Disease 24 37	C2 deficiency
+T2	Disease 107 121	C2 - deficient
+T3	Disease 302 315	C2 deficiency
+T4	Disease 397 411	C2 - deficient
+N1	Reference T1 OMIM:217000	C2 deficiency
+N2	Reference T2 OMIM:217000	C2-deficient
+N3	Reference T3 OMIM:217000	C2 deficiency
+N4	Reference T4 OMIM:217000	C2-deficient

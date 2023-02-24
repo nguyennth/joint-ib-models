@@ -1,0 +1,30 @@
+T1	Disease 0 15	Maternal disomy
+T2	Disease 20 43	Prader - Willi syndrome
+T3	Disease 150 203	Maternal uniparental disomy ( UPD ) for chromosome 15
+T4	Disease 253 276	Prader - Willi syndrome
+T5	Disease 279 282	PWS
+T6	Disease 319 337	maternal disomy 15
+T7	Disease 341 344	PWS
+T8	Disease 574 577	PWS
+T9	Disease 914 917	PWS
+T10	Disease 1011 1014	PWS
+T11	Disease 1261 1276	Maternal disomy
+T12	Disease 1612 1630	Uniparental disomy
+T13	Disease 1796 1799	PWS
+T14	Disease 1894 1909	maternal UPD 15
+T15	Disease 1914 1917	PWS
+N1	Reference T1 unknown:D024182	Maternal disomy
+N2	Reference T2 unknown:D011218	Prader-Willi syndrome
+N3	Reference T3 unknown:C538037	Maternal uniparental disomy (UPD) for chromosome 15
+N4	Reference T4 unknown:D011218	Prader-Willi syndrome
+N5	Reference T5 unknown:D011218	PWS
+N6	Reference T6 unknown:C538037	maternal disomy 15
+N7	Reference T7 unknown:D011218	PWS
+N8	Reference T8 unknown:D011218	PWS
+N9	Reference T9 unknown:D011218	PWS
+N10	Reference T10 unknown:D011218	PWS
+N11	Reference T11 unknown:D024182	Maternal disomy
+N12	Reference T12 unknown:D024182	Uniparental disomy
+N13	Reference T13 unknown:D011218	PWS
+N14	Reference T14 unknown:C538037	maternal UPD 15
+N15	Reference T15 unknown:D011218	PWS

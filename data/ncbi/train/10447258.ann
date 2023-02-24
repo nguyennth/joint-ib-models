@@ -1,0 +1,20 @@
+T1	Disease 44 62	Zellweger syndrome
+T2	Disease 69 98	Zellweger spectrum of disease
+T3	Disease 114 132	Zellweger syndrome
+T4	Disease 176 205	neonatal adrenoleukodystrophy
+T5	Disease 210 234	infantile Refsum disease
+T6	Disease 708 726	Zellweger syndrome
+T7	Disease 812 830	Zellweger syndrome
+T8	Disease 1018 1036	Zellweger syndrome
+T9	Disease 1439 1457	Zellweger syndrome
+T10	Disease 1571 1589	Zellweger syndrome
+N1	Reference T1 unknown:D015211	Zellweger syndrome
+N2	Reference T2 unknown:D015211	Zellweger spectrum of disease
+N3	Reference T3 unknown:D015211	Zellweger syndrome
+N4	Reference T4 OMIM:202370	neonatal adrenoleukodystrophy
+N5	Reference T5 unknown:D052919	infantile Refsum disease
+N6	Reference T6 unknown:D015211	Zellweger syndrome
+N7	Reference T7 unknown:D015211	Zellweger syndrome
+N8	Reference T8 unknown:D015211	Zellweger syndrome
+N9	Reference T9 unknown:D015211	Zellweger syndrome
+N10	Reference T10 unknown:D015211	Zellweger syndrome

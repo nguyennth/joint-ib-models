@@ -1,0 +1,4 @@
+T1	Disease 189 223	familial breast and ovarian cancer
+T2	Disease 944 967	breast / ovarian cancer
+N1	Reference T1 OMIM:613399	familial breast and ovarian cancer
+N2	Reference T2 unknown:D061325	breast/ovarian cancer

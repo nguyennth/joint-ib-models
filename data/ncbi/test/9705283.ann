@@ -1,0 +1,14 @@
+T1	Disease 442 450	aniridia
+T2	Disease 453 467	Peters anomaly
+T3	Disease 470 498	autosomal dominant keratitis
+T4	Disease 505 530	familial foveal dysplasia
+T5	Disease 613 621	aniridia
+T6	Disease 782 790	Aniridia
+T7	Disease 1575 1583	aniridia
+N1	Reference T1 unknown:D015783	aniridia
+N2	Reference T2 unknown:C537884	Peters anomaly
+N3	Reference T3 unknown:C537022	autosomal dominant keratitis
+N4	Reference T4 OMIM:136520	familial foveal dysplasia
+N5	Reference T5 unknown:D015783	aniridia
+N6	Reference T6 unknown:D015783	Aniridia
+N7	Reference T7 unknown:D015783	aniridia

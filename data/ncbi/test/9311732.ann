@@ -1,0 +1,30 @@
+T1	Disease 62 87	unilateral retinoblastoma
+T2	Disease 121 146	unilateral retinoblastoma
+T3	Disease 149 154	tumor
+T4	Disease 284 298	retinoblastoma
+T5	Disease 438 463	unilateral retinoblastoma
+T6	Disease 513 518	tumor
+T7	Disease 544 550	tumors
+T8	Disease 760 766	tumors
+T9	Disease 922 928	tumors
+T10	Disease 960 966	tumors
+T11	Disease 1034 1040	tumors
+T12	Disease 1133 1139	tumors
+T13	Disease 1852 1858	tumors
+T14	Disease 1889 1913	bilateral retinoblastoma
+T15	Disease 2001 2015	retinoblastoma
+N1	Reference T1 unknown:D012175	unilateral retinoblastoma
+N2	Reference T2 unknown:D012175	unilateral retinoblastoma
+N3	Reference T3 unknown:D009369	tumor
+N4	Reference T4 unknown:D012175	retinoblastoma
+N5	Reference T5 unknown:D012175	unilateral retinoblastoma
+N6	Reference T6 unknown:D009369	tumor
+N7	Reference T7 unknown:D009369	tumors
+N8	Reference T8 unknown:D009369	tumors
+N9	Reference T9 unknown:D009369	tumors
+N10	Reference T10 unknown:D009369	tumors
+N11	Reference T11 unknown:D009369	tumors
+N12	Reference T12 unknown:D009369	tumors
+N13	Reference T13 unknown:D009369	tumors
+N14	Reference T14 unknown:D012175	bilateral retinoblastoma
+N15	Reference T15 unknown:D012175	retinoblastoma

@@ -1,0 +1,28 @@
+T1	Disease 0 58	Hereditary deficiency of the fifth component of complement
+T2	Disease 161 219	hereditary deficiency of the fifth component of complement
+T3	Disease 292 320	systemic lupus erythematosus
+T4	Disease 1018 1031	C5 deficiency
+T5	Disease 1091 1105	C5 - deficient
+T6	Disease 1108 1111	C5D
+T7	Disease 1300 1303	C5D
+T8	Disease 1474 1477	C5D
+T9	Disease 1684 1702	glomerulonephritis
+T10	Disease 1705 1715	vasculitis
+T11	Disease 1722 1731	arthritis
+T12	Disease 1830 1850	bacterial infections
+T13	Disease 1983 1986	C5D
+T14	Disease 2101 2119	pyogenic infection
+N1	Reference T1 OMIM:609536	Hereditary deficiency of the fifth component of complement
+N2	Reference T2 OMIM:609536	hereditary deficiency of the fifth component of complement
+N3	Reference T3 unknown:D008180	systemic lupus erythematosus
+N4	Reference T4 OMIM:609536	C5 deficiency
+N5	Reference T5 OMIM:609536	C5-deficient
+N6	Reference T6 OMIM:609536	C5D
+N7	Reference T7 OMIM:609536	C5D
+N8	Reference T8 OMIM:609536	C5D
+N9	Reference T9 unknown:D005921	glomerulonephritis
+N10	Reference T10 unknown:D014657	vasculitis
+N11	Reference T11 unknown:D001168	arthritis
+N12	Reference T12 unknown:D001424	bacterial infections
+N13	Reference T13 OMIM:609536	C5D
+N14	Reference T14 unknown:D007239	pyogenic infection

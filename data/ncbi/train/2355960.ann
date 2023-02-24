@@ -1,0 +1,16 @@
+T1	Disease 26 45	Tay - Sachs disease
+T2	Disease 167 186	Tay - Sachs disease
+T3	Disease 189 216	GM2 gangliosidosis , type 1
+T4	Disease 282 310	autosomal recessive disorder
+T5	Disease 378 397	Tay - Sachs disease
+T6	Disease 587 606	Tay - Sachs disease
+T7	Disease 864 883	Tay - Sachs disease
+T8	Disease 1941 1960	Tay - Sachs disease
+N1	Reference T1 unknown:D013661	Tay-Sachs disease
+N2	Reference T2 unknown:D013661	Tay-Sachs disease
+N3	Reference T3 unknown:D013661	GM2 gangliosidosis, type 1
+N4	Reference T4 unknown:D030342	autosomal recessive disorder
+N5	Reference T5 unknown:D013661	Tay-Sachs disease
+N6	Reference T6 unknown:D013661	Tay-Sachs disease
+N7	Reference T7 unknown:D013661	Tay-Sachs disease
+N8	Reference T8 unknown:D013661	Tay-Sachs disease

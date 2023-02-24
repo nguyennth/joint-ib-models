@@ -1,0 +1,28 @@
+T1	Disease 23 43	adrenoleukodystrophy
+T2	Disease 168 188	adrenoleukodystrophy
+T3	Disease 191 194	ALD
+T4	Disease 251 254	ALD
+T5	Disease 531 534	ALD
+T6	Disease 729 747	Alzheimers disease
+T7	Disease 750 752	AD
+T8	Disease 807 860	abnormalities in the bilateral cerebellar hemispheres
+T9	Disease 1116 1158	demyelination of the cerebral white matter
+T10	Disease 1234 1237	ALD
+T11	Disease 1452 1455	ALD
+T12	Disease 1587 1603	insidious lesion
+T13	Disease 1729 1750	neuronal degeneration
+T14	Disease 1754 1757	ALD
+N1	Reference T1 unknown:D000326	adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	adrenoleukodystrophy
+N3	Reference T3 unknown:D000326	ALD
+N4	Reference T4 unknown:D000326	ALD
+N5	Reference T5 unknown:D000326	ALD
+N6	Reference T6 unknown:D000544	Alzheimers disease
+N7	Reference T7 unknown:D000544	AD
+N8	Reference T8 unknown:D002526	abnormalities in the bilateral cerebellar hemispheres
+N9	Reference T9 unknown:D003711	demyelination of the cerebral white matter
+N10	Reference T10 unknown:D000326	ALD
+N11	Reference T11 unknown:D000326	ALD
+N12	Reference T12 unknown:D004194	insidious lesion
+N13	Reference T13 unknown:D009410	neuronal degeneration
+N14	Reference T14 unknown:D000326	ALD

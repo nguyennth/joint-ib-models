@@ -1,0 +1,22 @@
+T1	Disease 10 32	coronary heart disease
+T2	Disease 280 302	coronary heart disease
+T3	Disease 305 308	CHD
+T4	Disease 872 875	CHD
+T5	Disease 971 974	CHD
+T6	Disease 1044 1047	CHD
+T7	Disease 1248 1251	CHD
+T8	Disease 1393 1396	CHD
+T9	Disease 1425 1440	CETP deficiency
+T10	Disease 1486 1489	CHD
+T11	Disease 1519 1522	CHD
+N1	Reference T1 unknown:D003327	coronary heart disease
+N2	Reference T2 unknown:D003327	coronary heart disease
+N3	Reference T3 unknown:D003327	CHD
+N4	Reference T4 unknown:D003327	CHD
+N5	Reference T5 unknown:D003327	CHD
+N6	Reference T6 unknown:D003327	CHD
+N7	Reference T7 unknown:D003327	CHD
+N8	Reference T8 unknown:D003327	CHD
+N9	Reference T9 OMIM:143470	CETP deficiency
+N10	Reference T10 unknown:D003327	CHD
+N11	Reference T11 unknown:D003327	CHD

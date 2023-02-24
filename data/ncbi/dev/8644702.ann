@@ -1,0 +1,28 @@
+T1	Disease 28 64	hereditary breast and ovarian cancer
+T2	Disease 136 161	breast and ovarian cancer
+T3	Disease 1115 1138	breast - ovarian cancer
+T4	Disease 1185 1199	ovarian cancer
+T5	Disease 1290 1313	breast - ovarian cancer
+T6	Disease 1421 1427	tumors
+T7	Disease 1436 1441	tumor
+T8	Disease 1502 1547	prostatic , pancreas , skin , and lung cancer
+T9	Disease 1552 1570	malignant melanoma
+T10	Disease 1576 1593	oligodendroglioma
+T11	Disease 1602 1616	carcinosarcoma
+T12	Disease 1694 1708	ovarian cancer
+T13	Disease 1874 1898	hereditary breast cancer
+T14	Disease 1931 1946	ovarian cancers
+N1	Reference T1 unknown:D061325	hereditary breast and ovarian cancer
+N2	Reference T2 unknown:D061325	breast and ovarian cancer
+N3	Reference T3 unknown:D061325	breast-ovarian cancer
+N4	Reference T4 unknown:D010051	ovarian cancer
+N5	Reference T5 unknown:D061325	breast-ovarian cancer
+N6	Reference T6 unknown:D009369	tumors
+N7	Reference T7 unknown:D009369	tumor
+N8	Reference T8 unknown:D011471|D010190|D012878|D008175	prostatic, pancreas, skin, and lung cancer
+N9	Reference T9 unknown:D008545	malignant melanoma
+N10	Reference T10 unknown:D009837	oligodendroglioma
+N11	Reference T11 unknown:D002296	carcinosarcoma
+N12	Reference T12 unknown:D010051	ovarian cancer
+N13	Reference T13 unknown:D001943	hereditary breast cancer
+N14	Reference T14 unknown:D010051	ovarian cancers

@@ -1,0 +1,26 @@
+T1	Disease 39 67	familial Mediterranean fever
+T2	Disease 171 199	familial Mediterranean fever
+T3	Disease 202 205	MEF
+T4	Disease 246 249	MEF
+T5	Disease 254 271	MEF - amyloidosis
+T6	Disease 357 360	MEF
+T7	Disease 375 386	amyloidosis
+T8	Disease 441 444	MEF
+T9	Disease 518 521	MEF
+T10	Disease 612 615	MEF
+T11	Disease 731 748	MEF - amyloidosis
+T12	Disease 794 797	MEF
+T13	Disease 815 826	amyloidosis
+N1	Reference T1 unknown:D010505	familial Mediterranean fever
+N2	Reference T2 unknown:D010505	familial Mediterranean fever
+N3	Reference T3 unknown:D010505	MEF
+N4	Reference T4 unknown:D010505	MEF
+N5	Reference T5 unknown:D000686|D010505	MEF-amyloidosis
+N6	Reference T6 unknown:D010505	MEF
+N7	Reference T7 unknown:D000686	amyloidosis
+N8	Reference T8 unknown:D010505	MEF
+N9	Reference T9 unknown:D010505	MEF
+N10	Reference T10 unknown:D010505	MEF
+N11	Reference T11 unknown:D000686|D010505	MEF-amyloidosis
+N12	Reference T12 unknown:D010505	MEF
+N13	Reference T13 unknown:D000686	amyloidosis

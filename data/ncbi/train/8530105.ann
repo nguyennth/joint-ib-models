@@ -1,0 +1,16 @@
+T1	Disease 41 66	Langer - Giedion syndrome
+T2	Disease 141 171	trichorhinophalangeal syndrome
+T3	Disease 376 401	Langer - Giedion syndrome
+T4	Disease 629 654	Langer - Giedion syndrome
+T5	Disease 916 946	trichorhinophalangeal syndrome
+T6	Disease 949 953	TRPS
+T7	Disease 1158 1161	LGS
+T8	Disease 1273 1298	Langer - Giedion syndrome
+N1	Reference T1 unknown:D015826	Langer-Giedion syndrome
+N2	Reference T2 OMIM:190350	trichorhinophalangeal syndrome
+N3	Reference T3 unknown:D015826	Langer-Giedion syndrome
+N4	Reference T4 unknown:D015826	Langer-Giedion syndrome
+N5	Reference T5 OMIM:190350	trichorhinophalangeal syndrome
+N6	Reference T6 OMIM:190350	TRPS
+N7	Reference T7 unknown:D015826	LGS
+N8	Reference T8 unknown:D015826	Langer-Giedion syndrome

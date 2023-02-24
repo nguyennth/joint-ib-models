@@ -1,0 +1,22 @@
+T1	Disease 89 103	Prader - Willi
+T2	Disease 113 136	Prader - Willi syndrome
+T3	Disease 139 142	PWS
+T4	Disease 158 179	neurogenetic disorder
+T5	Disease 214 238	contiguous gene syndrome
+T6	Disease 356 359	PWS
+T7	Disease 508 511	PWS
+T8	Disease 589 592	PWS
+T9	Disease 651 654	PWS
+T10	Disease 780 783	PWS
+T11	Disease 1510 1513	PWS
+N1	Reference T1 unknown:D011218	Prader-Willi
+N2	Reference T2 unknown:D011218	Prader-Willi syndrome
+N3	Reference T3 unknown:D011218	PWS
+N4	Reference T4 unknown:D020271	neurogenetic disorder
+N5	Reference T5 unknown:D025063	contiguous gene syndrome
+N6	Reference T6 unknown:D011218	PWS
+N7	Reference T7 unknown:D011218	PWS
+N8	Reference T8 unknown:D011218	PWS
+N9	Reference T9 unknown:D011218	PWS
+N10	Reference T10 unknown:D011218	PWS
+N11	Reference T11 unknown:D011218	PWS

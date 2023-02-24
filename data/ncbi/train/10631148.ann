@@ -1,0 +1,10 @@
+T1	Disease 47 61	retinoblastoma
+T2	Disease 109 134	hereditary retinoblastoma
+T3	Disease 233 247	retinoblastoma
+T4	Disease 440 465	hereditary retinoblastoma
+T5	Disease 615 629	retinoblastoma
+N1	Reference T1 unknown:D012175	retinoblastoma
+N2	Reference T2 unknown:D012175	hereditary retinoblastoma
+N3	Reference T3 unknown:D012175	retinoblastoma
+N4	Reference T4 unknown:D012175	hereditary retinoblastoma
+N5	Reference T5 unknown:D012175	retinoblastoma

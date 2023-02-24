@@ -1,0 +1,44 @@
+T1	Disease 56 83	von Hippel - Lindau disease
+T2	Disease 93 130	sporadic cerebellar haemangioblastoma
+T3	Disease 135 155	renal cell carcinoma
+T4	Disease 199 238	unilateral and bilateral retinoblastoma
+T5	Disease 267 285	hereditary tumours
+T6	Disease 318 334	sporadic tumours
+T7	Disease 405 434	sporadic renal cell carcinoma
+T8	Disease 534 554	renal cell carcinoma
+T9	Disease 570 598	cerebellar haemangioblastoma
+T10	Disease 631 666	von Hippel - Lindau ( VHL ) disease
+T11	Disease 708 737	sporadic renal cell carcinoma
+T12	Disease 759 796	sporadic cerebellar haemangioblastoma
+T13	Disease 828 848	renal cell carcinoma
+T14	Disease 853 881	cerebellar haemangioblastoma
+T15	Disease 885 896	VHL disease
+T16	Disease 981 1010	sporadic renal cell carcinoma
+T17	Disease 1015 1043	cerebellar haemangioblastoma
+T18	Disease 1120 1123	VHL
+T19	Disease 1156 1162	tumour
+T20	Disease 1181 1218	Sporadic cerebellar haemangioblastoma
+T21	Disease 1228 1248	renal cell carcinoma
+T22	Disease 1315 1318	VHL
+N1	Reference T1 unknown:D006623	von Hippel-Lindau disease
+N2	Reference T2 unknown:D018325	sporadic cerebellar haemangioblastoma
+N3	Reference T3 unknown:D002292	renal cell carcinoma
+N4	Reference T4 unknown:D012175	unilateral and bilateral retinoblastoma
+N5	Reference T5 unknown:D009386	hereditary tumours
+N6	Reference T6 unknown:D009369	sporadic tumours
+N7	Reference T7 unknown:D002292	sporadic renal cell carcinoma
+N8	Reference T8 unknown:D002292	renal cell carcinoma
+N9	Reference T9 unknown:D018325	cerebellar haemangioblastoma
+N10	Reference T10 unknown:D006623	von Hippel-Lindau (VHL) disease
+N11	Reference T11 unknown:D002292	sporadic renal cell carcinoma
+N12	Reference T12 unknown:D018325	sporadic cerebellar haemangioblastoma
+N13	Reference T13 unknown:D002292	renal cell carcinoma
+N14	Reference T14 unknown:D018325	cerebellar haemangioblastoma
+N15	Reference T15 unknown:D006623	VHL disease
+N16	Reference T16 unknown:D002292	sporadic renal cell carcinoma
+N17	Reference T17 unknown:D018325	cerebellar haemangioblastoma
+N18	Reference T18 unknown:D006623	VHL
+N19	Reference T19 unknown:D009369	tumour
+N20	Reference T20 unknown:D018325	Sporadic cerebellar haemangioblastoma
+N21	Reference T21 unknown:D002292	renal cell carcinoma
+N22	Reference T22 unknown:D006623	VHL

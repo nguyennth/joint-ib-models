@@ -1,0 +1,8 @@
+T1	Disease 90 117	Duchenne muscular dystrophy
+T2	Disease 252 255	DMD
+T3	Disease 311 338	Duchenne muscular dystrophy
+T4	Disease 833 852	X - linked diseases
+N1	Reference T1 unknown:D020388	Duchenne muscular dystrophy
+N2	Reference T2 unknown:D020388	DMD
+N3	Reference T3 unknown:D020388	Duchenne muscular dystrophy
+N4	Reference T4 unknown:D040181	X-linked diseases

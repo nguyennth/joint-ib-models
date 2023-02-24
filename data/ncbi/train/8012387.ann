@@ -1,0 +1,20 @@
+T1	Disease 0 29	X - linked spastic paraplegia
+T2	Disease 34 64	Pelizaeus - Merzbacher disease
+T3	Disease 69 86	allelic disorders
+T4	Disease 137 166	X - linked spastic paraplegia
+T5	Disease 169 172	SPG
+T6	Disease 294 328	X - linked dysmyelinating disorder
+T7	Disease 361 391	Pelizaeus - Merzbacher disease
+T8	Disease 394 397	PMD
+T9	Disease 974 977	PMD
+T10	Disease 982 999	allelic disorders
+N1	Reference T1 OMIM:312920	X-linked spastic paraplegia
+N2	Reference T2 OMIM:312080	Pelizaeus-Merzbacher disease
+N3	Reference T3 unknown:D030342	allelic disorders
+N4	Reference T4 OMIM:312920	X-linked spastic paraplegia
+N5	Reference T5 OMIM:312920	SPG
+N6	Reference T6 unknown:D020279	X-linked dysmyelinating disorder
+N7	Reference T7 OMIM:312080	Pelizaeus-Merzbacher disease
+N8	Reference T8 OMIM:312080	PMD
+N9	Reference T9 OMIM:312080	PMD
+N10	Reference T10 unknown:D030342	allelic disorders

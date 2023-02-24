@@ -1,0 +1,10 @@
+T1	Disease 20 36	cat eye syndrome
+T2	Disease 130 146	cat eye syndrome
+T3	Disease 149 152	CES
+T4	Disease 192 195	CES
+T5	Disease 396 405	tetrasomy
+N1	Reference T1 C535918|OMIM:115470	cat eye syndrome
+N2	Reference T2 C535918|OMIM:115470	cat eye syndrome
+N3	Reference T3 C535918|OMIM:115470	CES
+N4	Reference T4 C535918|OMIM:115470	CES
+N5	Reference T5 unknown:D058670	tetrasomy

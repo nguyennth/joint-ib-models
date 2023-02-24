@@ -1,0 +1,14 @@
+task_name: ncbi
+test_data: data/ncbi/dev/
+
+# output
+result_dir: experiments/ncbi/dev/
+ner_model_dir: experiments/ncbi/model/
+joint_model_dir: experiments/ncbi/joint/
+params_dir: experiments/ncbi/ncbi.params
+
+# prediction
+predict: True
+pipelines: False
+batch_size: 16
+gpu: -1

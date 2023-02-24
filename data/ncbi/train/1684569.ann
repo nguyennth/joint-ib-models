@@ -1,0 +1,24 @@
+T1	Disease 74 100	Wiskott - Aldrich syndrome
+T2	Disease 103 106	WAS
+T3	Disease 185 188	WAS
+T4	Disease 206 222	thrombocytopenic
+T5	Disease 263 289	Wiskott - Aldrich syndrome
+T6	Disease 292 295	WAS
+T7	Disease 403 406	WAS
+T8	Disease 452 455	WAS
+T9	Disease 567 570	WAS
+T10	Disease 942 958	thrombocytopenia
+T11	Disease 982 985	WAS
+T12	Disease 1066 1069	WAS
+N1	Reference T1 unknown:D014923	Wiskott-Aldrich syndrome
+N2	Reference T2 unknown:D014923	WAS
+N3	Reference T3 unknown:D014923	WAS
+N4	Reference T4 unknown:D013921	thrombocytopenic
+N5	Reference T5 unknown:D014923	Wiskott-Aldrich syndrome
+N6	Reference T6 unknown:D014923	WAS
+N7	Reference T7 unknown:D014923	WAS
+N8	Reference T8 unknown:D014923	WAS
+N9	Reference T9 unknown:D014923	WAS
+N10	Reference T10 unknown:D013921	thrombocytopenia
+N11	Reference T11 unknown:D014923	WAS
+N12	Reference T12 unknown:D014923	WAS

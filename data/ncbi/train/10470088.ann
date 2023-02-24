@@ -1,0 +1,38 @@
+T1	Disease 39 69	familial adenomatous polyposis
+T2	Disease 220 225	tumor
+T3	Disease 332 338	tumors
+T4	Disease 342 345	FAP
+T5	Disease 348 378	familial adenomatous polyposis
+T6	Disease 388 415	sporadic colorectal cancers
+T7	Disease 430 433	APC
+T8	Disease 457 477	attenuated polyposis
+T9	Disease 620 623	APC
+T10	Disease 707 710	FAP
+T11	Disease 734 737	APC
+T12	Disease 841 860	colorectal adenomas
+T13	Disease 884 887	FAP
+T14	Disease 1024 1027	APC
+T15	Disease 1276 1279	APC
+T16	Disease 1311 1323	FAP desmoids
+T17	Disease 1363 1368	tumor
+T18	Disease 1496 1502	tumors
+T19	Disease 1562 1568	tumors
+N1	Reference T1 unknown:D011125	familial adenomatous polyposis
+N2	Reference T2 unknown:D009369	tumor
+N3	Reference T3 unknown:D009369	tumors
+N4	Reference T4 unknown:D011125	FAP
+N5	Reference T5 unknown:D011125	familial adenomatous polyposis
+N6	Reference T6 unknown:D015179	sporadic colorectal cancers
+N7	Reference T7 unknown:D011125	APC
+N8	Reference T8 unknown:C538265	attenuated polyposis
+N9	Reference T9 unknown:D011125	APC
+N10	Reference T10 unknown:D011125	FAP
+N11	Reference T11 unknown:D011125	APC
+N12	Reference T12 unknown:D000236	colorectal adenomas
+N13	Reference T13 unknown:D011125	FAP
+N14	Reference T14 unknown:D011125	APC
+N15	Reference T15 unknown:D011125	APC
+N16	Reference T16 unknown:D018222	FAP desmoids
+N17	Reference T17 unknown:D009369	tumor
+N18	Reference T18 unknown:D009369	tumors
+N19	Reference T19 unknown:D009369	tumors

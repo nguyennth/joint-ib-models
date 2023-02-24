@@ -1,0 +1,16 @@
+T1	Disease 137 160	G ( M2 ) gangliosidosis
+T2	Disease 301 320	Tay - Sachs disease
+T3	Disease 323 326	TSD
+T4	Disease 341 391	infantile form of G ( M2 ) gangliosidosis , Type 1
+T5	Disease 778 801	G ( M2 ) gangliosidosis
+T6	Disease 1554 1557	TSD
+T7	Disease 1771 1794	Hex A enzyme deficiency
+T8	Disease 2014 2030	Hex A deficiency
+N1	Reference T1 unknown:D020143	G(M2) gangliosidosis
+N2	Reference T2 unknown:D013661	Tay-Sachs disease
+N3	Reference T3 unknown:D013661	TSD
+N4	Reference T4 unknown:D020143	infantile form of G (M2) gangliosidosis, Type 1
+N5	Reference T5 unknown:D020143	G (M2) gangliosidosis
+N6	Reference T6 unknown:D013661	TSD
+N7	Reference T7 unknown:D013661	Hex A enzyme deficiency
+N8	Reference T8 unknown:D013661	Hex A deficiency

@@ -1,0 +1,24 @@
+T1	Disease 0 47	Absence of the seventh component of complemen t
+T2	Disease 66 89	chronic meningococcemia
+T3	Disease 104 114	vasculitis
+T4	Disease 174 179	fever
+T5	Disease 182 191	arthritis
+T6	Disease 198 218	cutaneous vasculitis
+T7	Disease 237 260	chronic meningococcemia
+T8	Disease 377 426	deficiency of the seventh component of complement
+T9	Disease 504 520	deficiency of C7
+T10	Disease 539 567	Chronic neisserial infection
+T11	Disease 591 604	C7 deficiency
+T12	Disease 652 672	cutaneous vasculitis
+N1	Reference T1 OMIM:610102	Absence of the seventh component of complement
+N2	Reference T2 unknown:D008589	chronic meningococcemia
+N3	Reference T3 unknown:D014657	vasculitis
+N4	Reference T4 unknown:D005334	fever
+N5	Reference T5 unknown:D001168	arthritis
+N6	Reference T6 unknown:D018366	cutaneous vasculitis
+N7	Reference T7 unknown:D008589	chronic meningococcemia
+N8	Reference T8 OMIM:610102	deficiency of the seventh component of complement
+N9	Reference T9 OMIM:610102	deficiency of C7
+N10	Reference T10 unknown:D016870	Chronic neisserial infection
+N11	Reference T11 OMIM:610102	C7 deficiency
+N12	Reference T12 unknown:D018366	cutaneous vasculitis

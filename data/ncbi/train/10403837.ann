@@ -1,0 +1,16 @@
+T1	Disease 89 120	hereditary progressive dystonia
+T2	Disease 155 186	Hereditary progressive dystonia
+T3	Disease 221 224	HPD
+T4	Disease 227 253	dopa - responsive dystonia
+T5	Disease 256 259	DRD
+T6	Disease 305 319	genetic defect
+T7	Disease 1035 1038	HPD
+T8	Disease 1041 1044	DRD
+N1	Reference T1 unknown:D020821	hereditary progressive dystonia
+N2	Reference T2 unknown:D020821	Hereditary progressive dystonia
+N3	Reference T3 unknown:D020821	HPD
+N4	Reference T4 unknown:C538007	dopa-responsive dystonia
+N5	Reference T5 unknown:C538007	DRD
+N6	Reference T6 unknown:D030342	genetic defect
+N7	Reference T7 unknown:D020821	HPD
+N8	Reference T8 unknown:C538007	DRD

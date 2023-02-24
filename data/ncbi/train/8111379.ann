@@ -1,0 +1,6 @@
+T1	Disease 55 63	aniridia
+T2	Disease 148 156	aniridia
+T3	Disease 1021 1029	aniridia
+N1	Reference T1 unknown:D015783	aniridia
+N2	Reference T2 unknown:D015783	aniridia
+N3	Reference T3 unknown:D015783	aniridia

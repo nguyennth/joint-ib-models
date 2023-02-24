@@ -1,0 +1,22 @@
+T1	Disease 40 82	dihydropyrimidine dehydrogenase deficiency
+T2	Disease 85 135	Dihydropyrimidine dehydrogenase ( DPD ) deficiency
+T3	Disease 142 169	autosomal recessive disease
+T4	Disease 362 376	DPD deficiency
+T5	Disease 445 462	deficiency of DPD
+T6	Disease 772 775	DPD
+T7	Disease 1020 1040	convulsive disorders
+T8	Disease 1043 1060	motor retardation
+T9	Disease 1065 1083	mental retardation
+T10	Disease 1293 1315	clinical abnormalities
+T11	Disease 1345 1359	DPD deficiency
+N1	Reference T1 unknown:D054067	dihydropyrimidine dehydrogenase deficiency
+N2	Reference T2 unknown:D054067	Dihydropyrimidine dehydrogenase (DPD) deficiency
+N3	Reference T3 unknown:D030342	autosomal recessive disease
+N4	Reference T4 unknown:D054067	DPD deficiency
+N5	Reference T5 unknown:D054067	deficiency of DPD
+N6	Reference T6 unknown:D054067	DPD
+N7	Reference T7 unknown:D004829	convulsive disorders
+N8	Reference T8 unknown:D019957	motor retardation
+N9	Reference T9 unknown:D008607	mental retardation
+N10	Reference T10 unknown:D013568	clinical abnormalities
+N11	Reference T11 unknown:D054067	DPD deficiency

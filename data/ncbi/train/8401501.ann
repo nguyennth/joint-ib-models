@@ -1,0 +1,10 @@
+T1	Disease 23 55	breast - ovarian cancer syndrome
+T2	Disease 177 211	hereditary breast - ovarian cancer
+T3	Disease 492 526	breast and breast - ovarian cancer
+T4	Disease 668 681	breast cancer
+T5	Disease 1190 1233	hereditary breast - ovarian cancer syndrome
+N1	Reference T1 unknown:D061325	breast-ovarian cancer syndrome
+N2	Reference T2 unknown:D061325	hereditary breast-ovarian cancer
+N3	Reference T3 unknown:D001943|D061325	breast and breast-ovarian cancer
+N4	Reference T4 unknown:D001943	breast cancer
+N5	Reference T5 unknown:D061325	hereditary breast-ovarian cancer syndrome

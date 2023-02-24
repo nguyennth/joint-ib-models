@@ -1,0 +1,16 @@
+T1	Disease 21 36	phenylketonuria
+T2	Disease 49 64	Phenylketonuria
+T3	Disease 67 70	PKU
+T4	Disease 77 110	disorder of amino acid metabolism
+T5	Disease 189 247	deficiency of the hepatic enzyme phenylalanine hydroxylase
+T6	Disease 258 261	PKU
+T7	Disease 728 731	PKU
+T8	Disease 1413 1416	PKU
+N1	Reference T1 unknown:D010661	phenylketonuria
+N2	Reference T2 unknown:D010661	Phenylketonuria
+N3	Reference T3 unknown:D010661	PKU
+N4	Reference T4 unknown:D000592	disorder of amino acid metabolism
+N5	Reference T5 OMIM:261600	deficiency of the hepatic enzyme phenylalanine hydroxylase
+N6	Reference T6 unknown:D010661	PKU
+N7	Reference T7 unknown:D010661	PKU
+N8	Reference T8 unknown:D010661	PKU

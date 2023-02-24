@@ -1,0 +1,32 @@
+T1	Disease 50 65	G6PD deficiency
+T2	Disease 100 107	malaria
+T3	Disease 110 167	Glucose - 6 - phosphate dehydrogenase ( G6PD ) deficiency
+T4	Disease 186 197	enzymopathy
+T5	Disease 327 334	malaria
+T6	Disease 415 422	malaria
+T7	Disease 460 475	G6PD deficiency
+T8	Disease 519 526	malaria
+T9	Disease 579 598	X - linked disorder
+T10	Disease 913 928	G6PD deficiency
+T11	Disease 931 939	G6PD A -
+T12	Disease 1001 1008	malaria
+T13	Disease 1138 1145	malaria
+T14	Disease 1225 1242	enzyme deficiency
+T15	Disease 1283 1290	malaria
+T16	Disease 1320 1335	G6PD deficiency
+N1	Reference T1 unknown:D005955	G6PD deficiency
+N2	Reference T2 unknown:D008288	malaria
+N3	Reference T3 unknown:D005955	Glucose-6-phosphate dehydrogenase (G6PD) deficiency
+N4	Reference T4 unknown:D008661	enzymopathy
+N5	Reference T5 unknown:D008288	malaria
+N6	Reference T6 unknown:D008288	malaria
+N7	Reference T7 unknown:D005955	G6PD deficiency
+N8	Reference T8 unknown:D008288	malaria
+N9	Reference T9 unknown:D040181	X-linked disorder
+N10	Reference T10 unknown:D005955	G6PD deficiency
+N11	Reference T11 unknown:D005955	G6PD A-
+N12	Reference T12 unknown:D008288	malaria
+N13	Reference T13 unknown:D008288	malaria
+N14	Reference T14 unknown:D008661	enzyme deficiency
+N15	Reference T15 unknown:D008288	malaria
+N16	Reference T16 unknown:D005955	G6PD deficiency

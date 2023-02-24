@@ -1,0 +1,8 @@
+T1	Disease 63 82	factor X deficiency
+T2	Disease 85 104	Factor X deficiency
+T3	Disease 115 137	haemorrhagic condition
+T4	Disease 341 360	factor X deficiency
+N1	Reference T1 unknown:D005171	factor X deficiency
+N2	Reference T2 unknown:D005171	Factor X deficiency
+N3	Reference T3 unknown:D006474	haemorrhagic condition
+N4	Reference T4 unknown:D005171	factor X deficiency

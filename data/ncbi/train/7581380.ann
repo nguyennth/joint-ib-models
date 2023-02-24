@@ -1,0 +1,28 @@
+T1	Disease 0 15	Myotonia levior
+T2	Disease 21 46	chloride channel disorder
+T3	Disease 62 97	dominant non - dystrophic myotonias
+T4	Disease 225 252	Dominant myotonia congenita
+T5	Disease 255 271	Thomsens disease
+T6	Disease 394 412	dominant myotonias
+T7	Disease 633 648	myotonia levior
+T8	Disease 701 709	myotonia
+T9	Disease 718 734	Thomsens disease
+T10	Disease 752 770	muscle hypertrophy
+T11	Disease 888 903	myotonia levior
+T12	Disease 951 967	Thomsens disease
+T13	Disease 1169 1185	Thomsens disease
+T14	Disease 1248 1266	recessive myotonia
+N1	Reference T1 unknown:D009224	Myotonia levior
+N2	Reference T2 OMIM:160800	chloride channel disorder
+N3	Reference T3 unknown:C536245	dominant non-dystrophic myotonias
+N4	Reference T4 unknown:D009224	Dominant myotonia congenita
+N5	Reference T5 unknown:D009224	Thomsens disease
+N6	Reference T6 unknown:D009224	dominant myotonias
+N7	Reference T7 unknown:D009224	myotonia levior
+N8	Reference T8 unknown:D009222	myotonia
+N9	Reference T9 unknown:D009224	Thomsens disease
+N10	Reference T10 unknown:C536106	muscle hypertrophy
+N11	Reference T11 unknown:D009224	myotonia levior
+N12	Reference T12 unknown:D009224	Thomsens disease
+N13	Reference T13 unknown:D009224	Thomsens disease
+N14	Reference T14 unknown:D009224	recessive myotonia

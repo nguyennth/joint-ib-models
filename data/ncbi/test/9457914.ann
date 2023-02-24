@@ -1,0 +1,18 @@
+T1	Disease 74 111	atrophic benign epidermolysis bullosa
+T2	Disease 186 223	atrophic benign epidermolysis bullosa
+T3	Disease 254 286	junctional epidermolysis bullosa
+T4	Disease 306 316	blistering
+T5	Disease 319 333	nail dystrophy
+T6	Disease 336 351	patchy alopecia
+T7	Disease 358 378	dental abnormalities
+T8	Disease 381 395	Skin fragility
+T9	Disease 547 584	atrophic benign epidermolysis bullosa
+N1	Reference T1 unknown:D016109	atrophic benign epidermolysis bullosa
+N2	Reference T2 unknown:D016109	atrophic benign epidermolysis bullosa
+N3	Reference T3 unknown:D016109	junctional epidermolysis bullosa
+N4	Reference T4 unknown:D001768	blistering
+N5	Reference T5 unknown:C538333	nail dystrophy
+N6	Reference T6 unknown:C531609	patchy alopecia
+N7	Reference T7 unknown:D014071	dental abnormalities
+N8	Reference T8 unknown:C536183	Skin fragility
+N9	Reference T9 unknown:D016109	atrophic benign epidermolysis bullosa

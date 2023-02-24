@@ -1,0 +1,34 @@
+T1	Disease 0 26	Sjogren - Larsson syndrome
+T2	Disease 260 278	inherited disorder
+T3	Disease 281 307	Sjogren - Larsson syndrome
+T4	Disease 310 313	SLS
+T5	Disease 325 328	SLS
+T6	Disease 566 569	SLS
+T7	Disease 800 803	SLS
+T8	Disease 886 889	SLS
+T9	Disease 1061 1064	SLS
+T10	Disease 1102 1105	SLS
+T11	Disease 1260 1263	SLS
+T12	Disease 1369 1372	SLS
+T13	Disease 1424 1427	SLS
+T14	Disease 1431 1479	deficiency of fatty alcohol NAD + oxidoreductase
+T15	Disease 1482 1485	SLS
+T16	Disease 1507 1525	inherited disorder
+T17	Disease 1561 1600	abnormality in fatty alcohol metabolism
+N1	Reference T1 unknown:D016111	Sjogren-Larsson syndrome
+N2	Reference T2 unknown:D030342	inherited disorder
+N3	Reference T3 unknown:D016111	Sjogren-Larsson syndrome
+N4	Reference T4 unknown:D016111	SLS
+N5	Reference T5 unknown:D016111	SLS
+N6	Reference T6 unknown:D016111	SLS
+N7	Reference T7 unknown:D016111	SLS
+N8	Reference T8 unknown:D016111	SLS
+N9	Reference T9 unknown:D016111	SLS
+N10	Reference T10 unknown:D016111	SLS
+N11	Reference T11 unknown:D016111	SLS
+N12	Reference T12 unknown:D016111	SLS
+N13	Reference T13 unknown:D016111	SLS
+N14	Reference T14 unknown:D016111	deficiency of fatty alcohol  NAD + oxidoreductase
+N15	Reference T15 unknown:D016111	SLS
+N16	Reference T16 unknown:D030342	inherited disorder
+N17	Reference T17 unknown:D005235	abnormality in fatty alcohol metabolism

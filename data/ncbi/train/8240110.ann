@@ -1,0 +1,24 @@
+T1	Disease 31 51	retinitis pigmentosa
+T2	Disease 54 71	pattern dystrophy
+T3	Disease 78 99	fundus flavimaculatus
+T4	Disease 273 312	autosomal dominant retinitis pigmentosa
+T5	Disease 323 340	macular dystrophy
+T6	Disease 347 375	retinitis punctata albescens
+T7	Disease 1074 1094	retinitis pigmentosa
+T8	Disease 1209 1234	pattern macular dystrophy
+T9	Disease 1404 1424	macular degeneration
+T10	Disease 1477 1498	fundus flavimaculatus
+T11	Disease 1602 1622	macular degeneration
+T12	Disease 1641 1661	Pericentral scotomas
+N1	Reference T1 unknown:D012174	retinitis pigmentosa
+N2	Reference T2 unknown:D008268	pattern dystrophy
+N3	Reference T3 unknown:C535804	fundus flavimaculatus
+N4	Reference T4 unknown:D012174	autosomal dominant retinitis pigmentosa
+N5	Reference T5 unknown:D008268	macular dystrophy
+N6	Reference T6 OMIM:136880	retinitis punctata albescens
+N7	Reference T7 unknown:D012174	retinitis pigmentosa
+N8	Reference T8 unknown:D008268	pattern macular dystrophy
+N9	Reference T9 unknown:D008268	macular degeneration
+N10	Reference T10 unknown:C535804	fundus flavimaculatus
+N11	Reference T11 unknown:D008268	macular degeneration
+N12	Reference T12 unknown:D012607	Pericentral scotomas

@@ -1,0 +1,12 @@
+T1	Disease 26 39	C9 deficiency
+T2	Disease 107 160	Deficiency of the ninth component of human complement
+T3	Disease 187 208	complement deficiency
+T4	Disease 347 360	C9 deficiency
+T5	Disease 498 511	C9 deficiency
+T6	Disease 1224 1237	C9 deficiency
+N1	Reference T1 OMIM:613825	C9 deficiency
+N2	Reference T2 OMIM:613825	Deficiency of the ninth component of human complement
+N3	Reference T3 unknown:D007153	complement deficiency
+N4	Reference T4 OMIM:613825	C9 deficiency
+N5	Reference T5 OMIM:613825	C9 deficiency
+N6	Reference T6 OMIM:613825	C9 deficiency

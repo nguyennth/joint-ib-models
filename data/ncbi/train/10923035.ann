@@ -1,0 +1,26 @@
+T1	Disease 81 127	benign familial infantile convulsions syndrome
+T2	Disease 130 134	BFIC
+T3	Disease 139 176	Benign familial infantile convulsions
+T4	Disease 179 183	BFIC
+T5	Disease 196 232	autosomal dominant epilepsy syndrome
+T6	Disease 491 517	neurological abnormalities
+T7	Disease 535 539	BFIC
+T8	Disease 730 780	generalized epilepsy and febrile seizures " plus "
+T9	Disease 881 885	BFIC
+T10	Disease 972 976	BFIC
+T11	Disease 1066 1070	BFIC
+T12	Disease 1217 1221	BFIC
+T13	Disease 1399 1403	BFIC
+N1	Reference T1 unknown:D020936	benign familial infantile convulsions syndrome
+N2	Reference T2 unknown:D020936	BFIC
+N3	Reference T3 unknown:D020936	Benign familial infantile convulsions
+N4	Reference T4 unknown:D020936	BFIC
+N5	Reference T5 unknown:D030342+D004827	autosomal dominant epilepsy syndrome
+N6	Reference T6 unknown:D009461	neurological abnormalities
+N7	Reference T7 unknown:D020936	BFIC
+N8	Reference T8 unknown:D004829+D003294	generalized epilepsy and febrile seizures   plus
+N9	Reference T9 unknown:D020936	BFIC
+N10	Reference T10 unknown:D020936	BFIC
+N11	Reference T11 unknown:D020936	BFIC
+N12	Reference T12 unknown:D020936	BFIC
+N13	Reference T13 unknown:D020936	BFIC

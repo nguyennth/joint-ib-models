@@ -1,0 +1,10 @@
+T1	Disease 171 198	retinoblastoma ( RB ) tumor
+T2	Disease 253 262	RB tumors
+T3	Disease 415 424	RB tumors
+T4	Disease 432 438	tumors
+T5	Disease 936 945	RB tumors
+N1	Reference T1 unknown:D012175	retinoblastoma (RB) tumor
+N2	Reference T2 unknown:D012175	RB tumors
+N3	Reference T3 unknown:D012175	RB tumors
+N4	Reference T4 unknown:D009369	tumors
+N5	Reference T5 unknown:D012175	RB tumors

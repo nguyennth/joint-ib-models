@@ -1,0 +1,24 @@
+T1	Disease 0 63	Haploinsufficiency of the transcription factors FOXC1 and FOXC2
+T2	Disease 105 145	Anterior segment developmental disorders
+T3	Disease 158 183	Axenfeld - Rieger anomaly
+T4	Disease 186 189	ARA
+T5	Disease 281 289	glaucoma
+T6	Disease 383 391	glaucoma
+T7	Disease 663 687	anterior segment defects
+T8	Disease 692 700	glaucoma
+T9	Disease 762 792	anterior segment abnormalities
+T10	Disease 943 958	iris hypoplasia
+T11	Disease 1668 1671	ARA
+T12	Disease 1946 1954	glaucoma
+N1	Reference T1 OMIM:602482|OMIM:153400	Haploinsufficiency of the transcription factors FOXC1 and FOXC2
+N2	Reference T2 unknown:C537775	Anterior segment developmental disorders
+N3	Reference T3 unknown:C535679	Axenfeld-Rieger anomaly
+N4	Reference T4 unknown:C535679	ARA
+N5	Reference T5 unknown:D005901	glaucoma
+N6	Reference T6 unknown:D005901	glaucoma
+N7	Reference T7 unknown:C537775	anterior segment defects
+N8	Reference T8 unknown:D005901	glaucoma
+N9	Reference T9 unknown:C537775	anterior segment abnormalities
+N10	Reference T10 unknown:D007499	iris hypoplasia
+N11	Reference T11 unknown:C535679	ARA
+N12	Reference T12 unknown:D005901	glaucoma

@@ -1,0 +1,6 @@
+T1	Disease 156 193	atrophic benign epidermolysis bullosa
+T2	Disease 222 259	atrophic benign epidermolysis bullosa
+T3	Disease 470 507	atrophic benign epidermolysis bullosa
+N1	Reference T1 unknown:D016109	atrophic benign epidermolysis bullosa
+N2	Reference T2 unknown:D016109	atrophic benign epidermolysis bullosa
+N3	Reference T3 unknown:D016109	atrophic benign epidermolysis bullosa

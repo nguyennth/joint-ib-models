@@ -1,0 +1,40 @@
+T1	Disease 52 58	cancer
+T2	Disease 217 222	tumor
+T3	Disease 309 334	malignant rhabdoid tumors
+T4	Disease 388 394	tumors
+T5	Disease 774 789	rhabdoid tumors
+T6	Disease 880 886	tumors
+T7	Disease 946 971	choroid plexus carcinomas
+T8	Disease 1009 1031	neuroectodermal tumors
+T9	Disease 1047 1063	medulloblastomas
+T10	Disease 1130 1144	breast cancers
+T11	Disease 1147 1159	Wilms tumors
+T12	Disease 1162 1169	gliomas
+T13	Disease 1172 1183	ependymomas
+T14	Disease 1186 1194	sarcomas
+T15	Disease 1205 1210	tumor
+T16	Disease 1330 1345	rhabdoid tumors
+T17	Disease 1348 1373	choroid plexus carcinomas
+T18	Disease 1390 1406	medulloblastomas
+T19	Disease 1583 1590	cancers
+T20	Disease 1673 1681	rhabdoid
+N1	Reference T1 unknown:D009369	cancer
+N2	Reference T2 unknown:D009369	tumor
+N3	Reference T3 unknown:D018335	malignant rhabdoid tumors
+N4	Reference T4 unknown:D009369	tumors
+N5	Reference T5 unknown:D018335	rhabdoid tumors
+N6	Reference T6 unknown:D009369	tumors
+N7	Reference T7 unknown:D020288	choroid plexus carcinomas
+N8	Reference T8 unknown:D017599	neuroectodermal tumors
+N9	Reference T9 unknown:D008527	medulloblastomas
+N10	Reference T10 unknown:D001943	breast cancers
+N11	Reference T11 unknown:D009396	Wilms tumors
+N12	Reference T12 unknown:D005910	gliomas
+N13	Reference T13 unknown:D004806	ependymomas
+N14	Reference T14 unknown:D012509	sarcomas
+N15	Reference T15 unknown:D009369	tumor
+N16	Reference T16 unknown:D018335	rhabdoid tumors
+N17	Reference T17 unknown:D020288	choroid plexus carcinomas
+N18	Reference T18 unknown:D008527	medulloblastomas
+N19	Reference T19 unknown:D009369	cancers
+N20	Reference T20 unknown:D018335	rhabdoid

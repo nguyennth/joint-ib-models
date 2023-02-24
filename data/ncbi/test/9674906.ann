@@ -1,0 +1,52 @@
+T1	Disease 0 33	Schwartz - Jampel syndrome type 2
+T2	Disease 38 64	Stuve - Wiedemann syndrome
+T3	Disease 189 215	Schwartz - Jampel syndrome
+T4	Disease 218 221	SJS
+T5	Disease 227 235	myotonia
+T6	Disease 240 258	skeletal dysplasia
+T7	Disease 277 287	SJS type 2
+T8	Disease 351 377	Stuve - Wiedemann syndrome
+T9	Disease 380 383	SWS
+T10	Disease 404 414	campomelia
+T11	Disease 429 447	skeletal dysplasia
+T12	Disease 450 462	contractures
+T13	Disease 469 480	early death
+T14	Disease 649 659	SJS type 2
+T15	Disease 693 696	SWS
+T16	Disease 758 761	SJS
+T17	Disease 765 768	SWS
+T18	Disease 824 846	neuromuscular disorder
+T19	Disease 854 883	congenital joint contractures
+T20	Disease 937 949	hyperthermia
+T21	Disease 1000 1043	campomelic - metaphyseal skeletal dysplasia
+T22	Disease 1249 1263	bone dysplasia
+T23	Disease 1295 1305	SJS type 2
+T24	Disease 1317 1320	SWS
+T25	Disease 1412 1415	SWS
+T26	Disease 1420 1430	SJS type 2
+N1	Reference T1 unknown:C537502	Schwartz-Jampel syndrome type 2
+N2	Reference T2 unknown:C537502	Stuve-Wiedemann syndrome
+N3	Reference T3 unknown:D010009	Schwartz-Jampel syndrome
+N4	Reference T4 unknown:D010009	SJS
+N5	Reference T5 unknown:D009222	myotonia
+N6	Reference T6 MESH:C535662	skeletal dysplasia
+N7	Reference T7 unknown:C537502	SJS type 2
+N8	Reference T8 unknown:C537502	Stuve-Wiedemann syndrome
+N9	Reference T9 unknown:C537502	SWS
+N10	Reference T10 unknown:C537966	campomelia
+N11	Reference T11 MESH:C535662	skeletal dysplasia
+N12	Reference T12 unknown:D003286	contractures
+N13	Reference T13 unknown:D003643	early death
+N14	Reference T14 unknown:C537502	SJS type 2
+N15	Reference T15 unknown:C537502	SWS
+N16	Reference T16 unknown:D010009	SJS
+N17	Reference T17 unknown:C537502	SWS
+N18	Reference T18 unknown:D009468	neuromuscular disorder
+N19	Reference T19 unknown:D003286	congenital joint contractures
+N20	Reference T20 unknown:D005334	hyperthermia
+N21	Reference T21 unknown:D055036	campomelic-metaphyseal skeletal dysplasia
+N22	Reference T22 unknown:D001848	bone dysplasia
+N23	Reference T23 unknown:C537502	SJS type 2
+N24	Reference T24 unknown:C537502	SWS
+N25	Reference T25 unknown:C537502	SWS
+N26	Reference T26 unknown:C537502	SJS type 2

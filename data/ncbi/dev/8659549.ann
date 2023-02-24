@@ -1,0 +1,16 @@
+T1	Disease 88 103	Canavan disease
+T2	Disease 106 121	Canavan disease
+T3	Disease 189 217	deficiency of aspartoacylase
+T4	Disease 259 274	Canavan disease
+T5	Disease 593 608	Canavan disease
+T6	Disease 1291 1306	Canavan disease
+T7	Disease 1807 1825	deficiency of ASPA
+T8	Disease 1857 1872	Canavan disease
+N1	Reference T1 unknown:D017825	Canavan disease
+N2	Reference T2 unknown:D017825	Canavan disease
+N3	Reference T3 unknown:D017825	deficiency of aspartoacylase
+N4	Reference T4 unknown:D017825	Canavan disease
+N5	Reference T5 unknown:D017825	Canavan disease
+N6	Reference T6 unknown:D017825	Canavan disease
+N7	Reference T7 unknown:D017825	deficiency of ASPA
+N8	Reference T8 unknown:D017825	Canavan disease

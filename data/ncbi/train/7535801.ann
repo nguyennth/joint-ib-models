@@ -1,0 +1,6 @@
+T1	Disease 19 52	subtotal complement C6 deficiency
+T2	Disease 134 167	subtotal complement C6 deficiency
+T3	Disease 1369 1407	subtotal C6 and complete C6 deficiency
+N1	Reference T1 OMIM:612446	subtotal complement C6 deficiency
+N2	Reference T2 OMIM:612446	subtotal complement C6 deficiency
+N3	Reference T3 OMIM:612446	subtotal C6 and complete C6 deficiency

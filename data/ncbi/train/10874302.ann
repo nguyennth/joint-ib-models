@@ -1,0 +1,6 @@
+T1	Disease 255 272	Mendelian disease
+T2	Disease 303 326	multifactorial diseases
+T3	Disease 658 670	hemophilia B
+N1	Reference T1 unknown:D030342	Mendelian disease
+N2	Reference T2 unknown:D004194	multifactorial diseases
+N3	Reference T3 unknown:D002836	hemophilia B

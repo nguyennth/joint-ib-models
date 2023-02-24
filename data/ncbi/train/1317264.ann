@@ -1,0 +1,32 @@
+T1	Disease 4 7	APC
+T2	Disease 31 61	familial adenomatous polyposis
+T3	Disease 84 98	gastric cancer
+T4	Disease 110 124	gastric cancer
+T5	Disease 144 150	cancer
+T6	Disease 245 260	gastric cancers
+T7	Disease 344 370	adenomatous polyposis coli
+T8	Disease 373 376	APC
+T9	Disease 415 446	adenomatous polyps in the colon
+T10	Disease 486 500	gastric cancer
+T11	Disease 543 558	gastric cancers
+T12	Disease 778 781	APC
+T13	Disease 793 799	tumors
+T14	Disease 843 849	tumors
+T15	Disease 1043 1046	APC
+T16	Disease 1124 1139	gastric cancers
+N1	Reference T1 unknown:D011125	APC
+N2	Reference T2 unknown:D011125	familial adenomatous polyposis
+N3	Reference T3 unknown:D013274	gastric cancer
+N4	Reference T4 unknown:D013274	gastric cancer
+N5	Reference T5 unknown:D009369	cancer
+N6	Reference T6 unknown:D013274	gastric cancers
+N7	Reference T7 unknown:D011125	adenomatous polyposis coli
+N8	Reference T8 unknown:D011125	APC
+N9	Reference T9 unknown:D018256	adenomatous polyps in the colon
+N10	Reference T10 unknown:D013274	gastric cancer
+N11	Reference T11 unknown:D013274	gastric cancers
+N12	Reference T12 unknown:D011125	APC
+N13	Reference T13 unknown:D009369	tumors
+N14	Reference T14 unknown:D009369	tumors
+N15	Reference T15 unknown:D011125	APC
+N16	Reference T16 unknown:D013274	gastric cancers

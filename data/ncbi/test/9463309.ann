@@ -1,0 +1,16 @@
+T1	Disease 48 65	anhaptoglobinemia
+T2	Disease 157 174	anhaptoglobinemia
+T3	Disease 470 487	anhaptoglobinemia
+T4	Disease 696 715	hypohaptoglobinemia
+T5	Disease 901 920	hypohaptoglobinemic
+T6	Disease 1018 1037	hypohaptoglobinemic
+T7	Disease 1842 1859	anhaptoglobinemia
+T8	Disease 1969 1988	hypohaptoglobinemia
+N1	Reference T1 unknown:D000740	anhaptoglobinemia
+N2	Reference T2 unknown:D000740	anhaptoglobinemia
+N3	Reference T3 unknown:D000740	anhaptoglobinemia
+N4	Reference T4 unknown:D000740	hypohaptoglobinemia
+N5	Reference T5 unknown:D000740	hypohaptoglobinemic
+N6	Reference T6 unknown:D000740	hypohaptoglobinemic
+N7	Reference T7 unknown:D000740	anhaptoglobinemia
+N8	Reference T8 unknown:D000740	hypohaptoglobinemia

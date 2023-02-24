@@ -1,0 +1,16 @@
+T1	Disease 0 22	Aspartylglucosaminuria
+T2	Disease 49 71	Aspartylglucosaminuria
+T3	Disease 74 77	AGU
+T4	Disease 90 125	disorder of glycoprotein metabolism
+T5	Disease 140 198	deficiency of the lysosomal enzyme aspartylglucosaminidase
+T6	Disease 209 212	AGU
+T7	Disease 361 364	AGU
+T8	Disease 571 574	AGU
+N1	Reference T1 unknown:D054880	Aspartylglucosaminuria
+N2	Reference T2 unknown:D054880	Aspartylglucosaminuria
+N3	Reference T3 unknown:D054880	AGU
+N4	Reference T4 unknown:D008661	disorder of glycoprotein metabolism
+N5	Reference T5 unknown:D054880	deficiency of the lysosomal enzyme aspartylglucosaminidase
+N6	Reference T6 unknown:D054880	AGU
+N7	Reference T7 unknown:D054880	AGU
+N8	Reference T8 unknown:D054880	AGU

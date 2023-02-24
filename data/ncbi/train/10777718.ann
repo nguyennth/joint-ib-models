@@ -1,0 +1,8 @@
+T1	Disease 0 15	Gaucher disease
+T2	Disease 112 127	Gaucher disease
+T3	Disease 130 132	GD
+T4	Disease 159 185	lysosomal storage disorder
+N1	Reference T1 unknown:D005776	Gaucher disease
+N2	Reference T2 unknown:D005776	Gaucher disease
+N3	Reference T3 unknown:D005776	GD
+N4	Reference T4 unknown:D016464	lysosomal storage disorder

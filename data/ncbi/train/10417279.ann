@@ -1,0 +1,12 @@
+T1	Disease 61 91	Pelizaeus - Merzbacher Disease
+T2	Disease 251 279	Brain Dysmyelinating Disease
+T3	Disease 282 312	Pelizaeus - Merzbacher Disease
+T4	Disease 315 318	PMD
+T5	Disease 327 373	X - linked developmental defect of myelination
+T6	Disease 523 526	PMD
+N1	Reference T1 OMIM:312080	Pelizaeus-Merzbacher Disease
+N2	Reference T2 unknown:D020279	Brain Dysmyelinating Disease
+N3	Reference T3 OMIM:312080	Pelizaeus-Merzbacher Disease
+N4	Reference T4 unknown:D020371	PMD
+N5	Reference T5 unknown:D020279	X-linked developmental defect of myelination
+N6	Reference T6 unknown:D020371	PMD

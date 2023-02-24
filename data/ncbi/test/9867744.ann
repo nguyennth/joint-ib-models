@@ -1,0 +1,18 @@
+T1	Disease 13 28	hemochromatosis
+T2	Disease 46 61	hemochromatosis
+T3	Disease 92 103	early death
+T4	Disease 460 473	iron overload
+T5	Disease 542 551	cirrhosis
+T6	Disease 696 711	hemochromatosis
+T7	Disease 809 824	hemochromatosis
+T8	Disease 921 936	hemochromatosis
+T9	Disease 944 961	hepatic cirrhosis
+N1	Reference T1 unknown:D006432	hemochromatosis
+N2	Reference T2 unknown:D006432	hemochromatosis
+N3	Reference T3 unknown:D003643	early death
+N4	Reference T4 unknown:D019190	iron overload
+N5	Reference T5 unknown:D008103	cirrhosis
+N6	Reference T6 unknown:D006432	hemochromatosis
+N7	Reference T7 unknown:D006432	hemochromatosis
+N8	Reference T8 unknown:D006432	hemochromatosis
+N9	Reference T9 unknown:D008103	hepatic cirrhosis

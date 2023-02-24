@@ -1,0 +1,10 @@
+T1	Disease 179 197	Huntington disease
+T2	Disease 200 202	HD
+T3	Disease 444 446	HD
+T4	Disease 731 733	HD
+T5	Disease 745 780	disorder of inappropriate apoptosis
+N1	Reference T1 unknown:D006816	Huntington disease
+N2	Reference T2 unknown:D006816	HD
+N3	Reference T3 unknown:D006816	HD
+N4	Reference T4 unknown:D006816	HD
+N5	Reference T5 unknown:D004194	disorder of inappropriate apoptosis

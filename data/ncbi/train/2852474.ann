@@ -1,0 +1,34 @@
+T1	Disease 0 34	Complex glycerol kinase deficiency
+T2	Disease 155 189	complex glycerol kinase deficiency
+T3	Disease 192 196	CGKD
+T4	Disease 310 328	muscular dystrophy
+T5	Disease 332 347	muscle weakness
+T6	Disease 350 368	mental retardation
+T7	Disease 371 400	congenital adrenal hypoplasia
+T8	Disease 407 433	glycerol kinase deficiency
+T9	Disease 1298 1302	CGKD
+T10	Disease 1306 1333	Duchenne muscular dystrophy
+T11	Disease 1336 1339	DMD
+T12	Disease 1426 1449	gonadotropin deficiency
+T13	Disease 1452 1455	GTD
+T14	Disease 1584 1587	DMD
+T15	Disease 1632 1661	congenital adrenal hypoplasia
+T16	Disease 1664 1667	AHC
+T17	Disease 1674 1677	GTD
+N1	Reference T1 unknown:C538138	Complex glycerol kinase deficiency
+N2	Reference T2 unknown:C538138	complex glycerol kinase deficiency
+N3	Reference T3 unknown:C538138	CGKD
+N4	Reference T4 unknown:D009136	muscular dystrophy
+N5	Reference T5 unknown:D018908	muscle weakness
+N6	Reference T6 unknown:D008607	mental retardation
+N7	Reference T7 unknown:D000312	congenital adrenal hypoplasia
+N8	Reference T8 unknown:C538138	glycerol kinase deficiency
+N9	Reference T9 unknown:C538138	CGKD
+N10	Reference T10 unknown:D020388	Duchenne muscular dystrophy
+N11	Reference T11 unknown:D020388	DMD
+N12	Reference T12 unknown:C535764	gonadotropin deficiency
+N13	Reference T13 unknown:C535764	GTD
+N14	Reference T14 unknown:D020388	DMD
+N15	Reference T15 unknown:D000312	congenital adrenal hypoplasia
+N16	Reference T16 unknown:D000312	AHC
+N17	Reference T17 unknown:C535764	GTD

@@ -1,0 +1,14 @@
+T1	Disease 0 24	Hereditary C2 deficiency
+T2	Disease 57 73	immunodeficiency
+T3	Disease 87 100	C2 deficiency
+T4	Disease 155 171	immunodeficiency
+T5	Disease 193 215	hypoimmunoglobulinemia
+T6	Disease 363 388	chromosomal abnormalities
+T7	Disease 509 522	C2 deficiency
+N1	Reference T1 OMIM:217000	Hereditary C2 deficiency
+N2	Reference T2 unknown:D007153	immunodeficiency
+N3	Reference T3 OMIM:217000	C2 deficiency
+N4	Reference T4 unknown:D007153	immunodeficiency
+N5	Reference T5 unknown:D007153	hypoimmunoglobulinemia
+N6	Reference T6 unknown:D002869	chromosomal abnormalities
+N7	Reference T7 OMIM:217000	C2 deficiency

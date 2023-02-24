@@ -1,0 +1,14 @@
+T1	Disease 82 105	iodide transport defect
+T2	Disease 183 208	congenital hypothyroidism
+T3	Disease 219 242	iodide transport defect
+T4	Disease 373 398	congenital hypothyroidism
+T5	Disease 1178 1201	iodide transport defect
+T6	Disease 1549 1574	congenital hypothyroidism
+T7	Disease 1585 1608	iodide transport defect
+N1	Reference T1 OMIM:274400	iodide transport defect
+N2	Reference T2 unknown:D003409	congenital hypothyroidism
+N3	Reference T3 OMIM:274400	iodide transport defect
+N4	Reference T4 unknown:D003409	congenital hypothyroidism
+N5	Reference T5 OMIM:274400	iodide transport defect
+N6	Reference T6 unknown:D003409	congenital hypothyroidism
+N7	Reference T7 OMIM:274400	iodide transport defect

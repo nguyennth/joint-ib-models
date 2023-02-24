@@ -1,0 +1,8 @@
+T1	Disease 24 41	Friedreich ataxia
+T2	Disease 113 117	FRDA
+T3	Disease 125 142	Friedreich ataxia
+T4	Disease 226 230	FRDA
+N1	Reference T1 unknown:D005621	Friedreich ataxia
+N2	Reference T2 unknown:D005621	FRDA
+N3	Reference T3 unknown:D005621	Friedreich ataxia
+N4	Reference T4 unknown:D005621	FRDA

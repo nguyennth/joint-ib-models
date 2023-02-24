@@ -1,0 +1,26 @@
+T1	Disease 63 66	APC
+T2	Disease 80 106	adenomatous polyposis coli
+T3	Disease 148 153	tumor
+T4	Disease 172 175	APC
+T5	Disease 185 211	adenomatous polyposis coli
+T6	Disease 252 269	colorectal cancer
+T7	Disease 337 393	congenital hypertrophy of the retinal pigment epithelium
+T8	Disease 396 401	CHRPE
+T9	Disease 459 464	CHRPE
+T10	Disease 518 521	APC
+T11	Disease 681 686	CHRPE
+T12	Disease 773 778	CHRPE
+T13	Disease 1048 1051	APC
+N1	Reference T1 unknown:D011125	APC
+N2	Reference T2 unknown:D011125	adenomatous polyposis coli
+N3	Reference T3 unknown:D009369	tumor
+N4	Reference T4 unknown:D011125	APC
+N5	Reference T5 unknown:D011125	adenomatous polyposis coli
+N6	Reference T6 unknown:D015179	colorectal cancer
+N7	Reference T7 unknown:D012164	congenital hypertrophy of the retinal pigment epithelium
+N8	Reference T8 unknown:D012164	CHRPE
+N9	Reference T9 unknown:D012164	CHRPE
+N10	Reference T10 unknown:D011125	APC
+N11	Reference T11 unknown:D012164	CHRPE
+N12	Reference T12 unknown:D012164	CHRPE
+N13	Reference T13 unknown:D011125	APC

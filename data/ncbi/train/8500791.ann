@@ -1,0 +1,20 @@
+T1	Disease 36 48	hemophilia A
+T2	Disease 58 72	von Willebrand
+T3	Disease 125 151	genetic bleeding disorders
+T4	Disease 154 166	hemophilia A
+T5	Disease 171 193	von Willebrand disease
+T6	Disease 290 304	von Willebrand
+T7	Disease 375 387	hemophilia A
+T8	Disease 1360 1370	hemophilia
+T9	Disease 1528 1538	hemophilia
+T10	Disease 1609 1619	hemophilia
+N1	Reference T1 unknown:D006467	hemophilia A
+N2	Reference T2 unknown:D014842	von Willebrand
+N3	Reference T3 unknown:D025861	genetic bleeding disorders
+N4	Reference T4 unknown:D006467	hemophilia A
+N5	Reference T5 unknown:D014842	von Willebrand disease
+N6	Reference T6 unknown:D014842	von Willebrand
+N7	Reference T7 unknown:D006467	hemophilia A
+N8	Reference T8 unknown:D006467|D002836	hemophilia
+N9	Reference T9 unknown:D006467|D002836	hemophilia
+N10	Reference T10 unknown:D006467|D002836	hemophilia

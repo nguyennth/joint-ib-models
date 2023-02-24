@@ -1,0 +1,16 @@
+T1	Disease 20 37	Friedreich ataxia
+T2	Disease 64 83	embryonic lethality
+T3	Disease 112 129	Friedreich ataxia
+T4	Disease 132 136	FRDA
+T5	Disease 157 183	autosomal recessive ataxia
+T6	Disease 544 576	iron - sulfur protein deficiency
+T7	Disease 852 856	Frda
+T8	Disease 912 931	embryonic lethality
+N1	Reference T1 unknown:D005621	Friedreich ataxia
+N2	Reference T2 unknown:D020964	embryonic lethality
+N3	Reference T3 unknown:D005621	Friedreich ataxia
+N4	Reference T4 unknown:D005621	FRDA
+N5	Reference T5 unknown:D013132	autosomal recessive ataxia
+N6	Reference T6 OMIM:255125	iron-sulfur protein deficiency
+N7	Reference T7 unknown:D005621	Frda
+N8	Reference T8 unknown:D020964	embryonic lethality

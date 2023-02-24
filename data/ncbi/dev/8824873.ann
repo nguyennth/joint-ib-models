@@ -1,0 +1,22 @@
+T1	Disease 119 137	Huntington disease
+T2	Disease 175 193	Huntington disease
+T3	Disease 196 198	HD
+T4	Disease 243 245	HD
+T5	Disease 326 328	HD
+T6	Disease 397 399	HD
+T7	Disease 458 482	behavioral abnormalities
+T8	Disease 654 656	HD
+T9	Disease 897 899	HD
+T10	Disease 955 957	HD
+T11	Disease 1182 1184	HD
+N1	Reference T1 unknown:D006816	Huntington disease
+N2	Reference T2 unknown:D006816	Huntington disease
+N3	Reference T3 unknown:D006816	HD
+N4	Reference T4 unknown:D006816	HD
+N5	Reference T5 unknown:D006816	HD
+N6	Reference T6 unknown:D006816	HD
+N7	Reference T7 unknown:D001523	behavioral abnormalities
+N8	Reference T8 unknown:D006816	HD
+N9	Reference T9 unknown:D006816	HD
+N10	Reference T10 unknown:D006816	HD
+N11	Reference T11 unknown:D006816	HD

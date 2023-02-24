@@ -1,0 +1,10 @@
+T1	Disease 23 36	C6 deficiency
+T2	Disease 74 127	Deficiency of the sixth component of human complement
+T3	Disease 216 237	Meningococcal disease
+T4	Disease 295 308	C6 deficiency
+T5	Disease 1171 1185	C6 - deficient
+N1	Reference T1 OMIM:612446	C6 deficiency
+N2	Reference T2 OMIM:612446	Deficiency of the sixth component of human complement
+N3	Reference T3 unknown:D008589	Meningococcal disease
+N4	Reference T4 OMIM:612446	C6 deficiency
+N5	Reference T5 OMIM:612446	C6-deficient

@@ -1,0 +1,8 @@
+T1	Disease 22 36	Wolman disease
+T2	Disease 67 81	Wolman disease
+T3	Disease 567 581	Wolman disease
+T4	Disease 1151 1165	Wolman disease
+N1	Reference T1 unknown:D015223	Wolman disease
+N2	Reference T2 unknown:D015223	Wolman disease
+N3	Reference T3 unknown:D015223	Wolman disease
+N4	Reference T4 unknown:D015223	Wolman disease

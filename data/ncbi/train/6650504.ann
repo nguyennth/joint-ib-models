@@ -1,0 +1,20 @@
+T1	Disease 4 23	Tay - Sachs disease
+T2	Disease 143 162	Tay - Sachs disease
+T3	Disease 165 168	TSD
+T4	Disease 208 211	TSD
+T5	Disease 374 377	TSD
+T6	Disease 395 398	TSD
+T7	Disease 654 657	TSD
+T8	Disease 691 694	TSD
+T9	Disease 857 860	TSD
+T10	Disease 997 1000	TSD
+N1	Reference T1 unknown:D013661	Tay-Sachs disease
+N2	Reference T2 unknown:D013661	Tay-Sachs disease
+N3	Reference T3 unknown:D013661	TSD
+N4	Reference T4 unknown:D013661	TSD
+N5	Reference T5 unknown:D013661	TSD
+N6	Reference T6 unknown:D013661	TSD
+N7	Reference T7 unknown:D013661	TSD
+N8	Reference T8 unknown:D013661	TSD
+N9	Reference T9 unknown:D013661	TSD
+N10	Reference T10 unknown:D013661	TSD

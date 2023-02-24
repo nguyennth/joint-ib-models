@@ -1,0 +1,22 @@
+T1	Disease 25 49	hereditary breast cancer
+T2	Disease 109 122	breast cancer
+T3	Disease 263 287	hereditary breast cancer
+T4	Disease 408 432	hereditary breast cancer
+T5	Disease 491 516	hereditary breast cancers
+T6	Disease 593 628	hereditary breast or ovarian cancer
+T7	Disease 700 713	breast cancer
+T8	Disease 799 823	breast or ovarian cancer
+T9	Disease 991 1008	hereditary cancer
+T10	Disease 1443 1467	hereditary breast cancer
+T11	Disease 1603 1627	hereditary breast cancer
+N1	Reference T1 unknown:D061325	hereditary breast cancer
+N2	Reference T2 unknown:D001943	breast cancer
+N3	Reference T3 unknown:D061325	hereditary breast cancer
+N4	Reference T4 unknown:D061325	hereditary breast cancer
+N5	Reference T5 unknown:D061325	hereditary breast cancers
+N6	Reference T6 unknown:D061325	hereditary breast or ovarian cancer
+N7	Reference T7 unknown:D001943	breast cancer
+N8	Reference T8 unknown:D001943|D010051	breast or ovarian cancer
+N9	Reference T9 unknown:D009386	hereditary cancer
+N10	Reference T10 unknown:D061325	hereditary breast cancer
+N11	Reference T11 unknown:D061325	hereditary breast cancer

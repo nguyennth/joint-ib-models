@@ -1,0 +1,16 @@
+T1	Disease 84 111	congenital hemolytic anemia
+T2	Disease 191 230	chronic nonspherocytic hemolytic anemia
+T3	Disease 313 329	hemolytic anemia
+T4	Disease 368 383	G6PD deficiency
+T5	Disease 430 446	hemolytic crisis
+T6	Disease 467 494	upper respiratory infection
+T7	Disease 942 951	hemolysis
+T8	Disease 956 980	chronic hemolytic anemia
+N1	Reference T1 unknown:D000745	congenital hemolytic anemia
+N2	Reference T2 unknown:D000746	chronic nonspherocytic hemolytic anemia
+N3	Reference T3 unknown:D000743	hemolytic anemia
+N4	Reference T4 unknown:D005955	G6PD deficiency
+N5	Reference T5 unknown:D006461	hemolytic crisis
+N6	Reference T6 unknown:D012141	upper respiratory infection
+N7	Reference T7 unknown:D006461	hemolysis
+N8	Reference T8 unknown:D000745	chronic hemolytic anemia

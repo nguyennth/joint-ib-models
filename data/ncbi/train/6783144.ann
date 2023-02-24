@@ -1,0 +1,12 @@
+T1	Disease 6 53	deficiency of the sixth component of complement
+T2	Disease 72 96	meningococcal meningitis
+T3	Disease 104 127	haemostasis abnormality
+T4	Disease 155 168	C6 deficiency
+T5	Disease 275 299	meningococcal meningitis
+T6	Disease 457 481	hemostatic abnormalities
+N1	Reference T1 OMIM:612446	deficiency of the sixth component of complement
+N2	Reference T2 unknown:D008585	meningococcal meningitis
+N3	Reference T3 unknown:D020141	haemostasis abnormality
+N4	Reference T4 OMIM:612446	C6 deficiency
+N5	Reference T5 unknown:D008585	meningococcal meningitis
+N6	Reference T6 unknown:D020141	hemostatic abnormalities

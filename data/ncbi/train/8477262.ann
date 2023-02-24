@@ -1,0 +1,8 @@
+T1	Disease 38 51	choroideremia
+T2	Disease 101 114	choroideremia
+T3	Disease 122 125	CHM
+T4	Disease 173 176	CHM
+N1	Reference T1 unknown:D015794	choroideremia
+N2	Reference T2 unknown:D015794	choroideremia
+N3	Reference T3 unknown:D015794	CHM
+N4	Reference T4 unknown:D015794	CHM

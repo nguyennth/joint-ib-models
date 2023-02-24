@@ -1,0 +1,16 @@
+T1	Disease 377 392	CETP deficiency
+T2	Disease 899 914	CETP deficiency
+T3	Disease 939 959	hypercholesterolemia
+T4	Disease 1623 1638	CETP deficiency
+T5	Disease 1783 1798	CETP deficiency
+T6	Disease 2081 2106	premature atherosclerosis
+T7	Disease 2128 2143	CETP deficiency
+T8	Disease 2196 2211	CETP deficiency
+N1	Reference T1 OMIM:143470	CETP deficiency
+N2	Reference T2 OMIM:143470	CETP deficiency
+N3	Reference T3 unknown:D006937	hypercholesterolemia
+N4	Reference T4 OMIM:143470	CETP deficiency
+N5	Reference T5 OMIM:143470	CETP deficiency
+N6	Reference T6 unknown:D050197	premature atherosclerosis
+N7	Reference T7 OMIM:143470	CETP deficiency
+N8	Reference T8 OMIM:143470	CETP deficiency

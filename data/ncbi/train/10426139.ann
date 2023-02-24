@@ -1,0 +1,12 @@
+T1	Disease 35 50	McLeod syndrome
+T2	Disease 155 170	McLeod syndrome
+T3	Disease 214 230	muscular atrophy
+T4	Disease 233 249	choreic movement
+T5	Disease 300 314	acanthocytosis
+T6	Disease 712 718	McLeod
+N1	Reference T1 OMIM:300842	McLeod syndrome
+N2	Reference T2 OMIM:300842	McLeod syndrome
+N3	Reference T3 unknown:D009133	muscular atrophy
+N4	Reference T4 unknown:D002819	choreic movement
+N5	Reference T5 unknown:D000012	acanthocytosis
+N6	Reference T6 OMIM:300842	McLeod

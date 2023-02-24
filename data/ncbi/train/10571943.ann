@@ -1,0 +1,16 @@
+T1	Disease 102 118	Frasier syndrome
+T2	Disease 260 276	Frasier syndrome
+T3	Disease 279 281	FS
+T4	Disease 492 514	Denys - Drash syndrome
+T5	Disease 517 520	DDS
+T6	Disease 656 676	WT1 gene abnormality
+T7	Disease 788 790	FS
+T8	Disease 833 836	DDS
+N1	Reference T1 unknown:D052159	Frasier syndrome
+N2	Reference T2 unknown:D052159	Frasier syndrome
+N3	Reference T3 unknown:D052159	FS
+N4	Reference T4 unknown:D030321	Denys-Drash syndrome
+N5	Reference T5 unknown:D030321	DDS
+N6	Reference T6 unknown:D009396	WT1 gene abnormality
+N7	Reference T7 unknown:D052159	FS
+N8	Reference T8 unknown:D030321	DDS

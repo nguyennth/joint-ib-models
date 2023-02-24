@@ -1,0 +1,12 @@
+T1	Disease 77 99	sporadic breast cancer
+T2	Disease 154 188	familial breast and ovarian cancer
+T3	Disease 216 259	non - hereditary ( sporadic ) breast cancer
+T4	Disease 441 458	carcinoma in situ
+T5	Disease 462 477	invasive cancer
+T6	Disease 821 834	breast cancer
+N1	Reference T1 unknown:D001943	sporadic breast cancer
+N2	Reference T2 unknown:D061325	familial breast and ovarian cancer
+N3	Reference T3 unknown:D001943	non-hereditary (sporadic) breast cancer
+N4	Reference T4 unknown:D002278	carcinoma in situ
+N5	Reference T5 unknown:D009362	invasive cancer
+N6	Reference T6 unknown:D001943	breast cancer

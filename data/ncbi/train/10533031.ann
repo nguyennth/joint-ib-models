@@ -1,0 +1,32 @@
+T1	Disease 30 47	Friedreich ataxia
+T2	Disease 78 95	Friedreich ataxia
+T3	Disease 102 130	autosomal recessive disorder
+T4	Disease 158 162	FRDA
+T5	Disease 791 800	scoliosis
+T6	Disease 850 864	foot deformity
+T7	Disease 947 961	cardiomyopathy
+T8	Disease 964 981	diabetes mellitus
+T9	Disease 984 1006	loss of proprioception
+T10	Disease 1012 1028	bladder symptoms
+T11	Disease 1070 1086	bladder symptoms
+T12	Disease 1107 1121	foot deformity
+T13	Disease 1202 1210	diabetes
+T14	Disease 1213 1222	scoliosis
+T15	Disease 1225 1241	bladder symptoms
+T16	Disease 1246 1269	impaired proprioception
+N1	Reference T1 unknown:D005621	Friedreich ataxia
+N2	Reference T2 unknown:D005621	Friedreich ataxia
+N3	Reference T3 unknown:D030342	autosomal recessive disorder
+N4	Reference T4 unknown:D005621	FRDA
+N5	Reference T5 unknown:D012600	scoliosis
+N6	Reference T6 unknown:D005530	foot deformity
+N7	Reference T7 unknown:D009202	cardiomyopathy
+N8	Reference T8 unknown:D003920	diabetes mellitus
+N9	Reference T9 unknown:D020886	loss of proprioception
+N10	Reference T10 unknown:D001745	bladder symptoms
+N11	Reference T11 unknown:D001745	bladder symptoms
+N12	Reference T12 unknown:D005530	foot deformity
+N13	Reference T13 unknown:D003920	diabetes
+N14	Reference T14 unknown:D012600	scoliosis
+N15	Reference T15 unknown:D001745	bladder symptoms
+N16	Reference T16 unknown:D020886	impaired proprioception

@@ -1,0 +1,38 @@
+T1	Disease 65 84	periodontal disease
+T2	Disease 89 111	palmoplantar keratosis
+T3	Disease 114 141	Papillon - Lefevre syndrome
+T4	Disease 147 171	keratosis palmoplantaris
+T5	Disease 177 193	periodontopathia
+T6	Disease 196 199	PLS
+T7	Disease 223 251	autosomal recessive disorder
+T8	Disease 313 326	periodontitis
+T9	Disease 434 444	tooth loss
+T10	Disease 447 469	Palmoplantar keratosis
+T11	Disease 523 537	hyperkeratosis
+T12	Disease 598 607	Keratosis
+T13	Disease 665 668	PLS
+T14	Disease 691 704	periodontitis
+T15	Disease 709 723	hyperkeratosis
+T16	Disease 750 772	palmoplantar keratosis
+T17	Disease 776 789	periodontitis
+T18	Disease 820 833	periodontitis
+T19	Disease 1426 1429	PLS
+N1	Reference T1 unknown:D010510	periodontal disease
+N2	Reference T2 unknown:D007645	palmoplantar keratosis
+N3	Reference T3 unknown:D010214	Papillon-Lefevre syndrome
+N4	Reference T4 unknown:D007645	keratosis palmoplantaris
+N5	Reference T5 unknown:D010510	periodontopathia
+N6	Reference T6 unknown:D010214	PLS
+N7	Reference T7 unknown:D030342	autosomal recessive disorder
+N8	Reference T8 unknown:D010518	periodontitis
+N9	Reference T9 unknown:D016388	tooth loss
+N10	Reference T10 unknown:D007645	Palmoplantar keratosis
+N11	Reference T11 unknown:D017488	hyperkeratosis
+N12	Reference T12 unknown:D007642	Keratosis
+N13	Reference T13 unknown:D010214	PLS
+N14	Reference T14 unknown:D010518	periodontitis
+N15	Reference T15 unknown:D017488	hyperkeratosis
+N16	Reference T16 unknown:D007645	palmoplantar keratosis
+N17	Reference T17 unknown:D010518	periodontitis
+N18	Reference T18 unknown:D010518	periodontitis
+N19	Reference T19 unknown:D010214	PLS

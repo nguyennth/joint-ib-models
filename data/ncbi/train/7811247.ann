@@ -1,0 +1,22 @@
+T1	Disease 0 31	X - linked adrenoleukodystrophy
+T2	Disease 34 37	ALD
+T3	Disease 66 69	ALD
+T4	Disease 158 178	adrenoleukodystrophy
+T5	Disease 181 184	ALD
+T6	Disease 212 226	adolescent ALD
+T7	Disease 333 336	ALD
+T8	Disease 530 542	cerebral ALD
+T9	Disease 549 570	adrenomyeloneuropathy
+T10	Disease 577 589	Addison only
+T11	Disease 763 766	ALD
+N1	Reference T1 unknown:D000326	X-linked adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	ALD
+N3	Reference T3 unknown:D000326	ALD
+N4	Reference T4 unknown:D000326	adrenoleukodystrophy
+N5	Reference T5 unknown:D000326	ALD
+N6	Reference T6 unknown:D000326	adolescent ALD
+N7	Reference T7 unknown:D000326	ALD
+N8	Reference T8 unknown:D000326	cerebral ALD
+N9	Reference T9 unknown:D000326	adrenomyeloneuropathy
+N10	Reference T10 unknown:D000224	Addison only
+N11	Reference T11 unknown:D000326	ALD

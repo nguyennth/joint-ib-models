@@ -1,0 +1,12 @@
+T1	Disease 30 45	phenylketonuria
+T2	Disease 351 366	phenylketonuria
+T3	Disease 369 372	PKU
+T4	Disease 674 677	PKU
+T5	Disease 981 984	PKU
+T6	Disease 1497 1500	PKU
+N1	Reference T1 unknown:D010661	phenylketonuria
+N2	Reference T2 unknown:D010661	phenylketonuria
+N3	Reference T3 unknown:D010661	PKU
+N4	Reference T4 unknown:D010661	PKU
+N5	Reference T5 unknown:D010661	PKU
+N6	Reference T6 unknown:D010661	PKU

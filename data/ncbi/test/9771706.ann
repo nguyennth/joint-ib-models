@@ -1,0 +1,20 @@
+T1	Disease 68 85	diabetes mellitus
+T2	Disease 90 103	optic atrophy
+T3	Disease 106 122	Wolfram syndrome
+T4	Disease 127 143	Wolfram syndrome
+T5	Disease 146 149	WFS
+T6	Disease 172 218	autosomal recessive neurodegenerative disorder
+T7	Disease 257 294	insulin - dependent diabetes mellitus
+T8	Disease 311 324	optic atrophy
+T9	Disease 475 478	WFS
+T10	Disease 664 667	WFS
+N1	Reference T1 unknown:D003920	diabetes mellitus
+N2	Reference T2 unknown:D009896	optic atrophy
+N3	Reference T3 OMIM:222300	Wolfram syndrome
+N4	Reference T4 OMIM:222300	Wolfram syndrome
+N5	Reference T5 OMIM:222300	WFS
+N6	Reference T6 unknown:D020271	autosomal recessive neurodegenerative disorder
+N7	Reference T7 unknown:D003922	insulin-dependent diabetes mellitus
+N8	Reference T8 unknown:D009896	optic atrophy
+N9	Reference T9 OMIM:222300	WFS
+N10	Reference T10 OMIM:222300	WFS

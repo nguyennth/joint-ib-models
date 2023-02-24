@@ -1,0 +1,20 @@
+T1	Disease 41 64	breast / ovarian cancer
+T2	Disease 100 118	male breast cancer
+T3	Disease 248 270	familial breast cancer
+T4	Disease 291 323	familial breast / ovarian cancer
+T5	Disease 453 459	cancer
+T6	Disease 595 619	ovarian or breast cancer
+T7	Disease 976 1002	breast and prostate cancer
+T8	Disease 1064 1096	intra - abdominal carcinomatosis
+T9	Disease 1285 1320	inherited breast and ovarian cancer
+T10	Disease 1542 1560	male breast cancer
+N1	Reference T1 unknown:D061325	breast/ovarian cancer
+N2	Reference T2 unknown:D018567	male breast cancer
+N3	Reference T3 unknown:D001943	familial breast cancer
+N4	Reference T4 unknown:D061325	familial breast/ovarian cancer
+N5	Reference T5 unknown:D009369	cancer
+N6	Reference T6 unknown:D010051|D001943	ovarian or breast cancer
+N7	Reference T7 unknown:D001943|D011471	breast and prostate cancer
+N8	Reference T8 unknown:D000008+D002277	intra-abdominal carcinomatosis
+N9	Reference T9 unknown:D061325	inherited breast and ovarian cancer
+N10	Reference T10 unknown:D018567	male breast cancer

@@ -1,0 +1,26 @@
+T1	Disease 0 13	Brain disease
+T2	Disease 40 58	myotonic dystrophy
+T3	Disease 143 161	myotonic dystrophy
+T4	Disease 164 166	DM
+T5	Disease 402 404	DM
+T6	Disease 468 481	brain disease
+T7	Disease 592 612	white matter lesions
+T8	Disease 629 645	cerebral atrophy
+T9	Disease 975 995	white matter lesions
+T10	Disease 1110 1112	DM
+T11	Disease 1115 1136	cognitive dysfunction
+T12	Disease 1156 1176	white matter lesions
+T13	Disease 1181 1197	cerebral atrophy
+N1	Reference T1 unknown:D001927	Brain disease
+N2	Reference T2 unknown:D009223	myotonic dystrophy
+N3	Reference T3 unknown:D009223	myotonic dystrophy
+N4	Reference T4 unknown:D009223	DM
+N5	Reference T5 unknown:D009223	DM
+N6	Reference T6 unknown:D001927	brain disease
+N7	Reference T7 unknown:D056784	white matter lesions
+N8	Reference T8 unknown:D001284	cerebral atrophy
+N9	Reference T9 unknown:D056784	white matter lesions
+N10	Reference T10 unknown:D009223	DM
+N11	Reference T11 unknown:D003072	cognitive dysfunction
+N12	Reference T12 unknown:D056784	white matter lesions
+N13	Reference T13 unknown:D001284	cerebral atrophy

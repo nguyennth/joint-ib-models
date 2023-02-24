@@ -1,0 +1,44 @@
+T1	Disease 4 30	Wiskott - Aldrich syndrome
+T2	Disease 35 73	X - linked congenital thrombocytopenia
+T3	Disease 121 147	Wiskott - Aldrich syndrome
+T4	Disease 150 153	WAS
+T5	Disease 162 191	X - linked recessive disorder
+T6	Disease 209 225	thrombocytopenia
+T7	Disease 246 252	eczema
+T8	Disease 282 298	immunodeficiency
+T9	Disease 321 324	WAS
+T10	Disease 371 409	congenital X - linked thrombocytopenia
+T11	Disease 412 415	XLT
+T12	Disease 462 468	eczema
+T13	Disease 492 509	immune deficiency
+T14	Disease 545 548	WAS
+T15	Disease 603 606	WAS
+T16	Disease 623 626	WAS
+T17	Disease 760 763	WAS
+T18	Disease 959 962	WAS
+T19	Disease 1150 1153	XLT
+T20	Disease 1284 1287	WAS
+T21	Disease 1432 1435	XLT
+T22	Disease 1440 1443	WAS
+N1	Reference T1 unknown:D014923	Wiskott-Aldrich syndrome
+N2	Reference T2 OMIM:313900	X-linked congenital thrombocytopenia
+N3	Reference T3 unknown:D014923	Wiskott-Aldrich syndrome
+N4	Reference T4 unknown:D014923	WAS
+N5	Reference T5 unknown:D040181	X-linked recessive disorder
+N6	Reference T6 unknown:D013921	thrombocytopenia
+N7	Reference T7 unknown:D004485	eczema
+N8	Reference T8 unknown:D007153	immunodeficiency
+N9	Reference T9 unknown:D014923	WAS
+N10	Reference T10 OMIM:313900	congenital X-linked thrombocytopenia
+N11	Reference T11 OMIM:313900	XLT
+N12	Reference T12 unknown:D004485	eczema
+N13	Reference T13 unknown:D007153	immune deficiency
+N14	Reference T14 unknown:D014923	WAS
+N15	Reference T15 unknown:D014923	WAS
+N16	Reference T16 unknown:D014923	WAS
+N17	Reference T17 unknown:D014923	WAS
+N18	Reference T18 unknown:D014923	WAS
+N19	Reference T19 OMIM:313900	XLT
+N20	Reference T20 unknown:D014923	WAS
+N21	Reference T21 OMIM:313900	XLT
+N22	Reference T22 unknown:D014923	WAS

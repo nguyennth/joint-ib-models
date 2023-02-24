@@ -1,0 +1,28 @@
+T1	Disease 0 20	Adrenoleukodystrophy
+T2	Disease 86 106	Adrenoleukodystrophy
+T3	Disease 109 112	ALD
+T4	Disease 168 201	progressive central demyelination
+T5	Disease 206 236	adrenal cortical insufficiency
+T6	Disease 526 529	ALD
+T7	Disease 546 584	Zellwegers cerebrohepatorenal syndrome
+T8	Disease 647 668	peroxisomal disorders
+T9	Disease 805 808	ALD
+T10	Disease 917 920	ALD
+T11	Disease 930 951	adrenomyeloneuropathy
+T12	Disease 1016 1028	Neonatal ALD
+T13	Disease 1115 1134	Zellwegers syndrome
+T14	Disease 1222 1225	ALD
+N1	Reference T1 unknown:D000326	Adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	Adrenoleukodystrophy
+N3	Reference T3 unknown:D000326	ALD
+N4	Reference T4 unknown:D003711	progressive central demyelination
+N5	Reference T5 unknown:D000309	adrenal cortical insufficiency
+N6	Reference T6 unknown:D000326	ALD
+N7	Reference T7 unknown:D015211	Zellwegers cerebrohepatorenal syndrome
+N8	Reference T8 unknown:D018901	peroxisomal disorders
+N9	Reference T9 unknown:D000326	ALD
+N10	Reference T10 unknown:D000326	ALD
+N11	Reference T11 unknown:D000326	adrenomyeloneuropathy
+N12	Reference T12 OMIM:202370	Neonatal ALD
+N13	Reference T13 unknown:D015211	Zellwegers syndrome
+N14	Reference T14 unknown:D000326	ALD

@@ -1,0 +1,20 @@
+T1	Disease 46 62	Wolfram syndrome
+T2	Disease 125 141	Wolfram syndrome
+T3	Disease 148 194	autosomal recessive neurodegenerative disorder
+T4	Disease 212 246	juvenile - onset diabetes mellitus
+T5	Disease 263 276	optic atrophy
+T6	Disease 577 593	Wolfram syndrome
+T7	Disease 1489 1505	Wolfram syndrome
+T8	Disease 1535 1551	Wolfram syndrome
+T9	Disease 1586 1607	psychiatric disorders
+T10	Disease 1611 1628	diabetes mellitus
+N1	Reference T1 OMIM:222300	Wolfram syndrome
+N2	Reference T2 OMIM:222300	Wolfram syndrome
+N3	Reference T3 unknown:D020271	autosomal recessive neurodegenerative disorder
+N4	Reference T4 unknown:D003922	juvenile-onset diabetes mellitus
+N5	Reference T5 unknown:D009896	optic atrophy
+N6	Reference T6 OMIM:222300	Wolfram syndrome
+N7	Reference T7 OMIM:222300	Wolfram syndrome
+N8	Reference T8 OMIM:222300	Wolfram syndrome
+N9	Reference T9 unknown:D001523	psychiatric disorders
+N10	Reference T10 unknown:D003920	diabetes mellitus

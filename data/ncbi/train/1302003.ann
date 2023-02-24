@@ -1,0 +1,20 @@
+T1	Disease 25 28	CHM
+T2	Disease 60 73	choroideremia
+T3	Disease 76 89	Choroideremia
+T4	Disease 92 95	CHM
+T5	Disease 104 165	X - linked progressive degeneration of the choroid and retina
+T6	Disease 240 243	CHM
+T7	Disease 295 298	CHM
+T8	Disease 394 397	CHM
+T9	Disease 828 831	CHM
+T10	Disease 906 909	CHM
+N1	Reference T1 unknown:D015794	CHM
+N2	Reference T2 unknown:D015794	choroideremia
+N3	Reference T3 unknown:D015794	Choroideremia
+N4	Reference T4 unknown:D015794	CHM
+N5	Reference T5 unknown:D015785	X-linked progressive degeneration of the choroid and retina
+N6	Reference T6 unknown:D015794	CHM
+N7	Reference T7 unknown:D015794	CHM
+N8	Reference T8 unknown:D015794	CHM
+N9	Reference T9 unknown:D015794	CHM
+N10	Reference T10 unknown:D015794	CHM

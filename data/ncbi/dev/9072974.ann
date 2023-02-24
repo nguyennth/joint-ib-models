@@ -1,0 +1,20 @@
+T1	Disease 69 105	brain , breast , and prostate cancer
+T2	Disease 206 211	tumor
+T3	Disease 299 306	cancers
+T4	Disease 389 401	glioblastoma
+T5	Disease 449 464	prostate cancer
+T6	Disease 496 509	breast cancer
+T7	Disease 561 582	primary glioblastomas
+T8	Disease 804 809	tumor
+T9	Disease 880 885	tumor
+T10	Disease 904 914	metastasis
+N1	Reference T1 unknown:D001932|D001943|D011471	brain, breast, and prostate cancer
+N2	Reference T2 unknown:D009369	tumor
+N3	Reference T3 unknown:D009369	cancers
+N4	Reference T4 unknown:D005909	glioblastoma
+N5	Reference T5 unknown:D011471	prostate cancer
+N6	Reference T6 unknown:D001943	breast cancer
+N7	Reference T7 unknown:D005909	primary glioblastomas
+N8	Reference T8 unknown:D009369	tumor
+N9	Reference T9 unknown:D009369	tumor
+N10	Reference T10 unknown:D009362	metastasis

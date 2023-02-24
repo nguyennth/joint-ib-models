@@ -1,0 +1,10 @@
+T1	Disease 26 31	tumor
+T2	Disease 79 105	adenomatous polyposis coli
+T3	Disease 133 163	familial adenomatous polyposis
+T4	Disease 180 197	colorectal tumors
+T5	Disease 209 212	APC
+N1	Reference T1 unknown:D009369	tumor
+N2	Reference T2 unknown:D011125	adenomatous polyposis coli
+N3	Reference T3 unknown:D011125	familial adenomatous polyposis
+N4	Reference T4 unknown:D015179	colorectal tumors
+N5	Reference T5 unknown:D011125	APC

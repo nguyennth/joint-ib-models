@@ -1,0 +1,22 @@
+T1	Disease 0 17	Macular dystrophy
+T2	Disease 70 90	retinal degeneration
+T3	Disease 142 162	retinal degeneration
+T4	Disease 249 288	autosomal dominant retinitis pigmentosa
+T5	Disease 593 610	macular dystrophy
+T6	Disease 908 919	visual loss
+T7	Disease 983 998	central scotoma
+T8	Disease 1021 1062	atrophy of the retinal pigment epithelium
+T9	Disease 1067 1097	choriocapillaris of the macula
+T10	Disease 1747 1764	macular dystrophy
+T11	Disease 1792 1808	cone dysfunction
+N1	Reference T1 unknown:D008268	Macular dystrophy
+N2	Reference T2 unknown:D012162	retinal degeneration
+N3	Reference T3 unknown:D012162	retinal degeneration
+N4	Reference T4 unknown:D012174	autosomal dominant retinitis pigmentosa
+N5	Reference T5 unknown:D008268	macular dystrophy
+N6	Reference T6 unknown:C531604	visual loss
+N7	Reference T7 unknown:D012607	central scotoma
+N8	Reference T8 unknown:C536309	atrophy of the retinal pigment epithelium
+N9	Reference T9 unknown:D008268	choriocapillaris of the macula
+N10	Reference T10 unknown:D008268	macular dystrophy
+N11	Reference T11 OMIM:180020	cone dysfunction

@@ -1,0 +1,10 @@
+T1	Disease 163 234	deficiency of glycosyl phosphatidylinositol ( GPI ) - anchored proteins
+T2	Disease 269 304	paroxysmal nocturnal hemoglobinuria
+T3	Disease 328 351	GPI - anchor deficiency
+T4	Disease 437 456	embryonic lethality
+T5	Disease 1442 1477	paroxysmal nocturnal hemoglobinuria
+N1	Reference T1 unknown:C537277	deficiency of glycosyl phosphatidylinositol (GPI) -anchored proteins
+N2	Reference T2 unknown:D006457	paroxysmal nocturnal hemoglobinuria
+N3	Reference T3 unknown:C537277	GPI-anchor deficiency
+N4	Reference T4 unknown:D020964	embryonic lethality
+N5	Reference T5 unknown:D006457	paroxysmal nocturnal hemoglobinuria

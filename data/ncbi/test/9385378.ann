@@ -1,0 +1,14 @@
+T1	Disease 102 127	mucopolysaccharidosis IVA
+T2	Disease 130 155	Mucopolysaccharidosis IVA
+T3	Disease 158 165	MPS IVA
+T4	Disease 174 220	autosomal recessive lysosomal storage disorder
+T5	Disease 233 247	genetic defect
+T6	Disease 520 527	MPS IVA
+T7	Disease 799 806	MPS IVA
+N1	Reference T1 OMIM:253000	mucopolysaccharidosis IVA
+N2	Reference T2 OMIM:253000	Mucopolysaccharidosis IVA
+N3	Reference T3 OMIM:253000	MPS IVA
+N4	Reference T4 unknown:D016464	autosomal recessive lysosomal storage disorder
+N5	Reference T5 unknown:D030342	genetic defect
+N6	Reference T6 OMIM:253000	MPS IVA
+N7	Reference T7 OMIM:253000	MPS IVA

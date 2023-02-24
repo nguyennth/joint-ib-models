@@ -1,0 +1,8 @@
+T1	Disease 33 46	retinoschisis
+T2	Disease 111 133	Juvenile retinoschisis
+T3	Disease 140 168	X - linked recessive disease
+T4	Disease 350 363	Retinoschisis
+N1	Reference T1 unknown:D041441	retinoschisis
+N2	Reference T2 unknown:D041441	Juvenile retinoschisis
+N3	Reference T3 unknown:D040181	X-linked recessive disease
+N4	Reference T4 unknown:D041441	Retinoschisis

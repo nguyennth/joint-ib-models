@@ -1,0 +1,28 @@
+T1	Disease 0 28	Non - syndromic hearing loss
+T2	Disease 45 73	enlarged vestibular aqueduct
+T3	Disease 87 90	PDS
+T4	Disease 103 131	Enlarged vestibular aqueduct
+T5	Disease 134 137	EVA
+T6	Disease 175 196	inner ear abnormality
+T7	Disease 320 362	non - syndromic sensorineural hearing loss
+T8	Disease 368 371	EVA
+T9	Disease 435 451	Pendred syndrome
+T10	Disease 506 509	PDS
+T11	Disease 550 566	Pendred syndrome
+T12	Disease 600 642	non - syndromic sensorineural hearing loss
+T13	Disease 648 651	EVA
+T14	Disease 867 909	syndromic and non - syndromic hearing loss
+N1	Reference T1 unknown:C537845	Non-syndromic hearing loss
+N2	Reference T2 OMIM:600791	enlarged vestibular aqueduct
+N3	Reference T3 unknown:C536648	PDS
+N4	Reference T4 OMIM:600791	Enlarged vestibular aqueduct
+N5	Reference T5 OMIM:600791	EVA
+N6	Reference T6 unknown:D007759	inner ear abnormality
+N7	Reference T7 unknown:C537845	non-syndromic sensorineural hearing loss
+N8	Reference T8 OMIM:600791	EVA
+N9	Reference T9 unknown:C536648	Pendred syndrome
+N10	Reference T10 unknown:C536648	PDS
+N11	Reference T11 unknown:C536648	Pendred syndrome
+N12	Reference T12 unknown:C537845	non-syndromic sensorineural hearing loss
+N13	Reference T13 OMIM:600791	EVA
+N14	Reference T14 unknown:D034381|C537845	syndromic and non-syndromic hearing loss

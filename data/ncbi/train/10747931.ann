@@ -1,0 +1,14 @@
+T1	Disease 140 147	lipomas
+T2	Disease 186 193	lipomas
+T3	Disease 435 442	lipomas
+T4	Disease 748 775	adipose tissue inflammation
+T5	Disease 819 826	lipomas
+T6	Disease 1009 1016	lipomas
+T7	Disease 1203 1216	benign tumors
+N1	Reference T1 unknown:D008067	lipomas
+N2	Reference T2 unknown:D008067	lipomas
+N3	Reference T3 unknown:D008067	lipomas
+N4	Reference T4 unknown:D007249	adipose tissue inflammation
+N5	Reference T5 unknown:D008067	lipomas
+N6	Reference T6 unknown:D008067	lipomas
+N7	Reference T7 unknown:D009369	benign tumors

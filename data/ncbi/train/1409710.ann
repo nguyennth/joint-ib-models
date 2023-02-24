@@ -1,0 +1,12 @@
+T1	Disease 0 29	von Willebrand disease type B
+T2	Disease 95 109	von Willebrand
+T3	Disease 155 169	von Willebrand
+T4	Disease 580 609	von Willebrand disease type B
+T5	Disease 930 959	von Willebrand disease type B
+T6	Disease 1307 1336	von Willebrand disease type B
+N1	Reference T1 unknown:D014842	von Willebrand disease type B
+N2	Reference T2 unknown:D014842	von Willebrand
+N3	Reference T3 unknown:D014842	von Willebrand
+N4	Reference T4 unknown:D014842	von Willebrand disease type B
+N5	Reference T5 unknown:D014842	von Willebrand disease type B
+N6	Reference T6 unknown:D014842	von Willebrand disease type B

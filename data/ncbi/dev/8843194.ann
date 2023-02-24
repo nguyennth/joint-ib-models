@@ -1,0 +1,24 @@
+T1	Disease 36 54	growth retardation
+T2	Disease 57 97	chromosomal fragmentation during meiosis
+T3	Disease 100 114	immune defects
+T4	Disease 121 136	thymic lymphoma
+T5	Disease 169 192	inherited human disease
+T6	Disease 193 216	ataxia - telangiectasia
+T7	Disease 581 604	ataxia - telangiectasia
+T8	Disease 701 712	infertility
+T9	Disease 917 931	Immune defects
+T10	Disease 1258 1282	behavioral abnormalities
+T11	Disease 1329 1345	thymic lymphomas
+T12	Disease 1580 1585	tumor
+N1	Reference T1 unknown:D006130	growth retardation
+N2	Reference T2 unknown:D048629	chromosomal fragmentation during meiosis
+N3	Reference T3 unknown:D007154	immune defects
+N4	Reference T4 unknown:D013953	thymic lymphoma
+N5	Reference T5 unknown:D030342	inherited human disease
+N6	Reference T6 unknown:D001260	ataxia-telangiectasia
+N7	Reference T7 unknown:D001260	ataxia-telangiectasia
+N8	Reference T8 unknown:D007246	infertility
+N9	Reference T9 unknown:D007154	Immune defects
+N10	Reference T10 unknown:D001523	behavioral abnormalities
+N11	Reference T11 unknown:D008223	thymic lymphomas
+N12	Reference T12 unknown:D009369	tumor

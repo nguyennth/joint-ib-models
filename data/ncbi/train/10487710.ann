@@ -1,0 +1,12 @@
+T1	Disease 22 66	familial neurohypophyseal diabetes insipidus
+T2	Disease 114 158	Familial neurohypophyseal diabetes insipidus
+T3	Disease 161 165	FNDI
+T4	Disease 184 230	deficiency of the hormone arginine vasopressin
+T5	Disease 1327 1331	FNDI
+T6	Disease 1384 1388	FNDI
+N1	Reference T1 OMIM:125700	familial neurohypophyseal diabetes insipidus
+N2	Reference T2 OMIM:125700	Familial neurohypophyseal diabetes insipidus
+N3	Reference T3 OMIM:125700	FNDI
+N4	Reference T4 OMIM:125700	deficiency of the hormone arginine vasopressin
+N5	Reference T5 OMIM:125700	FNDI
+N6	Reference T6 OMIM:125700	FNDI

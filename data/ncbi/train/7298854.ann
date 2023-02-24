@@ -1,0 +1,20 @@
+T1	Disease 38 68	cerebrotendinous xanthomatosis
+T2	Disease 181 196	genetic disease
+T3	Disease 197 227	cerebrotendinous xanthomatosis
+T4	Disease 230 233	CTX
+T5	Disease 238 262	Abnormalities in the HDL
+T6	Disease 540 543	CTX
+T7	Disease 942 945	CTX
+T8	Disease 998 1001	CTX
+T9	Disease 1402 1416	genetic defect
+T10	Disease 1443 1446	CTX
+N1	Reference T1 unknown:D019294	cerebrotendinous xanthomatosis
+N2	Reference T2 unknown:D030342	genetic disease
+N3	Reference T3 unknown:D019294	cerebrotendinous xanthomatosis
+N4	Reference T4 unknown:D019294	CTX
+N5	Reference T5 unknown:D052456	Abnormalities in the HDL
+N6	Reference T6 unknown:D019294	CTX
+N7	Reference T7 unknown:D019294	CTX
+N8	Reference T8 unknown:D019294	CTX
+N9	Reference T9 unknown:D030342	genetic defect
+N10	Reference T10 unknown:D019294	CTX

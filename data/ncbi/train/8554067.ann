@@ -1,0 +1,10 @@
+T1	Disease 42 65	breast - ovarian cancer
+T2	Disease 97 120	breast - ovarian cancer
+T3	Disease 289 314	breast and ovarian cancer
+T4	Disease 397 415	male breast cancer
+T5	Disease 1176 1201	breast - ovarian syndrome
+N1	Reference T1 unknown:D061325	breast-ovarian cancer
+N2	Reference T2 unknown:D061325	breast-ovarian cancer
+N3	Reference T3 unknown:D061325	breast and ovarian cancer
+N4	Reference T4 unknown:D018567	male breast cancer
+N5	Reference T5 unknown:D061325	breast-ovarian syndrome

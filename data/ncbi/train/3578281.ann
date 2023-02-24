@@ -1,0 +1,32 @@
+T1	Disease 0 16	Hypopigmentation
+T2	Disease 24 47	Prader - Willi syndrome
+T3	Disease 50 83	Cutaneous and ocular pigmentation
+T4	Disease 126 149	Prader - Willi syndrome
+T5	Disease 152 155	PWS
+T6	Disease 173 189	hypopigmentation
+T7	Disease 381 384	PWS
+T8	Disease 402 415	hypopigmented
+T9	Disease 434 450	hypopigmentation
+T10	Disease 634 650	hypopigmentation
+T11	Disease 763 766	PWS
+T12	Disease 796 812	hypopigmentation
+T13	Disease 870 886	hypopigmentation
+T14	Disease 944 947	PWS
+T15	Disease 961 977	hypopigmentation
+T16	Disease 1069 1085	hypopigmentation
+N1	Reference T1 unknown:D017496	Hypopigmentation
+N2	Reference T2 unknown:D011218	Prader-Willi syndrome
+N3	Reference T3 unknown:D010859	Cutaneous and ocular pigmentation
+N4	Reference T4 unknown:D011218	Prader-Willi syndrome
+N5	Reference T5 unknown:D011218	PWS
+N6	Reference T6 unknown:D017496	hypopigmentation
+N7	Reference T7 unknown:D011218	PWS
+N8	Reference T8 unknown:D017496	hypopigmented
+N9	Reference T9 unknown:D017496	hypopigmentation
+N10	Reference T10 unknown:D017496	hypopigmentation
+N11	Reference T11 unknown:D011218	PWS
+N12	Reference T12 unknown:D017496	hypopigmentation
+N13	Reference T13 unknown:D017496	hypopigmentation
+N14	Reference T14 unknown:D011218	PWS
+N15	Reference T15 unknown:D017496	hypopigmentation
+N16	Reference T16 unknown:D017496	hypopigmentation

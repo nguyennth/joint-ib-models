@@ -1,0 +1,24 @@
+T1	Disease 24 47	ataxia - telangiectasia
+T2	Disease 52 78	Nijmegen breakage syndrome
+T3	Disease 95 118	Ataxia - telangiectasia
+T4	Disease 121 126	A - T
+T5	Disease 133 159	Nijmegen breakage syndrome
+T6	Disease 162 165	NBS
+T7	Disease 172 199	recessive genetic disorders
+T8	Disease 223 229	cancer
+T9	Disease 312 317	A - T
+T10	Disease 516 542	Nijmegen breakage syndrome
+T11	Disease 1148 1186	hypersensitivity to ionizing radiation
+T12	Disease 1324 1340	genetic diseases
+N1	Reference T1 unknown:D001260	ataxia-telangiectasia
+N2	Reference T2 unknown:D049932	Nijmegen breakage syndrome
+N3	Reference T3 unknown:D001260	Ataxia-telangiectasia
+N4	Reference T4 unknown:D001260	A-T
+N5	Reference T5 unknown:D049932	Nijmegen breakage syndrome
+N6	Reference T6 unknown:D049932	NBS
+N7	Reference T7 unknown:D030342	recessive genetic disorders
+N8	Reference T8 unknown:D009369	cancer
+N9	Reference T9 unknown:D001260	A-T
+N10	Reference T10 unknown:D049932	Nijmegen breakage syndrome
+N11	Reference T11 unknown:D004194	hypersensitivity to ionizing radiation
+N12	Reference T12 unknown:D030342	genetic diseases

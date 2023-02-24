@@ -1,0 +1,8 @@
+T1	Disease 135 153	Huntington disease
+T2	Disease 156 158	HD
+T3	Disease 691 693	HD
+T4	Disease 1110 1112	HD
+N1	Reference T1 unknown:D006816	Huntington disease
+N2	Reference T2 unknown:D006816	HD
+N3	Reference T3 unknown:D006816	HD
+N4	Reference T4 unknown:D006816	HD

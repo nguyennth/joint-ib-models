@@ -1,0 +1,28 @@
+T1	Disease 54 77	Prader - willi syndrome
+T2	Disease 127 150	Prader - Willi syndrome
+T3	Disease 153 156	PWS
+T4	Disease 271 289	neonatal hypotonia
+T5	Disease 292 311	developmental delay
+T6	Disease 316 341	childhood - onset obesity
+T7	Disease 431 434	PWS
+T8	Disease 672 675	PWS
+T9	Disease 770 773	PWS
+T10	Disease 1026 1029	PWS
+T11	Disease 1621 1624	PWS
+T12	Disease 1661 1695	abnormalities in brain development
+T13	Disease 1700 1719	dysmorphic features
+T14	Disease 1740 1743	PWS
+N1	Reference T1 unknown:D011218	Prader-willi syndrome
+N2	Reference T2 unknown:D011218	Prader-Willi syndrome
+N3	Reference T3 unknown:D011218	PWS
+N4	Reference T4 unknown:D009123	neonatal hypotonia
+N5	Reference T5 unknown:D002658	developmental delay
+N6	Reference T6 unknown:D009765	childhood-onset obesity
+N7	Reference T7 unknown:D011218	PWS
+N8	Reference T8 unknown:D011218	PWS
+N9	Reference T9 unknown:D011218	PWS
+N10	Reference T10 unknown:D011218	PWS
+N11	Reference T11 unknown:D011218	PWS
+N12	Reference T12 unknown:D002658	abnormalities in brain development
+N13	Reference T13 unknown:D057215	dysmorphic features
+N14	Reference T14 unknown:D011218	PWS

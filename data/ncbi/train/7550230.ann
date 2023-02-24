@@ -1,0 +1,26 @@
+T1	Disease 12 20	aniridia
+T2	Disease 56 64	Aniridia
+T3	Disease 67 82	iris hypoplasia
+T4	Disease 91 140	autosomal dominant congenital disorder of the eye
+T5	Disease 166 174	aniridia
+T6	Disease 359 367	aniridia
+T7	Disease 691 700	cataracts
+T8	Disease 707 715	aniridia
+T9	Disease 782 790	aniridia
+T10	Disease 804 811	anosmia
+T11	Disease 849 857	aniridia
+T12	Disease 986 994	aniridia
+T13	Disease 1008 1034	haploinsufficiency of PAX6
+N1	Reference T1 unknown:D015783	aniridia
+N2	Reference T2 unknown:D015783	Aniridia
+N3	Reference T3 unknown:D007499	iris hypoplasia
+N4	Reference T4 unknown:D005124	autosomal dominant congenital disorder of the eye
+N5	Reference T5 unknown:D015783	aniridia
+N6	Reference T6 unknown:D015783	aniridia
+N7	Reference T7 unknown:D002386	cataracts
+N8	Reference T8 unknown:D015783	aniridia
+N9	Reference T9 unknown:D015783	aniridia
+N10	Reference T10 unknown:D000857	anosmia
+N11	Reference T11 unknown:D015783	aniridia
+N12	Reference T12 unknown:D015783	aniridia
+N13	Reference T13 OMIM:106210	haploinsufficiency of PAX6

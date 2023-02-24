@@ -1,0 +1,18 @@
+T1	Disease 0 20	Spinal xanthomatosis
+T2	Disease 36 66	cerebrotendinous xanthomatosis
+T3	Disease 155 175	spinal cord syndrome
+T4	Disease 228 258	cerebrotendinous xanthomatosis
+T5	Disease 261 264	CTX
+T6	Disease 286 312	white matter abnormalities
+T7	Disease 534 554	spinal xanthomatosis
+T8	Disease 605 608	CTX
+T9	Disease 666 684	chronic myelopathy
+N1	Reference T1 unknown:D014973	Spinal xanthomatosis
+N2	Reference T2 unknown:D019294	cerebrotendinous xanthomatosis
+N3	Reference T3 unknown:D013118	spinal cord syndrome
+N4	Reference T4 unknown:D019294	cerebrotendinous xanthomatosis
+N5	Reference T5 unknown:D019294	CTX
+N6	Reference T6 unknown:D002493	white matter abnormalities
+N7	Reference T7 unknown:D014973	spinal xanthomatosis
+N8	Reference T8 unknown:D019294	CTX
+N9	Reference T9 unknown:D002908+D013118	chronic myelopathy

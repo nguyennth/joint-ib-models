@@ -1,0 +1,16 @@
+T1	Disease 23 38	FMR1 deficiency
+T2	Disease 97 115	Fragile X syndrome
+T3	Disease 137 155	mental retardation
+T4	Disease 383 397	macroorchidism
+T5	Disease 550 568	fragile X syndrome
+T6	Disease 1226 1235	fragile X
+T7	Disease 1514 1521	anxiety
+T8	Disease 1801 1819	fragile X syndrome
+N1	Reference T1 OMIM:300624	FMR1 deficiency
+N2	Reference T2 unknown:D005600	Fragile X syndrome
+N3	Reference T3 unknown:D008607	mental retardation
+N4	Reference T4 unknown:D005600	macroorchidism
+N5	Reference T5 unknown:D005600	fragile X syndrome
+N6	Reference T6 unknown:D005600	fragile X
+N7	Reference T7 unknown:D001008	anxiety
+N8	Reference T8 unknown:D005600	fragile X syndrome

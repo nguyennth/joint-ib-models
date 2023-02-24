@@ -1,0 +1,26 @@
+T1	Disease 63 77	hepatoblastoma
+T2	Disease 80 94	Hepatoblastoma
+T3	Disease 105 133	malignant tumor of the liver
+T4	Disease 258 263	tumor
+T5	Disease 293 319	adenomatous polyposis coli
+T6	Disease 421 430	APC tumor
+T7	Disease 461 475	hepatoblastoma
+T8	Disease 712 717	tumor
+T9	Disease 749 775	adenomatous polyposis coli
+T10	Disease 879 894	hepatoblastomas
+T11	Disease 1002 1007	tumor
+T12	Disease 1126 1140	hepatoblastoma
+T13	Disease 1248 1253	tumor
+N1	Reference T1 unknown:D018197	hepatoblastoma
+N2	Reference T2 unknown:D018197	Hepatoblastoma
+N3	Reference T3 unknown:D008113+D018198	malignant tumor of the liver
+N4	Reference T4 unknown:D009369	tumor
+N5	Reference T5 unknown:D011125	adenomatous polyposis coli
+N6	Reference T6 unknown:D011125	APC tumor
+N7	Reference T7 unknown:D018197	hepatoblastoma
+N8	Reference T8 unknown:D009369	tumor
+N9	Reference T9 unknown:D011125	adenomatous polyposis coli
+N10	Reference T10 unknown:D018197	hepatoblastomas
+N11	Reference T11 unknown:D009369	tumor
+N12	Reference T12 unknown:D018197	hepatoblastoma
+N13	Reference T13 unknown:D009369	tumor

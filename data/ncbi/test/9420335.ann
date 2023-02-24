@@ -1,0 +1,12 @@
+T1	Disease 4 9	tumor
+T2	Disease 155 160	tumor
+T3	Disease 264 282	pancreatic cancers
+T4	Disease 491 509	Growth retardation
+T5	Disease 702 721	gastrulation defect
+T6	Disease 842 861	gastrulation defect
+N1	Reference T1 unknown:D009369	tumor
+N2	Reference T2 unknown:D009369	tumor
+N3	Reference T3 unknown:D010190	pancreatic cancers
+N4	Reference T4 unknown:D005317	Growth retardation
+N5	Reference T5 unknown:D004194	gastrulation defect
+N6	Reference T6 unknown:D004194	gastrulation defect

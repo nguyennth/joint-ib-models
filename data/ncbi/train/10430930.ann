@@ -1,0 +1,26 @@
+T1	Disease 78 115	Prader - Willi and angelman syndromes
+T2	Disease 118 141	Prader - Willi syndrome
+T3	Disease 144 147	PWS
+T4	Disease 154 171	Angelman syndrome
+T5	Disease 174 176	AS
+T6	Disease 590 593	PWS
+T7	Disease 598 600	AS
+T8	Disease 842 845	PWS
+T9	Disease 848 850	AS
+T10	Disease 1022 1025	PWS
+T11	Disease 1030 1032	AS
+T12	Disease 1107 1109	AS
+T13	Disease 1408 1411	PWS
+N1	Reference T1 unknown:D011218|D017204	Prader-Willi and angelman syndromes
+N2	Reference T2 unknown:D011218	Prader-Willi syndrome
+N3	Reference T3 unknown:D011218	PWS
+N4	Reference T4 unknown:D017204	Angelman syndrome
+N5	Reference T5 unknown:D017204	AS
+N6	Reference T6 unknown:D011218	PWS
+N7	Reference T7 unknown:D017204	AS
+N8	Reference T8 unknown:D011218	PWS
+N9	Reference T9 unknown:D017204	AS
+N10	Reference T10 unknown:D011218	PWS
+N11	Reference T11 unknown:D017204	AS
+N12	Reference T12 unknown:D017204	AS
+N13	Reference T13 unknown:D011218	PWS

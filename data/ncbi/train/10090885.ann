@@ -1,0 +1,20 @@
+T1	Disease 0 39	Autoimmune lymphoproliferative syndrome
+T2	Disease 94 133	Autoimmune lymphoproliferative syndrome
+T3	Disease 136 140	ALPS
+T4	Disease 148 210	disorder of lymphocyte homeostasis and immunological tolerance
+T5	Disease 424 428	ALPS
+T6	Disease 1001 1005	ALPS
+T7	Disease 1237 1241	ALPS
+T8	Disease 1523 1527	ALPS
+T9	Disease 1593 1597	ALPS
+T10	Disease 1835 1839	ALPS
+N1	Reference T1 unknown:D056735	Autoimmune lymphoproliferative syndrome
+N2	Reference T2 unknown:D056735	Autoimmune lymphoproliferative syndrome
+N3	Reference T3 unknown:D056735	ALPS
+N4	Reference T4 unknown:D008232|D007154	disorder of lymphocyte homeostasis and immunological tolerance
+N5	Reference T5 unknown:D056735	ALPS
+N6	Reference T6 unknown:D056735	ALPS
+N7	Reference T7 unknown:D056735	ALPS
+N8	Reference T8 unknown:D056735	ALPS
+N9	Reference T9 unknown:D056735	ALPS
+N10	Reference T10 unknown:D056735	ALPS

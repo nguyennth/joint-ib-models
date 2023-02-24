@@ -1,0 +1,12 @@
+T1	Disease 20 44	X - linked retinoschisis
+T2	Disease 145 169	X - linked retinoschisis
+T3	Disease 296 316	visual deterioration
+T4	Disease 1409 1423	retinoblastoma
+T5	Disease 1646 1670	X - linked retinoschisis
+T6	Disease 1825 1842	retinal dystrophy
+N1	Reference T1 unknown:D041441	X-linked retinoschisis
+N2	Reference T2 unknown:D041441	X-linked retinoschisis
+N3	Reference T3 unknown:C531604	visual deterioration
+N4	Reference T4 unknown:D012175	retinoblastoma
+N5	Reference T5 unknown:D041441	X-linked retinoschisis
+N6	Reference T6 unknown:D058499	retinal dystrophy

@@ -1,0 +1,22 @@
+T1	Disease 38 64	Chediak - Higashi syndrome
+T2	Disease 408 434	Chediak - Higashi syndrome
+T3	Disease 437 440	CHS
+T4	Disease 449 467	inherited disorder
+T5	Disease 695 723	lymphoproliferative syndrome
+T6	Disease 729 745	hemophagocytosis
+T7	Disease 773 776	CHS
+T8	Disease 847 875	lymphoproliferative syndrome
+T9	Disease 953 956	CHS
+T10	Disease 1168 1171	CHS
+T11	Disease 1213 1240	lymphoproliferative disease
+N1	Reference T1 unknown:D002609	Chediak-Higashi syndrome
+N2	Reference T2 unknown:D002609	Chediak-Higashi syndrome
+N3	Reference T3 unknown:D002609	CHS
+N4	Reference T4 unknown:D030342	inherited disorder
+N5	Reference T5 unknown:D008232	lymphoproliferative syndrome
+N6	Reference T6 unknown:D051359	hemophagocytosis
+N7	Reference T7 unknown:D002609	CHS
+N8	Reference T8 unknown:D008232	lymphoproliferative syndrome
+N9	Reference T9 unknown:D002609	CHS
+N10	Reference T10 unknown:D002609	CHS
+N11	Reference T11 unknown:D008232	lymphoproliferative disease

@@ -1,0 +1,14 @@
+T1	Disease 46 60	Wilms ' tumour
+T2	Disease 109 131	Denys - Drash syndrome
+T3	Disease 148 170	developmental disorder
+T4	Disease 218 231	renal failure
+T5	Disease 234 252	intersex disorders
+T6	Disease 257 269	Wilms tumour
+T7	Disease 380 392	Wilms tumour
+N1	Reference T1 unknown:D009396	Wilms' tumour
+N2	Reference T2 unknown:D030321	Denys-Drash syndrome
+N3	Reference T3 unknown:D002658	developmental disorder
+N4	Reference T4 unknown:D051437	renal failure
+N5	Reference T5 unknown:D012734	intersex disorders
+N6	Reference T6 unknown:D009396	Wilms tumour
+N7	Reference T7 unknown:D009396	Wilms tumour

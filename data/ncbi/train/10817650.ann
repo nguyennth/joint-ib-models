@@ -1,0 +1,30 @@
+T1	Disease 17 40	ataxia - telangiectasia
+T2	Disease 74 79	A - T
+T3	Disease 108 131	ataxia - telangiectasia
+T4	Disease 134 139	A - T
+T5	Disease 193 221	autosomal recessive syndrome
+T6	Disease 269 275	cancer
+T7	Disease 278 300	ischemic heart disease
+T8	Disease 484 489	A - T
+T9	Disease 563 568	A - T
+T10	Disease 818 823	A - T
+T11	Disease 1030 1035	A - T
+T12	Disease 1505 1510	A - T
+T13	Disease 1535 1540	A - T
+T14	Disease 1605 1610	A - T
+T15	Disease 1652 1657	A - T
+N1	Reference T1 unknown:D001260	ataxia-telangiectasia
+N2	Reference T2 unknown:D001260	A-T
+N3	Reference T3 unknown:D001260	ataxia-telangiectasia
+N4	Reference T4 unknown:D001260	A-T
+N5	Reference T5 unknown:D030342	autosomal recessive syndrome
+N6	Reference T6 unknown:D009369	cancer
+N7	Reference T7 unknown:D017202	ischemic heart disease
+N8	Reference T8 unknown:D001260	A-T
+N9	Reference T9 unknown:D001260	A-T
+N10	Reference T10 unknown:D001260	A-T
+N11	Reference T11 unknown:D001260	A-T
+N12	Reference T12 unknown:D001260	A-T
+N13	Reference T13 unknown:D001260	A-T
+N14	Reference T14 unknown:D001260	A-T
+N15	Reference T15 unknown:D001260	A-T

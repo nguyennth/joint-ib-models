@@ -1,0 +1,8 @@
+T1	Disease 25 40	hemochromatosis
+T2	Disease 176 199	iron - overload disease
+T3	Disease 200 226	hereditary hemochromatosis
+T4	Disease 427 442	hemochromatosis
+N1	Reference T1 unknown:D006432	hemochromatosis
+N2	Reference T2 unknown:D019190	iron-overload disease
+N3	Reference T3 unknown:D006432	hereditary hemochromatosis
+N4	Reference T4 unknown:D006432	hemochromatosis

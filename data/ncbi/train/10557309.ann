@@ -1,0 +1,6 @@
+T1	Disease 108 133	Alveolar rhabdomyosarcoma
+T2	Disease 151 186	pediatric cancer of striated muscle
+T3	Disease 1291 1316	alveolar rhabdomyosarcoma
+N1	Reference T1 unknown:D018232	Alveolar rhabdomyosarcoma
+N2	Reference T2 unknown:D019042	pediatric cancer of striated muscle
+N3	Reference T3 unknown:D018232	alveolar rhabdomyosarcoma

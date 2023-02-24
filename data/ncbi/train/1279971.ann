@@ -1,0 +1,12 @@
+T1	Disease 55 65	piebaldism
+T2	Disease 104 114	piebaldism
+T3	Disease 294 304	piebaldism
+T4	Disease 307 325	mental retardation
+T5	Disease 332 361	multiple congenital anomalies
+T6	Disease 809 816	piebald
+N1	Reference T1 unknown:D016116	piebaldism
+N2	Reference T2 unknown:D016116	piebaldism
+N3	Reference T3 unknown:D016116	piebaldism
+N4	Reference T4 unknown:D008607	mental retardation
+N5	Reference T5 unknown:D000013	multiple congenital anomalies
+N6	Reference T6 unknown:D016116	piebald

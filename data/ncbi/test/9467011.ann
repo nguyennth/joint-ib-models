@@ -1,0 +1,56 @@
+T1	Disease 55 69	Cowden disease
+T2	Disease 74 100	Bannayan - Zonana syndrome
+T3	Disease 107 126	hamartoma syndromes
+T4	Disease 161 167	tumour
+T5	Disease 366 376	malignancy
+T6	Disease 433 485	sporadic breast , brain , prostate and kidney cancer
+T7	Disease 520 527	tumours
+T8	Disease 536 558	endometrial carcinomas
+T9	Disease 561 579	malignant melanoma
+T10	Disease 584 599	thyroid tumours
+T11	Disease 671 690	hamartoma syndromes
+T12	Disease 691 705	Cowden disease
+T13	Disease 708 710	CD
+T14	Disease 730 793	Bannayan - Zonana ( BZS ) or Ruvalcaba - Riley - Smith syndrome
+T15	Disease 836 838	CD
+T16	Disease 858 861	BZS
+T17	Disease 966 968	CD
+T18	Disease 1260 1262	CD
+T19	Disease 1349 1351	CD
+T20	Disease 1636 1639	BZS
+T21	Disease 1865 1867	CD
+T22	Disease 1885 1888	BZS
+T23	Disease 1969 1972	BZS
+T24	Disease 2039 2041	CD
+T25	Disease 2185 2187	CD
+T26	Disease 2202 2216	breast disease
+T27	Disease 2489 2513	malignant breast disease
+T28	Disease 2919 2921	CD
+N1	Reference T1 unknown:D006223	Cowden disease
+N2	Reference T2 unknown:D006223	Bannayan-Zonana syndrome
+N3	Reference T3 unknown:D006223	hamartoma syndromes
+N4	Reference T4 unknown:D009369	tumour
+N5	Reference T5 unknown:D009369	malignancy
+N6	Reference T6 unknown:D001943|D001932|D011471|D007680	sporadic breast, brain, prostate and kidney cancer
+N7	Reference T7 unknown:D009369	tumours
+N8	Reference T8 unknown:D016889	endometrial carcinomas
+N9	Reference T9 unknown:D008545	malignant melanoma
+N10	Reference T10 unknown:D013964	thyroid tumours
+N11	Reference T11 unknown:D006223	hamartoma syndromes
+N12	Reference T12 unknown:D006223	Cowden disease
+N13	Reference T13 unknown:D006223	CD
+N14	Reference T14 unknown:D006223	Bannayan-Zonana (BZS) or Ruvalcaba-Riley-Smith syndrome
+N15	Reference T15 unknown:D006223	CD
+N16	Reference T16 unknown:D006223	BZS
+N17	Reference T17 unknown:D006223	CD
+N18	Reference T18 unknown:D006223	CD
+N19	Reference T19 unknown:D006223	CD
+N20	Reference T20 unknown:D006223	BZS
+N21	Reference T21 unknown:D006223	CD
+N22	Reference T22 unknown:D006223	BZS
+N23	Reference T23 unknown:D006223	BZS
+N24	Reference T24 unknown:D006223	CD
+N25	Reference T25 unknown:D006223	CD
+N26	Reference T26 unknown:D001941	breast disease
+N27	Reference T27 unknown:D001941	malignant breast disease
+N28	Reference T28 unknown:D006223	CD

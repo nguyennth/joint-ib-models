@@ -1,0 +1,22 @@
+T1	Disease 78 101	type II Gaucher disease
+T2	Disease 169 184	Gaucher disease
+T3	Disease 187 189	GD
+T4	Disease 208 247	deficiency of beta - glucocerebrosidase
+T5	Disease 293 302	type I GD
+T6	Disease 363 373	type II GD
+T7	Disease 458 469	type III GD
+T8	Disease 604 614	type GD II
+T9	Disease 1347 1357	GD type II
+T10	Disease 1505 1514	stillborn
+T11	Disease 1553 1563	type II GD
+N1	Reference T1 unknown:D005776	type II Gaucher disease
+N2	Reference T2 unknown:D005776	Gaucher disease
+N3	Reference T3 unknown:D005776	GD
+N4	Reference T4 unknown:D005776	deficiency of beta-glucocerebrosidase
+N5	Reference T5 unknown:D005776	type I GD
+N6	Reference T6 unknown:D005776	type II GD
+N7	Reference T7 unknown:D005776	type III GD
+N8	Reference T8 unknown:D005776	type GD II
+N9	Reference T9 unknown:D005776	GD type II
+N10	Reference T10 unknown:D005313	stillborn
+N11	Reference T11 unknown:D005776	type II GD

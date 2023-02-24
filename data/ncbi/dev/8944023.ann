@@ -1,0 +1,6 @@
+T1	Disease 93 129	hereditary breast and ovarian cancer
+T2	Disease 739 752	breast cancer
+T3	Disease 821 827	tumour
+N1	Reference T1 unknown:D061325	hereditary breast and ovarian cancer
+N2	Reference T2 unknown:D001943	breast cancer
+N3	Reference T3 unknown:D009369	tumour

@@ -1,0 +1,18 @@
+T1	Disease 21 39	fragile X syndrome
+T2	Disease 150 168	fragile X syndrome
+T3	Disease 517 535	fragile X syndrome
+T4	Disease 772 790	fragile X syndrome
+T5	Disease 1009 1018	fragile X
+T6	Disease 1138 1147	fragile X
+T7	Disease 1216 1233	Mentally retarded
+T8	Disease 1495 1512	mentally retarded
+T9	Disease 1715 1724	fragile X
+N1	Reference T1 unknown:D005600	fragile X syndrome
+N2	Reference T2 unknown:D005600	fragile X syndrome
+N3	Reference T3 unknown:D005600	fragile X syndrome
+N4	Reference T4 unknown:D005600	fragile X syndrome
+N5	Reference T5 unknown:D005600	fragile X
+N6	Reference T6 unknown:D005600	fragile X
+N7	Reference T7 unknown:D008607	Mentally retarded
+N8	Reference T8 unknown:D008607	mentally retarded
+N9	Reference T9 unknown:D005600	fragile X

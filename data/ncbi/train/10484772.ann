@@ -1,0 +1,26 @@
+T1	Disease 0 15	Coats ' disease
+T2	Disease 32 65	unilateral retinal telangiectasis
+T3	Disease 157 170	Coats disease
+T4	Disease 191 228	abnormal retinal vascular development
+T5	Disease 243 265	retinal telangiectasis
+T6	Disease 293 339	intraretinal and subretinal lipid accumulation
+T7	Disease 342 370	exudative retinal detachment
+T8	Disease 397 410	Coats disease
+T9	Disease 512 525	Coats disease
+T10	Disease 558 572	Norrie disease
+T11	Disease 732 745	Coats disease
+T12	Disease 869 889	Coats telangiectasis
+T13	Disease 958 978	deficiency of norrin
+N1	Reference T1 unknown:D058456	Coats' disease
+N2	Reference T2 unknown:D058456	unilateral retinal telangiectasis
+N3	Reference T3 unknown:D058456	Coats disease
+N4	Reference T4 unknown:D058456	abnormal retinal vascular development
+N5	Reference T5 unknown:D058456	retinal telangiectasis
+N6	Reference T6 unknown:D006949	intraretinal and subretinal lipid accumulation
+N7	Reference T7 unknown:D012163	exudative retinal detachment
+N8	Reference T8 unknown:D058456	Coats disease
+N9	Reference T9 unknown:D058456	Coats disease
+N10	Reference T10 unknown:C537849	Norrie disease
+N11	Reference T11 unknown:D058456	Coats disease
+N12	Reference T12 unknown:D058456	Coats telangiectasis
+N13	Reference T13 unknown:C537849	deficiency of norrin

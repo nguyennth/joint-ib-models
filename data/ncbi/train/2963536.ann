@@ -1,0 +1,20 @@
+T1	Disease 10 23	C3 deficiency
+T2	Disease 54 72	glomerulonephritis
+T3	Disease 120 167	deficiency of the third component of complement
+T4	Disease 182 202	bacterial infections
+T5	Disease 597 606	pneumonia
+T6	Disease 712 745	mesangiopathic glomerulonephritis
+T7	Disease 882 895	C3 deficiency
+T8	Disease 901 925	immune - complex disease
+T9	Disease 1027 1046	pyogenic infections
+T10	Disease 1064 1077	C3 deficiency
+N1	Reference T1 OMIM:613779	C3 deficiency
+N2	Reference T2 unknown:D005921	glomerulonephritis
+N3	Reference T3 OMIM:613779	deficiency of the third component of complement
+N4	Reference T4 unknown:D001424	bacterial infections
+N5	Reference T5 unknown:D011014	pneumonia
+N6	Reference T6 unknown:D005921	mesangiopathic glomerulonephritis
+N7	Reference T7 OMIM:613779	C3 deficiency
+N8	Reference T8 unknown:D007105	immune-complex disease
+N9	Reference T9 unknown:D007239	pyogenic infections
+N10	Reference T10 OMIM:613779	C3 deficiency

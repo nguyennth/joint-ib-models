@@ -1,0 +1,22 @@
+T1	Disease 0 26	Heterozygous C2 deficiency
+T2	Disease 43 53	angioedema
+T3	Disease 56 73	myasthenia gravis
+T4	Disease 80 108	systemic lupus erythematosus
+T5	Disease 138 155	myasthenia gravis
+T6	Disease 158 186	systemic lupus erythematosus
+T7	Disease 193 203	angioedema
+T8	Disease 233 270	complement factor 2 ( C2 ) deficiency
+T9	Disease 355 368	C2 deficiency
+T10	Disease 521 534	C2 deficiency
+T11	Disease 575 595	autoimmune disorders
+N1	Reference T1 OMIM:217000	Heterozygous C2 deficiency
+N2	Reference T2 unknown:D000799	angioedema
+N3	Reference T3 unknown:D009157	myasthenia gravis
+N4	Reference T4 unknown:D008180	systemic lupus erythematosus
+N5	Reference T5 unknown:D009157	myasthenia gravis
+N6	Reference T6 unknown:D008180	systemic lupus erythematosus
+N7	Reference T7 unknown:D000799	angioedema
+N8	Reference T8 OMIM:217000	complement factor 2 (C2) deficiency
+N9	Reference T9 OMIM:217000	C2 deficiency
+N10	Reference T10 OMIM:217000	C2 deficiency
+N11	Reference T11 unknown:D001327	autoimmune disorders

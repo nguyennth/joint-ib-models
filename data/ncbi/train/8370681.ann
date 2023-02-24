@@ -1,0 +1,8 @@
+T1	Disease 77 131	Autosomal dominant neurohypophyseal diabetes insipidus
+T2	Disease 154 172	diabetes insipidus
+T3	Disease 260 278	diabetes insipidus
+T4	Disease 371 425	autosomal dominant neurohypophyseal diabetes insipidus
+N1	Reference T1 OMIM:125700	Autosomal dominant neurohypophyseal diabetes insipidus
+N2	Reference T2 unknown:D003919	diabetes insipidus
+N3	Reference T3 unknown:D003919	diabetes insipidus
+N4	Reference T4 OMIM:125700	autosomal dominant neurohypophyseal diabetes insipidus

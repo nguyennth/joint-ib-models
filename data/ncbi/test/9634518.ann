@@ -1,0 +1,18 @@
+T1	Disease 32 68	phenylalanine hydroxylase deficiency
+T2	Disease 181 196	Phenylketonuria
+T3	Disease 199 202	PKU
+T4	Disease 209 235	mild hyperphenylalaninemia
+T5	Disease 238 241	MHP
+T6	Disease 248 265	allelic disorders
+T7	Disease 424 438	PAH deficiency
+T8	Disease 1474 1488	PAH deficiency
+T9	Disease 1676 1697	hyperphenylalaninemia
+N1	Reference T1 OMIM:261600	phenylalanine hydroxylase deficiency
+N2	Reference T2 unknown:D010661	Phenylketonuria
+N3	Reference T3 unknown:D010661	PKU
+N4	Reference T4 unknown:D010661	mild hyperphenylalaninemia
+N5	Reference T5 unknown:D010661	MHP
+N6	Reference T6 unknown:D030342	allelic disorders
+N7	Reference T7 OMIM:261600	PAH deficiency
+N8	Reference T8 OMIM:261600	PAH deficiency
+N9	Reference T9 unknown:D010661	hyperphenylalaninemia

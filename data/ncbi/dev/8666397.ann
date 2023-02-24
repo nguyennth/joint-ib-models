@@ -1,0 +1,8 @@
+T1	Disease 25 51	Wiskott - Aldrich syndrome
+T2	Disease 214 240	Wiskott - Aldrich syndrome
+T3	Disease 950 979	fatal lymphoreticular disease
+T4	Disease 1044 1070	Wiskott - Aldrich syndrome
+N1	Reference T1 unknown:D014923	Wiskott-Aldrich syndrome
+N2	Reference T2 unknown:D014923	Wiskott-Aldrich syndrome
+N3	Reference T3 unknown:D008206	fatal lymphoreticular disease
+N4	Reference T4 unknown:D014923	Wiskott-Aldrich syndrome

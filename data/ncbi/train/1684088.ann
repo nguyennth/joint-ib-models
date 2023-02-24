@@ -1,0 +1,16 @@
+T1	Disease 57 85	metachromatic leukodystrophy
+T2	Disease 88 91	MLD
+T3	Disease 188 216	metachromatic leukodystrophy
+T4	Disease 219 222	MLD
+T5	Disease 1376 1379	MLD
+T6	Disease 1565 1568	MLD
+T7	Disease 1817 1820	MLD
+T8	Disease 2047 2050	MLD
+N1	Reference T1 unknown:D007966	metachromatic leukodystrophy
+N2	Reference T2 unknown:D007966	MLD
+N3	Reference T3 unknown:D007966	metachromatic leukodystrophy
+N4	Reference T4 unknown:D007966	MLD
+N5	Reference T5 unknown:D007966	MLD
+N6	Reference T6 unknown:D007966	MLD
+N7	Reference T7 unknown:D007966	MLD
+N8	Reference T8 unknown:D007966	MLD

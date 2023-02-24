@@ -1,0 +1,14 @@
+T1	Disease 30 76	X - linked Emery - Dreifuss muscular dystrophy
+T2	Disease 79 125	X - linked Emery - Dreifuss muscular dystrophy
+T3	Disease 128 132	EDMD
+T4	Disease 156 185	benign neuromuscular disorder
+T5	Disease 394 412	loss of ambulation
+T6	Disease 424 438	muscle wasting
+T7	Disease 766 801	Emery - Dreifuss muscular dystrophy
+N1	Reference T1 unknown:D020389	X-linked Emery-Dreifuss muscular dystrophy
+N2	Reference T2 unknown:D020389	X-linked Emery-Dreifuss muscular dystrophy
+N3	Reference T3 unknown:D020389	EDMD
+N4	Reference T4 unknown:D009468	benign neuromuscular disorder
+N5	Reference T5 unknown:D051346	loss of ambulation
+N6	Reference T6 unknown:D009133	muscle wasting
+N7	Reference T7 unknown:D020389	Emery-Dreifuss muscular dystrophy

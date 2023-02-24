@@ -1,0 +1,30 @@
+T1	Disease 62 85	hypobetalipoproteinemia
+T2	Disease 90 117	developmental abnormalities
+T3	Disease 128 160	Familial hypobetalipoproteinemia
+T4	Disease 167 196	autosomal codominant disorder
+T5	Disease 349 372	hypobetalipoproteinemia
+T6	Disease 431 456	coronary vascular disease
+T7	Disease 600 623	hypobetalipoproteinemia
+T8	Disease 875 898	hypobetalipoproteinemia
+T9	Disease 964 979	chylomicronemia
+T10	Disease 1116 1128	exencephalus
+T11	Disease 1133 1146	hydrocephalus
+T12	Disease 1202 1225	hypobetalipoproteinemia
+T13	Disease 1228 1241	atherogenesis
+T14	Disease 1264 1276	exencephalus
+T15	Disease 1281 1294	hydrocephalus
+N1	Reference T1 unknown:D006995	hypobetalipoproteinemia
+N2	Reference T2 unknown:D006130	developmental abnormalities
+N3	Reference T3 unknown:D052476	Familial hypobetalipoproteinemia
+N4	Reference T4 unknown:D030342	autosomal codominant disorder
+N5	Reference T5 unknown:D006995	hypobetalipoproteinemia
+N6	Reference T6 unknown:D003323	coronary vascular disease
+N7	Reference T7 unknown:D006995	hypobetalipoproteinemia
+N8	Reference T8 unknown:D006995	hypobetalipoproteinemia
+N9	Reference T9 OMIM:238600	chylomicronemia
+N10	Reference T10 unknown:D009436	exencephalus
+N11	Reference T11 unknown:D006849	hydrocephalus
+N12	Reference T12 unknown:D006995	hypobetalipoproteinemia
+N13	Reference T13 unknown:D050197	atherogenesis
+N14	Reference T14 unknown:D009436	exencephalus
+N15	Reference T15 unknown:D006849	hydrocephalus

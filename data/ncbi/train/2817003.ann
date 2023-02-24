@@ -1,0 +1,6 @@
+T1	Disease 70 87	isolated aniridia
+T2	Disease 117 134	isolated aniridia
+T3	Disease 467 475	aniridia
+N1	Reference T1 unknown:D015783	isolated aniridia
+N2	Reference T2 unknown:D015783	isolated aniridia
+N3	Reference T3 unknown:D015783	aniridia

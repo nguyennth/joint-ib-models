@@ -1,0 +1,34 @@
+T1	Disease 65 82	Friedreich ataxia
+T2	Disease 85 102	Friedreich ataxia
+T3	Disease 105 109	FRDA
+T4	Disease 137 154	inherited ataxias
+T5	Disease 163 204	autosomal recessive degenerative disorder
+T6	Disease 265 297	progressive gait and limb ataxia
+T7	Disease 300 331	absence of deep tendon reflexes
+T8	Disease 334 360	extensor plantar responses
+T9	Disease 367 403	loss of position and vibration sense
+T10	Disease 425 429	FRDA
+T11	Disease 494 498	FRDA
+T12	Disease 549 553	FRDA
+T13	Disease 676 680	FRDA
+T14	Disease 1003 1007	FRDA
+T15	Disease 1185 1189	FRDA
+T16	Disease 1341 1345	FRDA
+T17	Disease 1369 1391	mitochondrial disorder
+N1	Reference T1 unknown:D005621	Friedreich ataxia
+N2	Reference T2 unknown:D005621	Friedreich ataxia
+N3	Reference T3 unknown:D005621	FRDA
+N4	Reference T4 unknown:D013132	inherited ataxias
+N5	Reference T5 unknown:D019636	autosomal recessive degenerative disorder
+N6	Reference T6 unknown:D020234|D001259	progressive gait and limb ataxia
+N7	Reference T7 unknown:D012021	absence of deep tendon reflexes
+N8	Reference T8 unknown:D001405	extensor plantar responses
+N9	Reference T9 unknown:D053421	loss of position and vibration sense
+N10	Reference T10 unknown:D005621	FRDA
+N11	Reference T11 unknown:D005621	FRDA
+N12	Reference T12 unknown:D005621	FRDA
+N13	Reference T13 unknown:D005621	FRDA
+N14	Reference T14 unknown:D005621	FRDA
+N15	Reference T15 unknown:D005621	FRDA
+N16	Reference T16 unknown:D005621	FRDA
+N17	Reference T17 unknown:D028361	mitochondrial disorder

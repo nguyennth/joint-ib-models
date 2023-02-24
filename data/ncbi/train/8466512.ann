@@ -1,0 +1,4 @@
+T1	Disease 21 93	deficiency of mitochondrial very - long - chain acyl - CoA dehydrogenase
+T2	Disease 464 480	VLCAD deficiency
+N1	Reference T1 unknown:C536353	deficiency of mitochondrial very-long-chain acyl-CoA dehydrogenase
+N2	Reference T2 unknown:C536353	VLCAD deficiency

@@ -1,0 +1,12 @@
+T1	Disease 41 75	X - linked amelogenesis imperfecta
+T2	Disease 251 274	amelogenesis imperfecta
+T3	Disease 312 331	inherited disorders
+T4	Disease 540 574	X - linked amelogenesis imperfecta
+T5	Disease 577 581	AIH1
+T6	Disease 631 635	AIH1
+N1	Reference T1 unknown:C538243	X-linked amelogenesis imperfecta
+N2	Reference T2 unknown:D000567	amelogenesis imperfecta
+N3	Reference T3 unknown:D030342	inherited disorders
+N4	Reference T4 unknown:C538243	X-linked amelogenesis imperfecta
+N5	Reference T5 unknown:C538243	AIH1
+N6	Reference T6 unknown:C538243	AIH1

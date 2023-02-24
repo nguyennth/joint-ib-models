@@ -1,0 +1,28 @@
+T1	Disease 15 26	skin tumour
+T2	Disease 463 469	cancer
+T3	Disease 505 518	colon cancers
+T4	Disease 561 587	adenomatous polyposis coli
+T5	Disease 590 593	APC
+T6	Disease 700 728	colon and some other cancers
+T7	Disease 893 905	skin tumours
+T8	Disease 917 931	pilomatricomas
+T9	Disease 1063 1077	pilomatricomas
+T10	Disease 1258 1269	skin tumour
+T11	Disease 1313 1319	tumour
+T12	Disease 1364 1378	pilomatricomas
+T13	Disease 1439 1446	tumours
+T14	Disease 1678 1685	tumours
+N1	Reference T1 unknown:D012878	skin tumour
+N2	Reference T2 unknown:D009369	cancer
+N3	Reference T3 unknown:D003110	colon cancers
+N4	Reference T4 unknown:D011125	adenomatous polyposis coli
+N5	Reference T5 unknown:D011125	APC
+N6	Reference T6 unknown:D003110|D009369	colon and some other cancers
+N7	Reference T7 unknown:D012878	skin tumours
+N8	Reference T8 unknown:D018296	pilomatricomas
+N9	Reference T9 unknown:D018296	pilomatricomas
+N10	Reference T10 unknown:D012878	skin tumour
+N11	Reference T11 unknown:D009369	tumour
+N12	Reference T12 unknown:D018296	pilomatricomas
+N13	Reference T13 unknown:D009369	tumours
+N14	Reference T14 unknown:D009369	tumours

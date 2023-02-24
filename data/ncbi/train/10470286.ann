@@ -1,0 +1,32 @@
+T1	Disease 24 42	neurofibrosarcomas
+T2	Disease 130 135	tumor
+T3	Disease 235 247	solid tumors
+T4	Disease 271 286	gastric cancers
+T5	Disease 291 309	esophageal cancers
+T6	Disease 315 342	bone and soft tissue tumors
+T7	Disease 374 392	neurofibrosarcomas
+T8	Disease 421 426	tumor
+T9	Disease 455 473	esophageal cancers
+T10	Disease 478 484	glioma
+T11	Disease 487 500	glioblastomas
+T12	Disease 861 878	neurofibrosarcoma
+T13	Disease 1004 1021	neurofibrosarcoma
+T14	Disease 1176 1193	neurofibrosarcoma
+T15	Disease 1386 1403	neurofibrosarcoma
+T16	Disease 1512 1529	neurofibrosarcoma
+N1	Reference T1 unknown:D018319	neurofibrosarcomas
+N2	Reference T2 unknown:D009369	tumor
+N3	Reference T3 unknown:D009369	solid tumors
+N4	Reference T4 unknown:D013274	gastric cancers
+N5	Reference T5 unknown:D004938	esophageal cancers
+N6	Reference T6 unknown:D001859|D012983	bone and soft tissue tumors
+N7	Reference T7 unknown:D018319	neurofibrosarcomas
+N8	Reference T8 unknown:D009369	tumor
+N9	Reference T9 unknown:D004938	esophageal cancers
+N10	Reference T10 unknown:D005910	glioma
+N11	Reference T11 unknown:D005909	glioblastomas
+N12	Reference T12 unknown:D018319	neurofibrosarcoma
+N13	Reference T13 unknown:D018319	neurofibrosarcoma
+N14	Reference T14 unknown:D018319	neurofibrosarcoma
+N15	Reference T15 unknown:D018319	neurofibrosarcoma
+N16	Reference T16 unknown:D018319	neurofibrosarcoma

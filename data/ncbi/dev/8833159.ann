@@ -1,0 +1,8 @@
+T1	Disease 258 294	benign familial neonatal convulsions
+T2	Disease 297 347	autosomal dominant nocturnal frontal lobe epilepsy
+T3	Disease 473 523	autosomal dominant nocturnal frontal lobe epilepsy
+T4	Disease 1034 1055	idiopathic epilepsies
+N1	Reference T1 unknown:D020936	benign familial neonatal convulsions
+N2	Reference T2 unknown:D017034	autosomal dominant nocturnal frontal lobe epilepsy
+N3	Reference T3 unknown:D017034	autosomal dominant nocturnal frontal lobe epilepsy
+N4	Reference T4 unknown:D004827	idiopathic epilepsies

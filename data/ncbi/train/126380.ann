@@ -1,0 +1,8 @@
+T1	Disease 23 45	ankylosing spondylitis
+T2	Disease 94 116	Ankylosing spondylitis
+T3	Disease 652 674	ankylosing spondylitis
+T4	Disease 935 957	ankylosing spondylitis
+N1	Reference T1 unknown:D013167	ankylosing spondylitis
+N2	Reference T2 unknown:D013167	Ankylosing spondylitis
+N3	Reference T3 unknown:D013167	ankylosing spondylitis
+N4	Reference T4 unknown:D013167	ankylosing spondylitis

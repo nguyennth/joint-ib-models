@@ -1,0 +1,16 @@
+T1	Disease 102 117	hemochromatosis
+T2	Disease 135 150	hemochromatosis
+T3	Disease 384 399	hemochromatosis
+T4	Disease 885 900	hemochromatosis
+T5	Disease 923 938	hemochromatosis
+T6	Disease 1973 1988	hemochromatosis
+T7	Disease 2229 2244	hemochromatosis
+T8	Disease 2476 2486	HFE defect
+N1	Reference T1 unknown:D006432	hemochromatosis
+N2	Reference T2 unknown:D006432	hemochromatosis
+N3	Reference T3 unknown:D006432	hemochromatosis
+N4	Reference T4 unknown:D006432	hemochromatosis
+N5	Reference T5 unknown:D006432	hemochromatosis
+N6	Reference T6 unknown:D006432	hemochromatosis
+N7	Reference T7 unknown:D006432	hemochromatosis
+N8	Reference T8 unknown:D006432	HFE defect

@@ -1,0 +1,12 @@
+T1	Disease 70 78	aniridia
+T2	Disease 121 135	Peters anomaly
+T3	Disease 143 163	congenital cataracts
+T4	Disease 171 199	autosomal dominant keratitis
+T5	Disease 211 237	isolated foveal hypoplasia
+T6	Disease 300 308	aniridia
+N1	Reference T1 unknown:D015783	aniridia
+N2	Reference T2 unknown:C537884	Peters anomaly
+N3	Reference T3 unknown:D002386	congenital cataracts
+N4	Reference T4 unknown:C537022	autosomal dominant keratitis
+N5	Reference T5 OMIM:136520	isolated foveal hypoplasia
+N6	Reference T6 unknown:D015783	aniridia

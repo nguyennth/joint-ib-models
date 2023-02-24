@@ -1,0 +1,30 @@
+T1	Disease 33 50	colorectal cancer
+T2	Disease 136 162	stage II colorectal cancer
+T3	Disease 272 289	colorectal cancer
+T4	Disease 375 380	tumor
+T5	Disease 413 433	colorectal carcinoma
+T6	Disease 576 614	stage II and III colorectal carcinomas
+T7	Disease 710 715	tumor
+T8	Disease 733 738	tumor
+T9	Disease 878 922	stage II and stage III colorectal carcinomas
+T10	Disease 965 971	tumors
+T11	Disease 1064 1085	DCC - negative tumors
+T12	Disease 1160 1177	stage III disease
+T13	Disease 1322 1361	stage II or stage III colorectal cancer
+T14	Disease 1367 1397	stage II colorectal carcinomas
+T15	Disease 1483 1500	stage III cancers
+N1	Reference T1 unknown:D015179	colorectal cancer
+N2	Reference T2 unknown:D015179	stage II colorectal cancer
+N3	Reference T3 unknown:D015179	colorectal cancer
+N4	Reference T4 unknown:D009369	tumor
+N5	Reference T5 unknown:D015179	colorectal carcinoma
+N6	Reference T6 unknown:D015179	stage II and III colorectal carcinomas
+N7	Reference T7 unknown:D009369	tumor
+N8	Reference T8 unknown:D009369	tumor
+N9	Reference T9 unknown:D015179	stage II and stage III colorectal carcinomas
+N10	Reference T10 unknown:D009369	tumors
+N11	Reference T11 unknown:D009369	DCC-negative tumors
+N12	Reference T12 unknown:D009369	stage III disease
+N13	Reference T13 unknown:D015179	stage II or stage III colorectal cancer
+N14	Reference T14 unknown:D015179	stage II colorectal carcinomas
+N15	Reference T15 unknown:D009369	stage III cancers

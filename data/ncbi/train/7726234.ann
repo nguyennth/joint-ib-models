@@ -1,0 +1,22 @@
+T1	Disease 0 27	Duchenne muscular dystrophy
+T2	Disease 32 50	myotonic dystrophy
+T3	Disease 120 138	myotonic dystrophy
+T4	Disease 143 170	Duchenne muscular dystrophy
+T5	Disease 173 176	DMD
+T6	Disease 234 252	myotonic dystrophy
+T7	Disease 535 562	Duchenne muscular dystrophy
+T8	Disease 575 596	dystrophin deficiency
+T9	Disease 663 681	Myotonic dystrophy
+T10	Disease 737 755	Duchenne dystrophy
+T11	Disease 929 932	DMD
+N1	Reference T1 unknown:D020388	Duchenne muscular dystrophy
+N2	Reference T2 unknown:D009223	myotonic dystrophy
+N3	Reference T3 unknown:D009223	myotonic dystrophy
+N4	Reference T4 unknown:D020388	Duchenne muscular dystrophy
+N5	Reference T5 unknown:D020388	DMD
+N6	Reference T6 unknown:D009223	myotonic dystrophy
+N7	Reference T7 unknown:D020388	Duchenne muscular dystrophy
+N8	Reference T8 OMIM:310200	dystrophin deficiency
+N9	Reference T9 unknown:D009223	Myotonic dystrophy
+N10	Reference T10 unknown:D020388	Duchenne dystrophy
+N11	Reference T11 unknown:D020388	DMD

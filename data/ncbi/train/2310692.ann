@@ -1,0 +1,30 @@
+T1	Disease 0 36	Paroxysmal nocturnal haemoglobinuria
+T2	Disease 53 100	deficiency of the ninth component of complement
+T3	Disease 119 136	haemolytic attack
+T4	Disease 168 204	paroxysmal nocturnal haemoglobinuria
+T5	Disease 207 210	PNH
+T6	Disease 234 288	inherited deficiency in the ninth complement component
+T7	Disease 614 624	haemolysis
+T8	Disease 671 681	haemolysis
+T9	Disease 690 705	haemoglobinuria
+T10	Disease 710 718	jaundice
+T11	Disease 1233 1251	haemolytic attacks
+T12	Disease 1269 1272	PNH
+T13	Disease 1297 1307	haemolysis
+T14	Disease 1311 1314	PNH
+T15	Disease 1345 1358	C9 deficiency
+N1	Reference T1 unknown:D006457	Paroxysmal nocturnal haemoglobinuria
+N2	Reference T2 OMIM:613825	deficiency of the ninth component of complement
+N3	Reference T3 unknown:D006461	haemolytic attack
+N4	Reference T4 unknown:D006457	paroxysmal nocturnal haemoglobinuria
+N5	Reference T5 unknown:D006457	PNH
+N6	Reference T6 OMIM:613825	inherited deficiency in the ninth complement component
+N7	Reference T7 unknown:D006461	haemolysis
+N8	Reference T8 unknown:D006461	haemolysis
+N9	Reference T9 unknown:D006456	haemoglobinuria
+N10	Reference T10 unknown:D007565	jaundice
+N11	Reference T11 unknown:D006461	haemolytic attacks
+N12	Reference T12 unknown:D006457	PNH
+N13	Reference T13 unknown:D006461	haemolysis
+N14	Reference T14 unknown:D006457	PNH
+N15	Reference T15 OMIM:613825	C9 deficiency

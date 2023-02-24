@@ -1,0 +1,22 @@
+T1	Disease 0 36	Duchenne / Becker muscular dystrophy
+T2	Disease 186 224	Duchenne and Becker muscular dystrophy
+T3	Disease 227 230	DMD
+T4	Disease 233 236	BMD
+T5	Disease 337 340	DMD
+T6	Disease 694 697	DMD
+T7	Disease 700 703	BMD
+T8	Disease 884 887	DMD
+T9	Disease 890 893	BMD
+T10	Disease 1127 1138	DMD defects
+T11	Disease 1431 1445	muscle disease
+N1	Reference T1 unknown:D020388|C537666	Duchenne/Becker muscular dystrophy
+N2	Reference T2 unknown:D020388|C537666	Duchenne and Becker muscular dystrophy
+N3	Reference T3 unknown:D020388	DMD
+N4	Reference T4 unknown:C537666	BMD
+N5	Reference T5 unknown:D020388	DMD
+N6	Reference T6 unknown:D020388	DMD
+N7	Reference T7 unknown:C537666	BMD
+N8	Reference T8 unknown:D020388	DMD
+N9	Reference T9 unknown:C537666	BMD
+N10	Reference T10 unknown:D020388	DMD defects
+N11	Reference T11 unknown:D009135	muscle disease

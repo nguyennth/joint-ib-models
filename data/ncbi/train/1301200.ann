@@ -1,0 +1,18 @@
+T1	Disease 36 57	hyperphenylalaninemia
+T2	Disease 97 112	genetic defects
+T3	Disease 134 149	phenylketonuria
+T4	Disease 152 155	PKU
+T5	Disease 162 183	hyperphenylalaninemia
+T6	Disease 186 189	HPA
+T7	Disease 596 599	PKU
+T8	Disease 602 605	HPA
+T9	Disease 672 675	HPA
+N1	Reference T1 unknown:D010661	hyperphenylalaninemia
+N2	Reference T2 unknown:D030342	genetic defects
+N3	Reference T3 unknown:D010661	phenylketonuria
+N4	Reference T4 unknown:D010661	PKU
+N5	Reference T5 unknown:D010661	hyperphenylalaninemia
+N6	Reference T6 unknown:D010661	HPA
+N7	Reference T7 unknown:D010661	PKU
+N8	Reference T8 unknown:D010661	HPA
+N9	Reference T9 unknown:D010661	HPA

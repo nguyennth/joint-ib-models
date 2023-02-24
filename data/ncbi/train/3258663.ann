@@ -1,0 +1,14 @@
+T1	Disease 45 59	von Willebrand
+T2	Disease 100 129	severe von Willebrand disease
+T3	Disease 132 161	Severe von Willebrand disease
+T4	Disease 218 232	von Willebrand
+T5	Disease 1162 1181	genetic abnormality
+T6	Disease 1290 1311	genetic abnormalities
+T7	Disease 1535 1564	severe von Willebrand disease
+N1	Reference T1 unknown:D014842	von Willebrand
+N2	Reference T2 unknown:D056729	severe von Willebrand disease
+N3	Reference T3 unknown:D056729	Severe von Willebrand disease
+N4	Reference T4 unknown:D014842	von Willebrand
+N5	Reference T5 unknown:D030342	genetic abnormality
+N6	Reference T6 unknown:D030342	genetic abnormalities
+N7	Reference T7 unknown:D056729	severe von Willebrand disease

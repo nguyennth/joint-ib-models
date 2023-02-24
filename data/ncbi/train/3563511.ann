@@ -1,0 +1,8 @@
+T1	Disease 52 65	Lesch - Nyhan
+T2	Disease 583 605	Lesch - Nyhan syndrome
+T3	Disease 699 712	Lesch - Nyhan
+T4	Disease 896 918	Lesch - Nyhan syndrome
+N1	Reference T1 unknown:D007926	Lesch-Nyhan
+N2	Reference T2 unknown:D007926	Lesch-Nyhan syndrome
+N3	Reference T3 unknown:D007926	Lesch-Nyhan
+N4	Reference T4 unknown:D007926	Lesch-Nyhan syndrome

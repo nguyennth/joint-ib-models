@@ -1,0 +1,10 @@
+T1	Disease 13 28	hemochromatosis
+T2	Disease 48 62	HFE deficiency
+T3	Disease 138 153	hemochromatosis
+T4	Disease 683 698	HFE - deficient
+T5	Disease 809 824	hemochromatosis
+N1	Reference T1 unknown:D006432	hemochromatosis
+N2	Reference T2 unknown:D006432	HFE deficiency
+N3	Reference T3 unknown:D006432	hemochromatosis
+N4	Reference T4 unknown:D006432	HFE-deficient
+N5	Reference T5 unknown:D006432	hemochromatosis

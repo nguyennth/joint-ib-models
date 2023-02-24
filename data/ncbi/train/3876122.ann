@@ -1,0 +1,12 @@
+T1	Disease 17 46	type I von Willebrand disease
+T2	Disease 90 104	von Willebrand
+T3	Disease 114 143	Type I von Willebrand disease
+T4	Disease 146 149	vWD
+T5	Disease 209 223	von Willebrand
+T6	Disease 1413 1423	type I vWD
+N1	Reference T1 unknown:D056725	type I von Willebrand disease
+N2	Reference T2 unknown:D014842	von Willebrand
+N3	Reference T3 unknown:D056725	Type I von Willebrand disease
+N4	Reference T4 unknown:D014842	vWD
+N5	Reference T5 unknown:D014842	von Willebrand
+N6	Reference T6 unknown:D056725	type I vWD

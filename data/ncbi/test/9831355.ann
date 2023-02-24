@@ -1,0 +1,10 @@
+T1	Disease 61 105	hereditary non - polyposis colorectal cancer
+T2	Disease 138 182	hereditary non - polyposis colorectal cancer
+T3	Disease 185 190	HNPCC
+T4	Disease 337 354	colorectal cancer
+T5	Disease 641 647	cancer
+N1	Reference T1 unknown:D003123	hereditary non-polyposis colorectal cancer
+N2	Reference T2 unknown:D003123	hereditary non-polyposis colorectal cancer
+N3	Reference T3 unknown:D003123	HNPCC
+N4	Reference T4 unknown:D015179	colorectal cancer
+N5	Reference T5 unknown:D009369	cancer

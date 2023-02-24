@@ -1,0 +1,12 @@
+T1	Disease 0 24	Hereditary C7 deficiency
+T2	Disease 174 196	ankylosing spondylitis
+T3	Disease 201 249	deficient in the seventh component of complement
+T4	Disease 728 741	C7 deficiency
+T5	Disease 1038 1051	CM deficienty
+T6	Disease 1133 1170	complement deficiencies ( C2 and C7 )
+N1	Reference T1 OMIM:610102	Hereditary C7 deficiency
+N2	Reference T2 unknown:D013167	ankylosing spondylitis
+N3	Reference T3 OMIM:610102	deficient in the seventh component of complement
+N4	Reference T4 OMIM:610102	C7 deficiency
+N5	Reference T5 OMIM:610102	CM deficienty
+N6	Reference T6 OMIM:610102|OMIM:217000	complement deficiencies (C2 and C7)

@@ -1,0 +1,12 @@
+T1	Disease 74 119	hereditary non - spherocytic hemolytic anemia
+T2	Disease 235 277	hereditary nonspherocytic hemolytic anemia
+T3	Disease 280 285	HNSHA
+T4	Disease 589 604	G6PD deficiency
+T5	Disease 716 721	HNSHA
+T6	Disease 777 792	G6PD deficiency
+N1	Reference T1 unknown:D000746	hereditary non-spherocytic hemolytic anemia
+N2	Reference T2 unknown:D000746	hereditary nonspherocytic hemolytic anemia
+N3	Reference T3 unknown:D000746	HNSHA
+N4	Reference T4 unknown:D005955	G6PD deficiency
+N5	Reference T5 unknown:D000746	HNSHA
+N6	Reference T6 unknown:D005955	G6PD deficiency

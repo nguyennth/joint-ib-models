@@ -1,0 +1,24 @@
+T1	Disease 28 50	van der Woude syndrome
+T2	Disease 140 162	van der Woude syndrome
+T3	Disease 165 168	vWS
+T4	Disease 194 231	autosomal dominant clefting condition
+T5	Disease 258 270	mucous cysts
+T6	Disease 273 289	lower - lip pits
+T7	Disease 296 329	clefts to the lip and / or palate
+T8	Disease 336 339	vWS
+T9	Disease 460 463	vWS
+T10	Disease 503 528	cleft lip and / or palate
+T11	Disease 664 667	vWS
+T12	Disease 1080 1083	vWS
+N1	Reference T1 unknown:C536528	van der Woude syndrome
+N2	Reference T2 unknown:C536528	van der Woude syndrome
+N3	Reference T3 unknown:C536528	vWS
+N4	Reference T4 unknown:C536528	autosomal dominant clefting condition
+N5	Reference T5 unknown:D009078	mucous cysts
+N6	Reference T6 unknown:C536528	lower-lip pits
+N7	Reference T7 unknown:D002971|D002972	clefts to the lip and/or palate
+N8	Reference T8 unknown:C536528	vWS
+N9	Reference T9 unknown:C536528	vWS
+N10	Reference T10 unknown:D002971|D002972	cleft lip and/or palate
+N11	Reference T11 unknown:C536528	vWS
+N12	Reference T12 unknown:C536528	vWS

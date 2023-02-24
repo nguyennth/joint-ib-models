@@ -1,0 +1,32 @@
+T1	Disease 0 16	Pendred syndrome
+T2	Disease 76 79	PDS
+T3	Disease 100 116	Pendred syndrome
+T4	Disease 127 164	congenital sensorineural hearing loss
+T5	Disease 167 181	thyroid goiter
+T6	Disease 242 270	autosomal recessive disorder
+T7	Disease 314 317	PDS
+T8	Disease 403 406	PDS
+T9	Disease 545 564	congenital deafness
+T10	Disease 651 678	widened vestibular aqueduct
+T11	Disease 796 802	goiter
+T12	Disease 1032 1048	Pendred syndrome
+T13	Disease 1100 1103	PDS
+T14	Disease 1166 1189	congenital hearing loss
+T15	Disease 1206 1237	inner ear morphological anomaly
+T16	Disease 1263 1277	thyroid goiter
+N1	Reference T1 unknown:C536648	Pendred syndrome
+N2	Reference T2 unknown:C536648	PDS
+N3	Reference T3 unknown:C536648	Pendred syndrome
+N4	Reference T4 unknown:D006319	congenital sensorineural hearing loss
+N5	Reference T5 unknown:D006042	thyroid goiter
+N6	Reference T6 unknown:D030342	autosomal recessive disorder
+N7	Reference T7 unknown:C536648	PDS
+N8	Reference T8 unknown:C536648	PDS
+N9	Reference T9 unknown:D003638	congenital deafness
+N10	Reference T10 OMIM:600791	widened vestibular aqueduct
+N11	Reference T11 unknown:D006042	goiter
+N12	Reference T12 unknown:C536648	Pendred syndrome
+N13	Reference T13 unknown:C536648	PDS
+N14	Reference T14 unknown:D003638	congenital hearing loss
+N15	Reference T15 unknown:D007759	inner ear morphological anomaly
+N16	Reference T16 unknown:D006042	thyroid goiter

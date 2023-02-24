@@ -1,0 +1,18 @@
+T1	Disease 65 82	Friedreich ataxia
+T2	Disease 135 152	Friedreich ataxia
+T3	Disease 155 159	FRDA
+T4	Disease 173 198	neurodegenerative disease
+T5	Disease 555 559	FRDA
+T6	Disease 669 673	FRDA
+T7	Disease 1000 1004	FRDA
+T8	Disease 1057 1061	FRDA
+T9	Disease 1287 1291	FRDA
+N1	Reference T1 unknown:D005621	Friedreich ataxia
+N2	Reference T2 unknown:D005621	Friedreich ataxia
+N3	Reference T3 unknown:D005621	FRDA
+N4	Reference T4 unknown:D019636	neurodegenerative disease
+N5	Reference T5 unknown:D005621	FRDA
+N6	Reference T6 unknown:D005621	FRDA
+N7	Reference T7 unknown:D005621	FRDA
+N8	Reference T8 unknown:D005621	FRDA
+N9	Reference T9 unknown:D005621	FRDA

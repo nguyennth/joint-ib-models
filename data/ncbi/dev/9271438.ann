@@ -1,0 +1,20 @@
+T1	Disease 4 29	von Hippel - Lindau tumor
+T2	Disease 143 168	von Hippel - Lindau tumor
+T3	Disease 236 269	clear - cell renal cell carcinoma
+T4	Disease 272 275	RCC
+T5	Disease 321 379	von Hippel - Lindau disease - associated and sporadic RCCs
+T6	Disease 477 534	RCC - and von Hippel - Lindau disease - associated tumors
+T7	Disease 791 794	RCC
+T8	Disease 1538 1541	RCC
+T9	Disease 1903 1930	von Hippel - Lindau disease
+T10	Disease 1935 1938	RCC
+N1	Reference T1 unknown:D006623	von Hippel-Lindau tumor
+N2	Reference T2 unknown:D006623	von Hippel-Lindau tumor
+N3	Reference T3 unknown:C538445	clear-cell renal cell carcinoma
+N4	Reference T4 unknown:D002292	RCC
+N5	Reference T5 unknown:D006623	von Hippel-Lindau disease-associated and sporadic RCCs
+N6	Reference T6 unknown:D006623	RCC- and von Hippel-Lindau disease-associated tumors
+N7	Reference T7 unknown:D002292	RCC
+N8	Reference T8 unknown:D002292	RCC
+N9	Reference T9 unknown:D006623	von Hippel-Lindau disease
+N10	Reference T10 unknown:D002292	RCC

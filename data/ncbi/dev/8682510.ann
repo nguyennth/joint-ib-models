@@ -1,0 +1,10 @@
+T1	Disease 0 26	Wiskott - Aldrich syndrome
+T2	Disease 170 196	Wiskott - Aldrich syndrome
+T3	Disease 271 274	WAS
+T4	Disease 299 326	X - linked thrombocytopenia
+T5	Disease 978 981	WAS
+N1	Reference T1 unknown:D014923	Wiskott-Aldrich syndrome
+N2	Reference T2 unknown:D014923	Wiskott-Aldrich syndrome
+N3	Reference T3 unknown:D014923	WAS
+N4	Reference T4 OMIM:313900	X-linked thrombocytopenia
+N5	Reference T5 unknown:D014923	WAS

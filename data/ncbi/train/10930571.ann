@@ -1,0 +1,24 @@
+T1	Disease 95 117	faciogenital dysplasia
+T2	Disease 120 144	Aarskog - Scott syndrome
+T3	Disease 149 173	Aarskog - Scott Syndrome
+T4	Disease 176 179	AAS
+T5	Disease 188 207	X - linked disorder
+T6	Disease 225 238	short stature
+T7	Disease 252 291	facial , limb and genital abnormalities
+T8	Disease 336 339	AAS
+T9	Disease 569 572	AAS
+T10	Disease 709 712	AAS
+T11	Disease 916 919	AAS
+T12	Disease 1332 1361	X - linked agammaglobulinemia
+N1	Reference T1 unknown:C535331	faciogenital dysplasia
+N2	Reference T2 unknown:C535331	Aarskog-Scott syndrome
+N3	Reference T3 unknown:C535331	Aarskog-Scott Syndrome
+N4	Reference T4 unknown:C535331	AAS
+N5	Reference T5 unknown:D040181	X-linked disorder
+N6	Reference T6 unknown:D006130	short stature
+N7	Reference T7 unknown:D019465|D017880|D014564	facial, limb and genital abnormalities
+N8	Reference T8 unknown:C535331	AAS
+N9	Reference T9 unknown:C535331	AAS
+N10	Reference T10 unknown:C535331	AAS
+N11	Reference T11 unknown:C535331	AAS
+N12	Reference T12 OMIM:300755	X-linked agammaglobulinemia

@@ -1,0 +1,6 @@
+T1	Disease 0 22	Classical galactosemia
+T2	Disease 105 127	Classical galactosemia
+T3	Disease 2148 2160	galactosemia
+N1	Reference T1 unknown:D005693	Classical galactosemia
+N2	Reference T2 unknown:D005693	Classical galactosemia
+N3	Reference T3 unknown:D005693	galactosemia

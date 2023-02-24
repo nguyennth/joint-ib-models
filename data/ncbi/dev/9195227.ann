@@ -1,0 +1,18 @@
+T1	Disease 31 56	breast and ovarian cancer
+T2	Disease 151 181	breast and / or ovarian cancer
+T3	Disease 186 192	tumour
+T4	Disease 205 222	breast carcinomas
+T5	Disease 336 342	cancer
+T6	Disease 646 652	cancer
+T7	Disease 698 711	breast cancer
+T8	Disease 934 941	tumours
+T9	Disease 1088 1134	estrogen receptor - positive breast carcinomas
+N1	Reference T1 unknown:D061325	breast and ovarian cancer
+N2	Reference T2 unknown:D061325	breast and/or ovarian cancer
+N3	Reference T3 unknown:D009369	tumour
+N4	Reference T4 unknown:D001943	breast carcinomas
+N5	Reference T5 unknown:D009369	cancer
+N6	Reference T6 unknown:D009369	cancer
+N7	Reference T7 unknown:D001943	breast cancer
+N8	Reference T8 unknown:D009369	tumours
+N9	Reference T9 unknown:D001943	estrogen receptor-positive breast carcinomas

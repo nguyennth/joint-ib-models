@@ -1,0 +1,6 @@
+T1	Disease 115 130	phenylketonuria
+T2	Disease 286 307	hyperphenylalaninemic
+T3	Disease 1094 1109	phenylketonuria
+N1	Reference T1 unknown:D010661	phenylketonuria
+N2	Reference T2 unknown:D010661	hyperphenylalaninemic
+N3	Reference T3 unknown:D010661	phenylketonuria

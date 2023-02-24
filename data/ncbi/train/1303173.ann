@@ -1,0 +1,8 @@
+T1	Disease 56 70	G6PD deficient
+T2	Disease 106 161	glucose 6 - phosphate dehydrogenase ( G6PD ) deficiency
+T3	Disease 794 809	G6PD deficiency
+T4	Disease 1581 1606	enzyme deficiency in G6PD
+N1	Reference T1 unknown:D005955	G6PD deficient
+N2	Reference T2 unknown:D005955	glucose 6-phosphate dehydrogenase (G6PD) deficiency
+N3	Reference T3 unknown:D005955	G6PD deficiency
+N4	Reference T4 unknown:D005955	enzyme deficiency in G6PD

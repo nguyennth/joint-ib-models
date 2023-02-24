@@ -1,0 +1,20 @@
+T1	Disease 70 99	familial expansile osteolysis
+T2	Disease 102 131	Familial expansile osteolysis
+T3	Disease 134 137	FEO
+T4	Disease 165 197	autosomal dominant bone disorder
+T5	Disease 230 256	increased bone remodelling
+T6	Disease 263 281	osteolytic lesions
+T7	Disease 462 465	FEO
+T8	Disease 880 883	FEO
+T9	Disease 887 917	familial Paget disease of bone
+T10	Disease 920 923	PDB
+N1	Reference T1 OMIM:174810	familial expansile osteolysis
+N2	Reference T2 OMIM:174810	Familial expansile osteolysis
+N3	Reference T3 OMIM:174810	FEO
+N4	Reference T4 unknown:D001847	autosomal dominant bone disorder
+N5	Reference T5 unknown:D001847	increased bone remodelling
+N6	Reference T6 unknown:D030981	osteolytic lesions
+N7	Reference T7 OMIM:174810	FEO
+N8	Reference T8 OMIM:174810	FEO
+N9	Reference T9 unknown:C538098	familial Paget disease of bone
+N10	Reference T10 unknown:C538098	PDB

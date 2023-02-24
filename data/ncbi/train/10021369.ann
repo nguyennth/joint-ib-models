@@ -1,0 +1,10 @@
+T1	Disease 44 77	adenomatous polyposis coli tumour
+T2	Disease 95 136	adenomatous polyposis coli ( APC ) tumour
+T3	Disease 372 387	colon carcinoma
+T4	Disease 993 1008	colon carcinoma
+T5	Disease 1131 1137	cancer
+N1	Reference T1 unknown:D011125	adenomatous polyposis coli tumour
+N2	Reference T2 unknown:D011125	adenomatous polyposis coli (APC) tumour
+N3	Reference T3 unknown:D003110	colon carcinoma
+N4	Reference T4 unknown:D003110	colon carcinoma
+N5	Reference T5 unknown:D009369	cancer

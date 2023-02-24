@@ -1,0 +1,30 @@
+T1	Disease 0 30	Inherited colorectal polyposis
+T2	Disease 35 41	cancer
+T3	Disease 132 135	APC
+T4	Disease 165 181	colorectal tumor
+T5	Disease 195 234	familial adenomatous polyposis syndrome
+T6	Disease 374 377	APC
+T7	Disease 487 490	APC
+T8	Disease 615 633	adenomatous polyps
+T9	Disease 643 662	colorectal cancer ,
+T10	Disease 932 952	colorectal neoplasia
+T11	Disease 1060 1068	adenomas
+T12	Disease 1073 1091	colorectal cancers
+T13	Disease 1218 1225	adenoma
+T14	Disease 1298 1315	colorectal cancer
+T15	Disease 1556 1573	colorectal cancer
+N1	Reference T1 unknown:D011125	Inherited colorectal polyposis
+N2	Reference T2 unknown:D009369	cancer
+N3	Reference T3 unknown:D011125	APC
+N4	Reference T4 unknown:D015179	colorectal tumor
+N5	Reference T5 unknown:D011125	familial adenomatous polyposis syndrome
+N6	Reference T6 unknown:D011125	APC
+N7	Reference T7 unknown:D011125	APC
+N8	Reference T8 unknown:D018256	adenomatous polyps
+N9	Reference T9 unknown:D015179	colorectal cancer,
+N10	Reference T10 unknown:D015179	colorectal neoplasia
+N11	Reference T11 unknown:D000236	adenomas
+N12	Reference T12 unknown:D015179	colorectal cancers
+N13	Reference T13 unknown:D000236	adenoma
+N14	Reference T14 unknown:D015179	colorectal cancer
+N15	Reference T15 unknown:D015179	colorectal cancer

@@ -1,0 +1,24 @@
+T1	Disease 0 13	Fabry disease
+T2	Disease 162 175	Fabry disease
+T3	Disease 178 180	FD
+T4	Disease 185 216	angiokeratoma corporis diffusum
+T5	Disease 225 280	X - linked inborn error of glycosphingolipid metabolism
+T6	Disease 529 542	angiokeratoma
+T7	Disease 545 567	severe acroparesthesia
+T8	Disease 570 583	renal failure
+T9	Disease 590 625	vasculopathy of the heart and brain
+T10	Disease 651 683	alpha - galactosidase deficiency
+T11	Disease 1064 1088	alpha - Gal A deficiency
+T12	Disease 1140 1142	FD
+N1	Reference T1 unknown:D000795	Fabry disease
+N2	Reference T2 unknown:D000795	Fabry disease
+N3	Reference T3 unknown:D000795	FD
+N4	Reference T4 unknown:D000795	angiokeratoma corporis diffusum
+N5	Reference T5 unknown:D008052	X-linked inborn error of glycosphingolipid metabolism
+N6	Reference T6 unknown:D000794	angiokeratoma
+N7	Reference T7 unknown:D010292	severe acroparesthesia
+N8	Reference T8 unknown:D051437	renal failure
+N9	Reference T9 unknown:D014652	vasculopathy of the heart and brain
+N10	Reference T10 unknown:D000795	alpha-galactosidase deficiency
+N11	Reference T11 unknown:D000795	alpha-Gal A deficiency
+N12	Reference T12 unknown:D000795	FD

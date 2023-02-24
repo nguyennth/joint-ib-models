@@ -1,0 +1,12 @@
+T1	Disease 115 129	myelinopathies
+T2	Disease 416 442	hypomyelination of the PNS
+T3	Disease 583 616	inherited peripheral neuropathies
+T4	Disease 617 647	Charcot - Marie - Tooth type 1
+T5	Disease 650 676	Dejerine - Sottas syndrome
+T6	Disease 681 718	congenital hypomyelinating neuropathy
+N1	Reference T1 unknown:D011115	myelinopathies
+N2	Reference T2 unknown:D010523	hypomyelination of the PNS
+N3	Reference T3 unknown:C548028	inherited peripheral neuropathies
+N4	Reference T4 unknown:D002607	Charcot-Marie-Tooth type 1
+N5	Reference T5 unknown:C538392	Dejerine-Sottas syndrome
+N6	Reference T6 OMIM:605253	congenital hypomyelinating neuropathy

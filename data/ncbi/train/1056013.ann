@@ -1,0 +1,24 @@
+T1	Disease 62 85	Ataxia - telangiectasia
+T2	Disease 96 112	genetic disorder
+T3	Disease 129 146	immune deficiency
+T4	Disease 149 171	chromosome instability
+T5	Disease 198 217	lymphoid malignancy
+T6	Disease 696 719	ataxia - telangiectasia
+T7	Disease 948 976	chronic lymphocytic leukemia
+T8	Disease 986 994	leukemia
+T9	Disease 1118 1126	leukemic
+T10	Disease 1293 1314	lymphoid malignancies
+T11	Disease 1415 1432	Burkitts lymphoma
+T12	Disease 1443 1461	lymphoid neoplasms
+N1	Reference T1 unknown:D001260	Ataxia-telangiectasia
+N2	Reference T2 unknown:D030342	genetic disorder
+N3	Reference T3 unknown:D007153	immune deficiency
+N4	Reference T4 unknown:D043171	chromosome instability
+N5	Reference T5 unknown:D008223	lymphoid malignancy
+N6	Reference T6 unknown:D001260	ataxia-telangiectasia
+N7	Reference T7 unknown:D015451	chronic lymphocytic leukemia
+N8	Reference T8 unknown:D007938	leukemia
+N9	Reference T9 unknown:D007938	leukemic
+N10	Reference T10 unknown:D008223	lymphoid malignancies
+N11	Reference T11 unknown:D002051	Burkitts lymphoma
+N12	Reference T12 unknown:D008223	lymphoid neoplasms

@@ -1,0 +1,44 @@
+T1	Disease 20 41	adrenomyeloneuropathy
+T2	Disease 55 86	X - linked adrenoleukodystrophy
+T3	Disease 134 165	X - linked adrenoleukodystrophy
+T4	Disease 168 175	X - ALD
+T5	Disease 184 202	inherited disorder
+T6	Disease 349 362	demyelination
+T7	Disease 370 416	impaired function of adrenal cortex and testes
+T8	Disease 466 488	childhood cerebral ALD
+T9	Disease 491 496	CCALD
+T10	Disease 503 524	adrenomyeloneuropathy
+T11	Disease 527 530	AMN
+T12	Disease 617 624	X - ALD
+T13	Disease 627 630	AMN
+T14	Disease 691 694	AMN
+T15	Disease 711 716	CCALD
+T16	Disease 720 743	adolescent cerebral ALD
+T17	Disease 746 754	AdolCALD
+T18	Disease 868 871	AMN
+T19	Disease 887 892	CCALD
+T20	Disease 896 904	AdolCALD
+T21	Disease 970 973	AMN
+T22	Disease 1012 1019	X - ALD
+N1	Reference T1 unknown:D000326	adrenomyeloneuropathy
+N2	Reference T2 unknown:D000326	X-linked adrenoleukodystrophy
+N3	Reference T3 unknown:D000326	X-linked adrenoleukodystrophy
+N4	Reference T4 unknown:D000326	X-ALD
+N5	Reference T5 unknown:D030342	inherited disorder
+N6	Reference T6 unknown:D003711	demyelination
+N7	Reference T7 unknown:D000303	impaired function of adrenal cortex and testes
+N8	Reference T8 unknown:D000326	childhood cerebral ALD
+N9	Reference T9 unknown:D000326	CCALD
+N10	Reference T10 unknown:D000326	adrenomyeloneuropathy
+N11	Reference T11 unknown:D000326	AMN
+N12	Reference T12 unknown:D000326	X-ALD
+N13	Reference T13 unknown:D000326	AMN
+N14	Reference T14 unknown:D000326	AMN
+N15	Reference T15 unknown:D000326	CCALD
+N16	Reference T16 unknown:D000326	adolescent cerebral ALD
+N17	Reference T17 unknown:D000326	AdolCALD
+N18	Reference T18 unknown:D000326	AMN
+N19	Reference T19 unknown:D000326	CCALD
+N20	Reference T20 unknown:D000326	AdolCALD
+N21	Reference T21 unknown:D000326	AMN
+N22	Reference T22 unknown:D000326	X-ALD

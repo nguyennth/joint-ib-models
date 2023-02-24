@@ -1,0 +1,44 @@
+T1	Disease 41 64	atelosteogenesis type 2
+T2	Disease 69 90	diastrophic dysplasia
+T3	Disease 110 131	diastrophic dysplasia
+T4	Disease 201 218	chondrodysplasias
+T5	Disease 270 291	diastrophic dysplasia
+T6	Disease 294 297	DTD
+T7	Disease 302 325	atelosteogenesis type 2
+T8	Disease 328 331	AO2
+T9	Disease 340 363	achondrogenesis type 1B
+T10	Disease 366 371	ACG1B
+T11	Disease 419 442	DTDST chondrodysplasias
+T12	Disease 551 557	AO - 2
+T13	Disease 569 572	DTD
+T14	Disease 616 619	AO2
+T15	Disease 622 625	DTD
+T16	Disease 890 893	DTD
+T17	Disease 898 901	AO2
+T18	Disease 904 907	DTD
+T19	Disease 1322 1325	AO2
+T20	Disease 1708 1711	AO2
+T21	Disease 1715 1718	DTD
+T22	Disease 1823 1828	ACG1B
+N1	Reference T1 unknown:C535395	atelosteogenesis type 2
+N2	Reference T2 unknown:C536170	diastrophic dysplasia
+N3	Reference T3 unknown:C536170	diastrophic dysplasia
+N4	Reference T4 unknown:D010009	chondrodysplasias
+N5	Reference T5 unknown:C536170	diastrophic dysplasia
+N6	Reference T6 unknown:C536170	DTD
+N7	Reference T7 unknown:C535395	atelosteogenesis type 2
+N8	Reference T8 unknown:C535395	AO2
+N9	Reference T9 unknown:C536016	achondrogenesis type 1B
+N10	Reference T10 unknown:C536016	ACG1B
+N11	Reference T11 OMIM:222600	DTDST chondrodysplasias
+N12	Reference T12 unknown:C535395	AO-2
+N13	Reference T13 unknown:C536170	DTD
+N14	Reference T14 unknown:C535395	AO2
+N15	Reference T15 unknown:C536170	DTD
+N16	Reference T16 unknown:C536170	DTD
+N17	Reference T17 unknown:C535395	AO2
+N18	Reference T18 unknown:C536170	DTD
+N19	Reference T19 unknown:C535395	AO2
+N20	Reference T20 unknown:C535395	AO2
+N21	Reference T21 unknown:C536170	DTD
+N22	Reference T22 unknown:C536016	ACG1B

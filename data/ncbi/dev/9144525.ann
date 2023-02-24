@@ -1,0 +1,12 @@
+T1	Disease 345 389	Deficiency of terminal complement components
+T2	Disease 429 449	neisseria infections
+T3	Disease 504 527	inherited C9 deficiency
+T4	Disease 563 576	C9 deficiency
+T5	Disease 672 685	C9 deficiency
+T6	Disease 1015 1028	C9 deficiency
+N1	Reference T1 unknown:D007153	Deficiency of terminal complement components
+N2	Reference T2 unknown:D016870	neisseria infections
+N3	Reference T3 OMIM:613825	inherited C9 deficiency
+N4	Reference T4 OMIM:613825	C9 deficiency
+N5	Reference T5 OMIM:613825	C9 deficiency
+N6	Reference T6 OMIM:613825	C9 deficiency

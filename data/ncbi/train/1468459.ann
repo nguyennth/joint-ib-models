@@ -1,0 +1,26 @@
+T1	Disease 0 27	Craniofrontonasal dysplasia
+T2	Disease 62 89	craniofrontonasal dysplasia
+T3	Disease 92 96	CFND
+T4	Disease 157 178	frontonasal dysplasia
+T5	Disease 183 207	coronal craniosynostosis
+T6	Disease 210 236	Extracranial abnormalities
+T7	Disease 245 294	brittle nails with prominent longitudinal grooves
+T8	Disease 298 328	syndactyly of fingers and toes
+T9	Disease 549 558	Hypotonia
+T10	Disease 563 579	laxity of joints
+T11	Disease 638 657	developmental delay
+T12	Disease 748 768	X - linked disorders
+T13	Disease 794 798	CFND
+N1	Reference T1 unknown:C536456	Craniofrontonasal dysplasia
+N2	Reference T2 unknown:C536456	craniofrontonasal dysplasia
+N3	Reference T3 unknown:C536456	CFND
+N4	Reference T4 unknown:C538065	frontonasal dysplasia
+N5	Reference T5 unknown:C537369	coronal craniosynostosis
+N6	Reference T6 unknown:D009139	Extracranial abnormalities
+N7	Reference T7 unknown:D009260	brittle nails with prominent longitudinal grooves
+N8	Reference T8 unknown:D013576	syndactyly of fingers and toes
+N9	Reference T9 unknown:D009123	Hypotonia
+N10	Reference T10 unknown:C535884	laxity of joints
+N11	Reference T11 unknown:D002658	developmental delay
+N12	Reference T12 unknown:D040181	X-linked disorders
+N13	Reference T13 unknown:C536456	CFND

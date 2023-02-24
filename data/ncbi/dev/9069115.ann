@@ -1,0 +1,6 @@
+T1	Disease 74 86	alkaptonuria
+T2	Disease 1571 1583	alkaptonuria
+T3	Disease 1734 1746	alkaptonuria
+N1	Reference T1 unknown:D000474	alkaptonuria
+N2	Reference T2 unknown:D000474	alkaptonuria
+N3	Reference T3 unknown:D000474	alkaptonuria

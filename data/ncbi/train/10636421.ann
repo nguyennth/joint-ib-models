@@ -1,0 +1,20 @@
+T1	Disease 0 24	X - linked retinoschisis
+T2	Disease 77 101	X - linked retinoschisis
+T3	Disease 104 108	XLRS
+T4	Disease 132 155	vitreoretinal dystrophy
+T5	Disease 168 179	visual loss
+T6	Disease 405 409	XLRS
+T7	Disease 478 482	XLRS
+T8	Disease 1190 1211	genetic abnormalities
+T9	Disease 1243 1247	XLRS
+T10	Disease 1578 1582	XLRS
+N1	Reference T1 unknown:D041441	X-linked retinoschisis
+N2	Reference T2 unknown:D041441	X-linked retinoschisis
+N3	Reference T3 unknown:D041441	XLRS
+N4	Reference T4 unknown:D058499	vitreoretinal dystrophy
+N5	Reference T5 unknown:C531604	visual loss
+N6	Reference T6 unknown:D041441	XLRS
+N7	Reference T7 unknown:D041441	XLRS
+N8	Reference T8 unknown:D030342	genetic abnormalities
+N9	Reference T9 unknown:D041441	XLRS
+N10	Reference T10 unknown:D041441	XLRS

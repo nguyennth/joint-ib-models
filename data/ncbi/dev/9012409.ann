@@ -1,0 +1,6 @@
+T1	Disease 20 63	Duarte and Los Angeles variant galactosemia
+T2	Disease 113 150	Duarte enzyme variant of galactosemia
+T3	Disease 1795 1821	LA variant of galactosemia
+N1	Reference T1 unknown:D005693	Duarte and Los Angeles variant galactosemia
+N2	Reference T2 unknown:D005693	Duarte enzyme variant of galactosemia
+N3	Reference T3 unknown:D005693	LA variant of galactosemia

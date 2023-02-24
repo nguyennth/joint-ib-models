@@ -1,0 +1,18 @@
+T1	Disease 0 14	Norrie disease
+T2	Disease 171 185	Norrie disease
+T3	Disease 188 200	pseudoglioma
+T4	Disease 203 206	NDP
+T5	Disease 220 258	X - linked neurodevelopmental disorder
+T6	Disease 348 351	NDP
+T7	Disease 524 530	Norrie
+T8	Disease 657 660	NDP
+T9	Disease 779 782	NDP
+N1	Reference T1 unknown:C537849	Norrie disease
+N2	Reference T2 unknown:C537849	Norrie disease
+N3	Reference T3 unknown:C537849	pseudoglioma
+N4	Reference T4 unknown:C537849	NDP
+N5	Reference T5 unknown:D038901	X-linked neurodevelopmental disorder
+N6	Reference T6 unknown:C537849	NDP
+N7	Reference T7 unknown:C537849	Norrie
+N8	Reference T8 unknown:C537849	NDP
+N9	Reference T9 unknown:C537849	NDP

@@ -1,0 +1,12 @@
+T1	Disease 26 57	beta - glucuronidase deficiency
+T2	Disease 79 104	mucopolysaccharidosis VII
+T3	Disease 213 238	mucopolysaccharidosis VII
+T4	Disease 244 290	autosomal recessive lysosomal storage disorder
+T5	Disease 301 332	beta - glucuronidase deficiency
+T6	Disease 1468 1475	MPS VII
+N1	Reference T1 unknown:D016538	beta-glucuronidase deficiency
+N2	Reference T2 unknown:D016538	mucopolysaccharidosis VII
+N3	Reference T3 unknown:D016538	mucopolysaccharidosis VII
+N4	Reference T4 unknown:D016464	autosomal recessive lysosomal storage disorder
+N5	Reference T5 unknown:D016538	beta-glucuronidase deficiency
+N6	Reference T6 unknown:D016538	MPS VII

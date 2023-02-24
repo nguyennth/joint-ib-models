@@ -1,0 +1,18 @@
+T1	Disease 137 160	inherited breast cancer
+T2	Disease 237 250	breast cancer
+T3	Disease 325 347	familial breast cancer
+T4	Disease 360 393	inherited breast / ovarian cancer
+T5	Disease 462 485	inherited breast cancer
+T6	Disease 993 1006	breast cancer
+T7	Disease 1061 1079	male breast cancer
+T8	Disease 1266 1279	breast cancer
+T9	Disease 1776 1800	hereditary breast cancer
+N1	Reference T1 unknown:D001943	inherited breast cancer
+N2	Reference T2 unknown:D001943	breast cancer
+N3	Reference T3 unknown:D001943	familial breast cancer
+N4	Reference T4 unknown:D061325	inherited breast/ovarian cancer
+N5	Reference T5 unknown:D001943	inherited breast cancer
+N6	Reference T6 unknown:D001943	breast cancer
+N7	Reference T7 unknown:D018567	male breast cancer
+N8	Reference T8 unknown:D001943	breast cancer
+N9	Reference T9 unknown:D001943	hereditary breast cancer

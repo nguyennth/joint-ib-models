@@ -1,0 +1,26 @@
+T1	Disease 89 105	Kniest dysplasia
+T2	Disease 108 124	Kniest dysplasia
+T3	Disease 148 164	chondrodysplasia
+T4	Disease 289 316	short trunk and extremities
+T5	Disease 319 340	mid - face hypoplasia
+T6	Disease 343 355	cleft palate
+T7	Disease 358 364	myopia
+T8	Disease 367 385	retinal detachment
+T9	Disease 392 404	hearing loss
+T10	Disease 495 511	Kniest dysplasia
+T11	Disease 602 618	Kniest dysplasia
+T12	Disease 736 752	Kniest dysplasia
+T13	Disease 1272 1288	Kniest dysplasia
+N1	Reference T1 unknown:C537207	Kniest dysplasia
+N2	Reference T2 unknown:C537207	Kniest dysplasia
+N3	Reference T3 unknown:D010009	chondrodysplasia
+N4	Reference T4 unknown:D006130	short trunk and extremities
+N5	Reference T5 unknown:D019767	mid-face hypoplasia
+N6	Reference T6 unknown:D002972	cleft palate
+N7	Reference T7 unknown:D009216	myopia
+N8	Reference T8 unknown:D012163	retinal detachment
+N9	Reference T9 unknown:D034381	hearing loss
+N10	Reference T10 unknown:C537207	Kniest dysplasia
+N11	Reference T11 unknown:C537207	Kniest dysplasia
+N12	Reference T12 unknown:C537207	Kniest dysplasia
+N13	Reference T13 unknown:C537207	Kniest dysplasia

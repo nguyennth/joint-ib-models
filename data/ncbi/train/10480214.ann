@@ -1,0 +1,16 @@
+T1	Disease 15 61	X - linked Emery - Dreifuss muscular dystrophy
+T2	Disease 115 151	contractures of the Achilles tendons
+T3	Disease 225 251	contractures of the elbows
+T4	Disease 256 275	cardiac abnormality
+T5	Disease 622 668	X - linked Emery - Dreifuss muscular dystrophy
+T6	Disease 671 675	EDMD
+T7	Disease 804 808	EDMD
+T8	Disease 862 882	sudden cardiac death
+N1	Reference T1 unknown:D020389	X-linked Emery-Dreifuss muscular dystrophy
+N2	Reference T2 unknown:D003286	contractures of the Achilles tendons
+N3	Reference T3 unknown:D003286	contractures of the elbows
+N4	Reference T4 unknown:D018376	cardiac abnormality
+N5	Reference T5 unknown:D020389	X-linked Emery-Dreifuss muscular dystrophy
+N6	Reference T6 unknown:D020389	EDMD
+N7	Reference T7 unknown:D020389	EDMD
+N8	Reference T8 unknown:D016757	sudden cardiac death

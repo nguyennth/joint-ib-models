@@ -1,0 +1,30 @@
+T1	Disease 26 44	myotonic dystrophy
+T2	Disease 47 65	Myotonic dystrophy
+T3	Disease 68 70	DM
+T4	Disease 79 105	autosomal dominant disease
+T5	Disease 204 215	infertility
+T6	Disease 220 249	congenital myotonic dystrophy
+T7	Disease 252 255	CDM
+T8	Disease 284 286	DM
+T9	Disease 415 417	DM
+T10	Disease 487 489	DM
+T11	Disease 525 527	DM
+T12	Disease 698 700	DM
+T13	Disease 940 942	DM
+T14	Disease 1005 1007	DM
+T15	Disease 1097 1099	DM
+N1	Reference T1 unknown:D009223	myotonic dystrophy
+N2	Reference T2 unknown:D009223	Myotonic dystrophy
+N3	Reference T3 unknown:D009223	DM
+N4	Reference T4 unknown:D030342	autosomal dominant disease
+N5	Reference T5 unknown:D007246	infertility
+N6	Reference T6 unknown:D009223	congenital myotonic dystrophy
+N7	Reference T7 unknown:D009223	CDM
+N8	Reference T8 unknown:D009223	DM
+N9	Reference T9 unknown:D009223	DM
+N10	Reference T10 unknown:D009223	DM
+N11	Reference T11 unknown:D009223	DM
+N12	Reference T12 unknown:D009223	DM
+N13	Reference T13 unknown:D009223	DM
+N14	Reference T14 unknown:D009223	DM
+N15	Reference T15 unknown:D009223	DM

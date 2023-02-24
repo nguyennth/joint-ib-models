@@ -1,0 +1,18 @@
+T1	Disease 39 63	sporadic ovarian tumours
+T2	Disease 123 150	autosomal dominant syndrome
+T3	Disease 182 207	breast and ovarian cancer
+T4	Disease 236 243	tumours
+T5	Disease 367 373	tumour
+T6	Disease 401 416	ovarian cancers
+T7	Disease 557 564	tumours
+T8	Disease 661 667	tumour
+T9	Disease 793 808	ovarian cancers
+N1	Reference T1 unknown:D010051	sporadic ovarian tumours
+N2	Reference T2 unknown:D030342	autosomal dominant syndrome
+N3	Reference T3 unknown:D061325	breast and ovarian cancer
+N4	Reference T4 unknown:D009369	tumours
+N5	Reference T5 unknown:D009369	tumour
+N6	Reference T6 unknown:D010051	ovarian cancers
+N7	Reference T7 unknown:D009369	tumours
+N8	Reference T8 unknown:D009369	tumour
+N9	Reference T9 unknown:D010051	ovarian cancers

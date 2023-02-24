@@ -1,0 +1,34 @@
+T1	Disease 23 39	copper toxicosis
+T2	Disease 162 189	hepatic copper accumulation
+T3	Disease 210 228	inherited disorder
+T4	Disease 279 306	hepatic copper accumulation
+T5	Disease 354 368	Wilson disease
+T6	Disease 371 373	WD
+T7	Disease 511 526	copper overload
+T8	Disease 535 567	non - Indian childhood cirrhosis
+T9	Disease 653 669	copper toxicosis
+T10	Disease 672 674	CT
+T11	Disease 757 770	liver disease
+T12	Disease 797 799	WD
+T13	Disease 834 836	CT
+T14	Disease 1025 1027	CT
+T15	Disease 1177 1179	WD
+T16	Disease 1204 1206	CT
+T17	Disease 1292 1294	CT
+N1	Reference T1 OMIM:215600	copper toxicosis
+N2	Reference T2 unknown:D008107	hepatic copper accumulation
+N3	Reference T3 unknown:D030342	inherited disorder
+N4	Reference T4 unknown:D008107	hepatic copper accumulation
+N5	Reference T5 unknown:D006527	Wilson disease
+N6	Reference T6 unknown:D006527	WD
+N7	Reference T7 unknown:D008107	copper overload
+N8	Reference T8 OMIM:215600	non-Indian childhood cirrhosis
+N9	Reference T9 OMIM:215600	copper toxicosis
+N10	Reference T10 OMIM:215600	CT
+N11	Reference T11 unknown:D008107	liver disease
+N12	Reference T12 unknown:D006527	WD
+N13	Reference T13 OMIM:215600	CT
+N14	Reference T14 OMIM:215600	CT
+N15	Reference T15 unknown:D006527	WD
+N16	Reference T16 OMIM:215600	CT
+N17	Reference T17 OMIM:215600	CT

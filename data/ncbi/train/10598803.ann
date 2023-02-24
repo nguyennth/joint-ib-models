@@ -1,0 +1,32 @@
+T1	Disease 58 72	attenuated APC
+T2	Disease 159 162	APC
+T3	Disease 200 242	adenomatous polyps of the colon and rectum
+T4	Disease 250 267	colorectal cancer
+T5	Disease 316 319	APC
+T6	Disease 388 425	attenuated adenomatous polyposis coli
+T7	Disease 428 432	AAPC
+T8	Disease 459 463	AAPC
+T9	Disease 487 504	colorectal polyps
+T10	Disease 536 553	colorectal cancer
+T11	Disease 597 600	APC
+T12	Disease 650 654	AAPC
+T13	Disease 799 802	APC
+T14	Disease 890 893	APC
+T15	Disease 1098 1101	APC
+T16	Disease 1137 1157	attenuated polyposis
+N1	Reference T1 unknown:C538265	attenuated APC
+N2	Reference T2 unknown:D011125	APC
+N3	Reference T3 unknown:D011125	adenomatous polyps of the colon and rectum
+N4	Reference T4 unknown:D015179	colorectal cancer
+N5	Reference T5 unknown:D011125	APC
+N6	Reference T6 unknown:C538265	attenuated adenomatous polyposis coli
+N7	Reference T7 unknown:C538265	AAPC
+N8	Reference T8 unknown:C538265	AAPC
+N9	Reference T9 unknown:D003111	colorectal polyps
+N10	Reference T10 unknown:D015179	colorectal cancer
+N11	Reference T11 unknown:D011125	APC
+N12	Reference T12 unknown:C538265	AAPC
+N13	Reference T13 unknown:D011125	APC
+N14	Reference T14 unknown:D011125	APC
+N15	Reference T15 unknown:D011125	APC
+N16	Reference T16 unknown:C538265	attenuated polyposis

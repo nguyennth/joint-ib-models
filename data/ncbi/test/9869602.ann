@@ -1,0 +1,28 @@
+T1	Disease 25 28	APC
+T2	Disease 98 115	colorectal cancer
+T3	Disease 209 226	colorectal cancer
+T4	Disease 278 281	APC
+T5	Disease 358 375	colorectal cancer
+T6	Disease 498 515	colorectal cancer
+T7	Disease 655 664	neoplasia
+T8	Disease 801 818	colorectal cancer
+T9	Disease 984 990	cancer
+T10	Disease 1066 1072	cancer
+T11	Disease 1080 1100	Colorectal neoplasia
+T12	Disease 1242 1251	neoplasia
+T13	Disease 1329 1360	colorectal , or other , cancers
+T14	Disease 1428 1445	colorectal cancer
+N1	Reference T1 unknown:D011125	APC
+N2	Reference T2 unknown:D015179	colorectal cancer
+N3	Reference T3 unknown:D015179	colorectal cancer
+N4	Reference T4 unknown:D011125	APC
+N5	Reference T5 unknown:D015179	colorectal cancer
+N6	Reference T6 unknown:D015179	colorectal cancer
+N7	Reference T7 unknown:D009369	neoplasia
+N8	Reference T8 unknown:D015179	colorectal cancer
+N9	Reference T9 unknown:D009369	cancer
+N10	Reference T10 unknown:D009369	cancer
+N11	Reference T11 unknown:D015179	Colorectal neoplasia
+N12	Reference T12 unknown:D009369	neoplasia
+N13	Reference T13 unknown:D009369|D015179	colorectal, or other, cancers
+N14	Reference T14 unknown:D015179	colorectal cancer

@@ -1,0 +1,34 @@
+T1	Disease 32 36	WAGR
+T2	Disease 247 251	WAGR
+T3	Disease 254 265	Wilms tumor
+T4	Disease 268 276	aniridia
+T5	Disease 279 306	genitourinary abnormalities
+T6	Disease 313 331	mental retardation
+T7	Disease 417 425	aniridia
+T8	Disease 458 469	Wilms tumor
+T9	Disease 542 550	aniridia
+T10	Disease 607 615	aniridia
+T11	Disease 647 658	Wilms tumor
+T12	Disease 735 739	WAGR
+T13	Disease 751 762	Wilms tumor
+T14	Disease 817 825	aniridia
+T15	Disease 884 892	aniridia
+T16	Disease 969 977	aniridia
+T17	Disease 1086 1094	aniridia
+N1	Reference T1 unknown:D017624	WAGR
+N2	Reference T2 unknown:D017624	WAGR
+N3	Reference T3 unknown:D009396	Wilms tumor
+N4	Reference T4 unknown:D015783	aniridia
+N5	Reference T5 unknown:D014564	genitourinary abnormalities
+N6	Reference T6 unknown:D008607	mental retardation
+N7	Reference T7 unknown:D015783	aniridia
+N8	Reference T8 unknown:D009396	Wilms tumor
+N9	Reference T9 unknown:D015783	aniridia
+N10	Reference T10 unknown:D015783	aniridia
+N11	Reference T11 unknown:D009396	Wilms tumor
+N12	Reference T12 unknown:D017624	WAGR
+N13	Reference T13 unknown:D009396	Wilms tumor
+N14	Reference T14 unknown:D015783	aniridia
+N15	Reference T15 unknown:D015783	aniridia
+N16	Reference T16 unknown:D015783	aniridia
+N17	Reference T17 unknown:D015783	aniridia

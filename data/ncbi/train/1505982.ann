@@ -1,0 +1,24 @@
+T1	Disease 50 58	aniridia
+T2	Disease 156 164	aniridia
+T3	Disease 194 202	aniridia
+T4	Disease 236 244	aniridia
+T5	Disease 252 281	WAGR contiguous gene syndrome
+T6	Disease 368 376	aniridia
+T7	Disease 559 567	aniridia
+T8	Disease 798 806	aniridia
+T9	Disease 901 909	aniridia
+T10	Disease 1352 1360	aniridia
+T11	Disease 1440 1448	aniridia
+T12	Disease 1478 1486	aniridia
+N1	Reference T1 unknown:D015783	aniridia
+N2	Reference T2 unknown:D015783	aniridia
+N3	Reference T3 unknown:D015783	aniridia
+N4	Reference T4 unknown:D015783	aniridia
+N5	Reference T5 unknown:D017624	WAGR contiguous gene syndrome
+N6	Reference T6 unknown:D015783	aniridia
+N7	Reference T7 unknown:D015783	aniridia
+N8	Reference T8 unknown:D015783	aniridia
+N9	Reference T9 unknown:D015783	aniridia
+N10	Reference T10 unknown:D015783	aniridia
+N11	Reference T11 unknown:D015783	aniridia
+N12	Reference T12 unknown:D015783	aniridia

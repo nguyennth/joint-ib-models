@@ -1,0 +1,10 @@
+T1	Disease 227 242	G6PD deficiency
+T2	Disease 649 664	G6PD deficiency
+T3	Disease 711 740	G6PD Seattle - like phenotype
+T4	Disease 760 775	G6PD deficiency
+T5	Disease 841 856	G6PD deficiency
+N1	Reference T1 unknown:D005955	G6PD deficiency
+N2	Reference T2 unknown:D005955	G6PD deficiency
+N3	Reference T3 unknown:D005955	G6PD Seattle-like phenotype
+N4	Reference T4 unknown:D005955	G6PD deficiency
+N5	Reference T5 unknown:D005955	G6PD deficiency

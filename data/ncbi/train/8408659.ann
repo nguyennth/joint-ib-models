@@ -1,0 +1,4 @@
+T1	Disease 178 193	atherosclerosis
+T2	Disease 344 359	CETP deficiency
+N1	Reference T1 unknown:D050197	atherosclerosis
+N2	Reference T2 OMIM:143470	CETP deficiency

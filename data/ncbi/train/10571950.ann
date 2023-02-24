@@ -1,0 +1,34 @@
+T1	Disease 30 33	PDS
+T2	Disease 83 91	deafness
+T3	Disease 95 111	Pendred syndrome
+T4	Disease 114 130	Pendred syndrome
+T5	Disease 136 164	recessive inherited disorder
+T6	Disease 182 224	developmental abnormalities of the cochlea
+T7	Disease 227 253	sensorineural hearing loss
+T8	Disease 260 287	diffuse thyroid enlargement
+T9	Disease 290 296	goiter
+T10	Disease 354 373	hereditary deafness
+T11	Disease 395 398	PDS
+T12	Disease 554 557	PDS
+T13	Disease 629 637	deafness
+T14	Disease 708 716	deafness
+T15	Disease 790 793	PDS
+T16	Disease 1194 1197	PDS
+T17	Disease 1253 1261	deafness
+N1	Reference T1 unknown:C536648	PDS
+N2	Reference T2 unknown:D003638	deafness
+N3	Reference T3 unknown:C536648	Pendred syndrome
+N4	Reference T4 unknown:C536648	Pendred syndrome
+N5	Reference T5 unknown:D030342	recessive inherited disorder
+N6	Reference T6 unknown:D015834	developmental abnormalities of the cochlea
+N7	Reference T7 unknown:D006319	sensorineural hearing loss
+N8	Reference T8 unknown:D013959	diffuse thyroid enlargement
+N9	Reference T9 unknown:D006042	goiter
+N10	Reference T10 unknown:D030342+D003638	hereditary deafness
+N11	Reference T11 unknown:C536648	PDS
+N12	Reference T12 unknown:C536648	PDS
+N13	Reference T13 unknown:D003638	deafness
+N14	Reference T14 unknown:D003638	deafness
+N15	Reference T15 unknown:C536648	PDS
+N16	Reference T16 unknown:C536648	PDS
+N17	Reference T17 unknown:D003638	deafness

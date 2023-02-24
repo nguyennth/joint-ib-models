@@ -1,0 +1,24 @@
+T1	Disease 0 23	Ataxia - telangiectasia
+T2	Disease 104 132	autosomal recessive disorder
+T3	Disease 133 156	ataxia - telangiectasia
+T4	Disease 159 164	A - T
+T5	Disease 186 209	cerebellar degeneration
+T6	Disease 212 228	immunodeficiency
+T7	Disease 233 254	cancer predisposition
+T8	Disease 257 262	A - T
+T9	Disease 303 317	cancer - prone
+T10	Disease 338 343	A - T
+T11	Disease 592 597	A - T
+T12	Disease 1138 1143	A - T
+N1	Reference T1 unknown:D001260	Ataxia-telangiectasia
+N2	Reference T2 unknown:D030342	autosomal recessive disorder
+N3	Reference T3 unknown:D001260	ataxia-telangiectasia
+N4	Reference T4 unknown:D001260	A-T
+N5	Reference T5 unknown:D013132	cerebellar degeneration
+N6	Reference T6 unknown:D007153	immunodeficiency
+N7	Reference T7 unknown:D009369	cancer predisposition
+N8	Reference T8 unknown:D001260	A-T
+N9	Reference T9 unknown:D009369	cancer-prone
+N10	Reference T10 unknown:D001260	A-T
+N11	Reference T11 unknown:D001260	A-T
+N12	Reference T12 unknown:D001260	A-T

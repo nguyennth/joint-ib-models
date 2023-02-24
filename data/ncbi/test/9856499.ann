@@ -1,0 +1,6 @@
+T1	Disease 0 24	Complement C7 deficiency
+T2	Disease 133 146	C7 deficiency
+T3	Disease 501 511	C7 defects
+N1	Reference T1 OMIM:610102	Complement C7 deficiency
+N2	Reference T2 OMIM:610102	C7 deficiency
+N3	Reference T3 OMIM:610102	C7 defects

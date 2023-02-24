@@ -1,0 +1,6 @@
+T1	Disease 218 235	enzyme deficiency
+T2	Disease 265 275	haemolysis
+T3	Disease 435 450	G6PD deficiency
+N1	Reference T1 unknown:D008661	enzyme deficiency
+N2	Reference T2 unknown:D006461	haemolysis
+N3	Reference T3 unknown:D005955	G6PD deficiency

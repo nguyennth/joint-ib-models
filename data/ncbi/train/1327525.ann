@@ -1,0 +1,14 @@
+T1	Disease 26 48	Denys - Drash syndrome
+T2	Disease 69 91	Denys - Drash syndrome
+T3	Disease 94 105	Wilms tumor
+T4	Disease 108 125	genital anomalies
+T5	Disease 132 143	nephropathy
+T6	Disease 224 235	Wilms tumor
+T7	Disease 668 690	Denys - Drash syndrome
+N1	Reference T1 unknown:D030321	Denys-Drash syndrome
+N2	Reference T2 unknown:D030321	Denys-Drash syndrome
+N3	Reference T3 unknown:D009396	Wilms tumor
+N4	Reference T4 unknown:D014564	genital anomalies
+N5	Reference T5 unknown:D007674	nephropathy
+N6	Reference T6 unknown:D009396	Wilms tumor
+N7	Reference T7 unknown:D030321	Denys-Drash syndrome

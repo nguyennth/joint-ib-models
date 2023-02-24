@@ -1,0 +1,8 @@
+T1	Disease 135 157	Lesch - Nyhan syndrome
+T2	Disease 169 231	deficiency of hypoxanthine - guanine phosphoribosyltransferase
+T3	Disease 252 274	Lesch - Nyhan syndrome
+T4	Disease 365 387	Lesch - Nyhan syndrome
+N1	Reference T1 unknown:D007926	Lesch-Nyhan syndrome
+N2	Reference T2 unknown:D007926	deficiency of hypoxanthine-guanine phosphoribosyltransferase
+N3	Reference T3 unknown:D007926	Lesch-Nyhan syndrome
+N4	Reference T4 unknown:D007926	Lesch-Nyhan syndrome

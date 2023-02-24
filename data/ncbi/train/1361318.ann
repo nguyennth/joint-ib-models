@@ -1,0 +1,16 @@
+T1	Disease 0 30	Complement factor 2 deficiency
+T2	Disease 75 108	Inherited complement deficiencies
+T3	Disease 185 228	inherited deficiency of complement factor 2
+T4	Disease 293 306	C2 deficiency
+T5	Disease 317 337	cutaneous vasculitis
+T6	Disease 342 356	sicca syndrome
+T7	Disease 401 414	C2 deficiency
+T8	Disease 496 529	seropositive rheumatoid arthritis
+N1	Reference T1 OMIM:217000	Complement factor 2 deficiency
+N2	Reference T2 unknown:D007153	Inherited complement deficiencies
+N3	Reference T3 OMIM:217000	inherited deficiency of complement factor 2
+N4	Reference T4 OMIM:217000	C2 deficiency
+N5	Reference T5 unknown:D018366	cutaneous vasculitis
+N6	Reference T6 unknown:D012859	sicca syndrome
+N7	Reference T7 OMIM:217000	C2 deficiency
+N8	Reference T8 unknown:D001172	seropositive rheumatoid arthritis

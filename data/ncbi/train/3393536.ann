@@ -1,0 +1,18 @@
+T1	Disease 86 103	enzyme deficiency
+T2	Disease 123 139	hemolytic anemia
+T3	Disease 142 219	Glucose - 6 - phosphate dehydrogenase ( G6PD ; EC 1 . 1 . 1 . 49 ) deficiency
+T4	Disease 232 251	genetic abnormality
+T5	Disease 766 783	enzyme deficiency
+T6	Disease 858 864	favism
+T7	Disease 1280 1297	neonatal jaundice
+T8	Disease 1552 1568	hemolytic anemia
+T9	Disease 1790 1805	G6PD deficiency
+N1	Reference T1 unknown:D008661	enzyme deficiency
+N2	Reference T2 unknown:D000743	hemolytic anemia
+N3	Reference T3 unknown:D005955	Glucose-6-phosphate dehydrogenase (G6PD; EC 1. 1. 1. 49) deficiency
+N4	Reference T4 unknown:D030342	genetic abnormality
+N5	Reference T5 unknown:D008661	enzyme deficiency
+N6	Reference T6 unknown:D005236	favism
+N7	Reference T7 unknown:D007567	neonatal jaundice
+N8	Reference T8 unknown:D000743	hemolytic anemia
+N9	Reference T9 unknown:D005955	G6PD deficiency

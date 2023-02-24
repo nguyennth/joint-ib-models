@@ -1,0 +1,6 @@
+T1	Disease 4 19	hemochromatosis
+T2	Disease 186 212	hereditary hemochromatosis
+T3	Disease 2043 2069	hereditary hemochromatosis
+N1	Reference T1 unknown:D006432	hemochromatosis
+N2	Reference T2 unknown:D006432	hereditary hemochromatosis
+N3	Reference T3 unknown:D006432	hereditary hemochromatosis

@@ -1,0 +1,8 @@
+T1	Disease 4 30	hereditary hemochromatosis
+T2	Disease 175 202	autosomal recessive disease
+T3	Disease 203 229	hereditary hemochromatosis
+T4	Disease 2322 2348	hereditary hemochromatotic
+N1	Reference T1 unknown:D006432	hereditary hemochromatosis
+N2	Reference T2 unknown:D030342	autosomal recessive disease
+N3	Reference T3 unknown:D006432	hereditary hemochromatosis
+N4	Reference T4 unknown:D006432	hereditary hemochromatotic

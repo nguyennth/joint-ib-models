@@ -1,0 +1,14 @@
+T1	Disease 68 103	Emery - Dreifuss muscular dystrophy
+T2	Disease 176 211	Emery - Dreifuss muscular dystrophy
+T3	Disease 214 218	EDMD
+T4	Disease 1175 1190	cardiac defects
+T5	Disease 1194 1198	EDMD
+T6	Disease 1491 1495	EDMD
+T7	Disease 1725 1729	EDMD
+N1	Reference T1 unknown:D020389	Emery-Dreifuss muscular dystrophy
+N2	Reference T2 unknown:D020389	Emery-Dreifuss muscular dystrophy
+N3	Reference T3 unknown:D020389	EDMD
+N4	Reference T4 unknown:D006330	cardiac defects
+N5	Reference T5 unknown:D020389	EDMD
+N6	Reference T6 unknown:D020389	EDMD
+N7	Reference T7 unknown:D020389	EDMD

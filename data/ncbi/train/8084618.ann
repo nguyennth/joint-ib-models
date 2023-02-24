@@ -1,0 +1,20 @@
+T1	Disease 27 49	Ewing family of tumors
+T2	Disease 52 84	malignant melanoma of soft parts
+T3	Disease 89 125	desmoplastic small round cell tumors
+T4	Disease 295 307	solid tumors
+T5	Disease 318 331	Ewing sarcoma
+T6	Disease 352 374	neuroectodermal tumors
+T7	Disease 377 409	malignant melanoma of soft parts
+T8	Disease 414 450	desmoplastic small round cell tumors
+T9	Disease 462 468	tumors
+T10	Disease 1404 1418	Ewings sarcoma
+N1	Reference T1 unknown:D012512	Ewing family of tumors
+N2	Reference T2 unknown:D008545	malignant melanoma of soft parts
+N3	Reference T3 unknown:D058405	desmoplastic small round cell tumors
+N4	Reference T4 unknown:D009369	solid tumors
+N5	Reference T5 unknown:D012512	Ewing sarcoma
+N6	Reference T6 unknown:D017599	neuroectodermal tumors
+N7	Reference T7 unknown:D008545	malignant melanoma of soft parts
+N8	Reference T8 unknown:D058405	desmoplastic small round cell tumors
+N9	Reference T9 unknown:D009369	tumors
+N10	Reference T10 unknown:D012512	Ewings sarcoma

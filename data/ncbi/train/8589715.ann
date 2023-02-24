@@ -1,0 +1,18 @@
+T1	Disease 0 17	Emerin deficiency
+T2	Disease 59 94	Emery - Dreifuss muscular dystrophy
+T3	Disease 174 220	X - linked Emery - Dreifuss muscular dystrophy
+T4	Disease 223 227	EDMD
+T5	Disease 585 607	neuromuscular diseases
+T6	Disease 619 623	EDMD
+T7	Disease 719 723	EDMD
+T8	Disease 906 926	deficiency of emerin
+T9	Disease 984 988	EDMD
+N1	Reference T1 unknown:D020389	Emerin deficiency
+N2	Reference T2 unknown:D020389	Emery-Dreifuss muscular dystrophy
+N3	Reference T3 unknown:D020389	X-linked Emery-Dreifuss muscular dystrophy
+N4	Reference T4 unknown:D020389	EDMD
+N5	Reference T5 unknown:D009468	neuromuscular diseases
+N6	Reference T6 unknown:D020389	EDMD
+N7	Reference T7 unknown:D020389	EDMD
+N8	Reference T8 unknown:D020389	deficiency of emerin
+N9	Reference T9 unknown:D020389	EDMD

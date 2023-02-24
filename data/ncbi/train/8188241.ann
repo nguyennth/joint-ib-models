@@ -1,0 +1,18 @@
+T1	Disease 19 31	alkaptonuria
+T2	Disease 34 37	AKU
+T3	Disease 64 76	Alkaptonuria
+T4	Disease 79 82	AKU
+T5	Disease 118 146	autosomal recessive disorder
+T6	Disease 362 372	Ochronosis
+T7	Disease 440 462	ochronotic arthropathy
+T8	Disease 557 569	alkaptonuria
+T9	Disease 704 716	alkaptonuria
+N1	Reference T1 unknown:D000474	alkaptonuria
+N2	Reference T2 unknown:D000474	AKU
+N3	Reference T3 unknown:D000474	Alkaptonuria
+N4	Reference T4 unknown:D000474	AKU
+N5	Reference T5 unknown:D030342	autosomal recessive disorder
+N6	Reference T6 unknown:D009794	Ochronosis
+N7	Reference T7 unknown:D009794+D007592	ochronotic arthropathy
+N8	Reference T8 unknown:D000474	alkaptonuria
+N9	Reference T9 unknown:D000474	alkaptonuria

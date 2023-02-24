@@ -1,0 +1,36 @@
+T1	Disease 81 127	X - linked Emery - Dreifuss muscular dystrophy
+T2	Disease 130 165	Emery - Dreifuss muscular dystrophy
+T3	Disease 168 172	EDMD
+T4	Disease 181 220	X - linked recessive muscular dystrophy
+T5	Disease 244 299	contractures of the elbows , Achilles tendons and spine
+T6	Disease 321 335	muscle wasting
+T7	Disease 340 348	weakness
+T8	Disease 355 369	cardiomyopathy
+T9	Disease 386 412	cardiac conduction defects
+T10	Disease 704 708	EDMD
+T11	Disease 821 825	EDMD
+T12	Disease 1224 1228	EDMD
+T13	Disease 1325 1343	elbow contractures
+T14	Disease 1346 1364	ankle contractures
+T15	Disease 1367 1386	upper limb weakness
+T16	Disease 1391 1410	lower limb weakness
+T17	Disease 1464 1483	cardiac involvement
+T18	Disease 1604 1608	EDMD
+N1	Reference T1 unknown:D020389	X-linked Emery-Dreifuss muscular dystrophy
+N2	Reference T2 unknown:D020389	Emery-Dreifuss muscular dystrophy
+N3	Reference T3 unknown:D020389	EDMD
+N4	Reference T4 unknown:D040181+D009136	X-linked recessive muscular dystrophy
+N5	Reference T5 unknown:D003286	contractures of the elbows, Achilles tendons and spine
+N6	Reference T6 unknown:D009133	muscle wasting
+N7	Reference T7 unknown:D018908	weakness
+N8	Reference T8 unknown:D009202	cardiomyopathy
+N9	Reference T9 OMIM:115080	cardiac conduction defects
+N10	Reference T10 unknown:D020389	EDMD
+N11	Reference T11 unknown:D020389	EDMD
+N12	Reference T12 unknown:D020389	EDMD
+N13	Reference T13 unknown:D003286	elbow contractures
+N14	Reference T14 unknown:D003286	ankle contractures
+N15	Reference T15 unknown:D018908	upper limb weakness
+N16	Reference T16 unknown:D018908	lower limb weakness
+N17	Reference T17 unknown:D006331	cardiac involvement
+N18	Reference T18 unknown:D020389	EDMD

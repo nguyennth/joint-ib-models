@@ -1,0 +1,6 @@
+T1	Disease 113 135	Lesch - Nyhan syndrome
+T2	Disease 277 299	HPRT enzyme deficiency
+T3	Disease 310 332	Lesch - Nyhan syndrome
+N1	Reference T1 unknown:D007926	Lesch-Nyhan syndrome
+N2	Reference T2 unknown:D007926	HPRT enzyme deficiency
+N3	Reference T3 unknown:D007926	Lesch-Nyhan syndrome

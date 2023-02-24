@@ -1,0 +1,12 @@
+T1	Disease 30 42	galactosemia
+T2	Disease 210 225	GALT deficiency
+T3	Disease 879 894	GALT deficiency
+T4	Disease 1253 1273	classic galactosemia
+T5	Disease 1367 1379	galactosemia
+T6	Disease 1526 1546	classic galactosemia
+N1	Reference T1 unknown:D005693	galactosemia
+N2	Reference T2 unknown:D005693	GALT deficiency
+N3	Reference T3 unknown:D005693	GALT deficiency
+N4	Reference T4 unknown:D005693	classic galactosemia
+N5	Reference T5 unknown:D005693	galactosemia
+N6	Reference T6 unknown:D005693	classic galactosemia

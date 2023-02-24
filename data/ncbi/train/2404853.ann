@@ -1,0 +1,8 @@
+T1	Disease 64 67	DMD
+T2	Disease 179 182	DMD
+T3	Disease 206 231	Becker muscular dystrophy
+T4	Disease 403 428	Becker muscular dystrophy
+N1	Reference T1 unknown:D020388	DMD
+N2	Reference T2 unknown:D020388	DMD
+N3	Reference T3 unknown:C537666	Becker muscular dystrophy
+N4	Reference T4 unknown:C537666	Becker muscular dystrophy

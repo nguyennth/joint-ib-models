@@ -1,0 +1,14 @@
+T1	Disease 12 24	alkaptonuria
+T2	Disease 27 30	AKU
+T3	Disease 200 212	alkaptonuria
+T4	Disease 215 218	AKU
+T5	Disease 392 395	AKU
+T6	Disease 539 542	AKU
+T7	Disease 691 694	AKU
+N1	Reference T1 unknown:D000474	alkaptonuria
+N2	Reference T2 unknown:D000474	AKU
+N3	Reference T3 unknown:D000474	alkaptonuria
+N4	Reference T4 unknown:D000474	AKU
+N5	Reference T5 unknown:D000474	AKU
+N6	Reference T6 unknown:D000474	AKU
+N7	Reference T7 unknown:D000474	AKU

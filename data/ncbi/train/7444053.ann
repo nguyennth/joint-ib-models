@@ -1,0 +1,14 @@
+T1	Disease 20 40	adrenoleukodystrophy
+T2	Disease 92 112	adrenoleukodystrophy
+T3	Disease 115 118	ALD
+T4	Disease 620 623	ALD
+T5	Disease 626 637	Type II ALD
+T6	Disease 685 704	leukoencephalopathy
+T7	Disease 779 782	ALD
+N1	Reference T1 unknown:D000326	adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	adrenoleukodystrophy
+N3	Reference T3 unknown:D000326	ALD
+N4	Reference T4 unknown:D000326	ALD
+N5	Reference T5 unknown:D000326	Type II ALD
+N6	Reference T6 unknown:D056784	leukoencephalopathy
+N7	Reference T7 unknown:D000326	ALD

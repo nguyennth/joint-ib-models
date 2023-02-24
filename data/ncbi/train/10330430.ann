@@ -1,0 +1,12 @@
+T1	Disease 49 85	familial hypertrophic cardiomyopathy
+T2	Disease 195 231	familial hypertrophic cardiomyopathy
+T3	Disease 234 237	FHC
+T4	Disease 296 299	FHC
+T5	Disease 744 777	idiopathic dilated cardiomyopathy
+T6	Disease 780 783	IDC
+N1	Reference T1 unknown:D024741	familial hypertrophic cardiomyopathy
+N2	Reference T2 unknown:D024741	familial hypertrophic cardiomyopathy
+N3	Reference T3 unknown:D024741	FHC
+N4	Reference T4 unknown:D024741	FHC
+N5	Reference T5 unknown:C536277	idiopathic dilated cardiomyopathy
+N6	Reference T6 unknown:C536277	IDC

@@ -1,0 +1,48 @@
+T1	Disease 0 31	X - linked adrenoleukodystrophy
+T2	Disease 66 85	Addison ' s disease
+T3	Disease 117 148	X - Linked adrenoleukodystrophy
+T4	Disease 151 154	ALD
+T5	Disease 162 177	genetic disease
+T6	Disease 194 237	demyelination of the central nervous system
+T7	Disease 240 261	adrenal insufficiency
+T8	Disease 340 343	ALD
+T9	Disease 487 490	ALD
+T10	Disease 563 584	Adrenomyeloneuropathy
+T11	Disease 587 590	AMN
+T12	Disease 667 688	Adrenal insufficiency
+T13	Disease 691 707	Addisons disease
+T14	Disease 740 743	AMN
+T15	Disease 747 759	cerebral ALD
+T16	Disease 807 810	ALD
+T17	Disease 848 851	ALD
+T18	Disease 870 886	Addisons disease
+T19	Disease 1115 1143	adrenocortical insufficiency
+T20	Disease 1411 1423	cerebral ALD
+T21	Disease 1434 1455	adrenomyeloneuropathy
+T22	Disease 1508 1511	AMN
+T23	Disease 1551 1554	ALD
+T24	Disease 1589 1605	Addisons disease
+N1	Reference T1 unknown:D000326	X-linked adrenoleukodystrophy
+N2	Reference T2 unknown:D000224	Addison's disease
+N3	Reference T3 unknown:D000326	X-Linked adrenoleukodystrophy
+N4	Reference T4 unknown:D000326	ALD
+N5	Reference T5 unknown:D030342	genetic disease
+N6	Reference T6 unknown:D020279	demyelination of the central nervous system
+N7	Reference T7 unknown:D000309	adrenal insufficiency
+N8	Reference T8 unknown:D000326	ALD
+N9	Reference T9 unknown:D000326	ALD
+N10	Reference T10 unknown:D000326	Adrenomyeloneuropathy
+N11	Reference T11 unknown:D000326	AMN
+N12	Reference T12 unknown:D000309	Adrenal insufficiency
+N13	Reference T13 unknown:D000224	Addisons disease
+N14	Reference T14 unknown:D000326	AMN
+N15	Reference T15 unknown:D000326	cerebral ALD
+N16	Reference T16 unknown:D000326	ALD
+N17	Reference T17 unknown:D000326	ALD
+N18	Reference T18 unknown:D000224	Addisons disease
+N19	Reference T19 unknown:D000224	adrenocortical insufficiency
+N20	Reference T20 unknown:D000326	cerebral ALD
+N21	Reference T21 unknown:D000326	adrenomyeloneuropathy
+N22	Reference T22 unknown:D000326	AMN
+N23	Reference T23 unknown:D000326	ALD
+N24	Reference T24 unknown:D000224	Addisons disease

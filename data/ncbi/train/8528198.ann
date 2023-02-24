@@ -1,0 +1,46 @@
+T1	Disease 50 76	Wiskott - Aldrich syndrome
+T2	Disease 81 106	isolated thrombocytopenia
+T3	Disease 144 147	WAS
+T4	Disease 252 266	genetic defect
+T5	Disease 287 324	X - linked Wiskott - Aldrich syndrome
+T6	Disease 327 330	WAS
+T7	Disease 345 369	immunodeficiency disease
+T8	Disease 478 481	WAS
+T9	Disease 612 615	WAS
+T10	Disease 619 644	isolated thrombocytopenia
+T11	Disease 899 902	WAS
+T12	Disease 953 956	WAS
+T13	Disease 995 1011	thrombocytopenia
+T14	Disease 1059 1084	isolated thrombocytopenia
+T15	Disease 1207 1210	WAS
+T16	Disease 1346 1349	WAS
+T17	Disease 1420 1447	congenital thrombocytopenia
+T18	Disease 1503 1528	isolated thrombocytopenia
+T19	Disease 1561 1564	WAS
+T20	Disease 1619 1622	WAS
+T21	Disease 1741 1744	WAS
+T22	Disease 1783 1808	isolated thrombocytopenia
+T23	Disease 1837 1840	WAS
+N1	Reference T1 unknown:D014923	Wiskott-Aldrich syndrome
+N2	Reference T2 OMIM:313900	isolated thrombocytopenia
+N3	Reference T3 unknown:D014923	WAS
+N4	Reference T4 unknown:D030342	genetic defect
+N5	Reference T5 unknown:D014923	X-linked Wiskott-Aldrich syndrome
+N6	Reference T6 unknown:D014923	WAS
+N7	Reference T7 unknown:D007153	immunodeficiency disease
+N8	Reference T8 unknown:D014923	WAS
+N9	Reference T9 unknown:D014923	WAS
+N10	Reference T10 OMIM:313900	isolated thrombocytopenia
+N11	Reference T11 unknown:D014923	WAS
+N12	Reference T12 unknown:D014923	WAS
+N13	Reference T13 unknown:D013921	thrombocytopenia
+N14	Reference T14 OMIM:313900	isolated thrombocytopenia
+N15	Reference T15 unknown:D014923	WAS
+N16	Reference T16 unknown:D014923	WAS
+N17	Reference T17 OMIM:313900	congenital thrombocytopenia
+N18	Reference T18 OMIM:313900	isolated thrombocytopenia
+N19	Reference T19 unknown:D014923	WAS
+N20	Reference T20 unknown:D014923	WAS
+N21	Reference T21 unknown:D014923	WAS
+N22	Reference T22 OMIM:313900	isolated thrombocytopenia
+N23	Reference T23 unknown:D014923	WAS

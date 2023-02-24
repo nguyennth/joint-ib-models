@@ -1,0 +1,24 @@
+T1	Disease 11 60	deficiency of the seventh component of complement
+T2	Disease 75 98	meningococcal infection
+T3	Disease 226 266	Terminal complement component deficiency
+T4	Disease 282 305	meningococcal infection
+T5	Disease 432 455	meningococcal infection
+T6	Disease 510 540	terminal complement deficiency
+T7	Disease 586 645	completely deficient in the seventh component of complement
+T8	Disease 857 870	C7 deficiency
+T9	Disease 953 965	C7 deficient
+T10	Disease 1094 1117	meningococcal infection
+T11	Disease 1148 1161	meningococcal
+T12	Disease 1192 1212	complement deficient
+N1	Reference T1 OMIM:610102	deficiency of the seventh component of complement
+N2	Reference T2 unknown:D008589	meningococcal infection
+N3	Reference T3 unknown:D007153	Terminal complement component deficiency
+N4	Reference T4 unknown:D008589	meningococcal infection
+N5	Reference T5 unknown:D008589	meningococcal infection
+N6	Reference T6 unknown:D007153	terminal complement deficiency
+N7	Reference T7 OMIM:610102	completely deficient in the seventh component of complement
+N8	Reference T8 OMIM:610102	C7 deficiency
+N9	Reference T9 OMIM:610102	C7 deficient
+N10	Reference T10 unknown:D008589	meningococcal infection
+N11	Reference T11 unknown:D008589	meningococcal
+N12	Reference T12 unknown:D007153	complement deficient

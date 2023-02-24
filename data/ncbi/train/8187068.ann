@@ -1,0 +1,10 @@
+T1	Disease 74 99	advanced prostate cancers
+T2	Disease 184 210	metastatic prostate cancer
+T3	Disease 576 602	metastatic prostate cancer
+T4	Disease 982 1006	advanced prostate cancer
+T5	Disease 1126 1150	advanced prostate cancer
+N1	Reference T1 unknown:D011471	advanced prostate cancers
+N2	Reference T2 unknown:D011471	metastatic prostate cancer
+N3	Reference T3 unknown:D011471	metastatic prostate cancer
+N4	Reference T4 unknown:D011471	advanced prostate cancer
+N5	Reference T5 unknown:D011471	advanced prostate cancer

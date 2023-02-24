@@ -1,0 +1,10 @@
+T1	Disease 35 59	Machado - Joseph disease
+T2	Disease 203 227	Machado - Joseph disease
+T3	Disease 230 233	MJD
+T4	Disease 452 455	MJD
+T5	Disease 719 722	MJD
+N1	Reference T1 unknown:D017827	Machado-Joseph disease
+N2	Reference T2 unknown:D017827	Machado-Joseph disease
+N3	Reference T3 unknown:D017827	MJD
+N4	Reference T4 unknown:D017827	MJD
+N5	Reference T5 unknown:D017827	MJD

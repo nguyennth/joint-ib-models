@@ -1,0 +1,50 @@
+T1	Disease 27 69	hyperparathyroidism and jaw tumor syndrome
+T2	Disease 86 102	renal hamartomas
+T3	Disease 107 128	cystic kidney disease
+T4	Disease 189 205	renal hamartomas
+T5	Disease 208 259	Hereditary hyperparathyroidism - jaw tumor syndrome
+T6	Disease 262 270	HPT - JT
+T7	Disease 279 305	autosomal dominant disease
+T8	Disease 430 447	HPT - JT syndrome
+T9	Disease 457 479	adult renal hamartomas
+T10	Disease 483 504	cystic kidney disease
+T11	Disease 596 613	HPT - JT syndrome
+T12	Disease 638 651	renal lesions
+T13	Disease 715 718	HPT
+T14	Disease 723 725	JT
+T15	Disease 798 800	JT
+T16	Disease 893 918	polycystic kidney disease
+T17	Disease 1058 1069	primary HPT
+T18	Disease 1248 1298	multiple endocrine neoplasia ( MEN ) types 1 and 2
+T19	Disease 1492 1496	MEN1
+T20	Disease 1501 1505	MEN2
+T21	Disease 1745 1761	renal hamartomas
+T22	Disease 1830 1839	jaw tumor
+T23	Disease 1846 1863	parathyroid tumor
+T24	Disease 1893 1909	renal hamartomas
+T25	Disease 2089 2094	tumor
+N1	Reference T1 OMIM:145001	hyperparathyroidism and jaw tumor syndrome
+N2	Reference T2 unknown:D007674+D006222	renal hamartomas
+N3	Reference T3 unknown:D052177	cystic kidney disease
+N4	Reference T4 unknown:D007674+D006222	renal hamartomas
+N5	Reference T5 OMIM:145001	Hereditary hyperparathyroidism-jaw tumor syndrome
+N6	Reference T6 OMIM:145001	HPT-JT
+N7	Reference T7 unknown:D030342	autosomal dominant disease
+N8	Reference T8 OMIM:145001	HPT-JT syndrome
+N9	Reference T9 unknown:C536399	adult renal hamartomas
+N10	Reference T10 unknown:D052177	cystic kidney disease
+N11	Reference T11 OMIM:145001	HPT-JT syndrome
+N12	Reference T12 unknown:D007680	renal lesions
+N13	Reference T13 unknown:D006961	HPT
+N14	Reference T14 unknown:D007573	JT
+N15	Reference T15 unknown:D007573	JT
+N16	Reference T16 unknown:D007690	polycystic kidney disease
+N17	Reference T17 unknown:D049950	primary HPT
+N18	Reference T18 unknown:D009377	multiple endocrine neoplasia (MEN) types 1 and 2
+N19	Reference T19 OMIM:131100	MEN1
+N20	Reference T20 unknown:D018813	MEN2
+N21	Reference T21 unknown:D007674+D006222	renal hamartomas
+N22	Reference T22 unknown:D007573	jaw tumor
+N23	Reference T23 unknown:D010282	parathyroid tumor
+N24	Reference T24 unknown:D007674+D006222	renal hamartomas
+N25	Reference T25 unknown:D009369	tumor

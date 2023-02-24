@@ -1,0 +1,16 @@
+T1	Disease 70 88	myotonic dystrophy
+T2	Disease 91 109	Myotonic dystrophy
+T3	Disease 112 114	DM
+T4	Disease 150 168	muscular dystrophy
+T5	Disease 271 286	muscle weakness
+T6	Disease 291 319	sustained muscle contraction
+T7	Disease 728 730	DM
+T8	Disease 1174 1176	DM
+N1	Reference T1 unknown:D009223	myotonic dystrophy
+N2	Reference T2 unknown:D009223	Myotonic dystrophy
+N3	Reference T3 unknown:D009223	DM
+N4	Reference T4 unknown:D009136	muscular dystrophy
+N5	Reference T5 unknown:D018908	muscle weakness
+N6	Reference T6 unknown:D009120	sustained muscle contraction
+N7	Reference T7 unknown:D009223	DM
+N8	Reference T8 unknown:D009223	DM

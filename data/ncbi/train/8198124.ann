@@ -1,0 +1,14 @@
+T1	Disease 32 52	prolidase deficiency
+T2	Disease 89 109	prolidase deficiency
+T3	Disease 139 167	autosomal recessive disorder
+T4	Disease 185 202	iminodipeptiduria
+T5	Disease 205 216	skin ulcers
+T6	Disease 219 237	mental retardation
+T7	Disease 1411 1431	prolidase deficiency
+N1	Reference T1 unknown:D056732	prolidase deficiency
+N2	Reference T2 unknown:D056732	prolidase deficiency
+N3	Reference T3 unknown:D030342	autosomal recessive disorder
+N4	Reference T4 unknown:D000592	iminodipeptiduria
+N5	Reference T5 unknown:D012883	skin ulcers
+N6	Reference T6 unknown:D008607	mental retardation
+N7	Reference T7 unknown:D056732	prolidase deficiency

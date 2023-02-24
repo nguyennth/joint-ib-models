@@ -1,0 +1,28 @@
+T1	Disease 61 76	hemochromatosis
+T2	Disease 107 133	Hereditary hemochromatosis
+T3	Disease 196 211	hemochromatosis
+T4	Disease 287 307	excess iron deposits
+T5	Disease 1389 1404	hemochromatosis
+T6	Disease 1764 1780	hepatic fibrosis
+T7	Disease 1812 1841	excessive alcohol consumption
+T8	Disease 1848 1857	cirrhosis
+T9	Disease 1867 1891	microvesicular steatosis
+T10	Disease 1994 2020	hereditary hemochromatosis
+T11	Disease 2031 2043	hepatomegaly
+T12	Disease 2046 2063	skin pigmentation
+T13	Disease 2070 2079	arthritis
+T14	Disease 2303 2318	hemochromatosis
+N1	Reference T1 unknown:D006432	hemochromatosis
+N2	Reference T2 unknown:D006432	Hereditary hemochromatosis
+N3	Reference T3 unknown:D006432	hemochromatosis
+N4	Reference T4 unknown:D019190	excess iron deposits
+N5	Reference T5 unknown:D006432	hemochromatosis
+N6	Reference T6 unknown:D008103	hepatic fibrosis
+N7	Reference T7 unknown:D000435	excessive alcohol consumption
+N8	Reference T8 unknown:D008103	cirrhosis
+N9	Reference T9 unknown:D005234	microvesicular steatosis
+N10	Reference T10 unknown:D006432	hereditary hemochromatosis
+N11	Reference T11 unknown:D006529	hepatomegaly
+N12	Reference T12 unknown:D010859	skin pigmentation
+N13	Reference T13 unknown:D001168	arthritis
+N14	Reference T14 unknown:D006432	hemochromatosis

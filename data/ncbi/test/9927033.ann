@@ -1,0 +1,20 @@
+T1	Disease 37 61	hematological malignancy
+T2	Disease 66 90	neurofibromatosis type 1
+T3	Disease 169 210	hereditary nonpolyposis colorectal cancer
+T4	Disease 359 400	hereditary nonpolyposis colorectal cancer
+T5	Disease 422 446	hematological malignancy
+T6	Disease 513 537	neurofibromatosis type 1
+T7	Disease 540 543	NF1
+T8	Disease 823 831	leukemia
+T9	Disease 841 849	lymphoma
+T10	Disease 866 890	neurofibromatosis type 1
+N1	Reference T1 unknown:D019337	hematological malignancy
+N2	Reference T2 unknown:D009456	neurofibromatosis type 1
+N3	Reference T3 unknown:D003123	hereditary nonpolyposis colorectal cancer
+N4	Reference T4 unknown:D003123	hereditary nonpolyposis colorectal cancer
+N5	Reference T5 unknown:D019337	hematological malignancy
+N6	Reference T6 unknown:D009456	neurofibromatosis type 1
+N7	Reference T7 unknown:D009456	NF1
+N8	Reference T8 unknown:D007938	leukemia
+N9	Reference T9 unknown:D008223	lymphoma
+N10	Reference T10 unknown:D009456	neurofibromatosis type 1

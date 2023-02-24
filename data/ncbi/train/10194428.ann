@@ -1,0 +1,26 @@
+T1	Disease 30 45	hemochromatosis
+T2	Disease 103 118	hemochromatosis
+T3	Disease 121 147	Hereditary hemochromatosis
+T4	Disease 150 152	HH
+T5	Disease 167 203	autosomal recessive genetic disorder
+T6	Disease 299 301	HH
+T7	Disease 409 411	HH
+T8	Disease 532 534	HH
+T9	Disease 801 816	hemochromatosis
+T10	Disease 918 920	HH
+T11	Disease 1177 1179	HH
+T12	Disease 1257 1259	HH
+T13	Disease 1344 1359	hemochromatosis
+N1	Reference T1 unknown:D016399	hemochromatosis
+N2	Reference T2 unknown:D006432	hemochromatosis
+N3	Reference T3 unknown:D006432	Hereditary hemochromatosis
+N4	Reference T4 unknown:D006432	HH
+N5	Reference T5 unknown:D030342	autosomal recessive genetic disorder
+N6	Reference T6 unknown:D006432	HH
+N7	Reference T7 unknown:D006432	HH
+N8	Reference T8 unknown:D006432	HH
+N9	Reference T9 unknown:D006432	hemochromatosis
+N10	Reference T10 unknown:D006432	HH
+N11	Reference T11 unknown:D006432	HH
+N12	Reference T12 unknown:D006432	HH
+N13	Reference T13 unknown:D006432	hemochromatosis

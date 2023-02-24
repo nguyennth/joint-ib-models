@@ -1,0 +1,16 @@
+T1	Disease 52 65	breast cancer
+T2	Disease 269 297	autosomal recessive disorder
+T3	Disease 298 321	ataxia - telangiectasia
+T4	Disease 324 329	A - T
+T5	Disease 422 435	breast cancer
+T6	Disease 621 634	breast cancer
+T7	Disease 866 888	sporadic breast cancer
+T8	Disease 944 957	breast cancer
+N1	Reference T1 unknown:D001943	breast cancer
+N2	Reference T2 unknown:D030342	autosomal recessive disorder
+N3	Reference T3 unknown:D001260	ataxia-telangiectasia
+N4	Reference T4 unknown:D001260	A-T
+N5	Reference T5 unknown:D001943	breast cancer
+N6	Reference T6 unknown:D001943	breast cancer
+N7	Reference T7 unknown:D001943	sporadic breast cancer
+N8	Reference T8 unknown:D001943	breast cancer

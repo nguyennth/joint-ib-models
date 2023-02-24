@@ -1,0 +1,44 @@
+T1	Disease 0 27	Von Hippel - Lindau disease
+T2	Disease 79 99	renal cell carcinoma
+T3	Disease 102 129	Von Hippel - Lindau disease
+T4	Disease 132 135	VHL
+T5	Disease 144 172	autosomal dominant disorde r
+T6	Disease 223 229	cancer
+T7	Disease 242 259	hemangioblastomas
+T8	Disease 292 310	phaeochromocytomas
+T9	Disease 313 336	pancreatic malignancies
+T10	Disease 343 364	renal cell carcinomas
+T11	Disease 367 388	Renal cell carcinomas
+T12	Disease 471 503	bilateral and multifocal tumours
+T13	Disease 587 593	tumour
+T14	Disease 625 628	VHL
+T15	Disease 774 777	VHL
+T16	Disease 828 831	VHL
+T17	Disease 942 948	tumour
+T18	Disease 997 1003	tumour
+T19	Disease 1053 1095	inherited and sporadic forms of the cancer
+T20	Disease 1098 1128	Sporadic renal cell carcinomas
+T21	Disease 1274 1294	renal cell carcinoma
+T22	Disease 1367 1373	tumour
+N1	Reference T1 unknown:D006623	Von Hippel-Lindau disease
+N2	Reference T2 unknown:D002292	renal cell carcinoma
+N3	Reference T3 unknown:D006623	Von Hippel-Lindau disease
+N4	Reference T4 unknown:D006623	VHL
+N5	Reference T5 unknown:D030342	autosomal dominant disorder
+N6	Reference T6 unknown:D009369	cancer
+N7	Reference T7 unknown:D018325	hemangioblastomas
+N8	Reference T8 unknown:D010673	phaeochromocytomas
+N9	Reference T9 OMIM:260350	pancreatic malignancies
+N10	Reference T10 unknown:D002292	renal cell carcinomas
+N11	Reference T11 unknown:D002292	Renal cell carcinomas
+N12	Reference T12 unknown:D009369	bilateral and multifocal tumours
+N13	Reference T13 unknown:D009369	tumour
+N14	Reference T14 unknown:D006623	VHL
+N15	Reference T15 unknown:D006623	VHL
+N16	Reference T16 unknown:D006623	VHL
+N17	Reference T17 unknown:D009369	tumour
+N18	Reference T18 unknown:D009369	tumour
+N19	Reference T19 unknown:D009369	inherited and sporadic forms of the cancer
+N20	Reference T20 unknown:D002292	Sporadic renal cell carcinomas
+N21	Reference T21 unknown:D002292	renal cell carcinoma
+N22	Reference T22 unknown:D009369	tumour

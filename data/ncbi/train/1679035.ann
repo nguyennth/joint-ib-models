@@ -1,0 +1,12 @@
+T1	Disease 29 57	familial Mediterranean fever
+T2	Disease 177 205	familial Mediterranean fever
+T3	Disease 208 211	FMF
+T4	Disease 421 424	FMF
+T5	Disease 548 551	FMF
+T6	Disease 692 695	FMF
+N1	Reference T1 unknown:D010505	familial Mediterranean fever
+N2	Reference T2 unknown:D010505	familial Mediterranean fever
+N3	Reference T3 unknown:D010505	FMF
+N4	Reference T4 unknown:D010505	FMF
+N5	Reference T5 unknown:D010505	FMF
+N6	Reference T6 unknown:D010505	FMF

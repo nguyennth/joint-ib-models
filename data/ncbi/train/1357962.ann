@@ -1,0 +1,28 @@
+T1	Disease 0 10	Trisomy 15
+T2	Disease 54 77	Prader - Willi syndrome
+T3	Disease 85 100	maternal disomy
+T4	Disease 103 121	Uniparental disomy
+T5	Disease 188 211	Prader - Willi syndrome
+T6	Disease 214 217	PWS
+T7	Disease 332 350	uniparental disomy
+T8	Disease 415 433	uniparental disomy
+T9	Disease 518 528	trisomy 15
+T10	Disease 704 713	hypotonic
+T11	Disease 859 862	PWS
+T12	Disease 897 900	PWS
+T13	Disease 1170 1188	uniparental disomy
+T14	Disease 1205 1208	PWS
+N1	Reference T1 unknown:C538037	Trisomy 15
+N2	Reference T2 unknown:D011218	Prader-Willi syndrome
+N3	Reference T3 unknown:D024182	maternal disomy
+N4	Reference T4 unknown:D024182	Uniparental disomy
+N5	Reference T5 unknown:D011218	Prader-Willi syndrome
+N6	Reference T6 unknown:D011218	PWS
+N7	Reference T7 unknown:D024182	uniparental disomy
+N8	Reference T8 unknown:D024182	uniparental disomy
+N9	Reference T9 unknown:C538037	trisomy 15
+N10	Reference T10 unknown:D009123	hypotonic
+N11	Reference T11 unknown:D011218	PWS
+N12	Reference T12 unknown:D011218	PWS
+N13	Reference T13 unknown:D024182	uniparental disomy
+N14	Reference T14 unknown:D011218	PWS

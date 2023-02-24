@@ -1,0 +1,24 @@
+T1	Disease 61 75	ovarian cancer
+T2	Disease 164 177	breast cancer
+T3	Disease 238 252	ovarian cancer
+T4	Disease 380 394	ovarian cancer
+T5	Disease 440 454	ovarian cancer
+T6	Disease 577 591	ovarian cancer
+T7	Disease 813 837	breast or ovarian cancer
+T8	Disease 988 994	cancer
+T9	Disease 1083 1089	cancer
+T10	Disease 1283 1297	ovarian cancer
+T11	Disease 1348 1362	ovarian cancer
+T12	Disease 1488 1502	ovarian cancer
+N1	Reference T1 unknown:D010051	ovarian cancer
+N2	Reference T2 unknown:D001943	breast cancer
+N3	Reference T3 unknown:D010051	ovarian cancer
+N4	Reference T4 unknown:D010051	ovarian cancer
+N5	Reference T5 unknown:D010051	ovarian cancer
+N6	Reference T6 unknown:D010051	ovarian cancer
+N7	Reference T7 unknown:D001943|D010051	breast or ovarian cancer
+N8	Reference T8 unknown:D009369	cancer
+N9	Reference T9 unknown:D009369	cancer
+N10	Reference T10 unknown:D010051	ovarian cancer
+N11	Reference T11 unknown:D010051	ovarian cancer
+N12	Reference T12 unknown:D010051	ovarian cancer

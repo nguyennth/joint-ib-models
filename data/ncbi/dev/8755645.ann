@@ -1,0 +1,12 @@
+T1	Disease 78 102	inherited human disorder
+T2	Disease 105 123	fish - eye disease
+T3	Disease 463 481	fish - eye disease
+T4	Disease 484 487	FED
+T5	Disease 754 757	FED
+T6	Disease 1193 1196	FED
+N1	Reference T1 unknown:D030342	inherited human disorder
+N2	Reference T2 unknown:D007863	fish-eye disease
+N3	Reference T3 unknown:D007863	fish-eye disease
+N4	Reference T4 unknown:D007863	FED
+N5	Reference T5 unknown:D007863	FED
+N6	Reference T6 unknown:D007863	FED

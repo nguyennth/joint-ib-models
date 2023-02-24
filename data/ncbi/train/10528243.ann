@@ -1,0 +1,32 @@
+T1	Disease 13 41	familial Mediterranean fever
+T2	Disease 44 47	FMF
+T3	Disease 234 262	familial Mediterranean fever
+T4	Disease 265 268	FMF
+T5	Disease 325 328	FMF
+T6	Disease 415 418	FMF
+T7	Disease 521 524	FMF
+T8	Disease 555 558	FMF
+T9	Disease 812 815	FMF
+T10	Disease 914 917	FMF
+T11	Disease 1176 1179	FMF
+T12	Disease 1196 1207	amyloidosis
+T13	Disease 1210 1227	chronic arthritis
+T14	Disease 1244 1251	myalgia
+T15	Disease 1518 1521	FMF
+T16	Disease 1565 1568	FMF
+N1	Reference T1 unknown:D010505	familial Mediterranean fever
+N2	Reference T2 unknown:D010505	FMF
+N3	Reference T3 unknown:D010505	familial Mediterranean fever
+N4	Reference T4 unknown:D010505	FMF
+N5	Reference T5 unknown:D010505	FMF
+N6	Reference T6 unknown:D010505	FMF
+N7	Reference T7 unknown:D010505	FMF
+N8	Reference T8 unknown:D010505	FMF
+N9	Reference T9 unknown:D010505	FMF
+N10	Reference T10 unknown:D010505	FMF
+N11	Reference T11 unknown:D010505	FMF
+N12	Reference T12 unknown:D000686	amyloidosis
+N13	Reference T13 unknown:D001168	chronic arthritis
+N14	Reference T14 unknown:D059352	myalgia
+N15	Reference T15 unknown:D010505	FMF
+N16	Reference T16 unknown:D010505	FMF

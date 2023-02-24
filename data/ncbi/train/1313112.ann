@@ -1,0 +1,20 @@
+T1	Disease 56 91	familial adenomatous polyposis coli
+T2	Disease 123 158	familial adenomatous polyposis coli
+T3	Disease 161 165	FAPC
+T4	Disease 173 189	epidermoid cysts
+T5	Disease 192 201	osteomata
+T6	Disease 217 273	congenital hypertrophy of the retinal pigment epithelium
+T7	Disease 276 282	CHRPEs
+T8	Disease 378 393	mental handicap
+T9	Disease 890 893	APC
+T10	Disease 905 908	APC
+N1	Reference T1 unknown:D011125	familial adenomatous polyposis coli
+N2	Reference T2 unknown:D011125	familial adenomatous polyposis coli
+N3	Reference T3 unknown:D011125	FAPC
+N4	Reference T4 unknown:D004814	epidermoid cysts
+N5	Reference T5 unknown:D010016	osteomata
+N6	Reference T6 unknown:D012164	congenital hypertrophy of the retinal pigment epithelium
+N7	Reference T7 unknown:D012164	CHRPEs
+N8	Reference T8 unknown:D008607	mental handicap
+N9	Reference T9 unknown:D011125	APC
+N10	Reference T10 unknown:D011125	APC

@@ -1,0 +1,44 @@
+T1	Disease 0 19	Malignant neoplasms
+T2	Disease 53 76	ataxia - telangiectasia
+T3	Disease 79 102	Ataxia - telangiectasia
+T4	Disease 105 110	A - T
+T5	Disease 119 147	autosomal recessive syndrome
+T6	Disease 197 216	malignant neoplasms
+T7	Disease 285 290	A - T
+T8	Disease 456 463	cancers
+T9	Disease 555 560	A - T
+T10	Disease 718 737	malignant neoplasms
+T11	Disease 769 774	A - T
+T12	Disease 865 884	malignant neoplasms
+T13	Disease 977 982	A - T
+T14	Disease 1044 1062	malignant neoplasm
+T15	Disease 1142 1147	A - T
+T16	Disease 1217 1223	cancer
+T17	Disease 1257 1306	ovarian , gastric , and biliary system carcinomas
+T18	Disease 1314 1322	leukemia
+T19	Disease 1327 1335	lymphoma
+T20	Disease 1359 1364	A - T
+T21	Disease 1382 1391	neoplasms
+T22	Disease 1455 1523	pancreatic , basal cell , colonic , breast , and cervical carcinomas
+N1	Reference T1 unknown:D009369	Malignant neoplasms
+N2	Reference T2 unknown:D001260	ataxia-telangiectasia
+N3	Reference T3 unknown:D001260	Ataxia-telangiectasia
+N4	Reference T4 unknown:D001260	A-T
+N5	Reference T5 unknown:D030342	autosomal recessive syndrome
+N6	Reference T6 unknown:D009369	malignant neoplasms
+N7	Reference T7 unknown:D001260	A-T
+N8	Reference T8 unknown:D009369	cancers
+N9	Reference T9 unknown:D001260	A-T
+N10	Reference T10 unknown:D009369	malignant neoplasms
+N11	Reference T11 unknown:D001260	A-T
+N12	Reference T12 unknown:D009369	malignant neoplasms
+N13	Reference T13 unknown:D001260	A-T
+N14	Reference T14 unknown:D009369	malignant neoplasm
+N15	Reference T15 unknown:D001260	A-T
+N16	Reference T16 unknown:D009369	cancer
+N17	Reference T17 unknown:D010051|D013274|D001661	ovarian, gastric, and biliary system carcinomas
+N18	Reference T18 unknown:D007938	leukemia
+N19	Reference T19 unknown:D008223	lymphoma
+N20	Reference T20 unknown:D001260	A-T
+N21	Reference T21 unknown:D009369	neoplasms
+N22	Reference T22 unknown:D010190|D002280|D015179|D001943|D002583	pancreatic, basal cell, colonic, breast, and cervical carcinomas

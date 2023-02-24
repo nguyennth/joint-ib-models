@@ -1,0 +1,22 @@
+T1	Disease 32 66	breast and breast - ovarian cancer
+T2	Disease 121 156	hereditary breast or ovarian cancer
+T3	Disease 273 287	ovarian cancer
+T4	Disease 422 435	breast cancer
+T5	Disease 444 458	ovarian cancer
+T6	Disease 488 511	breast - ovarian cancer
+T7	Disease 625 631	cancer
+T8	Disease 660 667	cancers
+T9	Disease 734 759	primary peritoneal cancer
+T10	Disease 762 790	cancer of the fallopian tube
+T11	Disease 797 815	malignant melanoma
+N1	Reference T1 unknown:D001943|D061325	breast and breast-ovarian cancer
+N2	Reference T2 unknown:D061325	hereditary breast or ovarian cancer
+N3	Reference T3 unknown:D010051	ovarian cancer
+N4	Reference T4 unknown:D001943	breast cancer
+N5	Reference T5 unknown:D010051	ovarian cancer
+N6	Reference T6 unknown:D061325	breast-ovarian cancer
+N7	Reference T7 unknown:D009369	cancer
+N8	Reference T8 unknown:D009369	cancers
+N9	Reference T9 unknown:D010534	primary peritoneal cancer
+N10	Reference T10 unknown:D005185	cancer of the fallopian tube
+N11	Reference T11 unknown:D008545	malignant melanoma

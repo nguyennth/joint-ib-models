@@ -1,0 +1,14 @@
+T1	Disease 76 93	eye abnormalities
+T2	Disease 96 104	Aniridia
+T3	Disease 138 174	semidominant developmental disorders
+T4	Disease 263 278	iris hypoplasia
+T5	Disease 338 357	brain abnormalities
+T6	Disease 685 723	developmental abnormalities of the eye
+T7	Disease 978 999	developmental defects
+N1	Reference T1 unknown:D005124	eye abnormalities
+N2	Reference T2 unknown:D015783	Aniridia
+N3	Reference T3 unknown:D002658	semidominant developmental disorders
+N4	Reference T4 unknown:D007499	iris hypoplasia
+N5	Reference T5 unknown:D001927	brain abnormalities
+N6	Reference T6 unknown:D005124	developmental abnormalities of the eye
+N7	Reference T7 unknown:D002658	developmental defects

@@ -1,0 +1,14 @@
+T1	Disease 88 96	hepatoma
+T2	Disease 105 120	Phenylketonuria
+T3	Disease 123 126	PKU
+T4	Disease 142 200	deficiency of the hepatic enzyme phenylalanine hydroxylase
+T5	Disease 895 903	hepatoma
+T6	Disease 1063 1071	hepatoma
+T7	Disease 1350 1353	PKU
+N1	Reference T1 unknown:D006528	hepatoma
+N2	Reference T2 unknown:D010661	Phenylketonuria
+N3	Reference T3 unknown:D010661	PKU
+N4	Reference T4 OMIM:261600	deficiency of the hepatic enzyme phenylalanine hydroxylase
+N5	Reference T5 unknown:D006528	hepatoma
+N6	Reference T6 unknown:D006528	hepatoma
+N7	Reference T7 unknown:D010661	PKU

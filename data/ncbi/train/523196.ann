@@ -1,0 +1,24 @@
+T1	Disease 105 127	Lesch - Nyhan syndrome
+T2	Disease 194 207	hyperuricemia
+T3	Disease 212 243	central nervous system symptoms
+T4	Disease 420 442	Lesch - Nyhan syndrome
+T5	Disease 461 476	chroeoathetosis
+T6	Disease 479 489	spasticity
+T7	Disease 492 509	dysarthric speech
+T8	Disease 516 529	hyperuricemia
+T9	Disease 1032 1054	Lesch - Nyhan syndrome
+T10	Disease 1492 1505	Lesch - Nyhan
+T11	Disease 1702 1715	Lesch - Nyhan
+T12	Disease 1927 1949	Lesch - Nyhan syndrome
+N1	Reference T1 unknown:D007926	Lesch-Nyhan syndrome
+N2	Reference T2 unknown:D033461	hyperuricemia
+N3	Reference T3 unknown:D002493	central nervous system symptoms
+N4	Reference T4 unknown:D007926	Lesch-Nyhan syndrome
+N5	Reference T5 unknown:C537181	chroeoathetosis
+N6	Reference T6 unknown:D009128	spasticity
+N7	Reference T7 unknown:D004401	dysarthric speech
+N8	Reference T8 unknown:D033461	hyperuricemia
+N9	Reference T9 unknown:D007926	Lesch-Nyhan syndrome
+N10	Reference T10 unknown:D007926	Lesch-Nyhan
+N11	Reference T11 unknown:D007926	Lesch-Nyhan
+N12	Reference T12 unknown:D007926	Lesch-Nyhan syndrome

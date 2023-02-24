@@ -1,0 +1,16 @@
+T1	Disease 103 141	Borjeson - Forssman - Lehmann syndrome
+T2	Disease 201 205	BFLS
+T3	Disease 223 261	Borjeson - Forssman - Lehmann syndrome
+T4	Disease 264 268	BFLS
+T5	Disease 286 315	X - linked mental retardation
+T6	Disease 425 429	BFLS
+T7	Disease 1504 1517	BFLS syndrome
+T8	Disease 1566 1595	X - linked mental retardation
+N1	Reference T1 unknown:C536575	Borjeson-Forssman-Lehmann syndrome
+N2	Reference T2 unknown:C536575	BFLS
+N3	Reference T3 unknown:C536575	Borjeson-Forssman-Lehmann syndrome
+N4	Reference T4 unknown:C536575	BFLS
+N5	Reference T5 unknown:D038901	X-linked mental retardation
+N6	Reference T6 unknown:C536575	BFLS
+N7	Reference T7 unknown:C536575	BFLS syndrome
+N8	Reference T8 unknown:D038901	X-linked mental retardation

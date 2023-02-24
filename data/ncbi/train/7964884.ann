@@ -1,0 +1,10 @@
+T1	Disease 13 43	cerebrotendinous xanthomatosis
+T2	Disease 347 377	cerebrotendinous xanthomatosis
+T3	Disease 380 383	CTX
+T4	Disease 1654 1657	CTX
+T5	Disease 1933 1941	xanthoma
+N1	Reference T1 unknown:D019294	cerebrotendinous xanthomatosis
+N2	Reference T2 unknown:D019294	cerebrotendinous xanthomatosis
+N3	Reference T3 unknown:D019294	CTX
+N4	Reference T4 unknown:D019294	CTX
+N5	Reference T5 unknown:D014973	xanthoma

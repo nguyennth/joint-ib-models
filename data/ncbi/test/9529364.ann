@@ -1,0 +1,42 @@
+T1	Disease 75 102	diffuse mesangial sclerosis
+T2	Disease 365 387	Denys - Drash syndrome
+T3	Disease 390 393	DDS
+T4	Disease 401 428	diffuse mesangial sclerosis
+T5	Disease 431 434	DMS
+T6	Disease 453 474	pseudohermaphroditism
+T7	Disease 484 495	Wilms tumor
+T8	Disease 498 500	WT
+T9	Disease 523 526	DDS
+T10	Disease 703 715	isolated DMS
+T11	Disease 718 722	IDMS
+T12	Disease 735 738	DDS
+T13	Disease 752 776	urogenital abnormalities
+T14	Disease 786 788	WT
+T15	Disease 870 874	IDMS
+T16	Disease 901 905	IDMS
+T17	Disease 991 995	IDMS
+T18	Disease 1034 1037	DDS
+T19	Disease 1097 1101	IDMS
+T20	Disease 1471 1474	DMS
+T21	Disease 1503 1506	DMS
+N1	Reference T1 unknown:C537346	diffuse mesangial sclerosis
+N2	Reference T2 unknown:D030321	Denys-Drash syndrome
+N3	Reference T3 unknown:D030321	DDS
+N4	Reference T4 unknown:C537346	diffuse mesangial sclerosis
+N5	Reference T5 unknown:C537346	DMS
+N6	Reference T6 unknown:D012734	pseudohermaphroditism
+N7	Reference T7 unknown:D009396	Wilms tumor
+N8	Reference T8 unknown:D009396	WT
+N9	Reference T9 unknown:D030321	DDS
+N10	Reference T10 unknown:C537346	isolated DMS
+N11	Reference T11 unknown:C537346	IDMS
+N12	Reference T12 unknown:D030321	DDS
+N13	Reference T13 unknown:D014564	urogenital abnormalities
+N14	Reference T14 unknown:D009396	WT
+N15	Reference T15 unknown:C537346	IDMS
+N16	Reference T16 unknown:C537346	IDMS
+N17	Reference T17 unknown:C537346	IDMS
+N18	Reference T18 unknown:D030321	DDS
+N19	Reference T19 unknown:C537346	IDMS
+N20	Reference T20 unknown:C537346	DMS
+N21	Reference T21 unknown:C537346	DMS

@@ -1,0 +1,16 @@
+T1	Disease 47 59	alkaptonuria
+T2	Disease 71 83	Alkaptonuria
+T3	Disease 86 89	AKU
+T4	Disease 109 135	inborn error of metabolism
+T5	Disease 310 313	AKU
+T6	Disease 431 434	AKU
+T7	Disease 537 540	AKU
+T8	Disease 569 572	AKU
+N1	Reference T1 unknown:D000474	alkaptonuria
+N2	Reference T2 unknown:D000474	Alkaptonuria
+N3	Reference T3 unknown:D000474	AKU
+N4	Reference T4 unknown:D008661	inborn error of metabolism
+N5	Reference T5 unknown:D000474	AKU
+N6	Reference T6 unknown:D000474	AKU
+N7	Reference T7 unknown:D000474	AKU
+N8	Reference T8 unknown:D000474	AKU

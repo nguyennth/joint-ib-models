@@ -1,0 +1,16 @@
+T1	Disease 27 64	Prader - Willi and Angelman syndromes
+T2	Disease 161 184	Prader - Willi syndrome
+T3	Disease 187 190	PWS
+T4	Disease 197 214	Angelman syndrome
+T5	Disease 217 219	AS
+T6	Disease 235 260	neurobehavioral disorders
+T7	Disease 1201 1204	PWS
+T8	Disease 1207 1209	AS
+N1	Reference T1 unknown:D011218|D017204	Prader-Willi and Angelman syndromes
+N2	Reference T2 unknown:D011218	Prader-Willi syndrome
+N3	Reference T3 unknown:D011218	PWS
+N4	Reference T4 unknown:D017204	Angelman syndrome
+N5	Reference T5 unknown:D017204	AS
+N6	Reference T6 unknown:D019954	neurobehavioral disorders
+N7	Reference T7 unknown:D011218	PWS
+N8	Reference T8 unknown:D017204	AS

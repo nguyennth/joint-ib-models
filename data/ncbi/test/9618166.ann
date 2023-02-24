@@ -1,0 +1,20 @@
+T1	Disease 35 51	Pendred syndrome
+T2	Disease 54 70	Pendred syndrome
+T3	Disease 77 105	autosomal recessive disorder
+T4	Disease 139 147	deafness
+T5	Disease 152 158	goiter
+T6	Disease 397 400	PDS
+T7	Disease 426 433	Pendred
+T8	Disease 915 922	Pendred
+T9	Disease 1159 1162	PDS
+T10	Disease 1216 1232	Pendred syndrome
+N1	Reference T1 unknown:C536648	Pendred syndrome
+N2	Reference T2 unknown:C536648	Pendred syndrome
+N3	Reference T3 unknown:D030342	autosomal recessive disorder
+N4	Reference T4 unknown:D003638	deafness
+N5	Reference T5 unknown:D006042	goiter
+N6	Reference T6 unknown:C536648	PDS
+N7	Reference T7 unknown:C536648	Pendred
+N8	Reference T8 unknown:C536648	Pendred
+N9	Reference T9 unknown:C536648	PDS
+N10	Reference T10 unknown:C536648	Pendred syndrome

@@ -1,0 +1,14 @@
+T1	Disease 64 109	late - infantile metachromatic leukodystrophy
+T2	Disease 112 140	Metachromatic leukodystrophy
+T3	Disease 143 146	MLD
+T4	Disease 155 201	autosomal recessive lysosomal storage disorder
+T5	Disease 214 243	deficiency of arylsulfatase A
+T6	Disease 342 387	late - infantile metachromatic leukodystrophy
+T7	Disease 870 873	MLD
+N1	Reference T1 unknown:D007966	late-infantile metachromatic leukodystrophy
+N2	Reference T2 unknown:D007966	Metachromatic leukodystrophy
+N3	Reference T3 unknown:D007966	MLD
+N4	Reference T4 unknown:D016464	autosomal recessive lysosomal storage disorder
+N5	Reference T5 unknown:D007966	deficiency of arylsulfatase A
+N6	Reference T6 unknown:D007966	late-infantile metachromatic leukodystrophy
+N7	Reference T7 unknown:D007966	MLD

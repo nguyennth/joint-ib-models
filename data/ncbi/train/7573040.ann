@@ -1,0 +1,26 @@
+T1	Disease 90 141	spinocerebellar ataxia 3 / Machado - Joseph disease
+T2	Disease 154 178	spinocerebellar ataxia 3
+T3	Disease 187 191	SCA3
+T4	Disease 198 241	type I autosomal dominant cerebellar ataxia
+T5	Disease 244 255	ADCA type I
+T6	Disease 312 339	neurodegenerative disorders
+T7	Disease 386 397	ADCA type I
+T8	Disease 433 437	SCA3
+T9	Disease 488 512	Machado - Joseph disease
+T10	Disease 515 518	MJD
+T11	Disease 638 649	ADCA type I
+T12	Disease 750 784	dentatorubropallidoluysian atrophy
+T13	Disease 863 866	MJD
+N1	Reference T1 unknown:D017827	spinocerebellar ataxia 3/Machado-Joseph disease
+N2	Reference T2 unknown:D017827	spinocerebellar ataxia 3
+N3	Reference T3 unknown:D017827	SCA3
+N4	Reference T4 OMIM:109150	type I autosomal dominant cerebellar ataxia
+N5	Reference T5 OMIM:109150	ADCA type I
+N6	Reference T6 unknown:D019636	neurodegenerative disorders
+N7	Reference T7 OMIM:109150	ADCA type I
+N8	Reference T8 unknown:D017827	SCA3
+N9	Reference T9 unknown:D017827	Machado-Joseph disease
+N10	Reference T10 unknown:D017827	MJD
+N11	Reference T11 OMIM:109150	ADCA type I
+N12	Reference T12 OMIM:125370	dentatorubropallidoluysian atrophy
+N13	Reference T13 unknown:D017827	MJD

@@ -1,0 +1,30 @@
+T1	Disease 36 50	Wilson disease
+T2	Disease 69 102	intracellular copper accumulation
+T3	Disease 107 150	late - onset hepatic nodular transformation
+T4	Disease 325 339	Wilson disease
+T5	Disease 344 368	copper toxicity disorder
+T6	Disease 454 495	hepatic and neuro - logical abnormalities
+T7	Disease 654 668	Wilson disease
+T8	Disease 1006 1022	copper deficient
+T9	Disease 1025 1052	Morphological abnormalities
+T10	Disease 1064 1073	cirrhosis
+T11	Disease 1221 1247	neurological abnormalities
+T12	Disease 1252 1270	growth retardation
+T13	Disease 1289 1306	copper deficiency
+T14	Disease 1482 1505	cirrhotic liver disease
+T15	Disease 1521 1535	Wilson disease
+N1	Reference T1 unknown:D006527	Wilson disease
+N2	Reference T2 unknown:C535468	intracellular copper accumulation
+N3	Reference T3 unknown:D020518	late-onset hepatic nodular transformation
+N4	Reference T4 unknown:D006527	Wilson disease
+N5	Reference T5 unknown:C535468	copper toxicity disorder
+N6	Reference T6 unknown:D008107|D009422	hepatic and neuro-logical abnormalities
+N7	Reference T7 unknown:D006527	Wilson disease
+N8	Reference T8 unknown:C535468	copper deficient
+N9	Reference T9 unknown:D000013	Morphological abnormalities
+N10	Reference T10 unknown:D008103	cirrhosis
+N11	Reference T11 unknown:D009461	neurological abnormalities
+N12	Reference T12 unknown:D006130	growth retardation
+N13	Reference T13 unknown:C535468	copper deficiency
+N14	Reference T14 unknown:D008103	cirrhotic liver disease
+N15	Reference T15 unknown:D006527	Wilson disease

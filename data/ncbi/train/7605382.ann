@@ -1,0 +1,20 @@
+T1	Disease 98 123	hyperalphalipoproteinemic
+T2	Disease 295 320	hyperalphalipoproteinemia
+T3	Disease 331 346	CETP deficiency
+T4	Disease 817 842	hyperalphalipoproteinemic
+T5	Disease 1067 1092	hyperalphalipoproteinemic
+T6	Disease 1497 1522	hyperalphalipoproteinemia
+T7	Disease 1528 1543	corneal opacity
+T8	Disease 1548 1570	coronary heart disease
+T9	Disease 1628 1643	CETP deficiency
+T10	Disease 1666 1690	atherosclerotic symptoms
+N1	Reference T1 OMIM:143470	hyperalphalipoproteinemic
+N2	Reference T2 OMIM:143470	hyperalphalipoproteinemia
+N3	Reference T3 OMIM:143470	CETP deficiency
+N4	Reference T4 OMIM:143470	hyperalphalipoproteinemic
+N5	Reference T5 OMIM:143470	hyperalphalipoproteinemic
+N6	Reference T6 OMIM:143470	hyperalphalipoproteinemia
+N7	Reference T7 unknown:D003318	corneal opacity
+N8	Reference T8 unknown:D003327	coronary heart disease
+N9	Reference T9 OMIM:143470	CETP deficiency
+N10	Reference T10 unknown:D050197	atherosclerotic symptoms

@@ -1,0 +1,6 @@
+T1	Disease 13 37	spinal cerebellar ataxia
+T2	Disease 150 174	spinal cerebellar ataxia
+T3	Disease 1262 1286	Machado - Joseph disease
+N1	Reference T1 unknown:D013132	spinal cerebellar ataxia
+N2	Reference T2 unknown:D013132	spinal cerebellar ataxia
+N3	Reference T3 unknown:D017827	Machado-Joseph disease

@@ -1,0 +1,50 @@
+T1	Disease 4 7	APC
+T2	Disease 55 72	colorectal tumors
+T3	Disease 124 154	familial adenomatous polyposis
+T4	Disease 157 160	FAP
+T5	Disease 186 212	autosomal dominant disease
+T6	Disease 258 291	colorectal adenomas and carcinoma
+T7	Disease 342 345	APC
+T8	Disease 366 369	FAP
+T9	Disease 373 410	attenuated adenomatous polyposis coli
+T10	Disease 484 487	APC
+T11	Disease 495 532	Attenuated adenomatous polyposis coli
+T12	Disease 560 579	colorectal adenomas
+T13	Disease 651 654	FAP
+T14	Disease 697 705	adenomas
+T15	Disease 730 733	APC
+T16	Disease 885 888	APC
+T17	Disease 948 965	colorectal tumors
+T18	Disease 987 995	adenomas
+T19	Disease 1066 1104	colorectal adenomas and / or carcinoma
+T20	Disease 1157 1160	APC
+T21	Disease 1431 1467	metaplastic polyps of the colorectum
+T22	Disease 1544 1547	APC
+T23	Disease 1600 1633	colorectal adenomas and carcinoma
+T24	Disease 1682 1685	FAP
+T25	Disease 1721 1738	colorectal cancer
+N1	Reference T1 unknown:D011125	APC
+N2	Reference T2 unknown:D015179	colorectal tumors
+N3	Reference T3 unknown:D011125	familial adenomatous polyposis
+N4	Reference T4 unknown:D011125	FAP
+N5	Reference T5 unknown:D030342	autosomal dominant disease
+N6	Reference T6 unknown:D018256|D015179	colorectal adenomas and carcinoma
+N7	Reference T7 unknown:D011125	APC
+N8	Reference T8 unknown:D011125	FAP
+N9	Reference T9 unknown:C538265	attenuated adenomatous polyposis coli
+N10	Reference T10 unknown:D011125	APC
+N11	Reference T11 unknown:C538265	Attenuated adenomatous polyposis coli
+N12	Reference T12 unknown:D000236	colorectal adenomas
+N13	Reference T13 unknown:D011125	FAP
+N14	Reference T14 unknown:D000236	adenomas
+N15	Reference T15 unknown:D011125	APC
+N16	Reference T16 unknown:D011125	APC
+N17	Reference T17 unknown:D015179	colorectal tumors
+N18	Reference T18 unknown:D000236	adenomas
+N19	Reference T19 unknown:D018256|D015179	colorectal adenomas and/or carcinoma
+N20	Reference T20 unknown:D011125	APC
+N21	Reference T21 unknown:D003111	metaplastic polyps of the colorectum
+N22	Reference T22 unknown:D011125	APC
+N23	Reference T23 unknown:D018256|D015179	colorectal adenomas and carcinoma
+N24	Reference T24 unknown:D011125	FAP
+N25	Reference T25 unknown:D015179	colorectal cancer

@@ -1,0 +1,26 @@
+T1	Disease 42 65	ataxia - telangiectasia
+T2	Disease 157 180	ataxia - telangiectasia
+T3	Disease 183 188	A - T
+T4	Disease 250 278	autosomal recessive syndrome
+T5	Disease 397 407	malignancy
+T6	Disease 472 477	A - T
+T7	Disease 489 495	cancer
+T8	Disease 643 648	A - T
+T9	Disease 672 677	A - T
+T10	Disease 873 878	A - T
+T11	Disease 1132 1137	A - T
+T12	Disease 1243 1272	familial and sporadic cancers
+T13	Disease 1345 1350	tumor
+N1	Reference T1 unknown:D001260	ataxia-telangiectasia
+N2	Reference T2 unknown:D001260	ataxia-telangiectasia
+N3	Reference T3 unknown:D001260	A-T
+N4	Reference T4 unknown:D030342	autosomal recessive syndrome
+N5	Reference T5 unknown:D009369	malignancy
+N6	Reference T6 unknown:D001260	A-T
+N7	Reference T7 unknown:D009369	cancer
+N8	Reference T8 unknown:D001260	A-T
+N9	Reference T9 unknown:D001260	A-T
+N10	Reference T10 unknown:D001260	A-T
+N11	Reference T11 unknown:D001260	A-T
+N12	Reference T12 unknown:D009369	familial and sporadic cancers
+N13	Reference T13 unknown:D009369	tumor

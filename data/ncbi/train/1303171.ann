@@ -1,0 +1,6 @@
+T1	Disease 56 70	Norrie disease
+T2	Disease 891 905	Norrie disease
+T3	Disease 908 911	NDP
+N1	Reference T1 unknown:C537849	Norrie disease
+N2	Reference T2 unknown:C537849	Norrie disease
+N3	Reference T3 unknown:C537849	NDP

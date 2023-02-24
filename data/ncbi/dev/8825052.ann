@@ -1,0 +1,14 @@
+T1	Disease 31 48	sporadic aniridia
+T2	Disease 122 149	bilateral sporadic aniridia
+T3	Disease 410 418	aniridia
+T4	Disease 589 597	aniridia
+T5	Disease 764 772	aniridia
+T6	Disease 830 847	familial aniridia
+T7	Disease 898 922	chromosome abnormalities
+N1	Reference T1 unknown:D015783	sporadic aniridia
+N2	Reference T2 unknown:D015783	bilateral sporadic aniridia
+N3	Reference T3 unknown:D015783	aniridia
+N4	Reference T4 unknown:D015783	aniridia
+N5	Reference T5 unknown:D015783	aniridia
+N6	Reference T6 unknown:D015783	familial aniridia
+N7	Reference T7 unknown:D002869	chromosome abnormalities

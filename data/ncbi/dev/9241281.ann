@@ -1,0 +1,16 @@
+T1	Disease 95 119	acute radiation toxicity
+T2	Disease 163 191	cancer - associated diseases
+T3	Disease 192 215	ataxia - telangiectasia
+T4	Disease 220 242	Li - Fraumeni syndrome
+T5	Disease 529 547	T - cell lymphomas
+T6	Disease 876 882	tumour
+T7	Disease 1408 1432	acute radiation toxicity
+T8	Disease 1572 1579	tumours
+N1	Reference T1 unknown:D054508	acute radiation toxicity
+N2	Reference T2 unknown:D009369	cancer-associated diseases
+N3	Reference T3 unknown:D001260	ataxia-telangiectasia
+N4	Reference T4 unknown:D016864	Li-Fraumeni syndrome
+N5	Reference T5 unknown:D016399	T-cell lymphomas
+N6	Reference T6 unknown:D009369	tumour
+N7	Reference T7 unknown:D054508	acute radiation toxicity
+N8	Reference T8 unknown:D009369	tumours

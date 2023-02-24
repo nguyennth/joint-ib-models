@@ -1,0 +1,9 @@
+T1	Disease 162 179	enzyme deficiency
+T2	Disease 395 452	glucose - 6 - phosphate dehydrogenase ( G6PD ) deficiency
+T3	Disease 602 641	chronic nonspherocytic hemolytic anemia
+T4	Disease 712 727	G6PD deficiency
+T5	Disease 1424 1439	G6PD deficiency
+N1	Reference T2 unknown:D005955	glucose-6-phosphate dehydrogenase (G6PD) deficiency
+N2	Reference T3 unknown:D000746	chronic nonspherocytic hemolytic anemia
+N3	Reference T4 unknown:D005955	G6PD deficiency
+N4	Reference T5 unknown:D005955	G6PD deficiency

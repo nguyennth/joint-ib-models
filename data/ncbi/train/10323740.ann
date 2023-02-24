@@ -1,0 +1,32 @@
+T1	Disease 60 82	Van der Woude syndrome
+T2	Disease 85 107	Van der Woude syndrome
+T3	Disease 110 113	VWS
+T4	Disease 122 150	autosomal dominant disorde r
+T5	Disease 162 171	cleft lip
+T6	Disease 181 193	cleft palate
+T7	Disease 198 206	lip pits
+T8	Disease 400 418	cleft lip / palate
+T9	Disease 423 431	lip pits
+T10	Disease 461 481	developmental delays
+T11	Disease 578 581	VWS
+T12	Disease 630 633	VWS
+T13	Disease 963 966	VWS
+T14	Disease 1165 1192	popliteal pterygia syndrome
+T15	Disease 1213 1252	syndromic forms of cleft lip and palate
+T16	Disease 1272 1305	nonsyndromic cleft lip and palate
+N1	Reference T1 unknown:C536528	Van der Woude syndrome
+N2	Reference T2 unknown:C536528	Van der Woude syndrome
+N3	Reference T3 unknown:C536528	VWS
+N4	Reference T4 unknown:D030342	autosomal dominant disorder
+N5	Reference T5 unknown:D002971	cleft lip
+N6	Reference T6 unknown:D002972	cleft palate
+N7	Reference T7 unknown:C536528	lip pits
+N8	Reference T8 unknown:D002971|D002972	cleft lip/palate
+N9	Reference T9 unknown:C536528	lip pits
+N10	Reference T10 unknown:D006130	developmental delays
+N11	Reference T11 unknown:C536528	VWS
+N12	Reference T12 unknown:C536528	VWS
+N13	Reference T13 unknown:C536528	VWS
+N14	Reference T14 OMIM:119500	popliteal pterygia syndrome
+N15	Reference T15 unknown:D002971|D002972	syndromic forms of cleft lip and palate
+N16	Reference T16 OMIM:119530	nonsyndromic cleft lip and palate

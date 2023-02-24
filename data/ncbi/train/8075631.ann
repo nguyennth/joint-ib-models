@@ -1,0 +1,14 @@
+T1	Disease 0 27	Familial male breast cancer
+T2	Disease 81 94	Breast cancer
+T3	Disease 262 280	male breast cancer
+T4	Disease 300 336	hereditary breast and ovarian cancer
+T5	Disease 637 650	breast cancer
+T6	Disease 695 713	male breast cancer
+T7	Disease 777 795	male breast cancer
+N1	Reference T1 unknown:D018567	Familial male breast cancer
+N2	Reference T2 unknown:D001943	Breast cancer
+N3	Reference T3 unknown:D018567	male breast cancer
+N4	Reference T4 unknown:D061325	hereditary breast and ovarian cancer
+N5	Reference T5 unknown:D001943	breast cancer
+N6	Reference T6 unknown:D018567	male breast cancer
+N7	Reference T7 unknown:D018567	male breast cancer

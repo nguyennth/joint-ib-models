@@ -1,0 +1,16 @@
+T1	Disease 40 56	Brugada syndrome
+T2	Disease 240 269	congenital long - QT syndrome
+T3	Disease 272 276	LQT3
+T4	Disease 283 318	idiopathic ventricular fibrillation
+T5	Disease 321 324	IVF
+T6	Disease 849 852	IVF
+T7	Disease 978 982	LQT3
+T8	Disease 1762 1765	IVF
+N1	Reference T1 unknown:D053840	Brugada syndrome
+N2	Reference T2 unknown:D008133	congenital long-QT syndrome
+N3	Reference T3 unknown:C537034	LQT3
+N4	Reference T4 unknown:C537182	idiopathic ventricular fibrillation
+N5	Reference T5 unknown:C537182	IVF
+N6	Reference T6 unknown:C537182	IVF
+N7	Reference T7 unknown:C537034	LQT3
+N8	Reference T8 unknown:C537182	IVF

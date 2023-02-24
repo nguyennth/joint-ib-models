@@ -1,0 +1,26 @@
+T1	Disease 0 16	Brca1 deficiency
+T2	Disease 34 53	embryonic lethality
+T3	Disease 71 100	neuroepithelial abnormalities
+T4	Disease 107 132	breast and ovarian cancer
+T5	Disease 312 337	breast and ovarian cancer
+T6	Disease 380 395	ovarian cancers
+T7	Disease 431 438	tumours
+T8	Disease 524 530	tumour
+T9	Disease 724 730	cancer
+T10	Disease 1062 1079	Brca1 - deficient
+T11	Disease 1187 1199	spina bifida
+T12	Disease 1204 1215	anencephaly
+T13	Disease 1255 1272	Brca1 - deficient
+N1	Reference T1 OMIM:604370	Brca1 deficiency
+N2	Reference T2 unknown:D020964	embryonic lethality
+N3	Reference T3 unknown:D018302	neuroepithelial abnormalities
+N4	Reference T4 unknown:D061325	breast and ovarian cancer
+N5	Reference T5 unknown:D061325	breast and ovarian cancer
+N6	Reference T6 unknown:D010051	ovarian cancers
+N7	Reference T7 unknown:D009369	tumours
+N8	Reference T8 unknown:D009369	tumour
+N9	Reference T9 unknown:D009369	cancer
+N10	Reference T10 OMIM:604370	Brca1-deficient
+N11	Reference T11 unknown:D016135	spina bifida
+N12	Reference T12 unknown:D000757	anencephaly
+N13	Reference T13 OMIM:604370	Brca1-deficient

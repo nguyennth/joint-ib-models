@@ -1,0 +1,24 @@
+T1	Disease 23 32	cataracts
+T2	Disease 50 100	deficient in glucose - 6 - phosphate dehydrogenase
+T3	Disease 103 160	Glucose - 6 - phosphate dehydrogenase ( G6PD ) deficiency
+T4	Disease 221 232	cataractous
+T5	Disease 362 371	cataracts
+T6	Disease 381 397	G6PD - deficient
+T7	Disease 423 451	cortical and total cataracts
+T8	Disease 668 683	G6PD deficiency
+T9	Disease 734 746	galactosemic
+T10	Disease 758 779	riboflavin deficiency
+T11	Disease 788 797	cataracts
+T12	Disease 833 856	metabolic abnormalities
+N1	Reference T1 unknown:D002386	cataracts
+N2	Reference T2 unknown:D005955	deficient in glucose-6-phosphate dehydrogenase
+N3	Reference T3 unknown:D005955	Glucose-6-phosphate dehydrogenase (G6PD) deficiency
+N4	Reference T4 unknown:D002386	cataractous
+N5	Reference T5 unknown:D002386	cataracts
+N6	Reference T6 unknown:D005955	G6PD-deficient
+N7	Reference T7 unknown:D002386	cortical and total cataracts
+N8	Reference T8 unknown:D005955	G6PD deficiency
+N9	Reference T9 OMIM:230400	galactosemic
+N10	Reference T10 unknown:D012257	riboflavin deficiency
+N11	Reference T11 unknown:D002386	cataracts
+N12	Reference T12 unknown:D008659	metabolic abnormalities

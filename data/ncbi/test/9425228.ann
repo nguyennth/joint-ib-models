@@ -1,0 +1,12 @@
+T1	Disease 52 60	melanoma
+T2	Disease 101 118	Familial Melanoma
+T3	Disease 212 220	melanoma
+T4	Disease 327 335	melanoma
+T5	Disease 972 989	familial melanoma
+T6	Disease 1033 1041	melanoma
+N1	Reference T1 unknown:D008545	melanoma
+N2	Reference T2 unknown:D008545	Familial Melanoma
+N3	Reference T3 unknown:D008545	melanoma
+N4	Reference T4 unknown:D008545	melanoma
+N5	Reference T5 unknown:D008545	familial melanoma
+N6	Reference T6 unknown:D008545	melanoma

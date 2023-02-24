@@ -1,0 +1,10 @@
+T1	Disease 101 122	diastrophic dysplasia
+T2	Disease 167 184	chondrodysplasias
+T3	Disease 270 291	diastrophic dysplasia
+T4	Disease 348 361	platyspondyly
+T5	Disease 442 462	metatropic dysplasia
+N1	Reference T1 unknown:C536170	diastrophic dysplasia
+N2	Reference T2 unknown:D010009	chondrodysplasias
+N3	Reference T3 unknown:C536170	diastrophic dysplasia
+N4	Reference T4 unknown:D013122	platyspondyly
+N5	Reference T5 unknown:C537356	metatropic dysplasia

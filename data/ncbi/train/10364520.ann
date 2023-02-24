@@ -1,0 +1,24 @@
+T1	Disease 47 75	Familial Mediterranean fever
+T2	Disease 201 229	Familial Mediterranean fever
+T3	Disease 232 235	FMF
+T4	Disease 243 273	recessively inherited disorder
+T5	Disease 475 495	serosal inflammation
+T6	Disease 539 556	Renal amyloidosis
+T7	Disease 620 623	FMF
+T8	Disease 784 787	FMF
+T9	Disease 988 991	FMF
+T10	Disease 1012 1015	FMF
+T11	Disease 1297 1314	renal amyloidosis
+T12	Disease 1319 1328	arthritis
+N1	Reference T1 unknown:D010505	Familial Mediterranean fever
+N2	Reference T2 unknown:D010505	Familial Mediterranean fever
+N3	Reference T3 unknown:D010505	FMF
+N4	Reference T4 unknown:D030342	recessively inherited disorder
+N5	Reference T5 unknown:D007249	serosal inflammation
+N6	Reference T6 unknown:C538249	Renal amyloidosis
+N7	Reference T7 unknown:D010505	FMF
+N8	Reference T8 unknown:D010505	FMF
+N9	Reference T9 unknown:D010505	FMF
+N10	Reference T10 unknown:D010505	FMF
+N11	Reference T11 unknown:C538249	renal amyloidosis
+N12	Reference T12 unknown:D001168	arthritis

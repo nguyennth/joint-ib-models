@@ -1,0 +1,6 @@
+T1	Disease 122 136	retinoblastoma
+T2	Disease 153 167	retinoblastoma
+T3	Disease 453 459	tumors
+N1	Reference T1 unknown:D012175	retinoblastoma
+N2	Reference T2 unknown:D012175	retinoblastoma
+N3	Reference T3 unknown:D009369	tumors

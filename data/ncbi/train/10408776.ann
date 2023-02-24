@@ -1,0 +1,40 @@
+T1	Disease 17 20	VHL
+T2	Disease 29 58	sporadic renal cell carcinoma
+T3	Disease 93 96	VHL
+T4	Disease 120 123	RCC
+T5	Disease 163 182	von Hippel - Lindau
+T6	Disease 185 188	VHL
+T7	Disease 242 263	renal cell carcinomas
+T8	Disease 285 294	VHL tumor
+T9	Disease 691 694	VHL
+T10	Disease 728 761	nonpapillary renal cell carcinoma
+T11	Disease 764 767	RCC
+T12	Disease 861 864	VHL
+T13	Disease 1188 1191	VHL
+T14	Disease 1221 1233	sporadic RCC
+T15	Disease 1385 1388	RCC
+T16	Disease 1392 1395	VHL
+T17	Disease 1454 1457	RCC
+T18	Disease 1488 1491	VHL
+T19	Disease 1703 1706	RCC
+T20	Disease 1710 1713	VHL
+N1	Reference T1 unknown:D006623	VHL
+N2	Reference T2 unknown:D002292	sporadic renal cell carcinoma
+N3	Reference T3 unknown:D006623	VHL
+N4	Reference T4 unknown:D002292	RCC
+N5	Reference T5 unknown:D006623	von Hippel-Lindau
+N6	Reference T6 unknown:D006623	VHL
+N7	Reference T7 unknown:D002292	renal cell carcinomas
+N8	Reference T8 unknown:D006623	VHL tumor
+N9	Reference T9 unknown:D006623	VHL
+N10	Reference T10 unknown:D002292	nonpapillary renal cell carcinoma
+N11	Reference T11 unknown:D002292	RCC
+N12	Reference T12 unknown:D006623	VHL
+N13	Reference T13 unknown:D006623	VHL
+N14	Reference T14 unknown:D002292	sporadic RCC
+N15	Reference T15 unknown:D002292	RCC
+N16	Reference T16 unknown:D006623	VHL
+N17	Reference T17 unknown:D002292	RCC
+N18	Reference T18 unknown:D006623	VHL
+N19	Reference T19 unknown:D002292	RCC
+N20	Reference T20 unknown:D006623	VHL

@@ -1,0 +1,16 @@
+T1	Disease 25 59	X - linked amelogenesis imperfecta
+T2	Disease 205 233	inherited dental abnormality
+T3	Disease 234 268	X - linked amelogenesis imperfecta
+T4	Disease 271 274	XAI
+T5	Disease 299 302	XAI
+T6	Disease 458 461	XAI
+T7	Disease 651 662	XAI disease
+T8	Disease 1225 1228	XAI
+N1	Reference T1 unknown:C538243	X-linked amelogenesis imperfecta
+N2	Reference T2 unknown:D014071	inherited dental abnormality
+N3	Reference T3 unknown:C538243	X-linked amelogenesis imperfecta
+N4	Reference T4 unknown:C538243	XAI
+N5	Reference T5 unknown:C538243	XAI
+N6	Reference T6 unknown:C538243	XAI
+N7	Reference T7 unknown:C538243	XAI disease
+N8	Reference T8 unknown:C538243	XAI

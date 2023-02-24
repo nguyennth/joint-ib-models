@@ -1,0 +1,18 @@
+T1	Disease 25 47	von Willebrand disease
+T2	Disease 71 85	von Willebrand
+T3	Disease 100 122	von Willebrand disease
+T4	Disease 125 128	vWD
+T5	Disease 149 176	inherited bleeding disorder
+T6	Disease 282 296	von Willebrand
+T7	Disease 335 338	vWD
+T8	Disease 692 704	type IIA vWD
+T9	Disease 1007 1019	type IIA vWD
+N1	Reference T1 unknown:D014842	von Willebrand disease
+N2	Reference T2 unknown:D014842	von Willebrand
+N3	Reference T3 unknown:D014842	von Willebrand disease
+N4	Reference T4 unknown:D014842	vWD
+N5	Reference T5 unknown:D025861	inherited bleeding disorder
+N6	Reference T6 unknown:D014842	von Willebrand
+N7	Reference T7 unknown:D014842	vWD
+N8	Reference T8 unknown:D056728	type IIA vWD
+N9	Reference T9 unknown:D056728	type IIA vWD

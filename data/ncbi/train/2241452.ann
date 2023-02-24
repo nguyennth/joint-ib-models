@@ -1,0 +1,34 @@
+T1	Disease 10 20	meningitis
+T2	Disease 39 94	congenital deficiency of the C9 component of complement
+T3	Disease 111 124	C9 deficiency
+T4	Disease 189 202	C9 deficiency
+T5	Disease 381 401	bacterial meningitis
+T6	Disease 470 489	purulent meningitis
+T7	Disease 533 563	acute meningococcal meningitis
+T8	Disease 569 600	impairment of cellular immunity
+T9	Disease 604 629	immunoglobulin deficiency
+T10	Disease 674 713	complete deficiency of the C9 component
+T11	Disease 885 907	complete C9 deficiency
+T12	Disease 1041 1061	bacterial meningitis
+T13	Disease 1111 1124	C9 deficiency
+T14	Disease 1146 1166	recurrent meningitis
+T15	Disease 1191 1213	complete C9 deficiency
+T16	Disease 1233 1250	complement defect
+T17	Disease 1281 1327	bacterial , especially neisserial , infections
+N1	Reference T1 unknown:D008581	meningitis
+N2	Reference T2 OMIM:613825	congenital deficiency of the C9 component of complement
+N3	Reference T3 OMIM:613825	C9 deficiency
+N4	Reference T4 OMIM:613825	C9 deficiency
+N5	Reference T5 unknown:D016920	bacterial meningitis
+N6	Reference T6 unknown:D008586	purulent meningitis
+N7	Reference T7 unknown:D008585	acute meningococcal meningitis
+N8	Reference T8 unknown:D007153	impairment of cellular immunity
+N9	Reference T9 unknown:D004406	immunoglobulin deficiency
+N10	Reference T10 OMIM:613825	complete deficiency of the C9 component
+N11	Reference T11 OMIM:613825	complete C9 deficiency
+N12	Reference T12 unknown:D016920	bacterial meningitis
+N13	Reference T13 OMIM:613825	C9 deficiency
+N14	Reference T14 unknown:D008581+D012008	recurrent meningitis
+N15	Reference T15 OMIM:613825	complete C9 deficiency
+N16	Reference T16 unknown:D007153	complement defect
+N17	Reference T17 unknown:D016870	bacterial, especially neisserial, infections

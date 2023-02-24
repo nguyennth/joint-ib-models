@@ -1,0 +1,16 @@
+T1	Disease 205 213	melanoma
+T2	Disease 276 295	deficiency of hex A
+T3	Disease 350 369	Tay - Sachs disease
+T4	Disease 372 375	TSD
+T5	Disease 761 764	TSD
+T6	Disease 1000 1003	TSD
+T7	Disease 1146 1149	TSD
+T8	Disease 1183 1199	hex A deficiency
+N1	Reference T1 unknown:D008545	melanoma
+N2	Reference T2 unknown:D013661	deficiency of hex A
+N3	Reference T3 unknown:D013661	Tay-Sachs disease
+N4	Reference T4 unknown:D013661	TSD
+N5	Reference T5 unknown:D013661	TSD
+N6	Reference T6 unknown:D013661	TSD
+N7	Reference T7 unknown:D013661	TSD
+N8	Reference T8 unknown:D013661	hex A deficiency

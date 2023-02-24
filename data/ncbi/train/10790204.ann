@@ -1,0 +1,6 @@
+T1	Disease 19 70	very long chain acyl - CoA dehydrogenase deficiency
+T2	Disease 235 296	Very long chain acyl - CoA dehydrogenase ( VLCAD ) deficiency
+T3	Disease 488 504	VLCAD deficiency
+N1	Reference T1 unknown:C536353	very long chain acyl-CoA dehydrogenase deficiency
+N2	Reference T2 unknown:C536353	Very long chain acyl-CoA dehydrogenase (VLCAD) deficiency
+N3	Reference T3 unknown:C536353	VLCAD deficiency

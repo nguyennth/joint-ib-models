@@ -1,0 +1,14 @@
+T1	Disease 0 54	Autosomal dominant neurohypophyseal diabetes insipidus
+T2	Disease 136 190	Autosomal dominant neurohypophyseal diabetes insipidus
+T3	Disease 193 198	ADNDI
+T4	Disease 207 224	inherited disease
+T5	Disease 464 482	diabetes insipidus
+T6	Disease 606 611	ADNDI
+T7	Disease 1211 1249	dominantly inherited neurodegeneration
+N1	Reference T1 OMIM:125700	Autosomal dominant neurohypophyseal diabetes insipidus
+N2	Reference T2 OMIM:125700	Autosomal dominant neurohypophyseal diabetes insipidus
+N3	Reference T3 OMIM:125700	ADNDI
+N4	Reference T4 unknown:D030342	inherited disease
+N5	Reference T5 unknown:D003919	diabetes insipidus
+N6	Reference T6 OMIM:125700	ADNDI
+N7	Reference T7 unknown:D020271	dominantly inherited neurodegeneration

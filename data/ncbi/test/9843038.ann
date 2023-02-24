@@ -1,0 +1,12 @@
+T1	Disease 65 90	hereditary coproporphyria
+T2	Disease 100 125	Hereditary coproporphyria
+T3	Disease 128 131	HCP
+T4	Disease 140 166	autosomal dominant disease
+T5	Disease 186 226	deficiency of coproporphyrinogen oxidase
+T6	Disease 326 329	HCP
+N1	Reference T1 unknown:D046349	hereditary coproporphyria
+N2	Reference T2 unknown:D046349	Hereditary coproporphyria
+N3	Reference T3 unknown:D046349	HCP
+N4	Reference T4 unknown:D030342	autosomal dominant disease
+N5	Reference T5 unknown:D046349	deficiency of coproporphyrinogen oxidase
+N6	Reference T6 unknown:D046349	HCP

@@ -1,0 +1,8 @@
+T1	Disease 31 44	Lesch - Nyhan
+T2	Disease 133 155	Lesch - Nyhan syndrome
+T3	Disease 609 623	Epstein - Barr
+T4	Disease 1054 1076	Lesch - Nyhan syndrome
+N1	Reference T1 unknown:D007926	Lesch-Nyhan
+N2	Reference T2 unknown:D007926	Lesch-Nyhan syndrome
+N3	Reference T3 unknown:D020031	Epstein-Barr
+N4	Reference T4 unknown:D007926	Lesch-Nyhan syndrome

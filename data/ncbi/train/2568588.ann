@@ -1,0 +1,22 @@
+T1	Disease 57 71	retinoblastoma
+T2	Disease 130 152	retinoblastoma tumours
+T3	Disease 221 235	retinoblastoma
+T4	Disease 313 319	tumour
+T5	Disease 606 620	retinoblastoma
+T6	Disease 788 810	retinoblastoma tumours
+T7	Disease 897 904	tumours
+T8	Disease 988 1006	unilateral tumours
+T9	Disease 1140 1154	retinoblastoma
+T10	Disease 1197 1209	osteosarcoma
+T11	Disease 1226 1233	tumours
+N1	Reference T1 unknown:D012175	retinoblastoma
+N2	Reference T2 unknown:D012175	retinoblastoma tumours
+N3	Reference T3 unknown:D012175	retinoblastoma
+N4	Reference T4 unknown:D009369	tumour
+N5	Reference T5 unknown:D012175	retinoblastoma
+N6	Reference T6 unknown:D012175	retinoblastoma tumours
+N7	Reference T7 unknown:D009369	tumours
+N8	Reference T8 unknown:D009369	unilateral tumours
+N9	Reference T9 unknown:D012175	retinoblastoma
+N10	Reference T10 unknown:D012516	osteosarcoma
+N11	Reference T11 unknown:D009369	tumours

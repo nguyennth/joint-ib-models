@@ -1,0 +1,34 @@
+T1	Disease 68 87	von Hippel - Lindau
+T2	Disease 90 93	VHL
+T3	Disease 103 138	Von Hippel - Lindau ( VHL ) disease
+T4	Disease 144 169	hereditary tumor syndrome
+T5	Disease 206 252	bilateral and multi - centric hemangioblastoma
+T6	Disease 296 312	pheochromocytoma
+T7	Disease 315 335	renal cell carcinoma
+T8	Disease 342 389	cysts in the kidney , pancreas , and epididymis
+T9	Disease 474 477	VHL
+T10	Disease 599 602	VHL
+T11	Disease 812 815	VHL
+T12	Disease 947 950	VHL
+T13	Disease 1011 1022	VHL disease
+T14	Disease 1140 1156	pheochromocytoma
+T15	Disease 1218 1229	VHL disease
+T16	Disease 1296 1299	VHL
+T17	Disease 1349 1388	central nervous system hemangioblastoma
+N1	Reference T1 unknown:D006623	von Hippel-Lindau
+N2	Reference T2 unknown:D006623	VHL
+N3	Reference T3 unknown:D006623	Von Hippel-Lindau (VHL) disease
+N4	Reference T4 unknown:D009386	hereditary tumor syndrome
+N5	Reference T5 unknown:D018325	bilateral and multi-centric hemangioblastoma
+N6	Reference T6 unknown:D010673	pheochromocytoma
+N7	Reference T7 unknown:D002292	renal cell carcinoma
+N8	Reference T8 unknown:D052177|D010181|D013088	cysts in the kidney, pancreas, and epididymis
+N9	Reference T9 unknown:D006623	VHL
+N10	Reference T10 unknown:D006623	VHL
+N11	Reference T11 unknown:D006623	VHL
+N12	Reference T12 unknown:D006623	VHL
+N13	Reference T13 unknown:D006623	VHL disease
+N14	Reference T14 unknown:D010673	pheochromocytoma
+N15	Reference T15 unknown:D006623	VHL disease
+N16	Reference T16 unknown:D006623	VHL
+N17	Reference T17 unknown:D018325	central nervous system hemangioblastoma

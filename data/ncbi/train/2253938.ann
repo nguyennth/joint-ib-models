@@ -1,0 +1,10 @@
+T1	Disease 439 454	G6PD deficiency
+T2	Disease 574 589	G6PD deficiency
+T3	Disease 621 636	G6PD deficiency
+T4	Disease 996 1011	G6PD deficiency
+T5	Disease 1483 1498	G6PD deficiency
+N1	Reference T1 unknown:D005955	G6PD deficiency
+N2	Reference T2 unknown:D005955	G6PD deficiency
+N3	Reference T3 unknown:D005955	G6PD deficiency
+N4	Reference T4 unknown:D005955	G6PD deficiency
+N5	Reference T5 unknown:D005955	G6PD deficiency

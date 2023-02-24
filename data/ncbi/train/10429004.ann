@@ -1,0 +1,46 @@
+T1	Disease 96 132	phenylalanine hydroxylase deficiency
+T2	Disease 151 175	Maternal Phenylketonuria
+T3	Disease 337 361	maternal phenylketonuria
+T4	Disease 364 367	PKU
+T5	Disease 424 445	hyperphenylalaninemic
+T6	Disease 470 482	Maternal PKU
+T7	Disease 774 777	PKU
+T8	Disease 789 792	PKU
+T9	Disease 800 803	PKU
+T10	Disease 810 836	mild hyperphenylalaninemia
+T11	Disease 839 842	MHP
+T12	Disease 1404 1419	PAH - deficient
+T13	Disease 1442 1445	PKU
+T14	Disease 1477 1480	MHP
+T15	Disease 1500 1503	PKU
+T16	Disease 1562 1565	PKU
+T17	Disease 1590 1593	PKU
+T18	Disease 1640 1643	PKU
+T19	Disease 1705 1708	PKU
+T20	Disease 1899 1902	PKU
+T21	Disease 2051 2075	maternal phenylketonuria
+T22	Disease 2232 2235	PKU
+T23	Disease 2461 2464	PKU
+N1	Reference T1 OMIM:261600	phenylalanine hydroxylase deficiency
+N2	Reference T2 unknown:D017042	Maternal Phenylketonuria
+N3	Reference T3 unknown:D017042	maternal phenylketonuria
+N4	Reference T4 unknown:D010661	PKU
+N5	Reference T5 unknown:D010661	hyperphenylalaninemic
+N6	Reference T6 unknown:D017042	Maternal PKU
+N7	Reference T7 unknown:D010661	PKU
+N8	Reference T8 unknown:D010661	PKU
+N9	Reference T9 unknown:D010661	PKU
+N10	Reference T10 unknown:D010661	mild hyperphenylalaninemia
+N11	Reference T11 unknown:D010661	MHP
+N12	Reference T12 OMIM:261600	PAH-deficient
+N13	Reference T13 unknown:D010661	PKU
+N14	Reference T14 unknown:D010661	MHP
+N15	Reference T15 unknown:D010661	PKU
+N16	Reference T16 unknown:D010661	PKU
+N17	Reference T17 unknown:D010661	PKU
+N18	Reference T18 unknown:D010661	PKU
+N19	Reference T19 unknown:D010661	PKU
+N20	Reference T20 unknown:D010661	PKU
+N21	Reference T21 unknown:D017042	maternal phenylketonuria
+N22	Reference T22 unknown:D010661	PKU
+N23	Reference T23 unknown:D010661	PKU

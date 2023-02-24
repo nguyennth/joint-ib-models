@@ -1,0 +1,20 @@
+T1	Disease 66 91	hereditary coproporphyria
+T2	Disease 114 139	Hereditary coproporphyria
+T3	Disease 142 144	HC
+T4	Disease 159 176	hepatic porphyria
+T5	Disease 223 275	deficient activity of coproporphyrinogen III oxidase
+T6	Disease 363 387	neurological dysfunction
+T7	Disease 459 478	infectious diseases
+T8	Disease 793 795	HC
+T9	Disease 1950 1952	HC
+T10	Disease 2035 2047	gene defects
+N1	Reference T1 unknown:D046349	hereditary coproporphyria
+N2	Reference T2 unknown:D046349	Hereditary coproporphyria
+N3	Reference T3 unknown:D046349	HC
+N4	Reference T4 unknown:D017094	hepatic porphyria
+N5	Reference T5 unknown:D046349	deficient activity of coproporphyrinogen III oxidase
+N6	Reference T6 unknown:D009422	neurological dysfunction
+N7	Reference T7 unknown:D003141	infectious diseases
+N8	Reference T8 unknown:D046349	HC
+N9	Reference T9 unknown:D046349	HC
+N10	Reference T10 unknown:D030342	gene defects

@@ -1,0 +1,20 @@
+T1	Disease 62 82	centrocytic lymphoma
+T2	Disease 201 221	centrocytic lymphoma
+T3	Disease 262 280	B - cell neoplasms
+T4	Disease 605 625	parathyroid adenomas
+T5	Disease 759 793	breast and squamous cell neoplasms
+T6	Disease 988 1009	centrocytic lymphomas
+T7	Disease 1074 1098	noncentrocytic lymphomas
+T8	Disease 1120 1141	centrocytic lymphomas
+T9	Disease 1439 1457	B - cell neoplasms
+T10	Disease 1497 1517	centrocytic lymphoma
+N1	Reference T1 unknown:D008223	centrocytic lymphoma
+N2	Reference T2 unknown:D008223	centrocytic lymphoma
+N3	Reference T3 unknown:D016393	B-cell neoplasms
+N4	Reference T4 unknown:D010282	parathyroid adenomas
+N5	Reference T5 unknown:D001943|D018307	breast and squamous cell neoplasms
+N6	Reference T6 unknown:D008223	centrocytic lymphomas
+N7	Reference T7 unknown:D008223	noncentrocytic lymphomas
+N8	Reference T8 unknown:D008223	centrocytic lymphomas
+N9	Reference T9 unknown:D016393	B-cell neoplasms
+N10	Reference T10 unknown:D008223	centrocytic lymphoma

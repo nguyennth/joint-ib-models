@@ -1,0 +1,38 @@
+T1	Disease 0 20	Adrenoleukodystrophy
+T2	Disease 25 46	adrenomyeloneuropathy
+T3	Disease 71 92	adrenal insufficiency
+T4	Disease 143 163	adrenoleukodystrophy
+T5	Disease 166 169	ALD
+T6	Disease 188 209	adrenomyeloneuropathy
+T7	Disease 212 215	AMN
+T8	Disease 288 291	AMN
+T9	Disease 317 320	ALD
+T10	Disease 470 473	ALD
+T11	Disease 476 479	AMN
+T12	Disease 485 516	pituitary - adrenal abnormality
+T13	Disease 665 668	ALD
+T14	Disease 673 676	AMN
+T15	Disease 731 752	adrenal insufficiency
+T16	Disease 1004 1007	ALD
+T17	Disease 1012 1015	AMN
+T18	Disease 1045 1073	adrenocrotical insufficiency
+T19	Disease 1085 1111	endocrinologic dysfunction
+N1	Reference T1 unknown:D000326	Adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	adrenomyeloneuropathy
+N3	Reference T3 unknown:D000309	adrenal insufficiency
+N4	Reference T4 unknown:D000326	adrenoleukodystrophy
+N5	Reference T5 unknown:D000326	ALD
+N6	Reference T6 unknown:D000326	adrenomyeloneuropathy
+N7	Reference T7 unknown:D000326	AMN
+N8	Reference T8 unknown:D000326	AMN
+N9	Reference T9 unknown:D000326	ALD
+N10	Reference T10 unknown:D000326	ALD
+N11	Reference T11 unknown:D000326	AMN
+N12	Reference T12 unknown:D010900+D000307	pituitary-adrenal abnormality
+N13	Reference T13 unknown:D000326	ALD
+N14	Reference T14 unknown:D000326	AMN
+N15	Reference T15 unknown:D000309	adrenal insufficiency
+N16	Reference T16 unknown:D000326	ALD
+N17	Reference T17 unknown:D000326	AMN
+N18	Reference T18 unknown:D000224	adrenocrotical insufficiency
+N19	Reference T19 unknown:D004700	endocrinologic dysfunction

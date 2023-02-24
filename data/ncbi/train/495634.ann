@@ -1,0 +1,16 @@
+T1	Disease 0 47	Deficiency of the fifth component of complement
+T2	Disease 182 229	deficiency of the fifth component of complement
+T3	Disease 417 437	gonococcal infection
+T4	Disease 993 1007	C5 - deficient
+T5	Disease 1547 1560	C5 deficiency
+T6	Disease 1704 1717	C5 deficiency
+T7	Disease 1720 1736	Deficiency of C5
+T8	Disease 1822 1842	gonococcal infection
+N1	Reference T1 OMIM:609536	Deficiency of the fifth component of complement
+N2	Reference T2 OMIM:609536	deficiency of the fifth component of complement
+N3	Reference T3 unknown:D006069	gonococcal infection
+N4	Reference T4 OMIM:609536	C5-deficient
+N5	Reference T5 OMIM:609536	C5 deficiency
+N6	Reference T6 OMIM:609536	C5 deficiency
+N7	Reference T7 OMIM:609536	Deficiency of C5
+N8	Reference T8 unknown:D006069	gonococcal infection

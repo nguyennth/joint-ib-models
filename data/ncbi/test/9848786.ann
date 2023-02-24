@@ -1,0 +1,20 @@
+T1	Disease 0 36	Human complement factor H deficiency
+T2	Disease 53 78	hemolytic uremic syndrome
+T3	Disease 116 178	deficiency in the human complement regulatory protein Factor H
+T4	Disease 207 226	acute renal disease
+T5	Disease 300 325	hemolytic uremic syndrome
+T6	Disease 328 331	HUS
+T7	Disease 917 936	Factor H deficiency
+T8	Disease 949 970	complement deficiency
+T9	Disease 987 990	HUS
+T10	Disease 1090 1093	HUS
+N1	Reference T1 OMIM:609814	Human complement factor H deficiency
+N2	Reference T2 unknown:D006463	hemolytic uremic syndrome
+N3	Reference T3 OMIM:609814	deficiency in the human complement regulatory protein Factor H
+N4	Reference T4 unknown:D007674	acute renal disease
+N5	Reference T5 unknown:D006463	hemolytic uremic syndrome
+N6	Reference T6 unknown:D006463	HUS
+N7	Reference T7 OMIM:609814	Factor H deficiency
+N8	Reference T8 unknown:D007153	complement deficiency
+N9	Reference T9 unknown:D006463	HUS
+N10	Reference T10 unknown:D006463	HUS

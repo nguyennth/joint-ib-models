@@ -1,0 +1,30 @@
+T1	Disease 107 133	bipolar affective disorder
+T2	Disease 162 188	Bipolar affective disorder
+T3	Disease 191 195	BPAD
+T4	Disease 198 224	manic - depressive illness
+T5	Disease 259 264	mania
+T6	Disease 274 283	hypomania
+T7	Disease 313 323	depression
+T8	Disease 420 424	BPAD
+T9	Disease 558 562	BPAD
+T10	Disease 666 670	BPAD
+T11	Disease 710 727	genetic disorders
+T12	Disease 778 798	psychiatric disorder
+T13	Disease 953 957	BPAD
+T14	Disease 1535 1539	BPAD
+T15	Disease 1566 1585	affective disorders
+N1	Reference T1 unknown:D001714	bipolar affective disorder
+N2	Reference T2 unknown:D001714	Bipolar affective disorder
+N3	Reference T3 unknown:D001714	BPAD
+N4	Reference T4 unknown:D001714	manic-depressive illness
+N5	Reference T5 unknown:D001714	mania
+N6	Reference T6 unknown:D019964	hypomania
+N7	Reference T7 unknown:D003866	depression
+N8	Reference T8 unknown:D001714	BPAD
+N9	Reference T9 unknown:D001714	BPAD
+N10	Reference T10 unknown:D001714	BPAD
+N11	Reference T11 unknown:D030342	genetic disorders
+N12	Reference T12 unknown:D001523	psychiatric disorder
+N13	Reference T13 unknown:D001714	BPAD
+N14	Reference T14 unknown:D001714	BPAD
+N15	Reference T15 unknown:D019964	affective disorders

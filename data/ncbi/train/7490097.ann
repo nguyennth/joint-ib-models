@@ -1,0 +1,8 @@
+T1	Disease 38 52	Wilson disease
+T2	Disease 110 124	Wilson disease
+T3	Disease 127 129	WD
+T4	Disease 927 929	WD
+N1	Reference T1 unknown:D006527	Wilson disease
+N2	Reference T2 unknown:D006527	Wilson disease
+N3	Reference T3 unknown:D006527	WD
+N4	Reference T4 unknown:D006527	WD

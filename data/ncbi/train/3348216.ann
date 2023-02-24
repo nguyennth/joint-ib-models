@@ -1,0 +1,18 @@
+T1	Disease 0 46	Glucose 6 - phosphate dehydrogenase deficiency
+T2	Disease 64 86	hematologic malignancy
+T3	Disease 156 211	glucose 6 - phosphate dehydrogenase ( G6PD ) deficiency
+T4	Disease 216 222	cancer
+T5	Disease 263 289	hematological malignancies
+T6	Disease 309 324	G6PD deficiency
+T7	Disease 549 568	hematologic disease
+T8	Disease 666 681	G6PD deficiency
+T9	Disease 729 750	hematologic neoplasms
+N1	Reference T1 unknown:D005955	Glucose 6-phosphate dehydrogenase deficiency
+N2	Reference T2 unknown:D019337	hematologic malignancy
+N3	Reference T3 unknown:D005955	glucose 6-phosphate dehydrogenase (G6PD) deficiency
+N4	Reference T4 unknown:D009369	cancer
+N5	Reference T5 unknown:D019337	hematological malignancies
+N6	Reference T6 unknown:D005955	G6PD deficiency
+N7	Reference T7 unknown:D006402	hematologic disease
+N8	Reference T8 unknown:D005955	G6PD deficiency
+N9	Reference T9 unknown:D019337	hematologic neoplasms

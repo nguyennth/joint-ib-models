@@ -1,0 +1,14 @@
+T1	Disease 120 138	Huntington disease
+T2	Disease 141 143	HD
+T3	Disease 394 396	HD
+T4	Disease 499 501	HD
+T5	Disease 635 656	neuritic degeneration
+T6	Disease 888 890	HD
+T7	Disease 1033 1035	HD
+N1	Reference T1 unknown:D006816	Huntington disease
+N2	Reference T2 unknown:D006816	HD
+N3	Reference T3 unknown:D006816	HD
+N4	Reference T4 unknown:D006816	HD
+N5	Reference T5 unknown:D009410	neuritic degeneration
+N6	Reference T6 unknown:D006816	HD
+N7	Reference T7 unknown:D006816	HD

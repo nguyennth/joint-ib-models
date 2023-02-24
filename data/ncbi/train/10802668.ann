@@ -1,0 +1,44 @@
+T1	Disease 64 73	cataracts
+T2	Disease 76 94	Myotonic dystrophy
+T3	Disease 97 99	DM
+T4	Disease 108 134	autosomal dominant disorde
+T5	Disease 163 177	muscle wasting
+T6	Disease 180 188	myotonia
+T7	Disease 191 209	cardiac arrhythmia
+T8	Disease 212 229	hyperinsulinaemia
+T9	Disease 232 250	mental retardation
+T10	Disease 262 271	cataracts
+T11	Disease 278 292	genetic defect
+T12	Disease 296 298	DM
+T13	Disease 514 516	DM
+T14	Disease 1030 1032	DM
+T15	Disease 1111 1139	cardiac conduction disorders
+T16	Disease 1175 1177	DM
+T17	Disease 1296 1304	cataract
+T18	Disease 1594 1602	cataract
+T19	Disease 1625 1634	cataracts
+T20	Disease 1667 1669	DM
+T21	Disease 1765 1767	DM
+T22	Disease 1807 1809	DM
+N1	Reference T1 unknown:D002386	cataracts
+N2	Reference T2 unknown:D009223	Myotonic dystrophy
+N3	Reference T3 unknown:D009223	DM
+N4	Reference T4 unknown:D030342	autosomal dominant disorde
+N5	Reference T5 unknown:D009133	muscle wasting
+N6	Reference T6 unknown:D009222	myotonia
+N7	Reference T7 unknown:D001145	cardiac arrhythmia
+N8	Reference T8 unknown:D006946	hyperinsulinaemia
+N9	Reference T9 unknown:D008607	mental retardation
+N10	Reference T10 unknown:D002386	cataracts
+N11	Reference T11 unknown:D030342	genetic defect
+N12	Reference T12 unknown:D009223	DM
+N13	Reference T13 unknown:D009223	DM
+N14	Reference T14 unknown:D009223	DM
+N15	Reference T15 unknown:D001145	cardiac conduction disorders
+N16	Reference T16 unknown:D009223	DM
+N17	Reference T17 unknown:D002386	cataract
+N18	Reference T18 unknown:D002386	cataract
+N19	Reference T19 unknown:D002386	cataracts
+N20	Reference T20 unknown:D009223	DM
+N21	Reference T21 unknown:D009223	DM
+N22	Reference T22 unknown:D009223	DM

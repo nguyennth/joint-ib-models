@@ -1,0 +1,36 @@
+T1	Disease 4 29	von Hippel - Lindau tumor
+T2	Disease 126 159	von Hippel - Lindau ( VHL ) tumor
+T3	Disease 222 241	VHL cancer syndrome
+T4	Disease 265 295	sporadic renal cell carcinomas
+T5	Disease 298 301	RCC
+T6	Disease 308 331	brain hemangioblastomas
+T7	Disease 357 360	RCC
+T8	Disease 441 444	VHL
+T9	Disease 591 597	cancer
+T10	Disease 717 720	VHL
+T11	Disease 765 775	RCC cancer
+T12	Disease 885 888	RCC
+T13	Disease 1047 1050	VHL
+T14	Disease 1143 1146	VHL
+T15	Disease 1247 1252	tumor
+T16	Disease 1320 1323	VHL
+T17	Disease 1338 1341	VHL
+T18	Disease 1355 1360	tumor
+N1	Reference T1 unknown:D006623	von Hippel-Lindau tumor
+N2	Reference T2 unknown:D006623	von Hippel-Lindau (VHL) tumor
+N3	Reference T3 unknown:D006623	VHL cancer syndrome
+N4	Reference T4 unknown:D002292	sporadic renal cell carcinomas
+N5	Reference T5 unknown:D002292	RCC
+N6	Reference T6 unknown:D018325	brain hemangioblastomas
+N7	Reference T7 unknown:D002292	RCC
+N8	Reference T8 unknown:D006623	VHL
+N9	Reference T9 unknown:D009369	cancer
+N10	Reference T10 unknown:D006623	VHL
+N11	Reference T11 unknown:D002292	RCC cancer
+N12	Reference T12 unknown:D002292	RCC
+N13	Reference T13 unknown:D006623	VHL
+N14	Reference T14 unknown:D006623	VHL
+N15	Reference T15 unknown:D009369	tumor
+N16	Reference T16 unknown:D006623	VHL
+N17	Reference T17 unknown:D006623	VHL
+N18	Reference T18 unknown:D009369	tumor

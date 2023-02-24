@@ -1,0 +1,14 @@
+T1	Disease 106 121	phenylketonuria
+T2	Disease 124 139	Phenylketonuria
+T3	Disease 142 145	PKU
+T4	Disease 154 181	autosomal recessive disease
+T5	Disease 189 247	deficiency of a hepatic enzyme , phenylalanine hydroxylase
+T6	Disease 305 308	PKU
+T7	Disease 915 918	PKU
+N1	Reference T1 unknown:D010661	phenylketonuria
+N2	Reference T2 unknown:D010661	Phenylketonuria
+N3	Reference T3 unknown:D010661	PKU
+N4	Reference T4 unknown:D030342	autosomal recessive disease
+N5	Reference T5 OMIM:261600	deficiency of a hepatic enzyme, phenylalanine hydroxylase
+N6	Reference T6 unknown:D010661	PKU
+N7	Reference T7 unknown:D010661	PKU

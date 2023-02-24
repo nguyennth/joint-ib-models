@@ -1,0 +1,22 @@
+T1	Disease 0 18	Growth retardation
+T2	Disease 23 29	tumour
+T3	Disease 95 120	breast and ovarian cancer
+T4	Disease 157 182	breast and ovarian cancer
+T5	Disease 315 340	breast and ovarian cancer
+T6	Disease 369 389	colon or lung cancer
+T7	Disease 453 466	breast cancer
+T8	Disease 475 489	ovarian cancer
+T9	Disease 623 638	MCF - 7 tumours
+T10	Disease 791 806	MCF - 7 tumours
+T11	Disease 907 913	tumour
+N1	Reference T1 unknown:D006130	Growth retardation
+N2	Reference T2 unknown:D009369	tumour
+N3	Reference T3 unknown:D061325	breast and ovarian cancer
+N4	Reference T4 unknown:D001943|D010051	breast and ovarian cancer
+N5	Reference T5 unknown:D001943|D010051	breast and ovarian cancer
+N6	Reference T6 unknown:D003110|D008175	colon or lung cancer
+N7	Reference T7 unknown:D001943	breast cancer
+N8	Reference T8 unknown:D010051	ovarian cancer
+N9	Reference T9 unknown:D009369	MCF-7 tumours
+N10	Reference T10 unknown:D009369	MCF-7 tumours
+N11	Reference T11 unknown:D009369	tumour

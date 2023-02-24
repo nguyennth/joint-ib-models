@@ -1,0 +1,10 @@
+T1	Disease 17 21	FRDA
+T2	Disease 86 103	Friedreich ataxia
+T3	Disease 106 110	FRDA
+T4	Disease 132 148	inherited ataxia
+T5	Disease 541 545	FRDA
+N1	Reference T1 unknown:D005621	FRDA
+N2	Reference T2 unknown:D005621	Friedreich ataxia
+N3	Reference T3 unknown:D005621	FRDA
+N4	Reference T4 unknown:D013132	inherited ataxia
+N5	Reference T5 unknown:D005621	FRDA

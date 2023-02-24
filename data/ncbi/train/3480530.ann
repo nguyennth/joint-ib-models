@@ -1,0 +1,18 @@
+T1	Disease 31 46	retinoblastomas
+T2	Disease 51 69	mesenchymal tumors
+T3	Disease 127 141	Retinoblastoma
+T4	Disease 147 162	childhood tumor
+T5	Disease 581 595	retinoblastoma
+T6	Disease 716 734	mesenchymal tumors
+T7	Disease 787 801	retinoblastoma
+T8	Disease 830 844	retinoblastoma
+T9	Disease 853 859	tumors
+N1	Reference T1 unknown:D012175	retinoblastomas
+N2	Reference T2 unknown:C535700	mesenchymal tumors
+N3	Reference T3 unknown:D012175	Retinoblastoma
+N4	Reference T4 unknown:D009369	childhood tumor
+N5	Reference T5 unknown:D012175	retinoblastoma
+N6	Reference T6 unknown:C535700	mesenchymal tumors
+N7	Reference T7 unknown:D012175	retinoblastoma
+N8	Reference T8 unknown:D012175	retinoblastoma
+N9	Reference T9 unknown:D009369	tumors

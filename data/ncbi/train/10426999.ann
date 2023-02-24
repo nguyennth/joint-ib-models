@@ -1,0 +1,6 @@
+T1	Disease 106 111	tumor
+T2	Disease 142 177	familial breast and ovarian cancers
+T3	Disease 536 549	breast cancer
+N1	Reference T1 unknown:D009369	tumor
+N2	Reference T2 unknown:D061325	familial breast and ovarian cancers
+N3	Reference T3 unknown:D001943	breast cancer

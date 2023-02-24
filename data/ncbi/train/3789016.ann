@@ -1,0 +1,14 @@
+T1	Disease 33 80	deficiency of the third component of complement
+T2	Disease 131 144	C3 deficiency
+T3	Disease 281 294	C3 deficiency
+T4	Disease 510 523	C3 deficiency
+T5	Disease 676 689	C3 deficiency
+T6	Disease 799 812	C3 deficiency
+T7	Disease 893 906	C3 deficiency
+N1	Reference T1 OMIM:613779	deficiency of the third component of complement
+N2	Reference T2 OMIM:613779	C3 deficiency
+N3	Reference T3 OMIM:613779	C3 deficiency
+N4	Reference T4 OMIM:613779	C3 deficiency
+N5	Reference T5 OMIM:613779	C3 deficiency
+N6	Reference T6 OMIM:613779	C3 deficiency
+N7	Reference T7 OMIM:613779	C3 deficiency

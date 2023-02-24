@@ -1,0 +1,22 @@
+T1	Disease 36 43	obesity
+T2	Disease 395 413	mesenchymal tumour
+T3	Disease 437 455	fat - cell tumours
+T4	Disease 458 465	lipomas
+T5	Disease 571 578	obesity
+T6	Disease 643 648	obese
+T7	Disease 668 707	partial or complete deficiency of Hmgic
+T8	Disease 732 739	obesity
+T9	Disease 788 795	obesity
+T10	Disease 807 824	leptin deficiency
+T11	Disease 1026 1033	obesity
+N1	Reference T1 unknown:D009765	obesity
+N2	Reference T2 unknown:D008637	mesenchymal tumour
+N3	Reference T3 unknown:D018205	fat-cell tumours
+N4	Reference T4 unknown:D008067	lipomas
+N5	Reference T5 unknown:D009765	obesity
+N6	Reference T6 unknown:D009765	obese
+N7	Reference T7 OMIM:600698	partial or complete deficiency of Hmgic
+N8	Reference T8 unknown:D009765	obesity
+N9	Reference T9 unknown:D009765	obesity
+N10	Reference T10 OMIM:164160	leptin deficiency
+N11	Reference T11 unknown:D009765	obesity

@@ -1,0 +1,28 @@
+T1	Disease 0 23	HPRT - APRT - deficient
+T2	Disease 49 71	lesch - nyhan syndrome
+T3	Disease 74 154	Complete hypoxanthine - guanine phosphoribosyl - transferase ( HPRT ) deficiency
+T4	Disease 180 202	Lesch - Nyhan syndrome
+T5	Disease 293 309	HPRT - deficient
+T6	Disease 418 440	Lesch - Nyhan syndrome
+T7	Disease 526 542	HPRT - deficient
+T8	Disease 581 599	deficiency of APRT
+T9	Disease 620 637	HPRT - deficiency
+T10	Disease 794 817	HPRT - APRT - deficient
+T11	Disease 980 995	APRT deficiency
+T12	Disease 1083 1106	APRT - HPRT - deficient
+T13	Disease 1216 1240	behavioral abnormalities
+T14	Disease 1261 1283	Lesch - Nyhan syndrome
+N1	Reference T1 OMIM:300322+OMIM:102600	HPRT-APRT-deficient
+N2	Reference T2 unknown:D007926	lesch-nyhan syndrome
+N3	Reference T3 unknown:D007926	Complete hypoxanthine-guanine phosphoribosyl-transferase (HPRT) deficiency
+N4	Reference T4 unknown:D007926	Lesch-Nyhan syndrome
+N5	Reference T5 unknown:D007926	HPRT-deficient
+N6	Reference T6 unknown:D007926	Lesch-Nyhan syndrome
+N7	Reference T7 unknown:D007926	HPRT-deficient
+N8	Reference T8 OMIM:102600	deficiency of APRT
+N9	Reference T9 unknown:D007926	HPRT-deficiency
+N10	Reference T10 OMIM:300322+OMIM:102600	HPRT-APRT-deficient
+N11	Reference T11 OMIM:102600	APRT deficiency
+N12	Reference T12 OMIM:300322+OMIM:102600	APRT-HPRT-deficient
+N13	Reference T13 unknown:D001523	behavioral abnormalities
+N14	Reference T14 unknown:D007926	Lesch-Nyhan syndrome

@@ -1,0 +1,20 @@
+T1	Disease 0 13	Choroideremia
+T2	Disease 214 233	X - linked disorder
+T3	Disease 236 249	choroideremia
+T4	Disease 263 266	TCD
+T5	Disease 271 311	Progressive Tapeto - Choroidal Dystrophy
+T6	Disease 492 495	TCD
+T7	Disease 927 930	TCD
+T8	Disease 1021 1024	TCD
+T9	Disease 1102 1105	TCD
+T10	Disease 1202 1205	TCD
+N1	Reference T1 unknown:D015794	Choroideremia
+N2	Reference T2 unknown:D040181	X-linked disorder
+N3	Reference T3 unknown:D015794	choroideremia
+N4	Reference T4 unknown:C531652	TCD
+N5	Reference T5 unknown:C531652	Progressive Tapeto-Choroidal Dystrophy
+N6	Reference T6 unknown:C531652	TCD
+N7	Reference T7 unknown:C531652	TCD
+N8	Reference T8 unknown:C531652	TCD
+N9	Reference T9 unknown:C531652	TCD
+N10	Reference T10 unknown:C531652	TCD

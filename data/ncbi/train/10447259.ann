@@ -1,0 +1,18 @@
+T1	Disease 23 49	Wiskott - Aldrich syndrome
+T2	Disease 144 170	Wiskott - Aldrich syndrome
+T3	Disease 173 176	WAS
+T4	Disease 185 222	X - linked recessive immunodeficiency
+T5	Disease 240 256	thrombocytopenia
+T6	Disease 259 265	eczema
+T7	Disease 326 329	WAS
+T8	Disease 1531 1534	WAS
+T9	Disease 1635 1638	XLT
+N1	Reference T1 unknown:D014923	Wiskott-Aldrich syndrome
+N2	Reference T2 unknown:D014923	Wiskott-Aldrich syndrome
+N3	Reference T3 unknown:D014923	WAS
+N4	Reference T4 unknown:D053632	X-linked recessive immunodeficiency
+N5	Reference T5 unknown:D013921	thrombocytopenia
+N6	Reference T6 unknown:D004485	eczema
+N7	Reference T7 unknown:D014923	WAS
+N8	Reference T8 unknown:D014923	WAS
+N9	Reference T9 OMIM:313900	XLT

@@ -1,0 +1,18 @@
+T1	Disease 63 78	prostate cancer
+T2	Disease 140 164	hereditary breast cancer
+T3	Disease 277 292	prostate cancer
+T4	Disease 438 453	prostate cancer
+T5	Disease 565 580	prostate cancer
+T6	Disease 821 836	prostate cancer
+T7	Disease 1187 1202	prostate cancer
+T8	Disease 1338 1364	breast and ovarian cancers
+T9	Disease 1434 1449	prostate cancer
+N1	Reference T1 unknown:D011471	prostate cancer
+N2	Reference T2 unknown:D001943	hereditary breast cancer
+N3	Reference T3 unknown:D011471	prostate cancer
+N4	Reference T4 unknown:D011471	prostate cancer
+N5	Reference T5 unknown:D011471	prostate cancer
+N6	Reference T6 unknown:D011471	prostate cancer
+N7	Reference T7 unknown:D011471	prostate cancer
+N8	Reference T8 unknown:D001943|D010051	breast and ovarian cancers
+N9	Reference T9 unknown:D011471	prostate cancer

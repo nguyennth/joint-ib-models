@@ -1,0 +1,26 @@
+T1	Disease 52 55	APC
+T2	Disease 117 147	Familial adenomatous polyposis
+T3	Disease 150 153	FAP
+T4	Disease 208 225	colorectal cancer
+T5	Disease 275 301	adenomatous polyposis coli
+T6	Disease 305 308	APC
+T7	Disease 622 625	APC
+T8	Disease 713 716	FAP
+T9	Disease 879 909	familial adenomatous polyposis
+T10	Disease 1160 1163	APC
+T11	Disease 1521 1524	APC
+T12	Disease 1540 1543	FAP
+T13	Disease 1908 1911	FAP
+N1	Reference T1 unknown:D011125	APC
+N2	Reference T2 unknown:D011125	Familial adenomatous polyposis
+N3	Reference T3 unknown:D011125	FAP
+N4	Reference T4 unknown:D015179	colorectal cancer
+N5	Reference T5 unknown:D011125	adenomatous polyposis coli
+N6	Reference T6 unknown:D011125	APC
+N7	Reference T7 unknown:D011125	APC
+N8	Reference T8 unknown:D011125	FAP
+N9	Reference T9 unknown:D011125	familial adenomatous polyposis
+N10	Reference T10 unknown:D011125	APC
+N11	Reference T11 unknown:D011125	APC
+N12	Reference T12 unknown:D011125	FAP
+N13	Reference T13 unknown:D011125	FAP

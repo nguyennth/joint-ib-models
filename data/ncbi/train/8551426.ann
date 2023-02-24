@@ -1,0 +1,14 @@
+T1	Disease 25 37	galactosemia
+T2	Disease 103 115	galactosemia
+T3	Disease 901 921	classic galactosemia
+T4	Disease 989 1001	galactosemia
+T5	Disease 1069 1081	galactosemia
+T6	Disease 1123 1135	galactosemia
+T7	Disease 1377 1389	galactosemia
+N1	Reference T1 unknown:D005693	galactosemia
+N2	Reference T2 unknown:D005693	galactosemia
+N3	Reference T3 unknown:D005693	classic galactosemia
+N4	Reference T4 unknown:D005693	galactosemia
+N5	Reference T5 unknown:D005693	galactosemia
+N6	Reference T6 unknown:D005693	galactosemia
+N7	Reference T7 unknown:D005693	galactosemia

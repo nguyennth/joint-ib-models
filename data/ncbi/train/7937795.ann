@@ -1,0 +1,22 @@
+T1	Disease 29 43	ovarian cancer
+T2	Disease 140 155	ovarian cancers
+T3	Disease 190 203	ovarian tumor
+T4	Disease 358 383	serous cystadenocarcinoma
+T5	Disease 565 579	ovarian tumors
+T6	Disease 710 715	tumor
+T7	Disease 789 802	ovarian tumor
+T8	Disease 954 995	hereditary nonpolyposis colorectal cancer
+T9	Disease 1266 1279	ovarian tumor
+T10	Disease 1403 1408	tumor
+T11	Disease 1586 1600	ovarian cancer
+N1	Reference T1 unknown:D010051	ovarian cancer
+N2	Reference T2 unknown:D010051	ovarian cancers
+N3	Reference T3 unknown:D010051	ovarian tumor
+N4	Reference T4 unknown:D018284	serous cystadenocarcinoma
+N5	Reference T5 unknown:D010051	ovarian tumors
+N6	Reference T6 unknown:D009369	tumor
+N7	Reference T7 unknown:D010051	ovarian tumor
+N8	Reference T8 unknown:D003123	hereditary nonpolyposis colorectal cancer
+N9	Reference T9 unknown:D010051	ovarian tumor
+N10	Reference T10 unknown:D009369	tumor
+N11	Reference T11 unknown:D010051	ovarian cancer

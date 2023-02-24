@@ -1,0 +1,42 @@
+T1	Disease 29 52	rearrangement disorders
+T2	Disease 161 189	congenital anomaly disorders
+T3	Disease 194 210	malignant tumors
+T4	Disease 219 247	congenital anomaly disorders
+T5	Disease 250 268	cat - eye syndrome
+T6	Disease 271 287	der ( ) syndrome
+T7	Disease 292 323	velo - cardio - facial syndrome
+T8	Disease 326 343	DiGeorge syndrome
+T9	Disease 346 350	VCFS
+T10	Disease 353 356	DGS
+T11	Disease 459 463	VCFS
+T12	Disease 466 469	DGS
+T13	Disease 687 691	VCFS
+T14	Disease 694 697	DGS
+T15	Disease 749 753	VCFS
+T16	Disease 756 759	DGS
+T17	Disease 1243 1247	VCFS
+T18	Disease 1250 1253	DGS
+T19	Disease 1530 1534	VCFS
+T20	Disease 1537 1540	DGS
+T21	Disease 1723 1751	congenital anomaly disorders
+N1	Reference T1 unknown:D002869	rearrangement disorders
+N2	Reference T2 unknown:D000013	congenital anomaly disorders
+N3	Reference T3 unknown:D018198	malignant tumors
+N4	Reference T4 unknown:D000013	congenital anomaly disorders
+N5	Reference T5 C535918|OMIM:115470	cat-eye syndrome
+N6	Reference T6 unknown:C535733	der () syndrome
+N7	Reference T7 unknown:D004062	velo-cardio-facial syndrome
+N8	Reference T8 unknown:D004062	DiGeorge syndrome
+N9	Reference T9 unknown:D004062	VCFS
+N10	Reference T10 unknown:D004062	DGS
+N11	Reference T11 unknown:D004062	VCFS
+N12	Reference T12 unknown:D004062	DGS
+N13	Reference T13 unknown:D004062	VCFS
+N14	Reference T14 unknown:D004062	DGS
+N15	Reference T15 unknown:D004062	VCFS
+N16	Reference T16 unknown:D004062	DGS
+N17	Reference T17 unknown:D004062	VCFS
+N18	Reference T18 unknown:D004062	DGS
+N19	Reference T19 unknown:D004062	VCFS
+N20	Reference T20 unknown:D004062	DGS
+N21	Reference T21 unknown:D000013	congenital anomaly disorders

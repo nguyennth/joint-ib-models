@@ -1,0 +1,16 @@
+T1	Disease 195 221	nonketotic hyperglycinemia
+T2	Disease 283 309	nonketotic hyperglycinemia
+T3	Disease 312 315	NKH
+T4	Disease 323 352	in - born error of metabolism
+T5	Disease 377 401	neurological disturbance
+T6	Disease 536 539	NKH
+T7	Disease 1280 1283	NKH
+T8	Disease 1919 1922	NKH
+N1	Reference T1 unknown:D020158	nonketotic hyperglycinemia
+N2	Reference T2 unknown:D020158	nonketotic hyperglycinemia
+N3	Reference T3 unknown:D020158	NKH
+N4	Reference T4 unknown:D008661	in-born error of metabolism
+N5	Reference T5 unknown:D009461	neurological disturbance
+N6	Reference T6 unknown:D020158	NKH
+N7	Reference T7 unknown:D020158	NKH
+N8	Reference T8 unknown:D020158	NKH

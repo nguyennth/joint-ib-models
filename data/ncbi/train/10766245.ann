@@ -1,0 +1,22 @@
+T1	Disease 71 84	rare diseases
+T2	Disease 85 108	ataxia - telangiectasia
+T3	Disease 111 113	AT
+T4	Disease 160 186	Nijmegen breakage syndrome
+T5	Disease 189 192	NBS
+T6	Disease 256 280	phenotypic abnormalities
+T7	Disease 289 312	chromosomal instability
+T8	Disease 668 670	AT
+T9	Disease 675 678	NBS
+T10	Disease 848 851	NBS
+T11	Disease 1286 1289	NBS
+N1	Reference T1 unknown:D035583	rare diseases
+N2	Reference T2 unknown:D001260	ataxia-telangiectasia
+N3	Reference T3 unknown:D001260	AT
+N4	Reference T4 unknown:D049932	Nijmegen breakage syndrome
+N5	Reference T5 unknown:D049932	NBS
+N6	Reference T6 unknown:D004194	phenotypic abnormalities
+N7	Reference T7 unknown:D043171	chromosomal instability
+N8	Reference T8 unknown:D001260	AT
+N9	Reference T9 unknown:D049932	NBS
+N10	Reference T10 unknown:D049932	NBS
+N11	Reference T11 unknown:D049932	NBS

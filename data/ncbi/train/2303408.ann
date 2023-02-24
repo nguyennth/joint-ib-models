@@ -1,0 +1,16 @@
+T1	Disease 0 58	Deficiency of the murine fifth complement component ( C5 )
+T2	Disease 165 178	C5 deficiency
+T3	Disease 346 362	deficient for C5
+T4	Disease 508 521	C5 deficiency
+T5	Disease 705 718	C5 deficiency
+T6	Disease 1150 1164	C5 - deficient
+T7	Disease 1647 1661	C5 - deficient
+T8	Disease 1784 1805	C5 protein deficiency
+N1	Reference T1 OMIM:609536	Deficiency of the murine fifth complement component (C5)
+N2	Reference T2 OMIM:609536	C5 deficiency
+N3	Reference T3 OMIM:609536	deficient for C5
+N4	Reference T4 OMIM:609536	C5 deficiency
+N5	Reference T5 OMIM:609536	C5 deficiency
+N6	Reference T6 OMIM:609536	C5-deficient
+N7	Reference T7 OMIM:609536	C5-deficient
+N8	Reference T8 OMIM:609536	C5 protein deficiency

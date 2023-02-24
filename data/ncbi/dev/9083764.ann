@@ -1,0 +1,46 @@
+T1	Disease 17 61	Schwartz - Jampel chondrodystrophic myotonia
+T2	Disease 68 94	Schwartz - Jampel syndrome
+T3	Disease 97 100	SJS
+T4	Disease 103 129	chondrodystrophic myotonia
+T5	Disease 153 184	recessively inherited condition
+T6	Disease 196 204	myotonia
+T7	Disease 207 220	short stature
+T8	Disease 227 241	bone dysplasia
+T9	Disease 268 271	SJS
+T10	Disease 579 582	SJS
+T11	Disease 744 752	myotonia
+T12	Disease 810 824	bone dysplasia
+T13	Disease 830 838	myotonia
+T14	Disease 1010 1021	SJS type 1A
+T15	Disease 1072 1086	bone dysplasia
+T16	Disease 1246 1260	bone dysplasia
+T17	Disease 1272 1288	Kniest dysplasia
+T18	Disease 1353 1367	bone dysplasia
+T19	Disease 1379 1391	Pyle disease
+T20	Disease 1451 1461	SJS type 2
+T21	Disease 1532 1535	SJS
+T22	Disease 1689 1692	SJS
+T23	Disease 1744 1747	SJS
+N1	Reference T1 OMIM:255800	Schwartz-Jampel chondrodystrophic myotonia
+N2	Reference T2 OMIM:255800	Schwartz-Jampel syndrome
+N3	Reference T3 OMIM:255800	SJS
+N4	Reference T4 OMIM:255800	chondrodystrophic myotonia
+N5	Reference T5 unknown:D030342	recessively inherited condition
+N6	Reference T6 unknown:D009222	myotonia
+N7	Reference T7 unknown:D006130	short stature
+N8	Reference T8 unknown:D001848	bone dysplasia
+N9	Reference T9 OMIM:255800	SJS
+N10	Reference T10 OMIM:255800	SJS
+N11	Reference T11 unknown:D009222	myotonia
+N12	Reference T12 unknown:D001848	bone dysplasia
+N13	Reference T13 unknown:D009222	myotonia
+N14	Reference T14 OMIM:255800	SJS  type 1A
+N15	Reference T15 unknown:D001848	bone dysplasia
+N16	Reference T16 unknown:D001848	bone dysplasia
+N17	Reference T17 unknown:C537207	Kniest dysplasia
+N18	Reference T18 unknown:D001848	bone dysplasia
+N19	Reference T19 unknown:C536252	Pyle disease
+N20	Reference T20 unknown:C537502	SJS type 2
+N21	Reference T21 OMIM:255800	SJS
+N22	Reference T22 OMIM:255800	SJS
+N23	Reference T23 OMIM:255800	SJS

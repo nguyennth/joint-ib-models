@@ -1,0 +1,8 @@
+T1	Disease 633 650	VLCAD - deficient
+T2	Disease 906 922	VLCAD deficiency
+T3	Disease 1078 1116	deficiency of the normal VLCAD protein
+T4	Disease 1505 1521	VLCAD deficiency
+N1	Reference T1 unknown:C536353	VLCAD-deficient
+N2	Reference T2 unknown:C536353	VLCAD deficiency
+N3	Reference T3 unknown:C536353	deficiency of the normal VLCAD protein
+N4	Reference T4 unknown:C536353	VLCAD deficiency

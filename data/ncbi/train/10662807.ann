@@ -1,0 +1,60 @@
+T1	Disease 0 20	Haim - Munk syndrome
+T2	Disease 25 52	Papillon - Lefevre syndrome
+T3	Disease 104 147	palmoplantar keratoderma ( PPK ) conditions
+T4	Disease 155 182	Papillon - Lefevre syndrome
+T5	Disease 185 188	PLS
+T6	Disease 195 215	Haim - Munk syndrome
+T7	Disease 218 221	HMS
+T8	Disease 294 297	PLS
+T9	Disease 302 305	HMS
+T10	Disease 337 340	PPK
+T11	Disease 352 365	periodontitis
+T12	Disease 416 419	HMS
+T13	Disease 430 444	arachnodactyly
+T14	Disease 447 464	acro - osteolysis
+T15	Disease 467 496	atrophic changes of the nails
+T16	Disease 505 542	radiographic deformity of the fingers
+T17	Disease 551 554	PLS
+T18	Disease 605 608	HMS
+T19	Disease 830 833	PLS
+T20	Disease 1000 1003	HMS
+T21	Disease 1090 1104	genetic defect
+T22	Disease 1108 1111	PLS
+T23	Disease 1177 1180	HMS
+T24	Disease 1283 1286	PLS
+T25	Disease 1291 1294	HMS
+T26	Disease 1503 1506	HMS
+T27	Disease 1860 1863	HMS
+T28	Disease 1993 1996	PLS
+T29	Disease 2036 2039	PLS
+T30	Disease 2044 2047	HMS
+N1	Reference T1 unknown:C537627	Haim-Munk syndrome
+N2	Reference T2 unknown:D010214	Papillon-Lefevre syndrome
+N3	Reference T3 unknown:D007645	palmoplantar keratoderma (PPK) conditions
+N4	Reference T4 unknown:D010214	Papillon-Lefevre syndrome
+N5	Reference T5 unknown:D010214	PLS
+N6	Reference T6 unknown:C537627	Haim-Munk syndrome
+N7	Reference T7 unknown:C537627	HMS
+N8	Reference T8 unknown:D010214	PLS
+N9	Reference T9 unknown:C537627	HMS
+N10	Reference T10 unknown:D007645	PPK
+N11	Reference T11 unknown:D010518	periodontitis
+N12	Reference T12 unknown:C537627	HMS
+N13	Reference T13 unknown:D054119	arachnodactyly
+N14	Reference T14 unknown:D030981	acro-osteolysis
+N15	Reference T15 unknown:D009260	atrophic changes of the nails
+N16	Reference T16 unknown:D006226	radiographic deformity of the fingers
+N17	Reference T17 unknown:D010214	PLS
+N18	Reference T18 unknown:C537627	HMS
+N19	Reference T19 unknown:D010214	PLS
+N20	Reference T20 unknown:C537627	HMS
+N21	Reference T21 unknown:D030342	genetic defect
+N22	Reference T22 unknown:D010214	PLS
+N23	Reference T23 unknown:C537627	HMS
+N24	Reference T24 unknown:D010214	PLS
+N25	Reference T25 unknown:C537627	HMS
+N26	Reference T26 unknown:C537627	HMS
+N27	Reference T27 unknown:C537627	HMS
+N28	Reference T28 unknown:D010214	PLS
+N29	Reference T29 unknown:D010214	PLS
+N30	Reference T30 unknown:C537627	HMS

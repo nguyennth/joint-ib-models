@@ -1,0 +1,18 @@
+T1	Disease 79 99	adrenoleukodystrophy
+T2	Disease 173 193	adrenoleukodystrophy
+T3	Disease 196 199	ALD
+T4	Disease 391 414	dying - back axonopathy
+T5	Disease 448 451	ALD
+T6	Disease 496 499	ALD
+T7	Disease 738 762	spinal SEP abnormalities
+T8	Disease 932 952	spinal abnormalities
+T9	Disease 1347 1373	inflammatory brain lesions
+N1	Reference T1 unknown:D000326	adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	adrenoleukodystrophy
+N3	Reference T3 unknown:D000326	ALD
+N4	Reference T4 unknown:D016472	dying-back axonopathy
+N5	Reference T5 unknown:D000326	ALD
+N6	Reference T6 unknown:D000326	ALD
+N7	Reference T7 unknown:D016472	spinal SEP abnormalities
+N8	Reference T8 unknown:D016472	spinal abnormalities
+N9	Reference T9 unknown:D004660	inflammatory brain lesions

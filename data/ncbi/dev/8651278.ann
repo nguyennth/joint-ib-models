@@ -1,0 +1,8 @@
+T1	Disease 45 70	hereditary retinoblastoma
+T2	Disease 141 166	hereditary retinoblastoma
+T3	Disease 1387 1392	tumor
+T4	Disease 1421 1437	nonocular tumors
+N1	Reference T1 unknown:D012175	hereditary retinoblastoma
+N2	Reference T2 unknown:D012175	hereditary retinoblastoma
+N3	Reference T3 unknown:D009369	tumor
+N4	Reference T4 unknown:D009369	nonocular tumors

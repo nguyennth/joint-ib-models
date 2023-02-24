@@ -1,0 +1,12 @@
+T1	Disease 11 33	aspartylglucosaminuria
+T2	Disease 36 39	AGU
+T3	Disease 91 113	Aspartylglucosaminuria
+T4	Disease 116 119	AGU
+T5	Disease 619 622	AGU
+T6	Disease 824 827	AGU
+N1	Reference T1 unknown:D054880	aspartylglucosaminuria
+N2	Reference T2 unknown:D054880	AGU
+N3	Reference T3 unknown:D054880	Aspartylglucosaminuria
+N4	Reference T4 unknown:D054880	AGU
+N5	Reference T5 unknown:D054880	AGU
+N6	Reference T6 unknown:D054880	AGU

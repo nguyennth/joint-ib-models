@@ -1,0 +1,10 @@
+T1	Disease 0 30	Mucopolysaccharidosis type IVA
+T2	Disease 120 145	Mucopolysaccharidosis IVA
+T3	Disease 148 155	MPS IVA
+T4	Disease 164 192	autosomal recessive disorder
+T5	Disease 205 258	deficiency in N - acetylgalactosamine - 6 - sulfatase
+N1	Reference T1 OMIM:253000	Mucopolysaccharidosis type IVA
+N2	Reference T2 OMIM:253000	Mucopolysaccharidosis IVA
+N3	Reference T3 OMIM:253000	MPS IVA
+N4	Reference T4 unknown:D030342	autosomal recessive disorder
+N5	Reference T5 unknown:D009085	deficiency in N-acetylgalactosamine-6-sulfatase

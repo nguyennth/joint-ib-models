@@ -1,0 +1,24 @@
+T1	Disease 6 26	pyoderma gangrenosum
+T2	Disease 47 60	C7 deficiency
+T3	Disease 72 92	pyoderma gangrenosum
+T4	Disease 95 97	PG
+T5	Disease 125 142	systemic diseases
+T6	Disease 190 224	congenital complement deficiencies
+T7	Disease 282 284	PG
+T8	Disease 316 329	C7 deficiency
+T9	Disease 332 350	Deficiencies of C7
+T10	Disease 457 482	immunologic abnormalities
+T11	Disease 510 512	PG
+T12	Disease 603 605	PG
+N1	Reference T1 unknown:D017511	pyoderma gangrenosum
+N2	Reference T2 OMIM:610102	C7 deficiency
+N3	Reference T3 unknown:D017511	pyoderma gangrenosum
+N4	Reference T4 unknown:D017511	PG
+N5	Reference T5 unknown:D034721	systemic diseases
+N6	Reference T6 unknown:D007153	congenital complement deficiencies
+N7	Reference T7 unknown:D017511	PG
+N8	Reference T8 OMIM:610102	C7 deficiency
+N9	Reference T9 OMIM:610102	Deficiencies of C7
+N10	Reference T10 unknown:D007153	immunologic abnormalities
+N11	Reference T11 unknown:D017511	PG
+N12	Reference T12 unknown:D017511	PG

@@ -1,0 +1,20 @@
+T1	Disease 4 20	Pendred syndrome
+T2	Disease 74 90	Pendred syndrome
+T3	Disease 118 136	syndromic deafness
+T4	Disease 169 195	sensorineural hearing loss
+T5	Disease 200 206	goitre
+T6	Disease 271 287	Pendred syndrome
+T7	Disease 290 293	PDS
+T8	Disease 604 625	diastrophic dysplasia
+T9	Disease 723 730	adenoma
+T10	Disease 1526 1542	Pendred syndrome
+N1	Reference T1 unknown:C536648	Pendred syndrome
+N2	Reference T2 unknown:C536648	Pendred syndrome
+N3	Reference T3 unknown:D003638	syndromic deafness
+N4	Reference T4 unknown:D006319	sensorineural hearing loss
+N5	Reference T5 unknown:D006042	goitre
+N6	Reference T6 unknown:C536648	Pendred syndrome
+N7	Reference T7 unknown:C536648	PDS
+N8	Reference T8 unknown:C536170	diastrophic dysplasia
+N9	Reference T9 unknown:D000236	adenoma
+N10	Reference T10 unknown:C536648	Pendred syndrome

@@ -1,0 +1,8 @@
+T1	Disease 4 29	alveolar rhabdomyosarcoma
+T2	Disease 270 282	solid tumors
+T3	Disease 357 382	alveolar rhabdomyosarcoma
+T4	Disease 1058 1063	tumor
+N1	Reference T1 unknown:D018232	alveolar rhabdomyosarcoma
+N2	Reference T2 unknown:D009369	solid tumors
+N3	Reference T3 unknown:D018232	alveolar rhabdomyosarcoma
+N4	Reference T4 unknown:D009369	tumor

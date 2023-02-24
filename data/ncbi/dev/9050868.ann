@@ -1,0 +1,6 @@
+T1	Disease 447 479	type IV Ehlers - Danlos syndrome
+T2	Disease 503 517	aortic rupture
+T3	Disease 1074 1106	type IV Ehlers - Danlos syndrome
+N1	Reference T1 unknown:D004535	type IV Ehlers-Danlos syndrome
+N2	Reference T2 unknown:D001019	aortic rupture
+N3	Reference T3 unknown:D004535	type IV Ehlers-Danlos syndrome

@@ -1,0 +1,20 @@
+T1	Disease 0 35	X linked recessive thrombocytopenia
+T2	Disease 89 105	thrombocytopenia
+T3	Disease 297 324	immunological abnormalities
+T4	Disease 422 466	X linked recessive thrombocytopenic disorder
+T5	Disease 664 690	Wiskott - Aldrich syndrome
+T6	Disease 693 696	WAS
+T7	Disease 853 872	immune deficiencies
+T8	Disease 897 932	X linked recessive thrombocytopenia
+T9	Disease 1004 1007	WAS
+T10	Disease 1059 1062	WAS
+N1	Reference T1 OMIM:313900	X linked recessive thrombocytopenia
+N2	Reference T2 unknown:D013921	thrombocytopenia
+N3	Reference T3 unknown:D007154	immunological abnormalities
+N4	Reference T4 OMIM:313900	X linked recessive thrombocytopenic disorder
+N5	Reference T5 unknown:D014923	Wiskott-Aldrich syndrome
+N6	Reference T6 unknown:D014923	WAS
+N7	Reference T7 unknown:D007154	immune deficiencies
+N8	Reference T8 OMIM:313900	X linked recessive thrombocytopenia
+N9	Reference T9 unknown:D014923	WAS
+N10	Reference T10 unknown:D014923	WAS

@@ -1,0 +1,16 @@
+T1	Disease 10 34	meningococcal meningitis
+T2	Disease 40 84	absence of the sixth component of complement
+T3	Disease 188 212	meningococcal meningitis
+T4	Disease 217 261	absence of the sixth component of complement
+T5	Disease 324 345	neisserial infections
+T6	Disease 349 362	C6 deficiency
+T7	Disease 613 627	C6 - deficient
+T8	Disease 827 848	neisserial infections
+N1	Reference T1 unknown:D008585	meningococcal meningitis
+N2	Reference T2 OMIM:612446	absence of the sixth component of complement
+N3	Reference T3 unknown:D008585	meningococcal meningitis
+N4	Reference T4 OMIM:612446	absence of the sixth component of complement
+N5	Reference T5 unknown:D016870	neisserial infections
+N6	Reference T6 OMIM:612446	C6 deficiency
+N7	Reference T7 OMIM:612446	C6-deficient
+N8	Reference T8 unknown:D016870	neisserial infections

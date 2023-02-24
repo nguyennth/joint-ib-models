@@ -1,0 +1,24 @@
+T1	Disease 0 18	Myotonic dystrophy
+T2	Disease 125 143	myotonic dystrophy
+T3	Disease 292 313	multisystemic disease
+T4	Disease 316 334	myotonic dystrophy
+T5	Disease 631 649	myotonic dystrophy
+T6	Disease 734 736	DM
+T7	Disease 808 817	myopathic
+T8	Disease 868 870	DM
+T9	Disease 1058 1060	DM
+T10	Disease 1197 1215	myotonic dystrophy
+T11	Disease 1245 1247	DM
+T12	Disease 1537 1555	myotonic dystrophy
+N1	Reference T1 unknown:D009223	Myotonic dystrophy
+N2	Reference T2 unknown:D009223	myotonic dystrophy
+N3	Reference T3 unknown:D004194	multisystemic disease
+N4	Reference T4 unknown:D009223	myotonic dystrophy
+N5	Reference T5 unknown:D009223	myotonic dystrophy
+N6	Reference T6 unknown:D009223	DM
+N7	Reference T7 unknown:D009135	myopathic
+N8	Reference T8 unknown:D009223	DM
+N9	Reference T9 unknown:D009223	DM
+N10	Reference T10 unknown:D009223	myotonic dystrophy
+N11	Reference T11 unknown:D009223	DM
+N12	Reference T12 unknown:D009223	myotonic dystrophy

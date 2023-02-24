@@ -1,0 +1,54 @@
+T1	Disease 34 56	van der Woude syndrome
+T2	Disease 284 306	van der Woude syndrome
+T3	Disease 309 312	VWS
+T4	Disease 331 341	oral cleft
+T5	Disease 344 356	cleft palate
+T6	Disease 359 361	CP
+T7	Disease 368 377	cleft lip
+T8	Disease 394 396	CP
+T9	Disease 399 402	CLP
+T10	Disease 455 463	lip pits
+T11	Disease 467 475	fistulae
+T12	Disease 598 601	CLP
+T13	Disease 606 608	CP
+T14	Disease 620 623	VWS
+T15	Disease 747 750	CLP
+T16	Disease 759 761	CP
+T17	Disease 843 845	CP
+T18	Disease 871 874	CLP
+T19	Disease 880 883	VWS
+T20	Disease 923 931	Lip pits
+T21	Disease 1039 1042	VWS
+T22	Disease 1255 1258	VWS
+T23	Disease 1412 1415	VWS
+T24	Disease 1513 1521	lip pits
+T25	Disease 1556 1564	lip pits
+T26	Disease 1681 1684	VWS
+T27	Disease 1788 1791	VWS
+N1	Reference T1 unknown:C536528	van der Woude syndrome
+N2	Reference T2 unknown:C536528	van der Woude syndrome
+N3	Reference T3 unknown:C536528	VWS
+N4	Reference T4 unknown:D002971|D002972	oral cleft
+N5	Reference T5 unknown:D002972	cleft palate
+N6	Reference T6 unknown:D002972	CP
+N7	Reference T7 unknown:D002971	cleft lip
+N8	Reference T8 unknown:D002972	CP
+N9	Reference T9 unknown:D002971	CLP
+N10	Reference T10 unknown:C536528	lip pits
+N11	Reference T11 unknown:D005402	fistulae
+N12	Reference T12 unknown:D002971	CLP
+N13	Reference T13 unknown:D002972	CP
+N14	Reference T14 unknown:C536528	VWS
+N15	Reference T15 unknown:D002971	CLP
+N16	Reference T16 unknown:D002972	CP
+N17	Reference T17 unknown:D002972	CP
+N18	Reference T18 unknown:D002971	CLP
+N19	Reference T19 unknown:C536528	VWS
+N20	Reference T20 unknown:C536528	Lip pits
+N21	Reference T21 unknown:C536528	VWS
+N22	Reference T22 unknown:C536528	VWS
+N23	Reference T23 unknown:C536528	VWS
+N24	Reference T24 unknown:C536528	lip pits
+N25	Reference T25 unknown:C536528	lip pits
+N26	Reference T26 unknown:C536528	VWS
+N27	Reference T27 unknown:C536528	VWS

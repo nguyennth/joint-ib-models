@@ -1,0 +1,22 @@
+T1	Disease 175 199	Machado - Joseph disease
+T2	Disease 436 460	Machado - Joseph disease
+T3	Disease 463 466	MJD
+T4	Disease 522 525	MJD
+T5	Disease 769 772	MJD
+T6	Disease 836 839	MJD
+T7	Disease 1100 1103	MJD
+T8	Disease 1528 1546	Huntington disease
+T9	Disease 1687 1689	HD
+T10	Disease 1740 1742	HD
+T11	Disease 1801 1804	MJD
+N1	Reference T1 unknown:D017827	Machado-Joseph disease
+N2	Reference T2 unknown:D017827	Machado-Joseph disease
+N3	Reference T3 unknown:D017827	MJD
+N4	Reference T4 unknown:D017827	MJD
+N5	Reference T5 unknown:D017827	MJD
+N6	Reference T6 unknown:D017827	MJD
+N7	Reference T7 unknown:D017827	MJD
+N8	Reference T8 unknown:D006816	Huntington disease
+N9	Reference T9 unknown:D006816	HD
+N10	Reference T10 unknown:D006816	HD
+N11	Reference T11 unknown:D017827	MJD

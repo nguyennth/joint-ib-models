@@ -1,0 +1,12 @@
+T1	Disease 0 20	Adrenoleukodystrophy
+T2	Disease 180 200	adrenoleukodystrophy
+T3	Disease 203 206	ALD
+T4	Disease 223 226	ALD
+T5	Disease 258 261	ALD
+T6	Disease 602 605	ALD
+N1	Reference T1 unknown:D000326	Adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	adrenoleukodystrophy
+N3	Reference T3 unknown:D000326	ALD
+N4	Reference T4 unknown:D000326	ALD
+N5	Reference T5 unknown:D000326	ALD
+N6	Reference T6 unknown:D000326	ALD

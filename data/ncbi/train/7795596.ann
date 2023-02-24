@@ -1,0 +1,8 @@
+T1	Disease 0 8	Aniridia
+T2	Disease 144 152	aniridia
+T3	Disease 155 170	absence of iris
+T4	Disease 303 311	aniridia
+N1	Reference T1 unknown:D015783	Aniridia
+N2	Reference T2 unknown:D015783	aniridia
+N3	Reference T3 unknown:D015783	absence of iris
+N4	Reference T4 unknown:D015783	aniridia

@@ -1,0 +1,16 @@
+T1	Disease 165 188	inherited breast cancer
+T2	Disease 289 314	breast and ovarian cancer
+T3	Disease 414 427	breast cancer
+T4	Disease 454 468	ovarian cancer
+T5	Disease 530 554	breast or ovarian cancer
+T6	Disease 663 669	cancer
+T7	Disease 967 973	cancer
+T8	Disease 1298 1328	breast and / or ovarian cancer
+N1	Reference T1 unknown:D061325	inherited breast cancer
+N2	Reference T2 unknown:D061325	breast and ovarian cancer
+N3	Reference T3 unknown:D001943	breast cancer
+N4	Reference T4 unknown:D010051	ovarian cancer
+N5	Reference T5 unknown:D010051|D001943	breast or ovarian cancer
+N6	Reference T6 unknown:D009369	cancer
+N7	Reference T7 unknown:D009369	cancer
+N8	Reference T8 unknown:D010051|D001943	breast and/or ovarian cancer

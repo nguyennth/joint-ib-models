@@ -1,0 +1,16 @@
+T1	Disease 4 18	Norrie disease
+T2	Disease 73 87	Norrie disease
+T3	Disease 99 128	X - linked recessive disorder
+T4	Disease 166 186	congenital blindness
+T5	Disease 189 212	sensory neural deafness
+T6	Disease 217 235	mental retardation
+T7	Disease 422 436	Norrie disease
+T8	Disease 549 563	Norrie disease
+N1	Reference T1 unknown:C537849	Norrie disease
+N2	Reference T2 unknown:C537849	Norrie disease
+N3	Reference T3 unknown:D040181	X-linked recessive disorder
+N4	Reference T4 unknown:D057130	congenital blindness
+N5	Reference T5 unknown:D006319	sensory neural deafness
+N6	Reference T6 unknown:D008607	mental retardation
+N7	Reference T7 unknown:C537849	Norrie disease
+N8	Reference T8 unknown:C537849	Norrie disease

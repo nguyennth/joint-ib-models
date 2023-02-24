@@ -1,0 +1,10 @@
+T1	Disease 0 27	Duchenne muscular dystrophy
+T2	Disease 111 138	Duchenne muscular dystrophy
+T3	Disease 141 144	DMD
+T4	Disease 273 276	DMD
+T5	Disease 417 420	DMD
+N1	Reference T1 unknown:D020388	Duchenne muscular dystrophy
+N2	Reference T2 unknown:D020388	Duchenne muscular dystrophy
+N3	Reference T3 unknown:D020388	DMD
+N4	Reference T4 unknown:D020388	DMD
+N5	Reference T5 unknown:D020388	DMD

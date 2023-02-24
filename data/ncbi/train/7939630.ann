@@ -1,0 +1,22 @@
+T1	Disease 27 56	breast and ovarian carcinomas
+T2	Disease 92 107	familial tumors
+T3	Disease 167 192	ovarian and early - onset
+T4	Disease 193 206	breast cancer
+T5	Disease 219 224	tumor
+T6	Disease 290 325	sporadic breast and ovarian cancers
+T7	Disease 394 400	tumors
+T8	Disease 465 490	breast and ovarian tumors
+T9	Disease 588 606	ovarian carcinomas
+T10	Disease 684 691	cancers
+T11	Disease 797 823	breast and ovarian cancers
+N1	Reference T1 unknown:D001943|D010051	breast and ovarian carcinomas
+N2	Reference T2 unknown:D009386	familial tumors
+N3	Reference T3 unknown:D010051	ovarian and early-onset
+N4	Reference T4 unknown:D001943	breast cancer
+N5	Reference T5 unknown:D009369	tumor
+N6	Reference T6 unknown:D001943|D010051	sporadic breast and ovarian cancers
+N7	Reference T7 unknown:D009369	tumors
+N8	Reference T8 unknown:D001943|D010051	breast and ovarian tumors
+N9	Reference T9 unknown:D010051	ovarian carcinomas
+N10	Reference T10 unknown:D009369	cancers
+N11	Reference T11 unknown:D001943|D010051	breast and ovarian cancers

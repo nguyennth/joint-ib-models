@@ -1,0 +1,20 @@
+T1	Disease 0 26	Adenomatous polyposis coli
+T2	Disease 235 241	autism
+T3	Disease 259 276	colorectal cancer
+T4	Disease 442 445	APC
+T5	Disease 486 512	Adenomatous polyposis coli
+T6	Disease 517 540	carcinoma of the rectum
+T7	Disease 605 622	mentally retarded
+T8	Disease 625 633	autistic
+T9	Disease 650 669	dysmorphic features
+T10	Disease 1000 1003	APC
+N1	Reference T1 unknown:D011125	Adenomatous polyposis coli
+N2	Reference T2 unknown:D001321	autism
+N3	Reference T3 unknown:D015179	colorectal cancer
+N4	Reference T4 unknown:D011125	APC
+N5	Reference T5 unknown:D011125	Adenomatous polyposis coli
+N6	Reference T6 unknown:D012004	carcinoma of the rectum
+N7	Reference T7 unknown:D008607	mentally retarded
+N8	Reference T8 unknown:D001321	autistic
+N9	Reference T9 unknown:D000013	dysmorphic features
+N10	Reference T10 unknown:D011125	APC

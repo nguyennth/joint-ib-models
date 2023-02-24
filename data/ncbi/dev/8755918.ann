@@ -1,0 +1,16 @@
+T1	Disease 48 71	ataxia - telangiectasia
+T2	Disease 110 133	ataxia - telangiectasia
+T3	Disease 136 141	A - T
+T4	Disease 274 279	A - T
+T5	Disease 499 504	A - T
+T6	Disease 856 873	cerebellar ataxia
+T7	Disease 1039 1044	A - T
+T8	Disease 1133 1138	A - T
+N1	Reference T1 unknown:D001260	ataxia-telangiectasia
+N2	Reference T2 unknown:D001260	ataxia-telangiectasia
+N3	Reference T3 unknown:D001260	A-T
+N4	Reference T4 unknown:D001260	A-T
+N5	Reference T5 unknown:D001260	A-T
+N6	Reference T6 unknown:D002524	cerebellar ataxia
+N7	Reference T7 unknown:D001260	A-T
+N8	Reference T8 unknown:D001260	A-T

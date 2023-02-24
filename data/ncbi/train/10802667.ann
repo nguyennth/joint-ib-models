@@ -1,0 +1,46 @@
+T1	Disease 5 22	deficient in Six5
+T2	Disease 31 40	cataracts
+T3	Disease 60 78	myotonic dystrophy
+T4	Disease 192 210	myotonic dystrophy
+T5	Disease 215 243	dominantly inherited disease
+T6	Disease 270 286	muscle dystrophy
+T7	Disease 291 299	myotonia
+T8	Disease 302 311	cataracts
+T9	Disease 316 342	cardiac conduction defects
+T10	Disease 436 444	myopathy
+T11	Disease 449 481	cardiac conduction abnormalities
+T12	Disease 514 532	myotonic dystrophy
+T13	Disease 543 551	myotonia
+T14	Disease 556 565	cataracts
+T15	Disease 762 777	SIX5 deficiency
+T16	Disease 797 815	myotonic dystrophy
+T17	Disease 1058 1099	abnormalities of skeletal muscle function
+T18	Disease 1116 1136	lenticular opacities
+T19	Disease 1195 1210	SIX5 deficiency
+T20	Disease 1230 1238	cataract
+T21	Disease 1252 1270	myotonic dystrophy
+T22	Disease 1282 1300	myotonic dystrophy
+T23	Disease 1314 1333	multigenic disorder
+N1	Reference T1 unknown:D030342	deficient in Six5
+N2	Reference T2 unknown:D002386	cataracts
+N3	Reference T3 unknown:D009223	myotonic dystrophy
+N4	Reference T4 unknown:D009223	myotonic dystrophy
+N5	Reference T5 unknown:D030342	dominantly inherited disease
+N6	Reference T6 unknown:D009136	muscle dystrophy
+N7	Reference T7 unknown:D009222	myotonia
+N8	Reference T8 unknown:D002386	cataracts
+N9	Reference T9 OMIM:115080	cardiac conduction defects
+N10	Reference T10 unknown:D009135	myopathy
+N11	Reference T11 unknown:D006327	cardiac conduction abnormalities
+N12	Reference T12 unknown:D009223	myotonic dystrophy
+N13	Reference T13 unknown:D009222	myotonia
+N14	Reference T14 unknown:D002386	cataracts
+N15	Reference T15 unknown:D030342	SIX5 deficiency
+N16	Reference T16 unknown:D009223	myotonic dystrophy
+N17	Reference T17 unknown:D009139	abnormalities of skeletal muscle function
+N18	Reference T18 unknown:D002386	lenticular opacities
+N19	Reference T19 unknown:D030342	SIX5 deficiency
+N20	Reference T20 unknown:D002386	cataract
+N21	Reference T21 unknown:D009223	myotonic dystrophy
+N22	Reference T22 unknown:D009223	myotonic dystrophy
+N23	Reference T23 unknown:D030342	multigenic disorder

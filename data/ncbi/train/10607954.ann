@@ -1,0 +1,22 @@
+T1	Disease 0 17	Knobloch syndrome
+T2	Disease 28 70	midline scalp defect of the frontal region
+T3	Disease 112 129	Knobloch syndrome
+T4	Disease 139 165	vitreoretinal degeneration
+T5	Disease 168 179	high myopia
+T6	Disease 182 190	cataract
+T7	Disease 193 204	telecanthus
+T8	Disease 207 220	hypertelorism
+T9	Disease 229 249	high - arched palate
+T10	Disease 266 302	defect of the anterior midline scalp
+T11	Disease 649 670	midline scalp defects
+N1	Reference T1 unknown:C537209	Knobloch syndrome
+N2	Reference T2 unknown:C538225	midline scalp defect of the frontal region
+N3	Reference T3 unknown:C537209	Knobloch syndrome
+N4	Reference T4 unknown:D012162	vitreoretinal degeneration
+N5	Reference T5 unknown:D009216	high myopia
+N6	Reference T6 unknown:D002386	cataract
+N7	Reference T7 unknown:D030342	telecanthus
+N8	Reference T8 unknown:D006972	hypertelorism
+N9	Reference T9 unknown:D007569	high-arched palate
+N10	Reference T10 unknown:C538225	defect of the anterior midline scalp
+N11	Reference T11 unknown:C538225	midline scalp defects

@@ -1,0 +1,48 @@
+T1	Disease 50 72	van der Woude syndrome
+T2	Disease 126 138	cleft palate
+T3	Disease 163 185	van der Woude syndrome
+T4	Disease 188 191	VWS
+T5	Disease 253 291	pits and / or sinuses of the lower lip
+T6	Disease 294 312	cleft lip / palate
+T7	Disease 315 321	CL / P
+T8	Disease 326 338	cleft palate
+T9	Disease 341 343	CP
+T10	Disease 348 359	bifid uvula
+T11	Disease 366 376	hypodontia
+T12	Disease 379 380	H
+T13	Disease 403 406	VWS
+T14	Disease 487 493	CL / P
+T15	Disease 498 500	CP
+T16	Disease 560 562	CP
+T17	Disease 586 589	VWS
+T18	Disease 629 635	clefts
+T19	Disease 797 800	VWS
+T20	Disease 848 850	CP
+T21	Disease 921 924	VWS
+T22	Disease 1008 1011	VWS
+T23	Disease 1060 1062	CP
+T24	Disease 1156 1159	VWS
+N1	Reference T1 unknown:C536528	van der Woude syndrome
+N2	Reference T2 unknown:D002972	cleft palate
+N3	Reference T3 unknown:C536528	van der Woude syndrome
+N4	Reference T4 unknown:C536528	VWS
+N5	Reference T5 unknown:D008047	pits and/or sinuses of the lower lip
+N6	Reference T6 unknown:D002971|D002972	cleft lip/palate
+N7	Reference T7 unknown:D002971|D002972	CL/P
+N8	Reference T8 unknown:D002972	cleft palate
+N9	Reference T9 unknown:D002972	CP
+N10	Reference T10 unknown:C531732	bifid uvula
+N11	Reference T11 unknown:D000848	hypodontia
+N12	Reference T12 unknown:D000848	H
+N13	Reference T13 unknown:C536528	VWS
+N14	Reference T14 unknown:D002971|D002972	CL/P
+N15	Reference T15 unknown:D002972	CP
+N16	Reference T16 unknown:D002972	CP
+N17	Reference T17 unknown:C536528	VWS
+N18	Reference T18 unknown:D002971|D002972	clefts
+N19	Reference T19 unknown:C536528	VWS
+N20	Reference T20 unknown:D002972	CP
+N21	Reference T21 unknown:C536528	VWS
+N22	Reference T22 unknown:C536528	VWS
+N23	Reference T23 unknown:D002972	CP
+N24	Reference T24 unknown:C536528	VWS

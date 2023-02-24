@@ -1,0 +1,6 @@
+T1	Disease 0 40	Combined genetic deficiency of C6 and C7
+T2	Disease 119 154	sub - total deficiency of C6 and C7
+T3	Disease 304 317	C6 deficiency
+N1	Reference T1 OMIM:610102|OMIM:612446	Combined genetic deficiency of C6 and C7
+N2	Reference T2 OMIM:610102|OMIM:612446	sub-total deficiency of C6 and C7
+N3	Reference T3 OMIM:612446	C6 deficiency

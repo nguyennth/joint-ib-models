@@ -1,0 +1,14 @@
+T1	Disease 83 122	ataxia - telangiectasia - like disorder
+T2	Disease 232 271	ataxia - telangiectasia - like disorder
+T3	Disease 274 278	ATLD
+T4	Disease 372 377	A - T
+T5	Disease 389 392	NBS
+T6	Disease 405 443	hypersensitivity to ionizing radiation
+T7	Disease 956 961	A - T
+N1	Reference T1 OMIM:604391	ataxia-telangiectasia-like disorder
+N2	Reference T2 OMIM:604391	ataxia-telangiectasia-like disorder
+N3	Reference T3 OMIM:604391	ATLD
+N4	Reference T4 unknown:D001260	A-T
+N5	Reference T5 unknown:D049932	NBS
+N6	Reference T6 unknown:D004194	hypersensitivity to ionizing radiation
+N7	Reference T7 unknown:D001260	A-T

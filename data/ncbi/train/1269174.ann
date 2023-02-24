@@ -1,0 +1,22 @@
+T1	Disease 0 13	Analbuminemia
+T2	Disease 43 56	Analbuminemia
+T3	Disease 143 160	atopic dermatitis
+T4	Disease 168 184	bronchial asthma
+T5	Disease 194 210	seizure disorder
+T6	Disease 217 237	hyperlipoproteinemia
+T7	Disease 245 258	corneal arcus
+T8	Disease 497 510	analbuminemia
+T9	Disease 786 799	analbuminemia
+T10	Disease 881 894	analbuminemia
+T11	Disease 942 953	thalassemia
+N1	Reference T1 OMIM:103600	Analbuminemia
+N2	Reference T2 OMIM:103600	Analbuminemia
+N3	Reference T3 unknown:D003876	atopic dermatitis
+N4	Reference T4 unknown:D001249	bronchial asthma
+N5	Reference T5 unknown:D004827	seizure disorder
+N6	Reference T6 unknown:D006951	hyperlipoproteinemia
+N7	Reference T7 unknown:D001112	corneal arcus
+N8	Reference T8 OMIM:103600	analbuminemia
+N9	Reference T9 OMIM:103600	analbuminemia
+N10	Reference T10 OMIM:103600	analbuminemia
+N11	Reference T11 unknown:D013789	thalassemia

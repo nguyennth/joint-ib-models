@@ -1,0 +1,22 @@
+T1	Disease 18 26	aniridia
+T2	Disease 29 37	Aniridia
+T3	Disease 43 77	congenital malformation of the eye
+T4	Disease 105 120	iris hypoplasia
+T5	Disease 139 148	blindness
+T6	Disease 193 201	aniridia
+T7	Disease 268 276	aniridia
+T8	Disease 417 425	aniridia
+T9	Disease 442 450	aniridia
+T10	Disease 528 536	aniridia
+T11	Disease 797 805	aniridia
+N1	Reference T1 unknown:D015783	aniridia
+N2	Reference T2 unknown:D015783	Aniridia
+N3	Reference T3 unknown:D005124	congenital malformation of the eye
+N4	Reference T4 unknown:D007499	iris hypoplasia
+N5	Reference T5 unknown:D001766	blindness
+N6	Reference T6 unknown:D015783	aniridia
+N7	Reference T7 unknown:D015783	aniridia
+N8	Reference T8 unknown:D015783	aniridia
+N9	Reference T9 unknown:D015783	aniridia
+N10	Reference T10 unknown:D015783	aniridia
+N11	Reference T11 unknown:D015783	aniridia

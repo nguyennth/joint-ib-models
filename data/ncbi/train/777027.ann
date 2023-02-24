@@ -1,0 +1,22 @@
+T1	Disease 0 58	Hereditary deficiency of the fifth component of complement
+T2	Disease 98 112	C5 - deficient
+T3	Disease 162 220	hereditary deficiency of the fifth component of complement
+T4	Disease 325 339	C5 - deficient
+T5	Disease 342 345	C5D
+T6	Disease 398 401	C5D
+T7	Disease 447 475	systemic lupus erythematosus
+T8	Disease 1014 1027	C5 deficiency
+T9	Disease 1076 1079	C5D
+T10	Disease 1234 1237	C5D
+T11	Disease 1430 1465	paroxysmal nocturnal hemoglobinuria
+N1	Reference T1 OMIM:609536	Hereditary deficiency of the fifth component of complement
+N2	Reference T2 OMIM:609536	C5-deficient
+N3	Reference T3 OMIM:609536	hereditary deficiency of the fifth component of complement
+N4	Reference T4 OMIM:609536	C5-deficient
+N5	Reference T5 OMIM:609536	C5D
+N6	Reference T6 OMIM:609536	C5D
+N7	Reference T7 unknown:D008180	systemic lupus erythematosus
+N8	Reference T8 OMIM:609536	C5 deficiency
+N9	Reference T9 OMIM:609536	C5D
+N10	Reference T10 OMIM:609536	C5D
+N11	Reference T11 unknown:D006457	paroxysmal nocturnal hemoglobinuria

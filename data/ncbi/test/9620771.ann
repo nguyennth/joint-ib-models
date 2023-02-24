@@ -1,0 +1,22 @@
+T1	Disease 21 28	obesity
+T2	Disease 31 52	adrenal insufficiency
+T3	Disease 421 436	ACTH deficiency
+T4	Disease 742 749	obesity
+T5	Disease 862 869	obesity
+T6	Disease 1045 1052	obesity
+T7	Disease 1086 1101	ACTH deficiency
+T8	Disease 1532 1546	genetic defect
+T9	Disease 1585 1613	monogenic endocrine disorder
+T10	Disease 1641 1648	obesity
+T11	Disease 1651 1672	adrenal insufficiency
+N1	Reference T1 unknown:D009765	obesity
+N2	Reference T2 unknown:D000309	adrenal insufficiency
+N3	Reference T3 OMIM:201400|C535668	ACTH deficiency
+N4	Reference T4 unknown:D009765	obesity
+N5	Reference T5 unknown:D009765	obesity
+N6	Reference T6 unknown:D009765	obesity
+N7	Reference T7 OMIM:201400|C535668	ACTH deficiency
+N8	Reference T8 unknown:D030342	genetic defect
+N9	Reference T9 unknown:D004700	monogenic endocrine disorder
+N10	Reference T10 unknown:D009765	obesity
+N11	Reference T11 unknown:D000309	adrenal insufficiency

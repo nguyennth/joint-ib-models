@@ -1,0 +1,12 @@
+T1	Disease 37 55	fragile X syndrome
+T2	Disease 58 76	Fragile X syndrome
+T3	Disease 96 124	inherited mental retardation
+T4	Disease 234 262	fragile X mental retardation
+T5	Disease 300 318	fragile X syndrome
+T6	Disease 492 510	mental retardation
+N1	Reference T1 unknown:D005600	fragile X syndrome
+N2	Reference T2 unknown:D005600	Fragile X syndrome
+N3	Reference T3 unknown:D038901	inherited mental retardation
+N4	Reference T4 OMIM:300624	fragile X mental retardation
+N5	Reference T5 unknown:D005600	fragile X syndrome
+N6	Reference T6 unknown:D008607	mental retardation

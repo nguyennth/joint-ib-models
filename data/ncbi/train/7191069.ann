@@ -1,0 +1,14 @@
+T1	Disease 13 28	C2 - deficiency
+T2	Disease 33 50	myasthenia gravis
+T3	Disease 53 74	Complement deficiency
+T4	Disease 85 102	myasthenia gravis
+T5	Disease 105 107	MG
+T6	Disease 195 197	MG
+T7	Disease 215 228	C2 deficiency
+N1	Reference T1 OMIM:217000	C2-deficiency
+N2	Reference T2 unknown:D009157	myasthenia gravis
+N3	Reference T3 unknown:D007153	Complement deficiency
+N4	Reference T4 unknown:D009157	myasthenia gravis
+N5	Reference T5 unknown:D009157	MG
+N6	Reference T6 unknown:D009157	MG
+N7	Reference T7 OMIM:217000	C2 deficiency

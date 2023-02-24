@@ -1,0 +1,16 @@
+T1	Disease 12 42	cerebrotendinous xanthomatosis
+T2	Disease 45 48	CTX
+T3	Disease 199 229	cerebrotendinous xanthomatosis
+T4	Disease 232 235	CTX
+T5	Disease 319 322	CTX
+T6	Disease 636 644	cataract
+T7	Disease 648 667	tendinous xanthomas
+T8	Disease 721 724	CTX
+N1	Reference T1 unknown:D019294	cerebrotendinous xanthomatosis
+N2	Reference T2 unknown:D019294	CTX
+N3	Reference T3 unknown:D019294	cerebrotendinous xanthomatosis
+N4	Reference T4 unknown:D019294	CTX
+N5	Reference T5 unknown:D019294	CTX
+N6	Reference T6 unknown:D002386	cataract
+N7	Reference T7 unknown:D014973	tendinous xanthomas
+N8	Reference T8 unknown:D019294	CTX

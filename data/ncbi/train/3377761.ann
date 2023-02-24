@@ -1,0 +1,6 @@
+T1	Disease 0 59	X - linked glucose - 6 - phosphate dehydrogenase deficiency
+T2	Disease 91 159	X - linked glucose - 6 - phosphate dehydrogenase ( G6PD ) deficiency
+T3	Disease 1034 1060	X - linked G6PD deficiency
+N1	Reference T1 unknown:D005955	X-linked glucose-6-phosphate dehydrogenase deficiency
+N2	Reference T2 unknown:D005955	X-linked glucose-6-phosphate dehydrogenase (G6PD) deficiency
+N3	Reference T3 unknown:D005955	X-linked G6PD deficiency

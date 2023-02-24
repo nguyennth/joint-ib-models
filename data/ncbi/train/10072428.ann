@@ -1,0 +1,32 @@
+T1	Disease 60 83	familial gastric cancer
+T2	Disease 88 105	colorectal cancer
+T3	Disease 215 238	familial gastric cancer
+T4	Disease 241 264	Familial gastric cancer
+T5	Disease 333 347	gastric cancer
+T6	Disease 456 479	familial gastric cancer
+T7	Disease 646 660	gastric cancer
+T8	Disease 760 774	gastric cancer
+T9	Disease 1059 1088	gastric and colorectal cancer
+T10	Disease 1126 1140	gastric cancer
+T11	Disease 1177 1194	colorectal cancer
+T12	Disease 1278 1301	familial gastric cancer
+T13	Disease 1369 1384	gastric cancers
+T14	Disease 1508 1536	colorectal and other cancers
+T15	Disease 1628 1645	colorectal cancer
+T16	Disease 1730 1760	gastric and colorectal cancers
+N1	Reference T1 unknown:D013274	familial gastric cancer
+N2	Reference T2 unknown:D015179	colorectal cancer
+N3	Reference T3 unknown:D013274	familial gastric cancer
+N4	Reference T4 unknown:D013274	Familial gastric cancer
+N5	Reference T5 unknown:D013274	gastric cancer
+N6	Reference T6 unknown:D013274	familial gastric cancer
+N7	Reference T7 unknown:D013274	gastric cancer
+N8	Reference T8 unknown:D013274	gastric cancer
+N9	Reference T9 unknown:D015179|D013274	gastric and colorectal cancer
+N10	Reference T10 unknown:D013274	gastric cancer
+N11	Reference T11 unknown:D015179	colorectal cancer
+N12	Reference T12 unknown:D013274	familial gastric cancer
+N13	Reference T13 unknown:D013274	gastric cancers
+N14	Reference T14 unknown:D015179|D009369	colorectal and other cancers
+N15	Reference T15 unknown:D015179	colorectal cancer
+N16	Reference T16 unknown:D015179|D013274	gastric and colorectal cancers

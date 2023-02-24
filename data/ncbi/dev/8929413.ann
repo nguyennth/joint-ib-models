@@ -1,0 +1,6 @@
+T1	Disease 15 39	anxiety - related traits
+T2	Disease 219 226	anxiety
+T3	Disease 873 909	anxiety - related personality traits
+N1	Reference T1 OMIM:607834	anxiety-related traits
+N2	Reference T2 unknown:D001008	anxiety
+N3	Reference T3 OMIM:607834	anxiety-related personality traits

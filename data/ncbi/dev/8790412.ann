@@ -1,0 +1,4 @@
+T1	Disease 41 66	alveolar rhabdomyosarcoma
+T2	Disease 103 138	Pediatric alveolar rhabdomyosarcoma
+N1	Reference T1 unknown:D018232	alveolar rhabdomyosarcoma
+N2	Reference T2 unknown:D018232	Pediatric alveolar rhabdomyosarcoma

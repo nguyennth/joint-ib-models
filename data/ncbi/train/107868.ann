@@ -1,0 +1,34 @@
+T1	Disease 28 50	ankylosing spondylitis
+T2	Disease 105 127	ankylosing spondylitis
+T3	Disease 130 132	AS
+T4	Disease 219 239	peripheral arthritis
+T5	Disease 251 281	peripheral psoriatic arthritis
+T6	Disease 369 391	ankylosing spondylitis
+T7	Disease 396 414	ulcerative colitis
+T8	Disease 433 451	ulcerative colitis
+T9	Disease 643 665	ankylosing spondylitis
+T10	Disease 681 690	psoriasis
+T11	Disease 695 721	inflammatory bowel disease
+T12	Disease 846 868	ankylosing spondylitis
+T13	Disease 940 951	spondylitis
+T14	Disease 990 1008	ulcerative colitis
+T15	Disease 1020 1031	spondylitis
+T16	Disease 1101 1123	ankylosing spondylitis
+T17	Disease 1220 1242	ankylosing spondylitis
+N1	Reference T1 unknown:D013167	ankylosing spondylitis
+N2	Reference T2 unknown:D013167	ankylosing spondylitis
+N3	Reference T3 unknown:D013167	AS
+N4	Reference T4 unknown:D001168	peripheral arthritis
+N5	Reference T5 unknown:D015535	peripheral psoriatic arthritis
+N6	Reference T6 unknown:D013167	ankylosing spondylitis
+N7	Reference T7 unknown:D003093	ulcerative colitis
+N8	Reference T8 unknown:D003093	ulcerative colitis
+N9	Reference T9 unknown:D013167	ankylosing spondylitis
+N10	Reference T10 unknown:D011565	psoriasis
+N11	Reference T11 unknown:D015212	inflammatory bowel disease
+N12	Reference T12 unknown:D013167	ankylosing spondylitis
+N13	Reference T13 unknown:D013166	spondylitis
+N14	Reference T14 unknown:D003093	ulcerative colitis
+N15	Reference T15 unknown:D013166	spondylitis
+N16	Reference T16 unknown:D013167	ankylosing spondylitis
+N17	Reference T17 unknown:D013167	ankylosing spondylitis

@@ -1,0 +1,10 @@
+T1	Disease 89 124	autosomal recessive Alport syndrome
+T2	Disease 127 162	Autosomal recessive Alport syndrome
+T3	Disease 180 208	hematuric glomerulonephritis
+T4	Disease 226 268	glomerular basement membrane abnormalities
+T5	Disease 724 759	autosomal recessive Alport syndrome
+N1	Reference T1 unknown:C536587	autosomal recessive Alport syndrome
+N2	Reference T2 unknown:C536587	Autosomal recessive Alport syndrome
+N3	Reference T3 unknown:D005921	hematuric glomerulonephritis
+N4	Reference T4 unknown:D005921	glomerular basement membrane abnormalities
+N5	Reference T5 unknown:C536587	autosomal recessive Alport syndrome

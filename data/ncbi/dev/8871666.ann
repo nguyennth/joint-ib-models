@@ -1,0 +1,10 @@
+T1	Disease 19 62	combined subtotal deficiencies of C6 and C7
+T2	Disease 105 127	C6 and C7 deficiencies
+T3	Disease 130 171	Combined subtotal deficiency of C6 and C7
+T4	Disease 978 997	C6 or C7 deficiency
+T5	Disease 1062 1076	C6 - deficient
+N1	Reference T1 OMIM:612446|OMIM:610102	combined subtotal deficiencies of C6 and C7
+N2	Reference T2 OMIM:612446|OMIM:610102	C6 and C7 deficiencies
+N3	Reference T3 OMIM:612446|OMIM:610102	Combined subtotal deficiency of C6 and C7
+N4	Reference T4 OMIM:612446|OMIM:610102	C6 or C7 deficiency
+N5	Reference T5 OMIM:612446	C6-deficient

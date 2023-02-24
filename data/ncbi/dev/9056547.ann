@@ -1,0 +1,24 @@
+T1	Disease 104 134	Pelizaeus - Merzbacher disease
+T2	Disease 292 322	Pelizaeus - Merzbacher disease
+T3	Disease 325 328	PMD
+T4	Disease 483 512	X - linked spastic paraplegia
+T5	Disease 515 518	SPG
+T6	Disease 589 592	PMD
+T7	Disease 671 680	nystagmus
+T8	Disease 693 700	tremors
+T9	Disease 717 735	mental retardation
+T10	Disease 771 779	dementia
+T11	Disease 783 804	personality disorders
+T12	Disease 1080 1104	PLP - associated disease
+N1	Reference T1 OMIM:312080	Pelizaeus-Merzbacher disease
+N2	Reference T2 OMIM:312080	Pelizaeus-Merzbacher disease
+N3	Reference T3 OMIM:312080	PMD
+N4	Reference T4 OMIM:312920	X-linked spastic paraplegia
+N5	Reference T5 OMIM:312920	SPG
+N6	Reference T6 OMIM:312080	PMD
+N7	Reference T7 unknown:D020417	nystagmus
+N8	Reference T8 unknown:D014202	tremors
+N9	Reference T9 unknown:D008607	mental retardation
+N10	Reference T10 unknown:D003704	dementia
+N11	Reference T11 unknown:D010554	personality disorders
+N12	Reference T12 OMIM:312080+OMIM:312920	PLP-associated disease

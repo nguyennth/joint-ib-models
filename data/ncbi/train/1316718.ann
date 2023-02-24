@@ -1,0 +1,44 @@
+T1	Disease 11 25	Kaposi sarcoma
+T2	Disease 30 47	T - cell lymphoma
+T3	Disease 70 96	Wiskott - Aldrich syndrome
+T4	Disease 136 142	eczema
+T5	Disease 177 193	thrombocytopenia
+T6	Disease 214 240	Wiskott - Aldrich syndrome
+T7	Disease 243 246	WAS
+T8	Disease 297 312	lymphadenopathy
+T9	Disease 315 327	splenomegaly
+T10	Disease 341 357	thrombocytopenia
+T11	Disease 758 761	WAS
+T12	Disease 824 838	Kaposi sarcoma
+T13	Disease 946 974	T - cell large cell lymphoma
+T14	Disease 1024 1044	Epstein - Barr virus
+T15	Disease 1049 1064	cytomegalovirus
+T16	Disease 1174 1202	human immunodeficiency virus
+T17	Disease 1205 1208	HIV
+T18	Disease 1241 1255	Kaposi sarcoma
+T19	Disease 1284 1320	congenital immunodeficiency syndrome
+T20	Disease 1332 1346	Kaposi sarcoma
+T21	Disease 1470 1473	HIV
+T22	Disease 1585 1599	Kaposi sarcoma
+N1	Reference T1 unknown:D012514	Kaposi sarcoma
+N2	Reference T2 unknown:D016399	T-cell lymphoma
+N3	Reference T3 unknown:D014923	Wiskott-Aldrich syndrome
+N4	Reference T4 unknown:D004485	eczema
+N5	Reference T5 unknown:D013921	thrombocytopenia
+N6	Reference T6 unknown:D014923	Wiskott-Aldrich syndrome
+N7	Reference T7 unknown:D014923	WAS
+N8	Reference T8 unknown:D008206	lymphadenopathy
+N9	Reference T9 unknown:D013163	splenomegaly
+N10	Reference T10 unknown:D013921	thrombocytopenia
+N11	Reference T11 unknown:D014923	WAS
+N12	Reference T12 unknown:D012514	Kaposi sarcoma
+N13	Reference T13 unknown:D016399	T-cell large cell lymphoma
+N14	Reference T14 unknown:D020031	Epstein-Barr virus
+N15	Reference T15 unknown:D003586	cytomegalovirus
+N16	Reference T16 unknown:D015658	human immunodeficiency virus
+N17	Reference T17 unknown:D015658	HIV
+N18	Reference T18 unknown:D012514	Kaposi sarcoma
+N19	Reference T19 unknown:D007153	congenital immunodeficiency syndrome
+N20	Reference T20 unknown:D012514	Kaposi sarcoma
+N21	Reference T21 unknown:D015658	HIV
+N22	Reference T22 unknown:D012514	Kaposi sarcoma

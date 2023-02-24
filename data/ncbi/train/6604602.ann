@@ -1,0 +1,38 @@
+T1	Disease 18 40	Bechterew ' s syndrome
+T2	Disease 43 65	ankylosing spondylitis
+T3	Disease 158 180	ankylosing spondylitis
+T4	Disease 437 459	ankylosing spondylitis
+T5	Disease 610 631	psoriatic arthropathy
+T6	Disease 654 674	entero - arthropathy
+T7	Disease 692 707	sacro - iliitis
+T8	Disease 815 824	psoriasis
+T9	Disease 863 872	psoriasis
+T10	Disease 1213 1228	sacro - iliitis
+T11	Disease 1231 1240	psoriasis
+T12	Disease 1243 1265	acute anterior uveitis
+T13	Disease 1279 1290	arthropathy
+T14	Disease 1295 1321	inflammatory bowel disease
+T15	Disease 1356 1400	HEREDITARY MULTIFOCAL RELAPSING INFLAMMATION
+T16	Disease 1403 1408	HEMRI
+T17	Disease 1431 1453	Ankylosing spondylitis
+T18	Disease 1456 1477	psoriatic arthropathy
+T19	Disease 1482 1502	entero - arthropathy
+N1	Reference T1 unknown:D013167	Bechterew's syndrome
+N2	Reference T2 unknown:D013167	ankylosing spondylitis
+N3	Reference T3 unknown:D013167	ankylosing spondylitis
+N4	Reference T4 unknown:D013167	ankylosing spondylitis
+N5	Reference T5 unknown:D015535	psoriatic arthropathy
+N6	Reference T6 unknown:C538273+D001168	entero-arthropathy
+N7	Reference T7 unknown:D058566	sacro-iliitis
+N8	Reference T8 unknown:D011565	psoriasis
+N9	Reference T9 unknown:D011565	psoriasis
+N10	Reference T10 unknown:D058566	sacro-iliitis
+N11	Reference T11 unknown:D011565	psoriasis
+N12	Reference T12 unknown:D014606	acute anterior uveitis
+N13	Reference T13 unknown:D007592	arthropathy
+N14	Reference T14 unknown:D015212	inflammatory bowel disease
+N15	Reference T15 unknown:D007249+D030342	HEREDITARY MULTIFOCAL RELAPSING INFLAMMATION
+N16	Reference T16 unknown:D007249+D030342	HEMRI
+N17	Reference T17 unknown:D013167	Ankylosing spondylitis
+N18	Reference T18 unknown:D015535	psoriatic arthropathy
+N19	Reference T19 unknown:C538273+D007592	entero-arthropathy

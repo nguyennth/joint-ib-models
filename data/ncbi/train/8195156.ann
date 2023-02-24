@@ -1,0 +1,10 @@
+T1	Disease 229 273	hereditary glucose / galactose malabsorption
+T2	Disease 311 319	diarrhea
+T3	Disease 418 426	diarrhea
+T4	Disease 1131 1164	glucose / galactose malabsorption
+T5	Disease 1305 1338	glucose / galactose malabsorption
+N1	Reference T1 OMIM:606824	hereditary glucose/galactose malabsorption
+N2	Reference T2 unknown:D003967	diarrhea
+N3	Reference T3 unknown:D003967	diarrhea
+N4	Reference T4 OMIM:606824	glucose/galactose malabsorption
+N5	Reference T5 OMIM:606824	glucose/galactose malabsorption

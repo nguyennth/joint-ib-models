@@ -1,0 +1,14 @@
+T1	Disease 83 106	Prader - Willi syndrome
+T2	Disease 125 148	Prader - Willi syndrome
+T3	Disease 151 154	PWS
+T4	Disease 246 279	maternal disomy for chromosome 15
+T5	Disease 391 394	PWS
+T6	Disease 680 683	PWS
+T7	Disease 835 838	PWS
+N1	Reference T1 unknown:D011218	Prader-Willi syndrome
+N2	Reference T2 unknown:D011218	Prader-Willi syndrome
+N3	Reference T3 unknown:D011218	PWS
+N4	Reference T4 unknown:C538037	maternal disomy for chromosome 15
+N5	Reference T5 unknown:D011218	PWS
+N6	Reference T6 unknown:D011218	PWS
+N7	Reference T7 unknown:D011218	PWS

@@ -1,0 +1,12 @@
+T1	Disease 58 88	Pelizaeus - Merzbacher disease
+T2	Disease 281 311	Pelizaeus - Merzbacher disease
+T3	Disease 314 317	PMD
+T4	Disease 385 388	PMD
+T5	Disease 913 916	PMD
+T6	Disease 1477 1494	genetic disorders
+N1	Reference T1 OMIM:312080	Pelizaeus-Merzbacher disease
+N2	Reference T2 OMIM:312080	Pelizaeus-Merzbacher disease
+N3	Reference T3 OMIM:312080	PMD
+N4	Reference T4 OMIM:312080	PMD
+N5	Reference T5 OMIM:312080	PMD
+N6	Reference T6 unknown:D030342	genetic disorders

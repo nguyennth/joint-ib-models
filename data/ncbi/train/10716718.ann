@@ -1,0 +1,26 @@
+T1	Disease 76 96	Motor incoordination
+T2	Disease 99 118	immune deficiencies
+T3	Disease 146 152	cancer
+T4	Disease 192 210	hereditary disease
+T5	Disease 211 234	ataxia - telangiectasia
+T6	Disease 237 242	A - T
+T7	Disease 470 485	thymic lymphoma
+T8	Disease 595 617	cerebellar dysfunction
+T9	Disease 650 673	cerebellar degeneration
+T10	Disease 838 869	neuropathological abnormalities
+T11	Disease 878 883	A - T
+T12	Disease 991 1005	Atm deficiency
+T13	Disease 1224 1229	A - T
+N1	Reference T1 unknown:D002524	Motor incoordination
+N2	Reference T2 unknown:D007154	immune deficiencies
+N3	Reference T3 unknown:D009369	cancer
+N4	Reference T4 unknown:D030342	hereditary disease
+N5	Reference T5 unknown:D001260	ataxia-telangiectasia
+N6	Reference T6 unknown:D001260	A-T
+N7	Reference T7 unknown:D013953	thymic lymphoma
+N8	Reference T8 unknown:D002526	cerebellar dysfunction
+N9	Reference T9 unknown:D013132	cerebellar degeneration
+N10	Reference T10 unknown:D009422	neuropathological abnormalities
+N11	Reference T11 unknown:D001260	A-T
+N12	Reference T12 OMIM:208900	Atm deficiency
+N13	Reference T13 unknown:D001260	A-T

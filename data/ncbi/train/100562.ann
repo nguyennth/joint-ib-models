@@ -1,0 +1,24 @@
+T1	Disease 0 58	Familial deficiency of the seventh component of complement
+T2	Disease 85 123	bacteremic infections due to Neisseria
+T3	Disease 186 219	disseminated gonococcal infection
+T4	Disease 237 261	meningococcal meningitis
+T5	Disease 266 275	arthritis
+T6	Disease 746 770	absence of functional C7
+T7	Disease 912 934	Complete absence of C7
+T8	Disease 998 1022	meningococcal meningitis
+T9	Disease 1027 1036	arthritis
+T10	Disease 1214 1227	C7 deficiency
+T11	Disease 1311 1324	C7 deficiency
+T12	Disease 1447 1478	bacteremic neisseria infections
+N1	Reference T1 OMIM:610102	Familial deficiency of the seventh component of complement
+N2	Reference T2 unknown:D016870	bacteremic infections due to Neisseria
+N3	Reference T3 unknown:D004673	disseminated gonococcal infection
+N4	Reference T4 unknown:D008585	meningococcal meningitis
+N5	Reference T5 unknown:D001168	arthritis
+N6	Reference T6 OMIM:610102	absence of functional C7
+N7	Reference T7 OMIM:610102	Complete absence of C7
+N8	Reference T8 unknown:D008585	meningococcal meningitis
+N9	Reference T9 unknown:D001168	arthritis
+N10	Reference T10 OMIM:610102	C7 deficiency
+N11	Reference T11 OMIM:610102	C7 deficiency
+N12	Reference T12 unknown:D016870	bacteremic neisseria infections

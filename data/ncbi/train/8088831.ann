@@ -1,0 +1,14 @@
+T1	Disease 0 15	Canavan disease
+T2	Disease 138 153	Canavan disease
+T3	Disease 159 191	spongy degeneration of the brain
+T4	Disease 206 220	leukodystrophy
+T5	Disease 235 263	deficiency of aspartoacylase
+T6	Disease 370 385	Canavan disease
+T7	Disease 1531 1546	Canavan disease
+N1	Reference T1 unknown:D017825	Canavan disease
+N2	Reference T2 unknown:D017825	Canavan disease
+N3	Reference T3 unknown:D017825	spongy degeneration of the brain
+N4	Reference T4 unknown:D007966	leukodystrophy
+N5	Reference T5 unknown:D017825	deficiency of aspartoacylase
+N6	Reference T6 unknown:D017825	Canavan disease
+N7	Reference T7 unknown:D017825	Canavan disease

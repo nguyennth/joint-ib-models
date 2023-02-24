@@ -1,0 +1,20 @@
+T1	Disease 107 155	deficiency of the second component of complement
+T2	Disease 260 308	deficiency of the second component of complement
+T3	Disease 459 472	C2 deficiency
+T4	Disease 519 532	C2 deficiency
+T5	Disease 612 625	C2 deficiency
+T6	Disease 748 761	C2 deficiency
+T7	Disease 1374 1387	C2 deficiency
+T8	Disease 1494 1507	C2 deficiency
+T9	Disease 1536 1549	C2 deficiency
+T10	Disease 1721 1734	C2 deficiency
+N1	Reference T1 OMIM:217000	deficiency of the second component of complement
+N2	Reference T2 OMIM:217000	deficiency of the second component of complement
+N3	Reference T3 OMIM:217000	C2 deficiency
+N4	Reference T4 OMIM:217000	C2 deficiency
+N5	Reference T5 OMIM:217000	C2 deficiency
+N6	Reference T6 OMIM:217000	C2 deficiency
+N7	Reference T7 OMIM:217000	C2 deficiency
+N8	Reference T8 OMIM:217000	C2 deficiency
+N9	Reference T9 OMIM:217000	C2 deficiency
+N10	Reference T10 OMIM:217000	C2 deficiency

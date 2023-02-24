@@ -1,0 +1,34 @@
+T1	Disease 9 40	X - linked adrenoleukodystrophy
+T2	Disease 97 117	Adrenoleukodystrophy
+T3	Disease 120 123	ALD
+T4	Disease 132 150	X - linked disease
+T5	Disease 190 202	cerebral ALD
+T6	Disease 222 243	adrenomyeloneuropathy
+T7	Disease 246 249	AMN
+T8	Disease 274 277	ALD
+T9	Disease 370 406	Central nervous system demyelination
+T10	Disease 464 467	AMN
+T11	Disease 567 588	Adrenal insufficiency
+T12	Disease 591 607	Addisons disease
+T13	Disease 656 659	ALD
+T14	Disease 703 706	ALD
+T15	Disease 978 981	ALD
+T16	Disease 1089 1092	ALD
+T17	Disease 1245 1248	ALD
+N1	Reference T1 unknown:D000326	X-linked adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	Adrenoleukodystrophy
+N3	Reference T3 unknown:D000326	ALD
+N4	Reference T4 unknown:D040181	X-linked disease
+N5	Reference T5 unknown:D000326	cerebral ALD
+N6	Reference T6 unknown:D000326	adrenomyeloneuropathy
+N7	Reference T7 unknown:D000326	AMN
+N8	Reference T8 unknown:D000326	ALD
+N9	Reference T9 unknown:D003711	Central nervous system demyelination
+N10	Reference T10 unknown:D000326	AMN
+N11	Reference T11 unknown:D000309	Adrenal insufficiency
+N12	Reference T12 unknown:D000224	Addisons disease
+N13	Reference T13 unknown:D000326	ALD
+N14	Reference T14 unknown:D000326	ALD
+N15	Reference T15 unknown:D000326	ALD
+N16	Reference T16 unknown:D000326	ALD
+N17	Reference T17 unknown:D000326	ALD

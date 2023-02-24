@@ -1,0 +1,16 @@
+T1	Disease 0 18	Huntington disease
+T2	Disease 41 58	Tourette syndrome
+T3	Disease 106 123	Tourette syndrome
+T4	Disease 126 128	TS
+T5	Disease 141 159	Huntington disease
+T6	Disease 162 164	HD
+T7	Disease 236 238	TS
+T8	Disease 256 258	HD
+N1	Reference T1 unknown:D006816	Huntington disease
+N2	Reference T2 unknown:D005879	Tourette syndrome
+N3	Reference T3 unknown:D005879	Tourette syndrome
+N4	Reference T4 unknown:D005879	TS
+N5	Reference T5 unknown:D006816	Huntington disease
+N6	Reference T6 unknown:D006816	HD
+N7	Reference T7 unknown:D005879	TS
+N8	Reference T8 unknown:D006816	HD

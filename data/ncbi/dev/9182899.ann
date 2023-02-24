@@ -1,0 +1,10 @@
+T1	Disease 37 50	C9 deficiency
+T2	Disease 102 116	C9 - deficient
+T3	Disease 700 713	C9 deficiency
+T4	Disease 976 1001	complete deficiency of C9
+T5	Disease 1082 1095	C9 deficiency
+N1	Reference T1 OMIM:613825	C9 deficiency
+N2	Reference T2 OMIM:613825	C9-deficient
+N3	Reference T3 OMIM:613825	C9 deficiency
+N4	Reference T4 OMIM:613825	complete deficiency of C9
+N5	Reference T5 OMIM:613825	C9 deficiency

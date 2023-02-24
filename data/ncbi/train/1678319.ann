@@ -1,0 +1,6 @@
+T1	Disease 64 82	familial polyposis
+T2	Disease 192 227	familial adenomatous polyposis coli
+T3	Disease 230 233	APC
+N1	Reference T1 unknown:D011125	familial polyposis
+N2	Reference T2 unknown:D011125	familial adenomatous polyposis coli
+N3	Reference T3 unknown:D011125	APC

@@ -1,0 +1,4 @@
+T1	Disease 74 89	phenylketonuria
+T2	Disease 492 507	phenylketonuria
+N1	Reference T1 unknown:D010661	phenylketonuria
+N2	Reference T2 unknown:D010661	phenylketonuria

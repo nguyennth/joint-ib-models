@@ -1,0 +1,12 @@
+T1	Disease 7 31	Machado - Joseph disease
+T2	Disease 184 214	trinucleotide repeat disorders
+T3	Disease 301 325	Machado - Joseph disease
+T4	Disease 328 331	MJD
+T5	Disease 463 466	MJD
+T6	Disease 1630 1633	MJD
+N1	Reference T1 unknown:D017827	Machado-Joseph disease
+N2	Reference T2 unknown:D030342	trinucleotide repeat disorders
+N3	Reference T3 unknown:D017827	Machado-Joseph disease
+N4	Reference T4 unknown:D017827	MJD
+N5	Reference T5 unknown:D017827	MJD
+N6	Reference T6 unknown:D017827	MJD

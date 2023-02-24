@@ -1,0 +1,6 @@
+T1	Disease 21 52	pyruvate carboxylase deficiency
+T2	Disease 328 359	pyruvate carboxylase deficiency
+T3	Disease 362 384	PC Portland deficiency
+N1	Reference T1 unknown:D015324	pyruvate carboxylase deficiency
+N2	Reference T2 unknown:D015324	pyruvate carboxylase deficiency
+N3	Reference T3 unknown:D015324	PC Portland deficiency

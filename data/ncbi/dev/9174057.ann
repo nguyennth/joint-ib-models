@@ -1,0 +1,20 @@
+T1	Disease 57 74	pancreatic cancer
+T2	Disease 261 273	solid tumors
+T3	Disease 292 309	pancreatic cancer
+T4	Disease 438 449	tumor types
+T5	Disease 569 586	pancreatic tumors
+T6	Disease 647 664	pancreatic tumors
+T7	Disease 690 696	tumors
+T8	Disease 811 828	pancreatic tumors
+T9	Disease 887 904	pancreatic cancer
+T10	Disease 929 936	cancers
+N1	Reference T1 unknown:D010190	pancreatic cancer
+N2	Reference T2 unknown:D009369	solid tumors
+N3	Reference T3 unknown:D010190	pancreatic cancer
+N4	Reference T4 unknown:D009369	tumor types
+N5	Reference T5 unknown:D010190	pancreatic tumors
+N6	Reference T6 unknown:D010190	pancreatic tumors
+N7	Reference T7 unknown:D009369	tumors
+N8	Reference T8 unknown:D010190	pancreatic tumors
+N9	Reference T9 unknown:D010190	pancreatic cancer
+N10	Reference T10 unknown:D009369	cancers

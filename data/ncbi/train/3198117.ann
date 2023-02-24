@@ -1,0 +1,4 @@
+T1	Disease 230 247	enzyme deficiency
+T2	Disease 724 739	G6PD deficiency
+N1	Reference T1 unknown:D008661	enzyme deficiency
+N2	Reference T2 unknown:D005955	G6PD deficiency

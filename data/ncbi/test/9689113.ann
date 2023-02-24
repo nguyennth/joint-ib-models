@@ -1,0 +1,18 @@
+T1	Disease 24 46	von Willebrand disease
+T2	Disease 75 85	thrombosis
+T3	Disease 88 128	von Willebrand factor ( vWf ) deficiency
+T4	Disease 143 165	von Willebrand disease
+T5	Disease 248 263	vWf - deficient
+T6	Disease 364 378	von Willebrand
+T7	Disease 788 798	thrombosis
+T8	Disease 854 869	vascular injury
+T9	Disease 1107 1129	von Willebrand disease
+N1	Reference T1 unknown:D014842	von Willebrand disease
+N2	Reference T2 unknown:D013927	thrombosis
+N3	Reference T3 unknown:C531844	von Willebrand factor (vWf) deficiency
+N4	Reference T4 unknown:D014842	von Willebrand disease
+N5	Reference T5 unknown:C531844	vWf-deficient
+N6	Reference T6 unknown:D014842	von Willebrand
+N7	Reference T7 unknown:D013927	thrombosis
+N8	Reference T8 unknown:D057772	vascular injury
+N9	Reference T9 unknown:D014842	von Willebrand disease

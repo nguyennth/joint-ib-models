@@ -1,0 +1,16 @@
+T1	Disease 46 64	colorectal cancers
+T2	Disease 164 182	colorectal cancers
+T3	Disease 390 408	pancreatic cancers
+T4	Disease 488 506	colorectal cancers
+T5	Disease 612 629	colorectal cancer
+T6	Disease 923 930	cancers
+T7	Disease 1040 1058	colorectal cancers
+T8	Disease 1121 1139	colorectal cancers
+N1	Reference T1 unknown:D015179	colorectal cancers
+N2	Reference T2 unknown:D015179	colorectal cancers
+N3	Reference T3 unknown:D010190	pancreatic cancers
+N4	Reference T4 unknown:D015179	colorectal cancers
+N5	Reference T5 unknown:D015179	colorectal cancer
+N6	Reference T6 unknown:D009369	cancers
+N7	Reference T7 unknown:D015179	colorectal cancers
+N8	Reference T8 unknown:D015179	colorectal cancers

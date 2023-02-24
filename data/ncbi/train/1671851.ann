@@ -1,0 +1,14 @@
+T1	Disease 20 51	X - linked adrenoleukodystrophy
+T2	Disease 240 271	X - linked adrenoleukodystrophy
+T3	Disease 274 277	ALD
+T4	Disease 405 408	ALD
+T5	Disease 570 573	ALD
+T6	Disease 630 633	ALD
+T7	Disease 735 778	abnormalities in the vision blindness genes
+N1	Reference T1 unknown:D000326	X-linked adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	X-linked adrenoleukodystrophy
+N3	Reference T3 unknown:D000326	ALD
+N4	Reference T4 unknown:D000326	ALD
+N5	Reference T5 unknown:D000326	ALD
+N6	Reference T6 unknown:D000326	ALD
+N7	Reference T7 unknown:D003117	abnormalities in the vision blindness genes

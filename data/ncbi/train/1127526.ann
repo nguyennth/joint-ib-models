@@ -1,0 +1,10 @@
+T1	Disease 0 13	Analbuminemia
+T2	Disease 86 99	analbuminemia
+T3	Disease 292 303	ankle edema
+T4	Disease 308 323	ease of fatigue
+T5	Disease 537 557	arterial hypotension
+N1	Reference T1 OMIM:103600	Analbuminemia
+N2	Reference T2 OMIM:103600	analbuminemia
+N3	Reference T3 unknown:D016512	ankle edema
+N4	Reference T4 unknown:D005221	ease of fatigue
+N5	Reference T5 unknown:D007022	arterial hypotension

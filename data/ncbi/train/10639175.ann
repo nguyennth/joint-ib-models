@@ -1,0 +1,18 @@
+T1	Disease 96 119	Ataxia - telangiectasia
+T2	Disease 125 157	hereditary multisystemic disease
+T3	Disease 186 207	ataxia telangiectasia
+T4	Disease 250 267	neurodegeneration
+T5	Disease 270 276	cancer
+T6	Disease 279 293	immune defects
+T7	Disease 300 338	hypersensitivity to ionizing radiation
+T8	Disease 428 447	neurological lesion
+T9	Disease 451 474	ataxia - telangiectasia
+N1	Reference T1 unknown:D001260	Ataxia-telangiectasia
+N2	Reference T2 unknown:D030342	hereditary multisystemic disease
+N3	Reference T3 unknown:D001260	ataxia telangiectasia
+N4	Reference T4 unknown:D019636	neurodegeneration
+N5	Reference T5 unknown:D009369	cancer
+N6	Reference T6 unknown:D007154	immune defects
+N7	Reference T7 unknown:D004194	hypersensitivity to ionizing radiation
+N8	Reference T8 unknown:D019636	neurological lesion
+N9	Reference T9 unknown:D001260	ataxia-telangiectasia

@@ -1,0 +1,18 @@
+T1	Disease 38 56	myotonic dystrophy
+T2	Disease 93 111	Myotonic dystrophy
+T3	Disease 117 137	dystrophia myotonica
+T4	Disease 140 142	DM
+T5	Disease 153 192	autosomal dominant multisystem disorder
+T6	Disease 362 364	DM
+T7	Disease 498 519	neuromuscular disease
+T8	Disease 1028 1030	DM
+T9	Disease 1508 1510	DM
+N1	Reference T1 unknown:D009223	myotonic dystrophy
+N2	Reference T2 unknown:D009223	Myotonic dystrophy
+N3	Reference T3 unknown:D009223	dystrophia myotonica
+N4	Reference T4 unknown:D009223	DM
+N5	Reference T5 unknown:D030342	autosomal dominant multisystem disorder
+N6	Reference T6 unknown:D009223	DM
+N7	Reference T7 unknown:D009468	neuromuscular disease
+N8	Reference T8 unknown:D009223	DM
+N9	Reference T9 unknown:D009223	DM

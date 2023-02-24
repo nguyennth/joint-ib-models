@@ -1,0 +1,22 @@
+T1	Disease 104 124	GM1 - gangliosidosis
+T2	Disease 139 158	cardiac involvement
+T3	Disease 161 181	GM1 - gangliosidosis
+T4	Disease 187 213	lysosomal storage disorder
+T5	Disease 224 263	deficiency of acid beta - galactosidase
+T6	Disease 497 516	cardiac involvement
+T7	Disease 552 572	GM1 - gangliosidosis
+T8	Disease 766 785	cardiac involvement
+T9	Disease 1064 1085	cardiac abnormalities
+T10	Disease 1100 1115	genetic lesions
+T11	Disease 1160 1174	cardiomyopathy
+N1	Reference T1 unknown:D016537	GM1-gangliosidosis
+N2	Reference T2 unknown:D006331	cardiac involvement
+N3	Reference T3 unknown:D016537	GM1-gangliosidosis
+N4	Reference T4 unknown:D016464	lysosomal storage disorder
+N5	Reference T5 unknown:D016537	deficiency of acid beta-galactosidase
+N6	Reference T6 unknown:D006331	cardiac involvement
+N7	Reference T7 unknown:D016537	GM1-gangliosidosis
+N8	Reference T8 unknown:D006331	cardiac involvement
+N9	Reference T9 unknown:D018376	cardiac abnormalities
+N10	Reference T10 unknown:D020022	genetic lesions
+N11	Reference T11 unknown:D009202	cardiomyopathy

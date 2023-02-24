@@ -1,0 +1,18 @@
+T1	Disease 34 62	familial Mediterranean fever
+T2	Disease 201 229	Familial Mediterranean fever
+T3	Disease 232 235	FMF
+T4	Disease 243 261	recessive disorder
+T5	Disease 302 311	serositis
+T6	Disease 315 324	synovitis
+T7	Disease 331 334	FMF
+T8	Disease 1115 1118	FMF
+T9	Disease 1560 1563	FMF
+N1	Reference T1 unknown:D010505	familial Mediterranean fever
+N2	Reference T2 unknown:D010505	Familial Mediterranean fever
+N3	Reference T3 unknown:D010505	FMF
+N4	Reference T4 unknown:D030342	recessive disorder
+N5	Reference T5 unknown:D012700	serositis
+N6	Reference T6 unknown:D013585	synovitis
+N7	Reference T7 unknown:D010505	FMF
+N8	Reference T8 unknown:D010505	FMF
+N9	Reference T9 unknown:D010505	FMF

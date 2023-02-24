@@ -1,0 +1,18 @@
+T1	Disease 0 16	Kniest dysplasia
+T2	Disease 74 90	Kniest dysplasia
+T3	Disease 103 119	chondrodysplasia
+T4	Disease 134 173	defective formation of type II collagen
+T5	Disease 300 320	severely handicapped
+T6	Disease 326 339	short stature
+T7	Disease 342 367	restricted joint mobility
+T8	Disease 374 383	blindness
+T9	Disease 679 695	Kniest dysplasia
+N1	Reference T1 unknown:C537207	Kniest dysplasia
+N2	Reference T2 unknown:C537207	Kniest dysplasia
+N3	Reference T3 unknown:D010009	chondrodysplasia
+N4	Reference T4 unknown:D003095	defective formation of type II collagen
+N5	Reference T5 unknown:D008607	severely handicapped
+N6	Reference T6 unknown:D006130	short stature
+N7	Reference T7 unknown:D007592	restricted joint mobility
+N8	Reference T8 unknown:D001766	blindness
+N9	Reference T9 unknown:C537207	Kniest dysplasia

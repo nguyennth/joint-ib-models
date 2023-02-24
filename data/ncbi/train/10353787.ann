@@ -1,0 +1,46 @@
+T1	Disease 0 41	Overgrowth of oral mucosa and facial skin
+T2	Disease 63 85	aspartylglucosaminuria
+T3	Disease 88 110	Aspartylglucosaminuria
+T4	Disease 113 116	AGU
+T5	Disease 124 150	lysosomal storage disorder
+T6	Disease 161 198	deficiency of aspartylglucosaminidase
+T7	Disease 241 259	mental retardation
+T8	Disease 457 460	AGU
+T9	Disease 632 646	facial lesions
+T10	Disease 812 839	erythema of the facial skin
+T11	Disease 905 925	facial angiofibromas
+T12	Disease 928 935	tumours
+T13	Disease 976 994	tuberous sclerosis
+T14	Disease 997 1018	Oedemic buccal mucosa
+T15	Disease 1021 1031	leucoedema
+T16	Disease 1038 1058	gingival overgrowths
+T17	Disease 1081 1084	AGU
+T18	Disease 1135 1155	oral mucosal lesions
+T19	Disease 1196 1238	fibroepithelial or epithelial hyperplasias
+T20	Disease 1362 1365	AGU
+T21	Disease 1375 1390	mucosal lesions
+T22	Disease 1496 1514	mucosal overgrowth
+T23	Disease 1518 1521	AGU
+N1	Reference T1 unknown:D006965	Overgrowth of oral mucosa and facial skin
+N2	Reference T2 unknown:D054880	aspartylglucosaminuria
+N3	Reference T3 unknown:D054880	Aspartylglucosaminuria
+N4	Reference T4 unknown:D054880	AGU
+N5	Reference T5 unknown:D016464	lysosomal storage disorder
+N6	Reference T6 unknown:D054880	deficiency of aspartylglucosaminidase
+N7	Reference T7 unknown:D008607	mental retardation
+N8	Reference T8 unknown:D054880	AGU
+N9	Reference T9 unknown:D013568	facial lesions
+N10	Reference T10 unknown:D017445	erythema of the facial skin
+N11	Reference T11 unknown:D018322	facial angiofibromas
+N12	Reference T12 unknown:D009369	tumours
+N13	Reference T13 unknown:D014402	tuberous sclerosis
+N14	Reference T14 unknown:D007967	Oedemic buccal mucosa
+N15	Reference T15 unknown:D007967	leucoedema
+N16	Reference T16 unknown:D019214	gingival overgrowths
+N17	Reference T17 unknown:D054880	AGU
+N18	Reference T18 unknown:D009059	oral mucosal lesions
+N19	Reference T19 unknown:D017573	fibroepithelial or epithelial hyperplasias
+N20	Reference T20 unknown:D054880	AGU
+N21	Reference T21 unknown:D009059	mucosal lesions
+N22	Reference T22 unknown:D009059	mucosal overgrowth
+N23	Reference T23 unknown:D054880	AGU

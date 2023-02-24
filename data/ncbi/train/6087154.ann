@@ -1,0 +1,18 @@
+T1	Disease 57 70	Lesch - Nyhan
+T2	Disease 264 281	HPRT deficiencies
+T3	Disease 302 317	gouty arthritis
+T4	Disease 357 379	Lesch - Nyhan syndrome
+T5	Disease 382 387	L - N
+T6	Disease 392 397	L - N
+T7	Disease 602 616	L - N syndrome
+T8	Disease 759 774	genetic lesions
+T9	Disease 866 871	L - N
+N1	Reference T1 unknown:D007926	Lesch-Nyhan
+N2	Reference T2 OMIM:300323	HPRT deficiencies
+N3	Reference T3 unknown:D015210	gouty arthritis
+N4	Reference T4 unknown:D007926	Lesch-Nyhan syndrome
+N5	Reference T5 unknown:D007926	L-N
+N6	Reference T6 unknown:D007926	L-N
+N7	Reference T7 unknown:D007926	L-N syndrome
+N8	Reference T8 unknown:D020022	genetic lesions
+N9	Reference T9 unknown:D007926	L-N

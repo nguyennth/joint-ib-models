@@ -1,0 +1,28 @@
+T1	Disease 54 81	Papillon - Lefevre syndrome
+T2	Disease 84 111	Papillon - Lefevre syndrome
+T3	Disease 114 117	PLS
+T4	Disease 126 154	autosomal recessive disorder
+T5	Disease 172 199	palmoplantar hyperkeratosis
+T6	Disease 223 236	periodontitis
+T7	Disease 337 340	PLS
+T8	Disease 820 823	PLS
+T9	Disease 996 999	PLS
+T10	Disease 1554 1557	PLS
+T11	Disease 1723 1750	palmoplantar hyperkeratosis
+T12	Disease 1773 1786	periodontitis
+T13	Disease 1805 1808	PLS
+T14	Disease 1977 1996	periodontal disease
+N1	Reference T1 unknown:D010214	Papillon-Lefevre syndrome
+N2	Reference T2 unknown:D010214	Papillon-Lefevre syndrome
+N3	Reference T3 unknown:D010214	PLS
+N4	Reference T4 unknown:D030342	autosomal recessive disorder
+N5	Reference T5 unknown:D007645	palmoplantar hyperkeratosis
+N6	Reference T6 unknown:D010518	periodontitis
+N7	Reference T7 unknown:D010214	PLS
+N8	Reference T8 unknown:D010214	PLS
+N9	Reference T9 unknown:D010214	PLS
+N10	Reference T10 unknown:D010214	PLS
+N11	Reference T11 unknown:D007645	palmoplantar hyperkeratosis
+N12	Reference T12 unknown:D010518	periodontitis
+N13	Reference T13 unknown:D010214	PLS
+N14	Reference T14 unknown:D010510	periodontal disease

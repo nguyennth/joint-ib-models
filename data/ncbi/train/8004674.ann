@@ -1,0 +1,14 @@
+T1	Disease 26 41	McLeod syndrome
+T2	Disease 92 107	McLeod syndrome
+T3	Disease 114 145	X - linked multisystem disorder
+T4	Disease 291 297	McLeod
+T5	Disease 563 569	McLeod
+T6	Disease 755 761	McLeod
+T7	Disease 915 930	McLeod syndrome
+N1	Reference T1 OMIM:300842	McLeod syndrome
+N2	Reference T2 OMIM:300842	McLeod syndrome
+N3	Reference T3 unknown:D040181	X-linked multisystem disorder
+N4	Reference T4 OMIM:300842	McLeod
+N5	Reference T5 OMIM:300842	McLeod
+N6	Reference T6 OMIM:300842	McLeod
+N7	Reference T7 OMIM:300842	McLeod syndrome

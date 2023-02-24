@@ -1,0 +1,16 @@
+T1	Disease 82 99	neonatal jaundice
+T2	Disease 144 162	lamellar cataracts
+T3	Disease 338 355	neonatal jaundice
+T4	Disease 763 791	bilateral lamellar cataracts
+T5	Disease 834 848	G6PD deficient
+T6	Disease 931 939	cataract
+T7	Disease 1256 1271	G6PD deficiency
+T8	Disease 1282 1290	cataract
+N1	Reference T1 unknown:D007567	neonatal jaundice
+N2	Reference T2 C535342|OMIM:116800	lamellar cataracts
+N3	Reference T3 unknown:D007567	neonatal jaundice
+N4	Reference T4 C535342|OMIM:116800	bilateral lamellar cataracts
+N5	Reference T5 unknown:D005955	G6PD deficient
+N6	Reference T6 unknown:D002386	cataract
+N7	Reference T7 unknown:D005955	G6PD deficiency
+N8	Reference T8 unknown:D002386	cataract

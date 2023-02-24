@@ -1,0 +1,22 @@
+T1	Disease 118 149	Spinocerebellar ataxia type - 3
+T2	Disease 153 177	Machado - Joseph disease
+T3	Disease 180 184	SCA3
+T4	Disease 187 190	MJD
+T5	Disease 212 246	CAG / polyglutamine repeat disease
+T6	Disease 452 473	polyglutamine disease
+T7	Disease 595 615	neuronal dysfunction
+T8	Disease 695 699	SCA3
+T9	Disease 702 705	MJD
+T10	Disease 1704 1708	SCA3
+T11	Disease 1711 1714	MJD
+N1	Reference T1 unknown:D017827	Spinocerebellar ataxia type-3
+N2	Reference T2 unknown:D017827	Machado-Joseph disease
+N3	Reference T3 unknown:D017827	SCA3
+N4	Reference T4 unknown:D017827	MJD
+N5	Reference T5 unknown:D030342	CAG/polyglutamine repeat disease
+N6	Reference T6 unknown:D030342	polyglutamine disease
+N7	Reference T7 unknown:D009461	neuronal dysfunction
+N8	Reference T8 unknown:D017827	SCA3
+N9	Reference T9 unknown:D017827	MJD
+N10	Reference T10 unknown:D017827	SCA3
+N11	Reference T11 unknown:D017827	MJD

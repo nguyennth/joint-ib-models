@@ -1,0 +1,22 @@
+T1	Disease 40 71	Lowe oculocerebrorenal syndrome
+T2	Disease 119 150	Lowe oculocerebrorenal syndrome
+T3	Disease 153 157	OCRL
+T4	Disease 191 199	cataract
+T5	Disease 202 220	mental retardation
+T6	Disease 227 259	defective renal tubular function
+T7	Disease 282 286	OCRL
+T8	Disease 662 666	OCRL
+T9	Disease 850 863	Lowe syndrome
+T10	Disease 1321 1325	OCRL
+T11	Disease 1480 1484	OCRL
+N1	Reference T1 unknown:D009800	Lowe oculocerebrorenal syndrome
+N2	Reference T2 unknown:D009800	Lowe oculocerebrorenal syndrome
+N3	Reference T3 unknown:D009800	OCRL
+N4	Reference T4 unknown:D002386	cataract
+N5	Reference T5 unknown:D008607	mental retardation
+N6	Reference T6 unknown:D015499	defective renal tubular function
+N7	Reference T7 unknown:D009800	OCRL
+N8	Reference T8 unknown:D009800	OCRL
+N9	Reference T9 unknown:D009800	Lowe syndrome
+N10	Reference T10 unknown:D009800	OCRL
+N11	Reference T11 unknown:D009800	OCRL

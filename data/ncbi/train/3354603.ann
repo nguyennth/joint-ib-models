@@ -1,0 +1,48 @@
+T1	Disease 0 14	Hepatoblastoma
+T2	Disease 17 48	pigmented ocular fundus lesions
+T3	Disease 53 64	jaw lesions
+T4	Disease 68 84	Gardner syndrome
+T5	Disease 87 101	Hepatoblastoma
+T6	Disease 112 120	neoplasm
+T7	Disease 190 235	hereditary adenomatous polyposis of the colon
+T8	Disease 295 309	hepatoblastoma
+T9	Disease 344 360	Gardner syndrome
+T10	Disease 363 365	GS
+T11	Disease 433 447	hepatoblastoma
+T12	Disease 490 492	GS
+T13	Disease 516 524	odontoma
+T14	Disease 529 560	pigmented ocular fundus lesions
+T15	Disease 619 621	GS
+T16	Disease 655 657	GS
+T17	Disease 702 725	osteomatous jaw lesions
+T18	Disease 730 761	pigmented ocular fundus lesions
+T19	Disease 777 791	colonic polyps
+T20	Disease 848 862	hepatoblastoma
+T21	Disease 947 961	colonic polyps
+T22	Disease 979 990	jaw lesions
+T23	Disease 1000 1031	pigmented ocular fundus lesions
+T24	Disease 1101 1103	GS
+N1	Reference T1 unknown:D018197	Hepatoblastoma
+N2	Reference T2 unknown:D015821	pigmented ocular fundus lesions
+N3	Reference T3 unknown:D007571	jaw lesions
+N4	Reference T4 unknown:D005736	Gardner syndrome
+N5	Reference T5 unknown:D018197	Hepatoblastoma
+N6	Reference T6 unknown:D009369	neoplasm
+N7	Reference T7 unknown:D011125	hereditary adenomatous polyposis of the colon
+N8	Reference T8 unknown:D018197	hepatoblastoma
+N9	Reference T9 unknown:D005736	Gardner syndrome
+N10	Reference T10 unknown:D005736	GS
+N11	Reference T11 unknown:D018197	hepatoblastoma
+N12	Reference T12 unknown:D005736	GS
+N13	Reference T13 unknown:D009810	odontoma
+N14	Reference T14 unknown:D015821	pigmented ocular fundus lesions
+N15	Reference T15 unknown:D005736	GS
+N16	Reference T16 unknown:D005736	GS
+N17	Reference T17 unknown:D007571	osteomatous jaw lesions
+N18	Reference T18 unknown:D015821	pigmented ocular fundus lesions
+N19	Reference T19 unknown:D003111	colonic polyps
+N20	Reference T20 unknown:D018197	hepatoblastoma
+N21	Reference T21 unknown:D003111	colonic polyps
+N22	Reference T22 unknown:D007571	jaw lesions
+N23	Reference T23 unknown:D015821	pigmented ocular fundus lesions
+N24	Reference T24 unknown:D005736	GS

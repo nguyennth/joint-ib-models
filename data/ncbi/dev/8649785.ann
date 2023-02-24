@@ -1,0 +1,14 @@
+T1	Disease 93 115	Li - Fraumeni syndrome
+T2	Disease 161 183	Li - Fraumeni syndrome
+T3	Disease 233 239	tumour
+T4	Disease 543 559	sporadic tumours
+T5	Disease 722 729	tumours
+T6	Disease 781 795	leiomyosarcoma
+T7	Disease 857 863	tumour
+N1	Reference T1 unknown:D016864	Li-Fraumeni syndrome
+N2	Reference T2 unknown:D016864	Li-Fraumeni syndrome
+N3	Reference T3 unknown:D009369	tumour
+N4	Reference T4 unknown:D009369	sporadic tumours
+N5	Reference T5 unknown:D009369	tumours
+N6	Reference T6 unknown:D007890	leiomyosarcoma
+N7	Reference T7 unknown:D009369	tumour

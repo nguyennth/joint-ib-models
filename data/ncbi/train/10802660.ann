@@ -1,0 +1,26 @@
+T1	Disease 117 140	Prader - Willi syndrome
+T2	Disease 143 146	PWS
+T3	Disease 154 174	neurogenetic disease
+T4	Disease 192 211	infantile hypotonia
+T5	Disease 214 232	gonadal hypoplasia
+T6	Disease 301 312	hyperphagia
+T7	Disease 335 342	obesity
+T8	Disease 345 348	PWS
+T9	Disease 482 485	PWS
+T10	Disease 854 857	PWS
+T11	Disease 966 969	PWS
+T12	Disease 989 992	PWS
+T13	Disease 1348 1351	PWS
+N1	Reference T1 unknown:D011218	Prader-Willi syndrome
+N2	Reference T2 unknown:D011218	PWS
+N3	Reference T3 unknown:D020271	neurogenetic disease
+N4	Reference T4 unknown:D009123	infantile hypotonia
+N5	Reference T5 unknown:D006058	gonadal hypoplasia
+N6	Reference T6 unknown:D006963	hyperphagia
+N7	Reference T7 unknown:D009765	obesity
+N8	Reference T8 unknown:D011218	PWS
+N9	Reference T9 unknown:D011218	PWS
+N10	Reference T10 unknown:D011218	PWS
+N11	Reference T11 unknown:D011218	PWS
+N12	Reference T12 unknown:D011218	PWS
+N13	Reference T13 unknown:D011218	PWS

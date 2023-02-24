@@ -1,0 +1,24 @@
+T1	Disease 23 40	DiGeorge syndrome
+T2	Disease 94 111	DiGeorge syndrome
+T3	Disease 114 117	DGS
+T4	Disease 216 274	aplasia or hypoplasia of the thymus and parathyroid glands
+T5	Disease 282 315	conotruncal cardiac malformations
+T6	Disease 364 367	DGS
+T7	Disease 515 518	DGS
+T8	Disease 952 955	DGS
+T9	Disease 1398 1401	DGS
+T10	Disease 1527 1530	DGS
+T11	Disease 1575 1578	DGS
+T12	Disease 1649 1652	DGS
+N1	Reference T1 unknown:D004062	DiGeorge syndrome
+N2	Reference T2 unknown:D004062	DiGeorge syndrome
+N3	Reference T3 unknown:D004062	DGS
+N4	Reference T4 unknown:C536288|D007011	aplasia or hypoplasia of the thymus and parathyroid glands
+N5	Reference T5 unknown:C535464	conotruncal cardiac malformations
+N6	Reference T6 unknown:D004062	DGS
+N7	Reference T7 unknown:D004062	DGS
+N8	Reference T8 unknown:D004062	DGS
+N9	Reference T9 unknown:D004062	DGS
+N10	Reference T10 unknown:D004062	DGS
+N11	Reference T11 unknown:D004062	DGS
+N12	Reference T12 unknown:D004062	DGS

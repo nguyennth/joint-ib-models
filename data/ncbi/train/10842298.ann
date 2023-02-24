@@ -1,0 +1,29 @@
+T1	Disease 38 50	microcephaly
+T2	Disease 53 71	mental retardation
+T3	Disease 78 91	short stature
+T4	Disease 97 111	Cohen syndrome
+T5	Disease 189 201	microcephaly
+T6	Disease 216 243	postnatal growth deficiency
+T7	Disease 250 268	mental retardation
+T8	Disease 376 385	Hypotonia
+T9	Disease 388 411	chorioretinal dystrophy
+T10	Disease 418 424	myopia
+T11	Disease 592 610	mental retardation
+T12	Disease 617 630	short stature
+T13	Disease 680 694	Cohen syndrome
+T14	Disease 1113 1127	Cohen syndrome
+T15	Disease 1290 1304	Cohen syndrome
+N1	Reference T1 unknown:D008831	microcephaly
+N2	Reference T2 unknown:D008607	mental retardation
+N3	Reference T3 unknown:D006130	short stature
+N4	Reference T4 unknown:C536438	Cohen syndrome
+N5	Reference T5 unknown:D008831	microcephaly
+N6	Reference T6 unknown:D006130	postnatal growth deficiency
+N7	Reference T7 unknown:D008607	mental retardation
+N8	Reference T8 unknown:D009123	Hypotonia
+N9	Reference T10 unknown:D009216	myopia
+N10	Reference T11 unknown:D008607	mental retardation
+N11	Reference T12 unknown:D006130	short stature
+N12	Reference T13 unknown:C536438	Cohen syndrome
+N13	Reference T14 unknown:C536438	Cohen syndrome
+N14	Reference T15 unknown:C536438	Cohen syndrome

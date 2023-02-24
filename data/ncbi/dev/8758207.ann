@@ -1,0 +1,30 @@
+T1	Disease 75 112	non - papillary renal cell carcinomas
+T2	Disease 150 153	VHL
+T3	Disease 181 211	sporadic renal cell carcinomas
+T4	Disease 227 260	parenchymal tumours of the kidney
+T5	Disease 304 307	VHL
+T6	Disease 461 498	non - papillary renal cell carcinomas
+T7	Disease 533 554	renal cell carcinomas
+T8	Disease 573 610	non - papillary renal cell carcinomas
+T9	Disease 745 766	renal cell carcinomas
+T10	Disease 786 814	papillary renal cell tumours
+T11	Disease 823 840	renal oncocytomas
+T12	Disease 965 968	VHL
+T13	Disease 990 997	tumours
+T14	Disease 1077 1080	VHL
+T15	Disease 1136 1172	non - papillary renal cell carcinoma
+N1	Reference T1 unknown:D002292	non-papillary renal cell carcinomas
+N2	Reference T2 unknown:D006623	VHL
+N3	Reference T3 unknown:D002292	sporadic renal cell carcinomas
+N4	Reference T4 unknown:D007674	parenchymal tumours of the kidney
+N5	Reference T5 unknown:D006623	VHL
+N6	Reference T6 unknown:D002292	non-papillary renal cell carcinomas
+N7	Reference T7 unknown:D002292	renal cell carcinomas
+N8	Reference T8 unknown:D002292	non-papillary renal cell carcinomas
+N9	Reference T9 unknown:D002292	renal cell carcinomas
+N10	Reference T10 unknown:D002292	papillary renal cell tumours
+N11	Reference T11 unknown:C537750	renal oncocytomas
+N12	Reference T12 unknown:D006623	VHL
+N13	Reference T13 unknown:D009369	tumours
+N14	Reference T14 unknown:D006623	VHL
+N15	Reference T15 unknown:D002292	non-papillary renal cell carcinoma

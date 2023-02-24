@@ -1,0 +1,6 @@
+T1	Disease 437 451	G6PD deficient
+T2	Disease 489 495	favism
+T3	Disease 817 834	enzyme deficiency
+N1	Reference T1 unknown:D005955	G6PD deficient
+N2	Reference T2 unknown:D005236	favism
+N3	Reference T3 unknown:D008661	enzyme deficiency

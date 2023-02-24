@@ -1,0 +1,18 @@
+T1	Disease 0 34	Homozygous hypobetalipoproteinemia
+T2	Disease 61 84	abetalipoproproteinemia
+T3	Disease 162 196	homozygous hypobetalipoproteinemia
+T4	Disease 199 202	HBL
+T5	Disease 451 454	HBL
+T6	Disease 581 584	HBL
+T7	Disease 763 766	HBL
+T8	Disease 890 893	HBL
+T9	Disease 1027 1047	abetalipoproteinemia
+N1	Reference T1 unknown:D006995	Homozygous hypobetalipoproteinemia
+N2	Reference T2 unknown:D000012	abetalipoproproteinemia
+N3	Reference T3 unknown:D006995	homozygous hypobetalipoproteinemia
+N4	Reference T4 unknown:D006995	HBL
+N5	Reference T5 unknown:D006995	HBL
+N6	Reference T6 unknown:D006995	HBL
+N7	Reference T7 unknown:D006995	HBL
+N8	Reference T8 unknown:D006995	HBL
+N9	Reference T9 unknown:D000012	abetalipoproteinemia

@@ -1,0 +1,18 @@
+T1	Disease 11 16	tumor
+T2	Disease 98 111	breast cancer
+T3	Disease 261 278	metastatic tumors
+T4	Disease 453 458	tumor
+T5	Disease 521 534	breast cancer
+T6	Disease 573 590	breast carcinomas
+T7	Disease 770 777	cancers
+T8	Disease 850 863	breast cancer
+T9	Disease 935 948	breast cancer
+N1	Reference T1 unknown:D009369	tumor
+N2	Reference T2 unknown:D001943	breast cancer
+N3	Reference T3 unknown:D009362	metastatic tumors
+N4	Reference T4 unknown:D009369	tumor
+N5	Reference T5 unknown:D001943	breast cancer
+N6	Reference T6 unknown:D001943	breast carcinomas
+N7	Reference T7 unknown:D009369	cancers
+N8	Reference T8 unknown:D001943	breast cancer
+N9	Reference T9 unknown:D001943	breast cancer

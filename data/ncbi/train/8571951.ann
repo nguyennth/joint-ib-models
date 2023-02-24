@@ -1,0 +1,28 @@
+T1	Disease 0 24	Atelosteogenesis type II
+T2	Disease 55 76	diastrophic dysplasia
+T3	Disease 165 182	chondrodysplasias
+T4	Disease 185 209	Atelosteogenesis type II
+T5	Disease 212 217	AO II
+T6	Disease 243 259	chondrodysplasia
+T7	Disease 334 350	chondrodysplasia
+T8	Disease 374 395	diastrophic dysplasia
+T9	Disease 398 401	DTD
+T10	Disease 530 533	DTD
+T11	Disease 584 605	diastrophic dysplasia
+T12	Disease 667 671	AOII
+T13	Disease 913 929	chondrodysplasia
+T14	Disease 1052 1069	chondrodysplasias
+N1	Reference T1 unknown:C535395	Atelosteogenesis type II
+N2	Reference T2 unknown:C536170	diastrophic dysplasia
+N3	Reference T3 unknown:D010009	chondrodysplasias
+N4	Reference T4 unknown:C535395	Atelosteogenesis type II
+N5	Reference T5 unknown:C535395	AO II
+N6	Reference T6 unknown:D010009	chondrodysplasia
+N7	Reference T7 unknown:D010009	chondrodysplasia
+N8	Reference T8 unknown:C536170	diastrophic dysplasia
+N9	Reference T9 unknown:C536170	DTD
+N10	Reference T10 unknown:C536170	DTD
+N11	Reference T11 unknown:C536170	diastrophic dysplasia
+N12	Reference T12 unknown:C535395	AOII
+N13	Reference T13 unknown:D010009	chondrodysplasia
+N14	Reference T14 unknown:D010009	chondrodysplasias

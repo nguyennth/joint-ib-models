@@ -1,0 +1,34 @@
+T1	Disease 53 58	HNPCC
+T2	Disease 135 152	colorectal cancer
+T3	Disease 284 326	hereditary non - polyposis cancer syndrome
+T4	Disease 329 334	HNPCC
+T5	Disease 610 627	colorectal cancer
+T6	Disease 749 754	HNPCC
+T7	Disease 865 875	colorectal
+T8	Disease 951 968	colorectal cancer
+T9	Disease 1548 1553	HNPCC
+T10	Disease 1606 1652	colorectal , endometrial , and ovarian cancers
+T11	Disease 1828 1835	cancers
+T12	Disease 1844 1861	colorectal cancer
+T13	Disease 1914 1931	colorectal cancer
+T14	Disease 2112 2130	endometrial cancer
+T15	Disease 2161 2189	premenopausal ovarian cancer
+T16	Disease 2244 2261	colorectal cancer
+T17	Disease 2340 2357	colorectal cancer
+N1	Reference T1 unknown:D003123	HNPCC
+N2	Reference T2 unknown:D015179	colorectal cancer
+N3	Reference T3 unknown:D003123	hereditary non-polyposis cancer syndrome
+N4	Reference T4 unknown:D003123	HNPCC
+N5	Reference T5 unknown:D015179	colorectal cancer
+N6	Reference T6 unknown:D003123	HNPCC
+N7	Reference T7 unknown:D015179	colorectal
+N8	Reference T8 unknown:D015179	colorectal cancer
+N9	Reference T9 unknown:D003123	HNPCC
+N10	Reference T10 unknown:D010051|D016889|D015179	colorectal, endometrial, and ovarian cancers
+N11	Reference T11 unknown:D009369	cancers
+N12	Reference T12 unknown:D015179	colorectal cancer
+N13	Reference T13 unknown:D015179	colorectal cancer
+N14	Reference T14 unknown:D016889	endometrial cancer
+N15	Reference T15 unknown:D010051	premenopausal ovarian cancer
+N16	Reference T16 unknown:D015179	colorectal cancer
+N17	Reference T17 unknown:D015179	colorectal cancer

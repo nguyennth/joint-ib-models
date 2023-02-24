@@ -1,0 +1,14 @@
+T1	Disease 40 97	glucose - 6 - phosphate dehydrogenase ( G6PD ) deficiency
+T2	Disease 159 165	favism
+T3	Disease 543 559	hemolytic anemia
+T4	Disease 1246 1260	deficient G6PD
+T5	Disease 1555 1570	G6PD deficiency
+T6	Disease 1687 1693	Favism
+T7	Disease 1903 1909	favism
+N1	Reference T1 unknown:D005955	glucose-6-phosphate dehydrogenase (G6PD) deficiency
+N2	Reference T2 unknown:D005236	favism
+N3	Reference T3 unknown:D000743	hemolytic anemia
+N4	Reference T4 unknown:D005955	deficient G6PD
+N5	Reference T5 unknown:D005955	G6PD deficiency
+N6	Reference T6 unknown:D005236	Favism
+N7	Reference T7 unknown:D005236	favism

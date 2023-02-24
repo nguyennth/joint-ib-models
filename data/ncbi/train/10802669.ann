@@ -1,0 +1,34 @@
+T1	Disease 128 144	genetic disorder
+T2	Disease 145 168	ataxia - telangiectasia
+T3	Disease 171 176	A - T
+T4	Disease 207 229	cerebellar dysfunction
+T5	Disease 279 285	cancer
+T6	Disease 312 317	A - T
+T7	Disease 634 640	cancer
+T8	Disease 659 664	A - T
+T9	Disease 700 726	Nijmegen breakage syndrome
+T10	Disease 729 732	NBS
+T11	Disease 762 765	NBS
+T12	Disease 1091 1096	A - T
+T13	Disease 1101 1104	NBS
+T14	Disease 1309 1314	A - T
+T15	Disease 1673 1676	NBS
+T16	Disease 1901 1906	A - T
+T17	Disease 1911 1914	NBS
+N1	Reference T1 unknown:D030342	genetic disorder
+N2	Reference T2 unknown:D001260	ataxia-telangiectasia
+N3	Reference T3 unknown:D001260	A-T
+N4	Reference T4 unknown:D002526	cerebellar dysfunction
+N5	Reference T5 unknown:D009369	cancer
+N6	Reference T6 unknown:D001260	A-T
+N7	Reference T7 unknown:D009369	cancer
+N8	Reference T8 unknown:D001260	A-T
+N9	Reference T9 unknown:D049932	Nijmegen breakage syndrome
+N10	Reference T10 unknown:D049932	NBS
+N11	Reference T11 unknown:D049932	NBS
+N12	Reference T12 unknown:D001260	A-T
+N13	Reference T13 unknown:D049932	NBS
+N14	Reference T14 unknown:D001260	A-T
+N15	Reference T15 unknown:D049932	NBS
+N16	Reference T16 unknown:D001260	A-T
+N17	Reference T17 unknown:D049932	NBS

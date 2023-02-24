@@ -1,0 +1,34 @@
+T1	Disease 23 29	cancer
+T2	Disease 47 74	cartilage - hair hypoplasia
+T3	Disease 140 146	cancer
+T4	Disease 167 194	cartilage - hair hypoplasia
+T5	Disease 197 200	CHH
+T6	Disease 282 285	CHH
+T7	Disease 375 378	CHH
+T8	Disease 595 601	cancer
+T9	Disease 720 726	cancer
+T10	Disease 760 763	CHH
+T11	Disease 877 900	non - Hodgkins lymphoma
+T12	Disease 1019 1039	basal cell carcinoma
+T13	Disease 1131 1137	cancer
+T14	Disease 1214 1220	cancer
+T15	Disease 1312 1318	cancer
+T16	Disease 1332 1355	non - Hodgkins lymphoma
+T17	Disease 1424 1427	CHH
+N1	Reference T1 unknown:D009369	cancer
+N2	Reference T2 unknown:C535916	cartilage-hair hypoplasia
+N3	Reference T3 unknown:D009369	cancer
+N4	Reference T4 unknown:C535916	cartilage-hair hypoplasia
+N5	Reference T5 unknown:C535916	CHH
+N6	Reference T6 unknown:C535916	CHH
+N7	Reference T7 unknown:C535916	CHH
+N8	Reference T8 unknown:D009369	cancer
+N9	Reference T9 unknown:D009369	cancer
+N10	Reference T10 unknown:C535916	CHH
+N11	Reference T11 unknown:D008228	non-Hodgkins lymphoma
+N12	Reference T12 unknown:D002280	basal cell carcinoma
+N13	Reference T13 unknown:D009369	cancer
+N14	Reference T14 unknown:D009369	cancer
+N15	Reference T15 unknown:D009369	cancer
+N16	Reference T16 unknown:D008228	non-Hodgkins lymphoma
+N17	Reference T17 unknown:C535916	CHH

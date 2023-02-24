@@ -1,0 +1,10 @@
+T1	Disease 0 58	Familial deficiency of the seventh component of complement
+T2	Disease 85 109	meningococcal infections
+T3	Disease 163 183	recurrent meningitis
+T4	Disease 200 245	absence of the seventh component of complemen
+T5	Disease 645 658	C7 deficiency
+N1	Reference T1 OMIM:610102	Familial deficiency of the seventh component of complement
+N2	Reference T2 unknown:D008589	meningococcal infections
+N3	Reference T3 unknown:D008581+D012008	recurrent meningitis
+N4	Reference T4 OMIM:610102	absence of the seventh component of complemen
+N5	Reference T5 OMIM:610102	C7 deficiency

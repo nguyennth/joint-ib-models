@@ -1,0 +1,6 @@
+T1	Disease 446 474	inherited metabolic disorder
+T2	Disease 475 487	galactosemia
+T3	Disease 1613 1625	galactosemia
+N1	Reference T1 unknown:D008659	inherited metabolic disorder
+N2	Reference T2 unknown:D005693	galactosemia
+N3	Reference T3 unknown:D005693	galactosemia

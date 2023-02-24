@@ -1,0 +1,20 @@
+T1	Disease 37 75	X - linked Duchenne muscular dystrophy
+T2	Disease 162 189	Duchenne muscular dystrophy
+T3	Disease 192 195	DMD
+T4	Disease 403 418	genetic disease
+T5	Disease 523 541	muscular dystrophy
+T6	Disease 606 609	DMD
+T7	Disease 724 749	Becker muscular dystrophy
+T8	Disease 984 1017	Emery Dreifuss muscular dystrophy
+T9	Disease 1323 1326	DMD
+T10	Disease 1534 1537	DMD
+N1	Reference T1 unknown:D020388	X-linked Duchenne muscular dystrophy
+N2	Reference T2 unknown:D020388	Duchenne muscular dystrophy
+N3	Reference T3 unknown:D020388	DMD
+N4	Reference T4 unknown:D030342	genetic disease
+N5	Reference T5 unknown:D009136	muscular dystrophy
+N6	Reference T6 unknown:D020388	DMD
+N7	Reference T7 unknown:C537666	Becker muscular dystrophy
+N8	Reference T8 unknown:D020389	Emery Dreifuss muscular dystrophy
+N9	Reference T9 unknown:D020388	DMD
+N10	Reference T10 unknown:D020388	DMD

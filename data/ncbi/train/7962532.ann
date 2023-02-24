@@ -1,0 +1,8 @@
+T1	Disease 8 53	cholesteryl ester transfer protein deficiency
+T2	Disease 313 367	cholesteryl ester transfer protein ( CETP ) deficiency
+T3	Disease 2410 2425	CETP deficiency
+T4	Disease 2513 2531	genetic deficiency
+N1	Reference T1 OMIM:143470	cholesteryl ester transfer protein deficiency
+N2	Reference T2 OMIM:143470	cholesteryl ester transfer protein (CETP) deficiency
+N3	Reference T3 OMIM:143470	CETP deficiency
+N4	Reference T4 unknown:D030342	genetic deficiency

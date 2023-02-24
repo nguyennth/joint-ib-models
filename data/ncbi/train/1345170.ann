@@ -1,0 +1,8 @@
+T1	Disease 65 86	diastrophic dysplasia
+T2	Disease 648 669	diastrophic dysplasia
+T3	Disease 672 675	DTD
+T4	Disease 709 712	DTD
+N1	Reference T1 unknown:C536170	diastrophic dysplasia
+N2	Reference T2 unknown:C536170	diastrophic dysplasia
+N3	Reference T3 unknown:C536170	DTD
+N4	Reference T4 unknown:C536170	DTD

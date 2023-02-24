@@ -1,0 +1,18 @@
+T1	Disease 0 33	Glucose / galactose malabsorption
+T2	Disease 91 124	Glucose / galactose malabsorption
+T3	Disease 127 130	GGM
+T4	Disease 139 166	autosomal recessive disease
+T5	Disease 334 343	diarrhoea
+T6	Disease 348 359	dehydration
+T7	Disease 452 455	GGM
+T8	Disease 1176 1179	GGM
+T9	Disease 1336 1339	GGM
+N1	Reference T1 OMIM:606824	Glucose/galactose malabsorption
+N2	Reference T2 OMIM:606824	Glucose/galactose malabsorption
+N3	Reference T3 OMIM:606824	GGM
+N4	Reference T4 unknown:D030342	autosomal recessive disease
+N5	Reference T5 unknown:D003967	diarrhoea
+N6	Reference T6 unknown:D003681	dehydration
+N7	Reference T7 OMIM:606824	GGM
+N8	Reference T8 OMIM:606824	GGM
+N9	Reference T9 OMIM:606824	GGM

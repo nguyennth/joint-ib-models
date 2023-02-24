@@ -1,0 +1,18 @@
+T1	Disease 36 61	hereditary ovarian cancer
+T2	Disease 64 89	Hereditary Ovarian Cancer
+T3	Disease 212 226	ovarian cancer
+T4	Disease 265 279	ovarian cancer
+T5	Disease 347 381	hereditary forms of ovarian cancer
+T6	Disease 419 444	hereditary ovarian cancer
+T7	Disease 940 954	ovarian cancer
+T8	Disease 1274 1288	ovarian cancer
+T9	Disease 1576 1590	ovarian cancer
+N1	Reference T1 unknown:D061325	hereditary ovarian cancer
+N2	Reference T2 unknown:D061325	Hereditary Ovarian Cancer
+N3	Reference T3 unknown:D010051	ovarian cancer
+N4	Reference T4 unknown:D010051	ovarian cancer
+N5	Reference T5 unknown:D061325	hereditary forms of ovarian cancer
+N6	Reference T6 unknown:D061325	hereditary ovarian cancer
+N7	Reference T7 unknown:D010051	ovarian cancer
+N8	Reference T8 unknown:D010051	ovarian cancer
+N9	Reference T9 unknown:D010051	ovarian cancer

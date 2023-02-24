@@ -1,0 +1,14 @@
+T1	Disease 13 40	Duchenne muscular dystrophy
+T2	Disease 247 274	Duchenne muscular dystrophy
+T3	Disease 277 280	DMD
+T4	Disease 390 393	DMD
+T5	Disease 398 430	growth hormone ( GH ) deficiency
+T6	Disease 471 489	dystrophic process
+T7	Disease 1081 1084	DMD
+N1	Reference T1 unknown:D020388	Duchenne muscular dystrophy
+N2	Reference T2 unknown:D020388	Duchenne muscular dystrophy
+N3	Reference T3 unknown:D020388	DMD
+N4	Reference T4 unknown:D020388	DMD
+N5	Reference T5 OMIM:262400	growth hormone (GH) deficiency
+N6	Reference T6 unknown:D009136	dystrophic process
+N7	Reference T7 unknown:D020388	DMD

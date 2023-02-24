@@ -1,0 +1,18 @@
+T1	Disease 81 101	adrenoleukodystrophy
+T2	Disease 187 207	adrenoleukodystrophy
+T3	Disease 210 213	ALD
+T4	Disease 282 285	ALD
+T5	Disease 438 456	neurologic disease
+T6	Disease 459 473	leukodystrophy
+T7	Disease 477 492	myeloneuropathy
+T8	Disease 530 558	adrenocortical insufficiency
+T9	Disease 736 739	ALD
+N1	Reference T1 unknown:D000326	adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	adrenoleukodystrophy
+N3	Reference T3 unknown:D000326	ALD
+N4	Reference T4 unknown:D000326	ALD
+N5	Reference T5 unknown:D009422	neurologic disease
+N6	Reference T6 unknown:D007966	leukodystrophy
+N7	Reference T7 unknown:D009422	myeloneuropathy
+N8	Reference T8 unknown:D000224	adrenocortical insufficiency
+N9	Reference T9 unknown:D000326	ALD

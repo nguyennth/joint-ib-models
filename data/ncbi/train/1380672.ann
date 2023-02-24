@@ -1,0 +1,20 @@
+T1	Disease 14 29	hypomyelination
+T2	Disease 34 50	glial cell death
+T3	Disease 322 339	genetic disorders
+T4	Disease 475 505	Pelizaeus - Merzbacher disease
+T5	Disease 562 619	degeneration and premature cell death of oligodendrocytes
+T6	Disease 636 651	hypomyelination
+T7	Disease 859 877	myelin - deficient
+T8	Disease 969 984	Hypomyelination
+T9	Disease 1044 1072	oligodendrocyte degeneration
+T10	Disease 1265 1295	Pelizaeus - Merzbacher disease
+N1	Reference T1 unknown:D003711	hypomyelination
+N2	Reference T2 unknown:D004194	glial cell death
+N3	Reference T3 unknown:D030342	genetic disorders
+N4	Reference T4 OMIM:312080	Pelizaeus-Merzbacher disease
+N5	Reference T5 unknown:D056784	degeneration and premature cell death of oligodendrocytes
+N6	Reference T6 unknown:D003711	hypomyelination
+N7	Reference T7 unknown:D003711	myelin-deficient
+N8	Reference T8 unknown:D003711	Hypomyelination
+N9	Reference T9 unknown:D056784	oligodendrocyte degeneration
+N10	Reference T10 OMIM:312080	Pelizaeus-Merzbacher disease

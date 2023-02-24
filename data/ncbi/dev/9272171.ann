@@ -1,0 +1,22 @@
+T1	Disease 0 39	Adult onset globoid cell leukodystrophy
+T2	Disease 42 56	Krabbe disease
+T3	Disease 207 246	adult onset globoid cell leukodystrophy
+T4	Disease 249 263	Krabbe disease
+T5	Disease 266 274	AO - GLD
+T6	Disease 517 535	spastic paraplegia
+T7	Disease 596 620	diminished GALC activity
+T8	Disease 1161 1185	diminished GALC activity
+T9	Disease 1543 1551	AO - GLD
+T10	Disease 1759 1767	IF - GLD
+T11	Disease 1868 1871	GLD
+N1	Reference T1 unknown:D007965	Adult onset globoid cell leukodystrophy
+N2	Reference T2 OMIM:245200	Krabbe disease
+N3	Reference T3 unknown:D007965	adult onset globoid cell leukodystrophy
+N4	Reference T4 OMIM:245200	Krabbe disease
+N5	Reference T5 unknown:D007965	AO-GLD
+N6	Reference T6 unknown:D010264	spastic paraplegia
+N7	Reference T7 unknown:C538554	diminished GALC activity
+N8	Reference T8 unknown:C538554	diminished GALC activity
+N9	Reference T9 unknown:D007965	AO-GLD
+N10	Reference T10 unknown:D007965	IF-GLD
+N11	Reference T11 unknown:D007965	GLD

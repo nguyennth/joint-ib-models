@@ -1,0 +1,42 @@
+T1	Disease 0 45	Maternal uniparental disomy for chromosome 14
+T2	Disease 107 152	maternal uniparental disomy for chromosome 14
+T3	Disease 155 158	UPD
+T4	Disease 254 277	Prader - Willi syndrome
+T5	Disease 280 283	PWS
+T6	Disease 298 311	short stature
+T7	Disease 314 321	obesity
+T8	Disease 329 348	developmental delay
+T9	Disease 351 365	cryptorchidism
+T10	Disease 382 401	dysmorphic features
+T11	Disease 434 465	intrauterine growth retardation
+T12	Disease 576 585	hypotonia
+T13	Disease 699 704	obese
+T14	Disease 743 764	middle ear infections
+T15	Disease 966 989	Prader - Willi syndrome
+T16	Disease 1096 1099	PWS
+T17	Disease 1142 1145	UPD
+T18	Disease 1221 1242	maternal heterodisomy
+T19	Disease 1318 1321	UPD
+T20	Disease 1485 1488	UPD
+T21	Disease 1631 1634	PWS
+N1	Reference T1 unknown:D024182	Maternal uniparental disomy for chromosome 14
+N2	Reference T2 unknown:D024182	maternal uniparental disomy for chromosome 14
+N3	Reference T3 unknown:D024182	UPD
+N4	Reference T4 unknown:D011218	Prader-Willi syndrome
+N5	Reference T5 unknown:D011218	PWS
+N6	Reference T6 unknown:D006130	short stature
+N7	Reference T7 unknown:D009765	obesity
+N8	Reference T8 unknown:D002658	developmental delay
+N9	Reference T9 unknown:D003456	cryptorchidism
+N10	Reference T10 unknown:D000013	dysmorphic features
+N11	Reference T11 unknown:D005317	intrauterine growth retardation
+N12	Reference T12 unknown:D009123	hypotonia
+N13	Reference T13 unknown:D009765	obese
+N14	Reference T14 unknown:D010033	middle ear infections
+N15	Reference T15 unknown:D011218	Prader-Willi syndrome
+N16	Reference T16 unknown:D011218	PWS
+N17	Reference T17 unknown:D024182	UPD
+N18	Reference T18 unknown:D024182	maternal heterodisomy
+N19	Reference T19 unknown:D024182	UPD
+N20	Reference T20 unknown:D024182	UPD
+N21	Reference T21 unknown:D011218	PWS

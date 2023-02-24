@@ -1,0 +1,14 @@
+T1	Disease 34 46	galactosemia
+T2	Disease 164 176	Galactosemia
+T3	Disease 183 241	autosomal recessive disorder of human galactose metabolism
+T4	Disease 252 321	deficiency of the enzyme galactose - 1 - phosphate uridyl transferase
+T5	Disease 942 954	galactosemia
+T6	Disease 1024 1036	galactosemia
+T7	Disease 1572 1584	galactosemia
+N1	Reference T1 unknown:D005693	galactosemia
+N2	Reference T2 unknown:D005693	Galactosemia
+N3	Reference T3 unknown:D005693	autosomal recessive disorder of human galactose metabolism
+N4	Reference T4 unknown:D005693	deficiency of the enzyme galactose-1-phosphate uridyl transferase
+N5	Reference T5 unknown:D005693	galactosemia
+N6	Reference T6 unknown:D005693	galactosemia
+N7	Reference T7 unknown:D005693	galactosemia

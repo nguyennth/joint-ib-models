@@ -1,0 +1,6 @@
+T1	Disease 77 91	retinoblastoma
+T2	Disease 434 448	retinoblastoma
+T3	Disease 501 515	retinoblastoma
+N1	Reference T1 unknown:D012175	retinoblastoma
+N2	Reference T2 unknown:D012175	retinoblastoma
+N3	Reference T3 unknown:D012175	retinoblastoma

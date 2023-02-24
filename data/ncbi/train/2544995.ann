@@ -1,0 +1,12 @@
+T1	Disease 148 165	familial aniridia
+T2	Disease 274 278	WAGR
+T3	Disease 289 300	Wilms tumor
+T4	Disease 303 311	aniridia
+T5	Disease 314 341	genitourinary abnormalities
+T6	Disease 348 366	mental retardation
+N1	Reference T1 unknown:D015783	familial aniridia
+N2	Reference T2 unknown:D017624	WAGR
+N3	Reference T3 unknown:D009396	Wilms tumor
+N4	Reference T4 unknown:D015783	aniridia
+N5	Reference T5 unknown:D014564	genitourinary abnormalities
+N6	Reference T6 unknown:D008607	mental retardation

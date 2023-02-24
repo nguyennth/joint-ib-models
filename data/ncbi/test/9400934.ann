@@ -1,0 +1,10 @@
+T1	Disease 38 73	ectopic intracranial retinoblastoma
+T2	Disease 131 166	ectopic intracranial retinoblastoma
+T3	Disease 200 226	pineal and retinal tumours
+T4	Disease 354 384	retinal and the pineal tumours
+T5	Disease 763 777	retinoblastoma
+N1	Reference T1 unknown:D012175	ectopic intracranial retinoblastoma
+N2	Reference T2 unknown:D012175	ectopic intracranial retinoblastoma
+N3	Reference T3 unknown:D019572|D010871	pineal and retinal tumours
+N4	Reference T4 unknown:D019572|D010871	retinal and the pineal tumours
+N5	Reference T5 unknown:D012175	retinoblastoma

@@ -1,0 +1,22 @@
+T1	Disease 23 40	Friedreich ataxia
+T2	Disease 43 60	Friedreich ataxia
+T3	Disease 63 67	FRDA
+T4	Disease 97 123	autosomal recessive ataxia
+T5	Disease 276 280	FRDA
+T6	Disease 326 330	FRDA
+T7	Disease 366 370	FRDA
+T8	Disease 617 621	FRDA
+T9	Disease 770 774	FRDA
+T10	Disease 836 840	FRDA
+T11	Disease 1024 1028	FRDA
+N1	Reference T1 unknown:D005621	Friedreich ataxia
+N2	Reference T2 unknown:D005621	Friedreich ataxia
+N3	Reference T3 unknown:D005621	FRDA
+N4	Reference T4 OMIM:610743	autosomal recessive ataxia
+N5	Reference T5 unknown:D005621	FRDA
+N6	Reference T6 unknown:D005621	FRDA
+N7	Reference T7 unknown:D005621	FRDA
+N8	Reference T8 unknown:D005621	FRDA
+N9	Reference T9 unknown:D005621	FRDA
+N10	Reference T10 unknown:D005621	FRDA
+N11	Reference T11 unknown:D005621	FRDA

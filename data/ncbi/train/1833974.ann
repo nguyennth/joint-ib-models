@@ -1,0 +1,6 @@
+T1	Disease 89 108	Tay - Sachs disease
+T2	Disease 157 176	Tay - Sachs disease
+T3	Disease 841 860	Tay - Sachs disease
+N1	Reference T1 unknown:D013661	Tay-Sachs disease
+N2	Reference T2 unknown:D013661	Tay-Sachs disease
+N3	Reference T3 unknown:D013661	Tay-Sachs disease

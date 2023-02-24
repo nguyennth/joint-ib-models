@@ -1,0 +1,10 @@
+T1	Disease 0 36	Familial discoid lupus erythematosus
+T2	Disease 66 79	C2 deficiency
+T3	Disease 100 135	chronic discoid lupus erythematosus
+T4	Disease 192 205	C2 deficiency
+T5	Disease 415 428	C2 deficiency
+N1	Reference T1 unknown:D008179	Familial discoid lupus erythematosus
+N2	Reference T2 OMIM:217000	C2 deficiency
+N3	Reference T3 unknown:D008179	chronic discoid lupus erythematosus
+N4	Reference T4 OMIM:217000	C2 deficiency
+N5	Reference T5 OMIM:217000	C2 deficiency

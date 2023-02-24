@@ -1,0 +1,12 @@
+T1	Disease 58 84	hereditary hemochromatosis
+T2	Disease 148 174	Hereditary hemochromatosis
+T3	Disease 177 179	HH
+T4	Disease 194 222	autosomal recessive disorder
+T5	Disease 369 371	HH
+T6	Disease 1334 1357	dietary iron deficiency
+N1	Reference T1 unknown:D006432	hereditary hemochromatosis
+N2	Reference T2 unknown:D006432	Hereditary hemochromatosis
+N3	Reference T3 unknown:D006432	HH
+N4	Reference T4 unknown:D030342	autosomal recessive disorder
+N5	Reference T5 unknown:D006432	HH
+N6	Reference T6 unknown:D018798	dietary iron deficiency

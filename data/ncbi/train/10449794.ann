@@ -1,0 +1,18 @@
+T1	Disease 12 35	ataxia - telangiectasia
+T2	Disease 92 115	Ataxia - telangiectasia
+T3	Disease 118 123	A - T
+T4	Disease 226 232	cancer
+T5	Disease 239 256	neurodegeneration
+T6	Disease 464 469	A - T
+T7	Disease 536 541	A - T
+T8	Disease 616 621	A - T
+T9	Disease 895 900	A - T
+N1	Reference T1 unknown:D001260	ataxia-telangiectasia
+N2	Reference T2 unknown:D001260	Ataxia-telangiectasia
+N3	Reference T3 unknown:D001260	A-T
+N4	Reference T4 unknown:D009369	cancer
+N5	Reference T5 unknown:D019636	neurodegeneration
+N6	Reference T6 unknown:D001260	A-T
+N7	Reference T7 unknown:D001260	A-T
+N8	Reference T8 unknown:D001260	A-T
+N9	Reference T9 unknown:D001260	A-T

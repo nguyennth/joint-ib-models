@@ -1,0 +1,52 @@
+T1	Disease 15 34	von Hippel - Lindau
+T2	Disease 37 40	VHL
+T3	Disease 70 73	VHL
+T4	Disease 123 158	von Hippel - Lindau ( VHL ) disease
+T5	Disease 165 211	autosomal dominantly inherited cancer syndrome
+T6	Disease 241 246	tumor
+T7	Disease 274 291	hemangioblastomas
+T8	Disease 294 311	hemangioblastomas
+T9	Disease 344 365	renal cell carcinomas
+T10	Disease 368 395	pancreatic cysts and tumors
+T11	Disease 398 415	pheochromocytomas
+T12	Disease 418 442	endolymphatic sac tumors
+T13	Disease 449 472	epididymal cystadenomas
+T14	Disease 805 808	VHL
+T15	Disease 966 969	VHL
+T16	Disease 1013 1016	VHL
+T17	Disease 1067 1070	VHL
+T18	Disease 1723 1726	VHL
+T19	Disease 1773 1776	VHL
+T20	Disease 1896 1899	VHL
+T21	Disease 1954 1957	VHL
+T22	Disease 2023 2026	VHL
+T23	Disease 2105 2108	VHL
+T24	Disease 2237 2240	VHL
+T25	Disease 2346 2349	VHL
+T26	Disease 2458 2478	VHL gene abnormality
+N1	Reference T1 unknown:D006623	von Hippel-Lindau
+N2	Reference T2 unknown:D006623	VHL
+N3	Reference T3 unknown:D006623	VHL
+N4	Reference T4 unknown:D006623	von Hippel-Lindau (VHL) disease
+N5	Reference T5 unknown:D009386	autosomal dominantly inherited cancer syndrome
+N6	Reference T6 unknown:D009369	tumor
+N7	Reference T7 unknown:D018325	hemangioblastomas
+N8	Reference T8 unknown:D018325	hemangioblastomas
+N9	Reference T9 unknown:D002292	renal cell carcinomas
+N10	Reference T10 unknown:D010181|D010190	pancreatic cysts and tumors
+N11	Reference T11 unknown:D010673	pheochromocytomas
+N12	Reference T12 unknown:D036821	endolymphatic sac tumors
+N13	Reference T13 unknown:D003537	epididymal cystadenomas
+N14	Reference T14 unknown:D006623	VHL
+N15	Reference T15 unknown:D006623	VHL
+N16	Reference T16 unknown:D006623	VHL
+N17	Reference T17 unknown:D006623	VHL
+N18	Reference T18 unknown:D006623	VHL
+N19	Reference T19 unknown:D006623	VHL
+N20	Reference T20 unknown:D006623	VHL
+N21	Reference T21 unknown:D006623	VHL
+N22	Reference T22 unknown:D006623	VHL
+N23	Reference T23 unknown:D006623	VHL
+N24	Reference T24 unknown:D006623	VHL
+N25	Reference T25 unknown:D006623	VHL
+N26	Reference T26 unknown:D006623	VHL gene abnormality

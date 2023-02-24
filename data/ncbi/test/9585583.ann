@@ -1,0 +1,32 @@
+T1	Disease 25 51	Saethre - Chotzen syndrome
+T2	Disease 137 163	Saethre - Chotzen syndrome
+T3	Disease 175 203	autosomal dominant condition
+T4	Disease 207 223	craniosynostosis
+T5	Disease 228 242	limb anomalies
+T6	Disease 581 607	Saethre - Chotzen syndrome
+T7	Disease 872 890	coronal synostosis
+T8	Disease 893 906	brachycephaly
+T9	Disease 909 929	low frontal hairline
+T10	Disease 932 948	facial asymmetry
+T11	Disease 951 957	ptosis
+T12	Disease 960 973	hypertelorism
+T13	Disease 976 992	broad great toes
+T14	Disease 999 1011	clinodactyly
+T15	Disease 1236 1262	craniosynostotic condition
+T16	Disease 1273 1325	Saethre - Chotzen , Crouzon , and Pfeiffer syndromes
+N1	Reference T1 OMIM:101400	Saethre-Chotzen syndrome
+N2	Reference T2 OMIM:101400	Saethre-Chotzen syndrome
+N3	Reference T3 unknown:D030342	autosomal dominant condition
+N4	Reference T4 unknown:D003398	craniosynostosis
+N5	Reference T5 unknown:D017880	limb anomalies
+N6	Reference T6 OMIM:101400	Saethre-Chotzen syndrome
+N7	Reference T7 unknown:D003398	coronal synostosis
+N8	Reference T8 unknown:D003398	brachycephaly
+N9	Reference T9 unknown:D019465	low frontal hairline
+N10	Reference T10 unknown:D005146	facial asymmetry
+N11	Reference T11 unknown:D001763	ptosis
+N12	Reference T12 unknown:D006972	hypertelorism
+N13	Reference T13 unknown:D005532	broad great toes
+N14	Reference T14 unknown:C536852	clinodactyly
+N15	Reference T15 unknown:D003398	craniosynostotic condition
+N16	Reference T16 OMIM:101400|OMIM:123500|OMIM:101600	Saethre-Chotzen, Crouzon, and Pfeiffer syndromes

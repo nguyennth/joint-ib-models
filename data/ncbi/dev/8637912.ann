@@ -1,0 +1,20 @@
+T1	Disease 0 5	Tumor
+T2	Disease 41 59	prostate carcinoma
+T3	Disease 127 142	Prostate cancer
+T4	Disease 179 185	cancer
+T5	Disease 410 429	prostate carcinomas
+T6	Disease 509 528	prostate carcinomas
+T7	Disease 1049 1073	prostatic adenocarcinoma
+T8	Disease 1168 1191	prostate adenocarcinoma
+T9	Disease 1645 1663	prostate carcinoma
+T10	Disease 1757 1781	prostatic adenocarcinoma
+N1	Reference T1 unknown:D009369	Tumor
+N2	Reference T2 unknown:D011471	prostate carcinoma
+N3	Reference T3 unknown:D011471	Prostate cancer
+N4	Reference T4 unknown:D009369	cancer
+N5	Reference T5 unknown:D011471	prostate carcinomas
+N6	Reference T6 unknown:D011471	prostate carcinomas
+N7	Reference T7 unknown:D011471	prostatic adenocarcinoma
+N8	Reference T8 unknown:D011471	prostate adenocarcinoma
+N9	Reference T9 unknown:D011471	prostate carcinoma
+N10	Reference T10 unknown:D011471	prostatic adenocarcinoma

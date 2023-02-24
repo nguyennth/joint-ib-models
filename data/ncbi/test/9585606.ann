@@ -1,0 +1,14 @@
+T1	Disease 4 19	hemochromatosis
+T2	Disease 108 123	Hemochromatosis
+T3	Disease 130 167	inherited disorder of iron metabolism
+T4	Disease 208 221	iron overload
+T5	Disease 226 241	premature death
+T6	Disease 248 263	hemochromatosis
+T7	Disease 504 519	hemochromatosis
+N1	Reference T1 unknown:D006432	hemochromatosis
+N2	Reference T2 unknown:D006432	Hemochromatosis
+N3	Reference T3 unknown:D019189	inherited disorder of iron metabolism
+N4	Reference T4 unknown:D019190	iron overload
+N5	Reference T5 unknown:D003643	premature death
+N6	Reference T6 unknown:D006432	hemochromatosis
+N7	Reference T7 unknown:D006432	hemochromatosis

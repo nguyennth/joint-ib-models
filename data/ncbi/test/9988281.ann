@@ -1,0 +1,22 @@
+T1	Disease 59 92	non - inherited breast carcinomas
+T2	Disease 131 137	tumour
+T3	Disease 160 196	hereditary breast and ovarian cancer
+T4	Disease 246 268	non - familial cancers
+T5	Disease 310 326	sporadic cancers
+T6	Disease 452 493	non - familial breast and ovarian cancers
+T7	Disease 1030 1049	breast malignancies
+T8	Disease 1159 1183	invasive lobular cancers
+T9	Disease 1188 1217	low - grade ductal carcinomas
+T10	Disease 1312 1329	ductal carcinomas
+T11	Disease 1431 1454	sporadic breast cancers
+N1	Reference T1 unknown:D001943	non-inherited breast carcinomas
+N2	Reference T2 unknown:D009369	tumour
+N3	Reference T3 unknown:D061325	hereditary breast and ovarian cancer
+N4	Reference T4 unknown:D009369	non-familial cancers
+N5	Reference T5 unknown:D009369	sporadic cancers
+N6	Reference T6 unknown:D001943|D010051	non-familial breast and ovarian cancers
+N7	Reference T7 unknown:D001943	breast malignancies
+N8	Reference T8 unknown:D018275	invasive lobular cancers
+N9	Reference T9 unknown:D044584	low-grade ductal carcinomas
+N10	Reference T10 unknown:D044584	ductal carcinomas
+N11	Reference T11 unknown:D001943	sporadic breast cancers

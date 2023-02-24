@@ -1,0 +1,28 @@
+T1	Disease 39 94	very - long - chain acyl - CoA dehydrogenase deficiency
+T2	Disease 103 117	cardiomyopathy
+T3	Disease 122 134	sudden death
+T4	Disease 303 329	sudden , unexplained death
+T5	Disease 351 373	hepatic encephalopathy
+T6	Disease 377 390	liver failure
+T7	Disease 393 410	skeletal myopathy
+T8	Disease 417 431	cardiomyopathy
+T9	Disease 854 870	VLCAD deficiency
+T10	Disease 902 916	cardiac arrest
+T11	Disease 921 935	cardiomyopathy
+T12	Disease 1421 1437	VLCAD deficiency
+T13	Disease 1530 1544	cardiomyopathy
+T14	Disease 1549 1561	sudden death
+N1	Reference T1 unknown:C536353	very-long-chain acyl-CoA dehydrogenase deficiency
+N2	Reference T2 unknown:D009202	cardiomyopathy
+N3	Reference T3 unknown:D003645	sudden death
+N4	Reference T4 unknown:D003645	sudden, unexplained death
+N5	Reference T5 unknown:D006501	hepatic encephalopathy
+N6	Reference T6 unknown:D017093	liver failure
+N7	Reference T7 unknown:D009135	skeletal myopathy
+N8	Reference T8 unknown:D009202	cardiomyopathy
+N9	Reference T9 unknown:C536353	VLCAD deficiency
+N10	Reference T10 unknown:D006323	cardiac arrest
+N11	Reference T11 unknown:D009202	cardiomyopathy
+N12	Reference T12 unknown:C536353	VLCAD deficiency
+N13	Reference T13 unknown:D009202	cardiomyopathy
+N14	Reference T14 unknown:D003645	sudden death

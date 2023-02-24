@@ -1,0 +1,12 @@
+T1	Disease 33 79	X - linked Emery - Dreifuss muscular dystrophy
+T2	Disease 216 251	Emery - Dreifuss muscular dystrophy
+T3	Disease 254 257	EMD
+T4	Disease 380 394	X - linked EMD
+T5	Disease 994 1012	ankle contractures
+T6	Disease 1017 1032	muscle weakness
+N1	Reference T1 unknown:D020389	X-linked Emery-Dreifuss muscular dystrophy
+N2	Reference T2 unknown:D020389	Emery-Dreifuss muscular dystrophy
+N3	Reference T3 unknown:D020389	EMD
+N4	Reference T4 unknown:D020389	X-linked EMD
+N5	Reference T5 unknown:D003286	ankle contractures
+N6	Reference T6 unknown:D018908	muscle weakness

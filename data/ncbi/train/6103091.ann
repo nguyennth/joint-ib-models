@@ -1,0 +1,24 @@
+T1	Disease 0 21	Complement deficiency
+T2	Disease 26 35	nephritis
+T3	Disease 122 138	deficiency of C3
+T4	Disease 257 270	C3 deficiency
+T5	Disease 311 329	glomerulonephritis
+T6	Disease 332 343	proteinuria
+T7	Disease 367 377	haematuria
+T8	Disease 414 428	C3 - deficient
+T9	Disease 485 498	C3 deficiency
+T10	Disease 649 662	renal disease
+T11	Disease 730 743	C3 deficiency
+T12	Disease 759 768	nephritis
+N1	Reference T1 unknown:D007153	Complement deficiency
+N2	Reference T2 unknown:D009393	nephritis
+N3	Reference T3 OMIM:613779	deficiency of C3
+N4	Reference T4 OMIM:613779	C3 deficiency
+N5	Reference T5 unknown:D005921	glomerulonephritis
+N6	Reference T6 unknown:D011507	proteinuria
+N7	Reference T7 unknown:D006417	haematuria
+N8	Reference T8 OMIM:613779	C3-deficient
+N9	Reference T9 OMIM:613779	C3 deficiency
+N10	Reference T10 unknown:D007674	renal disease
+N11	Reference T11 OMIM:613779	C3 deficiency
+N12	Reference T12 unknown:D009393	nephritis

@@ -1,0 +1,14 @@
+T1	Disease 11 27	deficiency of C5
+T2	Disease 48 75	discoid lupus erythematosus
+T3	Disease 107 134	discoid lupus erythematosus
+T4	Disease 190 208	Hypocomplementemia
+T5	Disease 230 246	deficiency of C5
+T6	Disease 367 394	discoid lupus erythematosus
+T7	Disease 399 412	C5 deficiency
+N1	Reference T1 OMIM:609536	deficiency of C5
+N2	Reference T2 unknown:D008179	discoid lupus erythematosus
+N3	Reference T3 unknown:D008179	discoid lupus erythematosus
+N4	Reference T4 unknown:D007153	Hypocomplementemia
+N5	Reference T5 OMIM:609536	deficiency of C5
+N6	Reference T6 unknown:D008179	discoid lupus erythematosus
+N7	Reference T7 OMIM:609536	C5 deficiency

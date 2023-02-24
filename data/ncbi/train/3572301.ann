@@ -1,0 +1,4 @@
+T1	Disease 59 85	Wiskott - Aldrich syndrome
+T2	Disease 331 385	X - linked immunodeficiency Wiskott - Aldrich syndrome
+N1	Reference T1 unknown:D014923	Wiskott-Aldrich syndrome
+N2	Reference T2 unknown:D014923	X-linked immunodeficiency Wiskott-Aldrich syndrome

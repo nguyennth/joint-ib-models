@@ -1,0 +1,46 @@
+T1	Disease 22 51	multiple epiphyseal dysplasia
+T2	Disease 74 83	club foot
+T3	Disease 90 112	double layered patella
+T4	Disease 194 215	diastrophic dysplasia
+T5	Disease 276 295	recessive disorders
+T6	Disease 296 314	achondrogenesis 1B
+T7	Disease 317 335	atelosteogenesis 2
+T8	Disease 342 363	diastrophic dysplasia
+T9	Disease 719 748	multiple epiphyseal dysplasia
+T10	Disease 770 779	club foot
+T11	Disease 784 797	hip dysplasia
+T12	Disease 842 871	multiple epiphyseal dysplasia
+T13	Disease 905 927	double layered patella
+T14	Disease 965 977	Cleft palate
+T15	Disease 980 1005	swelling of the ear pinna
+T16	Disease 1012 1029	hitch hiker thumb
+T17	Disease 1220 1235	DTDST disorders
+T18	Disease 1266 1284	recessive disorder
+T19	Disease 1357 1386	Multiple epiphyseal dysplasia
+T20	Disease 1449 1453	EDM1
+T21	Disease 1493 1497	EDM2
+T22	Disease 1665 1668	MED
+T23	Disease 1671 1675	EDM4
+N1	Reference T1 unknown:D010009	multiple epiphyseal dysplasia
+N2	Reference T2 unknown:D003025	club foot
+N3	Reference T3 unknown:C535504	double layered patella
+N4	Reference T4 unknown:C536170	diastrophic dysplasia
+N5	Reference T5 unknown:D030342	recessive disorders
+N6	Reference T6 unknown:C536016	achondrogenesis 1B
+N7	Reference T7 unknown:C535395	atelosteogenesis 2
+N8	Reference T8 unknown:C536170	diastrophic dysplasia
+N9	Reference T9 unknown:D010009	multiple epiphyseal dysplasia
+N10	Reference T10 unknown:D003025	club foot
+N11	Reference T11 unknown:D006618	hip dysplasia
+N12	Reference T12 unknown:D010009	multiple epiphyseal dysplasia
+N13	Reference T13 unknown:C535504	double layered patella
+N14	Reference T14 unknown:D002972	Cleft palate
+N15	Reference T15 unknown:D004427	swelling of the ear pinna
+N16	Reference T16 unknown:C536903	hitch hiker thumb
+N17	Reference T17 unknown:D030342	DTDST disorders
+N18	Reference T18 unknown:D030342	recessive disorder
+N19	Reference T19 unknown:D010009	Multiple epiphyseal dysplasia
+N20	Reference T20 OMIM:132400	EDM1
+N21	Reference T21 OMIM:600204	EDM2
+N22	Reference T22 unknown:D010009	MED
+N23	Reference T23 OMIM:226900	EDM4

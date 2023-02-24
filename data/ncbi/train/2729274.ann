@@ -1,0 +1,22 @@
+T1	Disease 0 20	Color vision defects
+T2	Disease 24 45	adrenomyeloneuropathy
+T3	Disease 73 94	abnormal color vision
+T4	Disease 99 120	adrenomyeloneuropathy
+T5	Disease 123 126	AMN
+T6	Disease 152 155	AMN
+T7	Disease 529 532	AMN
+T8	Disease 616 637	abnormal color vision
+T9	Disease 714 717	AMN
+T10	Disease 740 760	adrenoleukodystrophy
+T11	Disease 888 911	contiguous gene defects
+N1	Reference T1 unknown:D003117	Color vision defects
+N2	Reference T2 unknown:D000326	adrenomyeloneuropathy
+N3	Reference T3 unknown:D003117	abnormal color vision
+N4	Reference T4 unknown:D000326	adrenomyeloneuropathy
+N5	Reference T5 unknown:D000326	AMN
+N6	Reference T6 unknown:D000326	AMN
+N7	Reference T7 unknown:D000326	AMN
+N8	Reference T8 unknown:D003117	abnormal color vision
+N9	Reference T9 unknown:D000326	AMN
+N10	Reference T10 unknown:D000326	adrenoleukodystrophy
+N11	Reference T11 unknown:D025063	contiguous gene defects

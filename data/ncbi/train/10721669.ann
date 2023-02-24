@@ -1,0 +1,14 @@
+T1	Disease 60 74	Wilson disease
+T2	Disease 77 91	Wilson disease
+T3	Disease 94 96	WD
+T4	Disease 105 133	autosomal recessive disorder
+T5	Disease 376 378	WD
+T6	Disease 1311 1313	WD
+T7	Disease 1374 1376	WD
+N1	Reference T1 unknown:D006527	Wilson disease
+N2	Reference T2 unknown:D006527	Wilson disease
+N3	Reference T3 unknown:D006527	WD
+N4	Reference T4 unknown:D030342	autosomal recessive disorder
+N5	Reference T5 unknown:D006527	WD
+N6	Reference T6 unknown:D006527	WD
+N7	Reference T7 unknown:D006527	WD

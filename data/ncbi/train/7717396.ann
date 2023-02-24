@@ -1,0 +1,38 @@
+T1	Disease 26 57	X - linked adrenoleukodystrophy
+T2	Disease 147 167	peroxisomal disorder
+T3	Disease 170 201	X - linked adrenoleukodystrophy
+T4	Disease 204 211	X - ALD
+T5	Disease 465 472	X - ALD
+T6	Disease 556 559	ALD
+T7	Disease 562 583	adrenomyeloneuropathy
+T8	Disease 586 589	AMN
+T9	Disease 600 620	Addison disease only
+T10	Disease 625 628	ADO
+T11	Disease 718 721	ALD
+T12	Disease 760 767	X - ALD
+T13	Disease 920 923	ALD
+T14	Disease 1006 1009	AMN
+T15	Disease 1144 1147	ADO
+T16	Disease 1401 1404	ALD
+T17	Disease 1409 1412	AMN
+T18	Disease 1527 1534	X - ALD
+T19	Disease 1582 1589	X - ALD
+N1	Reference T1 unknown:D000326	X-linked adrenoleukodystrophy
+N2	Reference T2 unknown:D018901	peroxisomal disorder
+N3	Reference T3 unknown:D000326	X-linked adrenoleukodystrophy
+N4	Reference T4 unknown:D000326	X-ALD
+N5	Reference T5 unknown:D000326	X-ALD
+N6	Reference T6 unknown:D000326	ALD
+N7	Reference T7 unknown:D000326	adrenomyeloneuropathy
+N8	Reference T8 unknown:D000326	AMN
+N9	Reference T9 unknown:D000224	Addison disease only
+N10	Reference T10 unknown:D000224	ADO
+N11	Reference T11 unknown:D000326	ALD
+N12	Reference T12 unknown:D000326	X-ALD
+N13	Reference T13 unknown:D000326	ALD
+N14	Reference T14 unknown:D000326	AMN
+N15	Reference T15 unknown:D000224	ADO
+N16	Reference T16 unknown:D000326	ALD
+N17	Reference T17 unknown:D000326	AMN
+N18	Reference T18 unknown:D000326	X-ALD
+N19	Reference T19 unknown:D000326	X-ALD

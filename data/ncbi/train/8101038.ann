@@ -1,0 +1,10 @@
+T1	Disease 66 111	late - infantile metachromatic leukodystrophy
+T2	Disease 153 198	late - infantile metachromatic leukodystrophy
+T3	Disease 201 204	MLD
+T4	Disease 369 378	adult MLD
+T5	Disease 984 1012	late - infantile type of MLD
+N1	Reference T1 unknown:D007966	late-infantile metachromatic leukodystrophy
+N2	Reference T2 unknown:D007966	late-infantile metachromatic leukodystrophy
+N3	Reference T3 unknown:D007966	MLD
+N4	Reference T4 unknown:D007966	adult MLD
+N5	Reference T5 unknown:D007966	late-infantile type of MLD

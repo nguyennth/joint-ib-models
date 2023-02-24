@@ -1,0 +1,22 @@
+T1	Disease 114 140	Wiskott - Aldrich syndrome
+T2	Disease 147 173	Wiskott - Aldrich syndrome
+T3	Disease 176 179	WAS
+T4	Disease 187 222	X - linked immunodeficiency disease
+T5	Disease 281 284	WAS
+T6	Disease 460 463	WAS
+T7	Disease 627 630	WAS
+T8	Disease 682 685	WAS
+T9	Disease 1321 1346	isolated thrombocytopenia
+T10	Disease 1412 1415	WAS
+T11	Disease 1710 1713	WAS
+N1	Reference T1 unknown:D014923	Wiskott-Aldrich syndrome
+N2	Reference T2 unknown:D014923	Wiskott-Aldrich syndrome
+N3	Reference T3 unknown:D014923	WAS
+N4	Reference T4 unknown:D007153+D040181	X-linked immunodeficiency disease
+N5	Reference T5 unknown:D014923	WAS
+N6	Reference T6 unknown:D014923	WAS
+N7	Reference T7 unknown:D014923	WAS
+N8	Reference T8 unknown:D014923	WAS
+N9	Reference T9 unknown:D013921	isolated thrombocytopenia
+N10	Reference T10 unknown:D014923	WAS
+N11	Reference T11 unknown:D014923	WAS

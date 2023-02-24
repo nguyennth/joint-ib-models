@@ -1,0 +1,6 @@
+T1	Disease 19 32	C7 deficiency
+T2	Disease 84 97	C7 deficiency
+T3	Disease 653 667	C7 - deficient
+N1	Reference T1 OMIM:610102	C7 deficiency
+N2	Reference T2 OMIM:610102	C7 deficiency
+N3	Reference T3 OMIM:610102	C7-deficient

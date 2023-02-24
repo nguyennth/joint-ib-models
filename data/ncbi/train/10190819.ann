@@ -1,0 +1,44 @@
+T1	Disease 96 127	X - linked adrenoleukodystrophy
+T2	Disease 141 172	X - linked adrenoleukodystrophy
+T3	Disease 175 178	ALD
+T4	Disease 187 204	inherited disease
+T5	Disease 234 256	neurologic dysfunction
+T6	Disease 288 309	adrenal insufficiency
+T7	Disease 332 335	ALD
+T8	Disease 369 391	childhood cerebral ALD
+T9	Disease 407 431	neurologic deterioration
+T10	Disease 478 490	cerebral ALD
+T11	Disease 530 552	neurologic dysfunction
+T12	Disease 581 602	adrenomyeloneuropathy
+T13	Disease 607 622	Addison disease
+T14	Disease 853 856	ALD
+T15	Disease 1071 1093	childhood cerebral ALD
+T16	Disease 1127 1139	cerebral ALD
+T17	Disease 1162 1183	adrenomyeloneuropathy
+T18	Disease 1267 1270	ALD
+T19	Disease 1580 1592	cerebral ALD
+T20	Disease 1807 1810	ALD
+T21	Disease 2592 2595	ALD
+T22	Disease 2710 2713	ALD
+N1	Reference T1 unknown:D000326	X-linked adrenoleukodystrophy
+N2	Reference T2 unknown:D000326	X-linked adrenoleukodystrophy
+N3	Reference T3 unknown:D000326	ALD
+N4	Reference T4 unknown:D030342	inherited disease
+N5	Reference T5 unknown:D009461	neurologic dysfunction
+N6	Reference T6 unknown:D000309	adrenal insufficiency
+N7	Reference T7 unknown:D000326	ALD
+N8	Reference T8 unknown:D000326	childhood cerebral ALD
+N9	Reference T9 unknown:D009461	neurologic deterioration
+N10	Reference T10 unknown:D000326	cerebral ALD
+N11	Reference T11 unknown:D009461	neurologic dysfunction
+N12	Reference T12 unknown:D000326	adrenomyeloneuropathy
+N13	Reference T13 unknown:D000224	Addison disease
+N14	Reference T14 unknown:D000326	ALD
+N15	Reference T15 unknown:D000326	childhood cerebral ALD
+N16	Reference T16 unknown:D000326	cerebral ALD
+N17	Reference T17 unknown:D000326	adrenomyeloneuropathy
+N18	Reference T18 unknown:D000326	ALD
+N19	Reference T19 unknown:D000326	cerebral ALD
+N20	Reference T20 unknown:D000326	ALD
+N21	Reference T21 unknown:D000326	ALD
+N22	Reference T22 unknown:D000326	ALD

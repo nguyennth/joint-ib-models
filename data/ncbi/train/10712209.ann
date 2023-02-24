@@ -1,0 +1,20 @@
+T1	Disease 21 47	hereditary prostate cancer
+T2	Disease 88 114	hereditary prostate cancer
+T3	Disease 162 177	Prostate Cancer
+T4	Disease 238 253	prostate cancer
+T5	Disease 489 515	hereditary prostate cancer
+T6	Disease 675 701	hereditary prostate cancer
+T7	Disease 769 784	Prostate Cancer
+T8	Disease 2221 2236	prostate cancer
+T9	Disease 2311 2326	prostate cancer
+T10	Disease 2417 2443	hereditary prostate cancer
+N1	Reference T1 unknown:C537243	hereditary prostate cancer
+N2	Reference T2 unknown:C537243	hereditary prostate cancer
+N3	Reference T3 unknown:D011471	Prostate Cancer
+N4	Reference T4 unknown:D011471	prostate cancer
+N5	Reference T5 unknown:C537243	hereditary prostate cancer
+N6	Reference T6 unknown:C537243	hereditary prostate cancer
+N7	Reference T7 unknown:D011471	Prostate Cancer
+N8	Reference T8 unknown:D011471	prostate cancer
+N9	Reference T9 unknown:D011471	prostate cancer
+N10	Reference T10 unknown:C537243	hereditary prostate cancer

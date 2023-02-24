@@ -1,0 +1,12 @@
+T1	Disease 46 59	breast cancer
+T2	Disease 222 227	tumor
+T3	Disease 302 327	breast and ovarian cancer
+T4	Disease 570 583	breast cancer
+T5	Disease 623 642	BRCA1 abnormalities
+T6	Disease 687 701	breast cancers
+N1	Reference T1 unknown:D001943	breast cancer
+N2	Reference T2 unknown:D009369	tumor
+N3	Reference T3 unknown:D001943|D010051	breast and ovarian cancer
+N4	Reference T4 unknown:D001943	breast cancer
+N5	Reference T5 OMIM:604370	BRCA1 abnormalities
+N6	Reference T6 unknown:D001943	breast cancers

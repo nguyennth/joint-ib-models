@@ -1,0 +1,24 @@
+T1	Disease 133 146	kidney cancer
+T2	Disease 149 161	Wilms tumour
+T3	Disease 164 166	WT
+T4	Disease 305 327	sporadic Wilms tumours
+T5	Disease 388 410	Denys - Drash syndrome
+T6	Disease 413 430	renal nephropathy
+T7	Disease 433 448	gonadal anomaly
+T8	Disease 451 471	predisposition to WT
+T9	Disease 563 593	juvenile granulosa cell tumour
+T10	Disease 596 631	non - asbestos related mesothelioma
+T11	Disease 634 670	desmoplastic small round cell tumour
+T12	Disease 693 715	acute myeloid leukemia
+N1	Reference T1 unknown:D007680	kidney cancer
+N2	Reference T2 unknown:D009396	Wilms tumour
+N3	Reference T3 unknown:D009396	WT
+N4	Reference T4 unknown:D009396	sporadic Wilms tumours
+N5	Reference T5 unknown:D030321	Denys-Drash syndrome
+N6	Reference T6 unknown:D007674	renal nephropathy
+N7	Reference T7 unknown:D006059	gonadal anomaly
+N8	Reference T8 unknown:D020022	predisposition to WT
+N9	Reference T9 unknown:D006106	juvenile granulosa cell tumour
+N10	Reference T10 unknown:D008654	non-asbestos related mesothelioma
+N11	Reference T11 unknown:D058405	desmoplastic small round cell tumour
+N12	Reference T12 unknown:D015470	acute myeloid leukemia

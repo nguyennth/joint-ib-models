@@ -1,0 +1,28 @@
+T1	Disease 101 119	myotonic dystrophy
+T2	Disease 152 170	myotonic dystrophy
+T3	Disease 173 175	DM
+T4	Disease 291 293	DM
+T5	Disease 392 394	DM
+T6	Disease 425 427	DM
+T7	Disease 597 615	Fragile X syndrome
+T8	Disease 618 620	DM
+T9	Disease 777 779	DM
+T10	Disease 822 840	myotonic dystrophy
+T11	Disease 938 940	DM
+T12	Disease 1070 1072	DM
+T13	Disease 1138 1140	DM
+T14	Disease 1265 1267	DM
+N1	Reference T1 unknown:D009223	myotonic dystrophy
+N2	Reference T2 unknown:D009223	myotonic dystrophy
+N3	Reference T3 unknown:D009223	DM
+N4	Reference T4 unknown:D009223	DM
+N5	Reference T5 unknown:D009223	DM
+N6	Reference T6 unknown:D009223	DM
+N7	Reference T7 unknown:D005600	Fragile X syndrome
+N8	Reference T8 unknown:D009223	DM
+N9	Reference T9 unknown:D009223	DM
+N10	Reference T10 unknown:D009223	myotonic dystrophy
+N11	Reference T11 unknown:D009223	DM
+N12	Reference T12 unknown:D009223	DM
+N13	Reference T13 unknown:D009223	DM
+N14	Reference T14 unknown:D009223	DM

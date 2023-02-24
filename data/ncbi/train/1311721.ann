@@ -1,0 +1,18 @@
+T1	Disease 242 248	tumors
+T2	Disease 422 435	neuroblastoma
+T3	Disease 540 545	tumor
+T4	Disease 602 608	tumors
+T5	Disease 708 714	tumors
+T6	Disease 918 926	leukemia
+T7	Disease 1077 1085	leukemia
+T8	Disease 1142 1156	acute leukemia
+T9	Disease 1390 1398	leukemia
+N1	Reference T1 unknown:D009369	tumors
+N2	Reference T2 unknown:D009447	neuroblastoma
+N3	Reference T3 unknown:D009369	tumor
+N4	Reference T4 unknown:D009369	tumors
+N5	Reference T5 unknown:D009369	tumors
+N6	Reference T6 unknown:D007938	leukemia
+N7	Reference T7 unknown:D007938	leukemia
+N8	Reference T8 unknown:D007938	acute leukemia
+N9	Reference T9 unknown:D007938	leukemia

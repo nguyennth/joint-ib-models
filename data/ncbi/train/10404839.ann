@@ -1,0 +1,18 @@
+T1	Disease 37 53	pendred syndrome
+T2	Disease 67 83	Pendred syndrome
+T3	Disease 111 129	syndromic deafness
+T4	Disease 149 171	dyshormonogenic goiter
+T5	Disease 188 213	sensory - neural deafness
+T6	Disease 255 258	PDS
+T7	Disease 341 355	thyroid goiter
+T8	Disease 360 385	sensory - neural deafness
+T9	Disease 683 699	Pendred syndrome
+N1	Reference T1 unknown:C536648	pendred syndrome
+N2	Reference T2 unknown:C536648	Pendred syndrome
+N3	Reference T3 unknown:D003638	syndromic deafness
+N4	Reference T4 unknown:D006042	dyshormonogenic goiter
+N5	Reference T5 unknown:D006319	sensory-neural deafness
+N6	Reference T6 unknown:C536648	PDS
+N7	Reference T7 unknown:D006042	thyroid goiter
+N8	Reference T8 unknown:D006319	sensory-neural deafness
+N9	Reference T9 unknown:C536648	Pendred syndrome

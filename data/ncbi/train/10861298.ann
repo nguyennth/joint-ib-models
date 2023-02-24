@@ -1,0 +1,42 @@
+T1	Disease 30 33	PDS
+T2	Disease 105 121	Pendred syndrome
+T3	Disease 126 154	non - syndromic hearing loss
+T4	Disease 157 162	DFNB4
+T5	Disease 171 174	PDS
+T6	Disease 334 350	Pendred syndrome
+T7	Disease 355 403	autosomal recessive non - syndromic hearing loss
+T8	Disease 411 416	DFNB4
+T9	Disease 500 528	non - syndromic hearing loss
+T10	Disease 600 603	PDS
+T11	Disease 637 640	PDS
+T12	Disease 671 687	Pendred syndrome
+T13	Disease 713 716	PDS
+T14	Disease 747 775	non - syndromic hearing loss
+T15	Disease 803 819	Pendred syndrome
+T16	Disease 877 880	PDS
+T17	Disease 925 953	non - syndromic hearing loss
+T18	Disease 1022 1038	Pendred syndrome
+T19	Disease 1147 1152	DFNB4
+T20	Disease 1369 1375	goiter
+T21	Disease 1396 1401	DFNB4
+N1	Reference T1 unknown:C536648	PDS
+N2	Reference T2 unknown:C536648	Pendred syndrome
+N3	Reference T3 unknown:C537845	non-syndromic hearing loss
+N4	Reference T4 OMIM:600791	DFNB4
+N5	Reference T5 unknown:C536648	PDS
+N6	Reference T6 unknown:C536648	Pendred syndrome
+N7	Reference T7 OMIM:600791	autosomal recessive non-syndromic hearing loss
+N8	Reference T8 OMIM:600791	DFNB4
+N9	Reference T9 unknown:C537845	non-syndromic hearing loss
+N10	Reference T10 unknown:C536648	PDS
+N11	Reference T11 unknown:C536648	PDS
+N12	Reference T12 unknown:C536648	Pendred syndrome
+N13	Reference T13 unknown:C536648	PDS
+N14	Reference T14 unknown:C537845	non-syndromic hearing loss
+N15	Reference T15 unknown:C536648	Pendred syndrome
+N16	Reference T16 unknown:C536648	PDS
+N17	Reference T17 unknown:C537845	non-syndromic hearing loss
+N18	Reference T18 unknown:C536648	Pendred syndrome
+N19	Reference T19 OMIM:600791	DFNB4
+N20	Reference T20 unknown:D006042	goiter
+N21	Reference T21 OMIM:600791	DFNB4

@@ -1,0 +1,20 @@
+T1	Disease 20 34	Norrie disease
+T2	Disease 37 39	ND
+T3	Disease 72 74	ND
+T4	Disease 163 177	Norrie disease
+T5	Disease 180 182	ND
+T6	Disease 238 240	ND
+T7	Disease 283 285	ND
+T8	Disease 597 599	ND
+T9	Disease 999 1001	ND
+T10	Disease 1118 1160	X - linked recessive neurological disorder
+N1	Reference T1 unknown:C537849	Norrie disease
+N2	Reference T2 unknown:C537849	ND
+N3	Reference T3 unknown:C537849	ND
+N4	Reference T4 unknown:C537849	Norrie disease
+N5	Reference T5 unknown:C537849	ND
+N6	Reference T6 unknown:C537849	ND
+N7	Reference T7 unknown:C537849	ND
+N8	Reference T8 unknown:C537849	ND
+N9	Reference T9 unknown:C537849	ND
+N10	Reference T10 unknown:D020271	X-linked recessive neurological disorder

@@ -1,0 +1,20 @@
+T1	Disease 0 11	Nephropathy
+T2	Disease 19 45	Wiskott - Aldrich syndrome
+T3	Disease 48 59	Nephropathy
+T4	Disease 105 131	Wiskott - Aldrich syndrome
+T5	Disease 220 231	nephropathy
+T6	Disease 354 367	renal failure
+T7	Disease 673 686	renal failure
+T8	Disease 741 754	renal failure
+T9	Disease 769 795	Wiskott - Aldrich syndrome
+T10	Disease 902 915	renal disease
+N1	Reference T1 unknown:D007674	Nephropathy
+N2	Reference T2 unknown:D014923	Wiskott-Aldrich syndrome
+N3	Reference T3 unknown:D007674	Nephropathy
+N4	Reference T4 unknown:D014923	Wiskott-Aldrich syndrome
+N5	Reference T5 unknown:D007674	nephropathy
+N6	Reference T6 unknown:D051437	renal failure
+N7	Reference T7 unknown:D051437	renal failure
+N8	Reference T8 unknown:D051437	renal failure
+N9	Reference T9 unknown:D014923	Wiskott-Aldrich syndrome
+N10	Reference T10 unknown:D007674	renal disease

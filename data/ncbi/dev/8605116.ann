@@ -1,0 +1,4 @@
+T1	Disease 52 77	hereditary retinoblastoma
+T2	Disease 153 198	familial or sporadic bilateral retinoblastoma
+N1	Reference T1 unknown:D012175	hereditary retinoblastoma
+N2	Reference T2 unknown:D012175	familial or sporadic bilateral retinoblastoma

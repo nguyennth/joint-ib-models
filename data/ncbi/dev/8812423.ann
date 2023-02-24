@@ -1,0 +1,12 @@
+T1	Disease 52 59	lipomas
+T2	Disease 145 152	lipomas
+T3	Disease 728 734	lipoma
+T4	Disease 817 823	lipoma
+T5	Disease 1889 1895	lipoma
+T6	Disease 1911 1926	primary lipomas
+N1	Reference T1 unknown:D008067	lipomas
+N2	Reference T2 unknown:D008067	lipomas
+N3	Reference T3 unknown:D008067	lipoma
+N4	Reference T4 unknown:D008067	lipoma
+N5	Reference T5 unknown:D008067	lipoma
+N6	Reference T6 unknown:D008067	primary lipomas

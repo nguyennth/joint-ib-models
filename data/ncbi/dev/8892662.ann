@@ -1,0 +1,20 @@
+T1	Disease 23 47	complement C7 deficiency
+T2	Disease 50 74	Complement C7 deficiency
+T3	Disease 77 80	C7D
+T4	Disease 123 143	bacterial infections
+T5	Disease 157 167	meningitis
+T6	Disease 178 200	Neisseria meningitidis
+T7	Disease 249 252	C7D
+T8	Disease 1062 1065	C7D
+T9	Disease 1124 1127	C7D
+T10	Disease 1168 1205	deficiencies of complement components
+N1	Reference T1 OMIM:610102	complement C7 deficiency
+N2	Reference T2 OMIM:610102	Complement C7 deficiency
+N3	Reference T3 OMIM:610102	C7D
+N4	Reference T4 unknown:D001424	bacterial infections
+N5	Reference T5 unknown:D008581	meningitis
+N6	Reference T6 unknown:D008589	Neisseria meningitidis
+N7	Reference T7 OMIM:610102	C7D
+N8	Reference T8 OMIM:610102	C7D
+N9	Reference T9 OMIM:610102	C7D
+N10	Reference T10 unknown:D007153	deficiencies of complement components

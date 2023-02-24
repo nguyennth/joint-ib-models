@@ -1,0 +1,54 @@
+T1	Disease 69 93	urogenital abnormalities
+T2	Disease 97 119	Denys - Drash syndrome
+T3	Disease 126 137	Wilms tumor
+T4	Disease 213 228	WT1 dysfunction
+T5	Disease 251 261	neoplastic
+T6	Disease 264 275	Wilms tumor
+T7	Disease 278 290	mesothelioma
+T8	Disease 293 302	leukemias
+T9	Disease 309 322	breast cancer
+T10	Disease 329 342	nonneoplastic
+T11	Disease 345 363	glomerulosclerosis
+T12	Disease 450 472	Denys - Drash syndrome
+T13	Disease 475 478	DDS
+T14	Disease 568 571	DDS
+T15	Disease 619 630	nephropathy
+T16	Disease 641 660	mesangial sclerosis
+T17	Disease 666 687	pseudohermaphroditism
+T18	Disease 699 710	Wilms tumor
+T19	Disease 713 715	WT
+T20	Disease 720 723	DDS
+T21	Disease 1038 1057	mesangial sclerosis
+T22	Disease 1076 1079	DDS
+T23	Disease 1122 1142	Male genital defects
+T24	Disease 1192 1203	Wilms tumor
+T25	Disease 1319 1334	Wt1 dysfunction
+T26	Disease 1339 1358	Wilms tumorigenesis
+T27	Disease 1493 1495	WT
+N1	Reference T1 unknown:D014564	urogenital abnormalities
+N2	Reference T2 unknown:D030321	Denys-Drash syndrome
+N3	Reference T3 unknown:D009396	Wilms tumor
+N4	Reference T4 unknown:D030342	WT1 dysfunction
+N5	Reference T5 unknown:D009369	neoplastic
+N6	Reference T6 unknown:D009396	Wilms tumor
+N7	Reference T7 unknown:D008654	mesothelioma
+N8	Reference T8 unknown:D007938	leukemias
+N9	Reference T9 unknown:D001943	breast cancer
+N10	Reference T10 unknown:D004194	nonneoplastic
+N11	Reference T11 unknown:D005921	glomerulosclerosis
+N12	Reference T12 unknown:D030321	Denys-Drash syndrome
+N13	Reference T13 unknown:D030321	DDS
+N14	Reference T14 unknown:D030321	DDS
+N15	Reference T15 unknown:D007674	nephropathy
+N16	Reference T16 unknown:C537346	mesangial sclerosis
+N17	Reference T17 unknown:D012734	pseudohermaphroditism
+N18	Reference T18 unknown:D009396	Wilms tumor
+N19	Reference T19 unknown:D009396	WT
+N20	Reference T20 unknown:D030321	DDS
+N21	Reference T21 unknown:C537346	mesangial sclerosis
+N22	Reference T22 unknown:D030321	DDS
+N23	Reference T23 unknown:D005832	Male genital defects
+N24	Reference T24 unknown:D009396	Wilms tumor
+N25	Reference T25 unknown:D030342	Wt1 dysfunction
+N26	Reference T26 unknown:D009396	Wilms tumorigenesis
+N27	Reference T27 unknown:D009396	WT

@@ -1,0 +1,22 @@
+T1	Disease 42 60	male breast cancer
+T2	Disease 108 126	male breast cancer
+T3	Disease 205 238	inherited breast / ovarian cancer
+T4	Disease 319 349	breast and / or ovarian cancer
+T5	Disease 442 465	breast / ovarian cancer
+T6	Disease 592 610	male breast cancer
+T7	Disease 728 746	male breast cancer
+T8	Disease 806 812	cancer
+T9	Disease 832 846	ovarian cancer
+T10	Disease 916 934	male breast cancer
+T11	Disease 960 983	breast / ovarian cancer
+N1	Reference T1 unknown:D018567	male breast cancer
+N2	Reference T2 unknown:D018567	male breast cancer
+N3	Reference T3 unknown:D061325	inherited breast/ovarian cancer
+N4	Reference T4 unknown:D061325	breast and/or ovarian cancer
+N5	Reference T5 unknown:D061325	breast/ovarian cancer
+N6	Reference T6 unknown:D018567	male breast cancer
+N7	Reference T7 unknown:D018567	male breast cancer
+N8	Reference T8 unknown:D009369	cancer
+N9	Reference T9 unknown:D010051	ovarian cancer
+N10	Reference T10 unknown:D018567	male breast cancer
+N11	Reference T11 unknown:D061325	breast/ovarian cancer

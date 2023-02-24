@@ -1,0 +1,14 @@
+T1	Disease 0 39	Autoimmune lymphoproliferative syndrome
+T2	Disease 42 46	ALPS
+T3	Disease 124 163	Autoimmune lymphoproliferative syndrome
+T4	Disease 166 170	ALPS
+T5	Disease 358 362	ALPS
+T6	Disease 980 984	ALPS
+T7	Disease 1046 1050	ALPS
+N1	Reference T1 unknown:D056735	Autoimmune lymphoproliferative syndrome
+N2	Reference T2 unknown:D056735	ALPS
+N3	Reference T3 unknown:D056735	Autoimmune lymphoproliferative syndrome
+N4	Reference T4 unknown:D056735	ALPS
+N5	Reference T5 unknown:D056735	ALPS
+N6	Reference T6 unknown:D056735	ALPS
+N7	Reference T7 unknown:D056735	ALPS

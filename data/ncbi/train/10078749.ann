@@ -1,0 +1,10 @@
+T1	Disease 46 68	oromandibular dystonia
+T2	Disease 151 173	oromandibular dystonia
+T3	Disease 207 215	dystonia
+T4	Disease 368 376	dystonic
+T5	Disease 401 427	dopa - responsive dystonia
+N1	Reference T1 unknown:D008538	oromandibular dystonia
+N2	Reference T2 unknown:D008538	oromandibular dystonia
+N3	Reference T3 unknown:D004421	dystonia
+N4	Reference T4 unknown:D004421	dystonic
+N5	Reference T5 unknown:C538007	dopa-responsive dystonia

@@ -1,0 +1,12 @@
+T1	Disease 142 186	familial neurohypophyseal diabetes insipidus
+T2	Disease 189 233	Familial neurohypophyseal diabetes insipidus
+T3	Disease 236 240	FNDI
+T4	Disease 249 275	autosomal dominant disease
+T5	Disease 478 482	FNDI
+T6	Disease 1213 1217	FNDI
+N1	Reference T1 OMIM:125700	familial neurohypophyseal diabetes insipidus
+N2	Reference T2 OMIM:125700	Familial neurohypophyseal diabetes insipidus
+N3	Reference T3 OMIM:125700	FNDI
+N4	Reference T4 unknown:D030342	autosomal dominant disease
+N5	Reference T5 OMIM:125700	FNDI
+N6	Reference T6 OMIM:125700	FNDI

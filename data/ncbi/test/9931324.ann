@@ -1,0 +1,26 @@
+T1	Disease 103 131	congenital eye malformations
+T2	Disease 176 184	aniridia
+T3	Disease 187 217	congenital absence of the iris
+T4	Disease 238 261	malformation of the eye
+T5	Disease 298 306	aniridia
+T6	Disease 757 765	aniridia
+T7	Disease 992 1000	aniridia
+T8	Disease 1100 1116	ectopia pupillae
+T9	Disease 1119 1135	displaced pupils
+T10	Disease 1142 1162	congenital nystagmus
+T11	Disease 1165 1179	searching gaze
+T12	Disease 1230 1238	aniridia
+T13	Disease 1576 1598	PAX6 - related disease
+N1	Reference T1 unknown:D005124	congenital eye malformations
+N2	Reference T2 unknown:D015783	aniridia
+N3	Reference T3 unknown:D015783	congenital absence of the iris
+N4	Reference T4 unknown:D005124	malformation of the eye
+N5	Reference T5 unknown:D015783	aniridia
+N6	Reference T6 unknown:D015783	aniridia
+N7	Reference T7 unknown:D015783	aniridia
+N8	Reference T8 unknown:C536185	ectopia pupillae
+N9	Reference T9 unknown:C536185	displaced pupils
+N10	Reference T10 unknown:D020417	congenital nystagmus
+N11	Reference T11 unknown:D020417	searching gaze
+N12	Reference T12 unknown:D015783	aniridia
+N13	Reference T13 OMIM:106210	PAX6 -related disease

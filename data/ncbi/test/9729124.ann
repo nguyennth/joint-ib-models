@@ -1,0 +1,18 @@
+T1	Disease 31 59	congenital chloride diarrhea
+T2	Disease 62 65	CLD
+T3	Disease 75 103	Congenital chloride diarrhea
+T4	Disease 106 109	CLD
+T5	Disease 255 258	CLD
+T6	Disease 659 662	CLD
+T7	Disease 923 926	CLD
+T8	Disease 996 1012	Pendred syndrome
+T9	Disease 1020 1023	PDS
+N1	Reference T1 unknown:C536210	congenital chloride diarrhea
+N2	Reference T2 unknown:C536210	CLD
+N3	Reference T3 unknown:C536210	Congenital chloride diarrhea
+N4	Reference T4 unknown:C536210	CLD
+N5	Reference T5 unknown:C536210	CLD
+N6	Reference T6 unknown:C536210	CLD
+N7	Reference T7 unknown:C536210	CLD
+N8	Reference T8 unknown:C536648	Pendred syndrome
+N9	Reference T9 unknown:C536648	PDS

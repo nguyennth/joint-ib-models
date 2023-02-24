@@ -1,0 +1,18 @@
+T1	Disease 45 63	myotonic dystrophy
+T2	Disease 148 166	myotonic dystrophy
+T3	Disease 169 171	DM
+T4	Disease 273 275	DM
+T5	Disease 551 569	congenital disease
+T6	Disease 1160 1171	infertility
+T7	Disease 1236 1253	mentally retarded
+T8	Disease 1586 1588	DM
+T9	Disease 1689 1691	DM
+N1	Reference T1 unknown:D009223	myotonic dystrophy
+N2	Reference T2 unknown:D009223	myotonic dystrophy
+N3	Reference T3 unknown:D009223	DM
+N4	Reference T4 unknown:D009223	DM
+N5	Reference T5 unknown:D030342	congenital disease
+N6	Reference T6 unknown:D007246	infertility
+N7	Reference T7 unknown:D008607	mentally retarded
+N8	Reference T8 unknown:D009223	DM
+N9	Reference T9 unknown:D009223	DM

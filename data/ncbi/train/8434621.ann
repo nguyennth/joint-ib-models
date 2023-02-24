@@ -1,0 +1,12 @@
+T1	Disease 0 28	Familial Mediterranean fever
+T2	Disease 176 204	familial Mediterranean fever
+T3	Disease 207 210	FMF
+T4	Disease 274 277	FMF
+T5	Disease 329 355	amyloidotic kidney disease
+T6	Disease 359 362	FMF
+N1	Reference T1 unknown:D010505	Familial Mediterranean fever
+N2	Reference T2 unknown:D010505	familial Mediterranean fever
+N3	Reference T3 unknown:D010505	FMF
+N4	Reference T4 unknown:D010505	FMF
+N5	Reference T5 unknown:D007674	amyloidotic kidney disease
+N6	Reference T6 unknown:D010505	FMF

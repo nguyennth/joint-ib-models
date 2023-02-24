@@ -1,0 +1,6 @@
+T1	Disease 331 348	deficiency of AAT
+T2	Disease 507 516	emphysema
+T3	Disease 521 534	liver disease
+N1	Reference T1 unknown:C531610	deficiency of AAT
+N2	Reference T2 unknown:D004646	emphysema
+N3	Reference T3 unknown:D008107	liver disease

@@ -1,0 +1,14 @@
+T1	Disease 21 24	APC
+T2	Disease 129 155	adenomatous polyposis coli
+T3	Disease 241 267	adenomatous polyposis coli
+T4	Disease 270 273	APC
+T5	Disease 775 781	cancer
+T6	Disease 915 918	APC
+T7	Disease 1233 1236	APC
+N1	Reference T1 unknown:D011125	APC
+N2	Reference T2 unknown:D011125	adenomatous polyposis coli
+N3	Reference T3 unknown:D011125	adenomatous polyposis coli
+N4	Reference T4 unknown:D011125	APC
+N5	Reference T5 unknown:D009369	cancer
+N6	Reference T6 unknown:D011125	APC
+N7	Reference T7 unknown:D011125	APC

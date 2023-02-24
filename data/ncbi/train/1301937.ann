@@ -1,0 +1,12 @@
+T1	Disease 19 46	hexosaminidase A deficiency
+T2	Disease 149 168	Tay - Sachs disease
+T3	Disease 171 174	TSD
+T4	Disease 240 243	TSD
+T5	Disease 334 337	TSD
+T6	Disease 694 697	TSD
+N1	Reference T1 unknown:D013661	hexosaminidase A deficiency
+N2	Reference T2 unknown:D013661	Tay-Sachs disease
+N3	Reference T3 unknown:D013661	TSD
+N4	Reference T4 unknown:D013661	TSD
+N5	Reference T5 unknown:D013661	TSD
+N6	Reference T6 unknown:D013661	TSD

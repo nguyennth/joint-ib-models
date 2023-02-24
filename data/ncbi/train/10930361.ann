@@ -1,0 +1,16 @@
+T1	Disease 82 99	Friedreich ataxia
+T2	Disease 102 121	Frataxin deficiency
+T3	Disease 146 163	Friedreich ataxia
+T4	Disease 166 170	FRDA
+T5	Disease 178 246	autosomal recessive cardiodegenerative and neurodegenerative disease
+T6	Disease 421 452	mitochondrial iron accumulation
+T7	Disease 457 493	hypersensitivity to oxidative stress
+T8	Disease 641 645	FRDA
+N1	Reference T1 unknown:D005621	Friedreich ataxia
+N2	Reference T2 unknown:D005621	Frataxin deficiency
+N3	Reference T3 unknown:D005621	Friedreich ataxia
+N4	Reference T4 unknown:D005621	FRDA
+N5	Reference T5 unknown:D030342+D019636	autosomal recessive cardiodegenerative and neurodegenerative disease
+N6	Reference T6 unknown:D028361	mitochondrial iron accumulation
+N7	Reference T7 unknown:D004194	hypersensitivity to oxidative stress
+N8	Reference T8 unknown:D005621	FRDA

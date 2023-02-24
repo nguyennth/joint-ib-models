@@ -1,0 +1,8 @@
+T1	Disease 76 81	tumor
+T2	Disease 277 290	Ewing sarcoma
+T3	Disease 303 325	neuroectodermal tumors
+T4	Disease 1090 1102	Ewing tumors
+N1	Reference T1 unknown:D009369	tumor
+N2	Reference T2 unknown:D012512	Ewing sarcoma
+N3	Reference T3 unknown:D017599	neuroectodermal tumors
+N4	Reference T4 unknown:D012512	Ewing tumors
