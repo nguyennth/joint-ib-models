@@ -8,7 +8,6 @@ from tqdm import tqdm
 
 from utils import utils
 from utils.utils import _humanized_time, write_annotation_file
-from scripts.plots_tsne import plot_tsne_2d
 
 from torchtext.data.metrics import bleu_score
 
@@ -144,21 +143,8 @@ def eval(model, eval_dir, result_dir, eval_dataloader, eval_data,
         show_scores(n2c2_scores['NER'])
         all_scores['ner'] = n2c2_scores['NER']
 
-    if params['predict']:            
-        if len(gold_embeddings) > 0:
-            
-            plot_tsne_2d(gold_embeddings, posteriors_label, params['task_name'], params['latent_size'], 
-                True,  params['result_dir'], 'gold_emb')
-        if len(posteriors_z) > 0:
-            plot_tsne_2d(posteriors_z, posteriors_label, params['task_name'], params['latent_size'], 
-                True,  params['result_dir'], 'vae_posts')
-        if len(vib_posteriors) > 0:
-            plot_tsne_2d(vib_posteriors, posteriors_label, params['task_name'], params['latent_size'], 
-                True,  params['result_dir'], 'vib_posts')
-        if len(vib_embeddings) > 0:
-            plot_tsne_2d(vib_embeddings, posteriors_label, params['task_name'], params['latent_size'], 
-                True,  params['result_dir'], 'vib_emb')
-    else:      # saving models    
+    if not params['predict']:            
+         # saving models    
         if epoch > params['save_st_ep']:
             save_models(model, params, epoch, all_scores)
 
