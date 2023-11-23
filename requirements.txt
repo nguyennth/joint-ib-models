@@ -14,4 +14,4 @@ six
 boto3
 numpy==1.22.3
 loguru
-torchtext==0.13.1
+
